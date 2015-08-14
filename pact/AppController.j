@@ -25,9 +25,9 @@
    // [CPMenu setMenuBarVisible:NO];
    
    [[myScrollView contentView] setBackgroundColor:[CPColor colorWithRed:213.0 / 255.0 green:221.0 / 255.0 blue:230.0 / 255.0 alpha:1.0]];
- 	[[myScrollView contentView] setBackgroundColor:[CPColor yellowColor]];
+ 	//[[myScrollView contentView] setBackgroundColor:[CPColor yellowColor]];
 	
-	[myView setBackgroundColor:[CPColor redColor]];
+	//[myView setBackgroundColor:[CPColor redColor]];
 	//[myScrollView setBackgroundColor:[CPColor yellowColor]];
 	
 	[listScrollView setAutohidesScrollers:NO];
