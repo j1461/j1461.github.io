@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4E684AAE982477A9067684F3 /* AppController.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppController.j; path = AppController.j; sourceTree = SOURCE_ROOT; };
+		4E684AAE982477A9067684F3 /* AppController.j */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppController.j; sourceTree = SOURCE_ROOT; };
 		601A40CC8DBDF87508D7B56C /* AppController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppController.m; path = .XcodeSupport/AppController.m; sourceTree = SOURCE_ROOT; };
 		E164FE29172185F500263CE3 /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
 		F3394E5B8ADA0EC7FD927991 /* xcc_general_include.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = xcc_general_include.h; path = .XcodeSupport/xcc_general_include.h; sourceTree = SOURCE_ROOT; };
@@ -33,7 +33,7 @@
 			name = "Cappuccino Source";
 			sourceTree = "<group>";
 		};
-		E164FE221721857400263CE3 /*  */ = {
+		E164FE221721857400263CE3 = {
 			isa = PBXGroup;
 			children = (
 				E164FE29172185F500263CE3 /* Resources */,
@@ -45,19 +45,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXProject section */
-		E164FE231721857400263CE3 /* Project Object */ = {
+		E164FE231721857400263CE3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
 			};
-			buildConfigurationList = E164FE261721857400263CE3 /* Build configuration list for PBXProject "Unity-iPhone" */;
+			buildConfigurationList = E164FE261721857400263CE3 /* Build configuration list for PBXProject "pact" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = E164FE221721857400263CE3 /*  */;
+			mainGroup = E164FE221721857400263CE3;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -81,7 +81,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E164FE261721857400263CE3 /* Build configuration list for PBXProject "Unity-iPhone" */ = {
+		E164FE261721857400263CE3 /* Build configuration list for PBXProject "pact" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E164FE271721857400263CE3 /* Debug */,
@@ -92,5 +92,5 @@
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E164FE231721857400263CE3 /* Project Object */;
+	rootObject = E164FE231721857400263CE3 /* Project object */;
 }
