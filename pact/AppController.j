@@ -30,7 +30,7 @@
 	//[myView setBackgroundColor:[CPColor redColor]];
 	//[myScrollView setBackgroundColor:[CPColor yellowColor]];
 	
-	[listScrollView setAutohidesScrollers:NO];
+	[myScrollView setAutohidesScrollers:NO];
 	
 	//[myScrollView setContentSize:CGSizeMake(100.0, 100.0)];
 	
