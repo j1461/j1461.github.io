@@ -1,0 +1,1 @@
+@STATIC;1.0;u;19;Resources/logo1.png59;mhtml:Browser.environment/MHTMLData.txt!Resources/logo1.pngu;19;Resources/logo2.png59;mhtml:Browser.environment/MHTMLData.txt!Resources/logo2.png
