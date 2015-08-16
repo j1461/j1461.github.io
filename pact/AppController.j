@@ -9,6 +9,34 @@
 @import <Foundation/Foundation.j>
 @import <AppKit/AppKit.j>
 
+function touchStart(event) {
+
+CPLog.info("touchStart event");
+
+touchStartingPointX = event.touches[0].pageX;
+
+touchStartingPointY = event.touches[0].pageY;
+
+}
+
+
+function touchMove(event) {
+
+CPLog.info("touchMove event");
+
+var deltaX = event.touches[0].pageX - touchStartingPointX;
+
+var deltaY = event.touches[0].pageY - touchStartingPointY;
+
+[verticalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
+
+[horizontalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
+
+touchStartingPointX = event.touches[0].pageX;
+
+touchStartingPointY = event.touches[0].pageY;
+
+}
 
 @implementation AppController : CPObject
 {
@@ -36,7 +64,11 @@
 
     float lastContentOffset;
 
+//150816    float touchStartingPointX;
+//150816    float touchStartingPointY;
+
     float touchStartingPointX;
+
     float touchStartingPointY;
 
 }
@@ -44,7 +76,28 @@
 - (void)applicationDidFinishLaunching:(CPNotification)aNotification
 {
 
-    [self addTouchListeners];
+touchStartingPointX = 0.0;
+
+touchStartingPointY = 0.0;
+
+[theWindow setAcceptsMouseMovedEvents:YES]
+
+[theWindow setAutorecalculatesKeyViewLoop:YES];
+
+windowContentView = [theWindow contentView];
+
+
+[windowContentView setPostsFrameChangedNotifications:YES];
+
+
+
+var element = windowContentView._DOMElement;
+
+element.addEventListener("touchstart", touchStart, false);
+
+element.addEventListener("touchmove", touchMove, false);
+
+//150816    [self addTouchListeners];
 
     lastContentOffset = 1.0;
 
@@ -287,7 +340,7 @@
 
 }
 */
-- (void)addTouchListeners
+/*- (void)addTouchListeners
 {
     CPLog.info("addTouchListeners");
 
@@ -301,7 +354,8 @@
         element.addEventListener("touchmove", function (event) {[self performTouchMove:event]}, false);
     }
 }
-
+*/
+/*150816
 - (void)performTouchStart:(id)event
 {
     CPLog.info("performTouchStart");
@@ -309,8 +363,8 @@
     self.touchStartingPointX = event.touches[0].pageX;
     self.touchStartingPointY = event.touches[0].pageY;
 }
-
-- (void)performTouchMove:(id)event
+*/
+/*- (void)performTouchMove:(id)event
 {
     CPLog.info("performTouchMove");
 
@@ -324,5 +378,5 @@
 
     event.stopPropagation();
 }
-
+*/
 @end
