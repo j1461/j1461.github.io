@@ -11,30 +11,31 @@
 
 function touchStart(event) {
 
-CPLog.info("touchStart event");
+    CPLog.info("touchStart event");
 
-touchStartingPointX = event.touches[0].pageX;
+    touchStartingPointX = event.touches[0].pageX;
 
-touchStartingPointY = event.touches[0].pageY;
+    touchStartingPointY = event.touches[0].pageY;
 
 }
 
 
 function touchMove(event) {
 
-CPLog.info("touchMove event");
+    CPLog.info("touchMove event");
 
-var deltaX = event.touches[0].pageX - touchStartingPointX;
+    var deltaX = event.touches[0].pageX - touchStartingPointX;
 
-var deltaY = event.touches[0].pageY - touchStartingPointY;
+    var deltaY = event.touches[0].pageY - touchStartingPointY;
 
-[verticalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
+//150816    [verticalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
 
-[horizontalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
+//150816[horizontalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
+    [myScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
 
-touchStartingPointX = event.touches[0].pageX;
+    touchStartingPointX = event.touches[0].pageX;
 
-touchStartingPointY = event.touches[0].pageY;
+    touchStartingPointY = event.touches[0].pageY;
 
 }
 
