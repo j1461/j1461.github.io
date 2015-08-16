@@ -31,7 +31,7 @@ function touchMove(event) {
 //150816    [verticalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
 
 //150816[horizontalScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
-    [self  moveByOffset:CGSizeMake(deltaX, deltaY)];
+    [self.myScrollView  moveByOffset:CGSizeMake(deltaX, deltaY)];
 
     touchStartingPointX = event.touches[0].pageX;
 
