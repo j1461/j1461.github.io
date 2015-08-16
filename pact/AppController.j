@@ -92,7 +92,8 @@ windowContentView = [theWindow contentView];
 
 
 
-var element = windowContentView._DOMElement;
+//150816var element = windowContentView._DOMElement;
+var element = [myScrollView contentView]._DOMElement;
 
 element.addEventListener("touchstart", touchStart, false);
 
