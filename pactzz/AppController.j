@@ -74,6 +74,9 @@
 
 //150816    float touchStartingPointY;
 
+float touchStartingPointX;
+float touchStartingPointY;
+
 }
 
 - (void)applicationDidFinishLaunching:(CPNotification)aNotification
@@ -100,7 +103,7 @@
 
 //150816    element.addEventListener("touchmove", touchMove, false);
 
-//150816    [self addTouchListeners];
+    [self addTouchListeners];
 
     lastContentOffset = 1.0;
 
@@ -343,7 +346,7 @@
 
 }
 */
-/*- (void)addTouchListeners
+- (void)addTouchListeners
 {
     CPLog.info("addTouchListeners");
 
@@ -351,35 +354,35 @@
     {
         CPLog.info("addTouchListeners - ontouchstart");
 
-        var element = self._DOMElement;
+        var element = myScrollView._DOMElement;
 
         element.addEventListener("touchstart", function (event) {[self performTouchStart:event]}, false);
         element.addEventListener("touchmove", function (event) {[self performTouchMove:event]}, false);
     }
 }
-*/
-/*150816
+
+
 - (void)performTouchStart:(id)event
 {
     CPLog.info("performTouchStart");
 
-    self.touchStartingPointX = event.touches[0].pageX;
-    self.touchStartingPointY = event.touches[0].pageY;
+    myScrollView.touchStartingPointX = event.touches[0].pageX;
+    myScrollView.touchStartingPointY = event.touches[0].pageY;
 }
-*/
-/*- (void)performTouchMove:(id)event
+
+- (void)performTouchMove:(id)event
 {
     CPLog.info("performTouchMove");
 
     var deltaX = event.touches[0].pageX - touchStartingPointX;
     var deltaY = event.touches[0].pageY - touchStartingPointY;
 
-    [self moveByOffset:CGSizeMake(-deltaX, -deltaY)];
+    [myScrollView moveByOffset:CGSizeMake(-deltaX, -deltaY)];
 
     touchStartingPointX = event.touches[0].pageX;
     touchStartingPointY = event.touches[0].pageY;
 
     event.stopPropagation();
 }
-*/
+
 @end
