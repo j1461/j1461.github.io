@@ -134,8 +134,8 @@ class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), funct
 }
 ,["void","id"]), new objj_method(sel_getUid("performTouchMove:"), function $TouchScrollView__performTouchMove_(self, _cmd, event)
 {
-    var deltaX = (event.touches[0].pageX - self.touchStartingPointX) * 25;
-    var deltaY = (event.touches[0].pageY - self.touchStartingPointY) * 25;
+    var deltaX = (event.touches[0].pageX - self.touchStartingPointX) * 10;
+    var deltaY = (event.touches[0].pageY - self.touchStartingPointY) * 10;
     self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-deltaX, -deltaY));
     self.touchStartingPointX = event.touches[0].pageX;
     self.touchStartingPointY = event.touches[0].pageY;
