@@ -63,7 +63,7 @@
 											<reference key="NSNextResponder" ref="141713841"/>
 											<int key="NSvFlags">274</int>
 											<array class="NSMutableArray" key="NSSubviews">
-												<object class="NSTextField" id="531889011">
+												<object class="NSTextField" id="832283359">
 													<reference key="NSNextResponder" ref="164184584"/>
 													<int key="NSvFlags">268</int>
 													<string key="NSFrame">{{169, 1370}, {38, 17}}</string>
@@ -73,17 +73,17 @@
 													<string key="NSReuseIdentifierKey">_NS:526</string>
 													<string key="NSHuggingPriority">{251, 750}</string>
 													<bool key="NSEnabled">YES</bool>
-													<object class="NSTextFieldCell" key="NSCell" id="872665932">
+													<object class="NSTextFieldCell" key="NSCell" id="295045665">
 														<int key="NSCellFlags">68157504</int>
 														<int key="NSCellFlags2">272630784</int>
-														<string key="NSContents">16:11</string>
+														<string key="NSContents">16:15</string>
 														<object class="NSFont" key="NSSupport">
 															<bool key="IBIsSystemFont">YES</bool>
 															<double key="NSSize">13</double>
 															<int key="NSfFlags">1044</int>
 														</object>
 														<string key="NSCellIdentifier">_NS:526</string>
-														<reference key="NSControlView" ref="531889011"/>
+														<reference key="NSControlView" ref="832283359"/>
 														<object class="NSColor" key="NSBackgroundColor" id="35272896">
 															<int key="NSColorSpace">6</int>
 															<string key="NSCatalogName">System</string>
@@ -93,7 +93,7 @@
 																<bytes key="NSWhite">MC42NjY2NjY2NjY3AA</bytes>
 															</object>
 														</object>
-														<object class="NSColor" key="NSTextColor" id="937542104">
+														<object class="NSColor" key="NSTextColor" id="144468412">
 															<int key="NSColorSpace">6</int>
 															<string key="NSCatalogName">System</string>
 															<string key="NSColorName">labelColor</string>
@@ -169,7 +169,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 														<string key="NSCellIdentifier">_NS:9</string>
 														<reference key="NSControlView" ref="1057210121"/>
 														<reference key="NSBackgroundColor" ref="35272896"/>
-														<reference key="NSTextColor" ref="937542104"/>
+														<reference key="NSTextColor" ref="144468412"/>
 													</object>
 													<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
 													<bool key="NSControlAutosetMaxLayoutWidth">YES</bool>
@@ -315,7 +315,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 											<string key="NSFrameSize">{463, 1500}</string>
 											<reference key="NSSuperview" ref="141713841"/>
 											<reference key="NSWindow"/>
-											<reference key="NSNextKeyView" ref="531889011"/>
+											<reference key="NSNextKeyView" ref="832283359"/>
 											<string key="NSReuseIdentifierKey">_NS:13</string>
 										</object>
 									</array>
@@ -510,7 +510,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 							<reference ref="88029104"/>
 							<reference ref="1033361250"/>
 							<reference ref="297203833"/>
-							<reference ref="531889011"/>
+							<reference ref="832283359"/>
 						</array>
 						<reference key="parent" ref="489250179"/>
 					</object>
@@ -594,16 +594,16 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">483</int>
-						<reference key="object" ref="531889011"/>
+						<reference key="object" ref="832283359"/>
 						<array class="NSMutableArray" key="children">
-							<reference ref="872665932"/>
+							<reference ref="295045665"/>
 						</array>
 						<reference key="parent" ref="164184584"/>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">484</int>
-						<reference key="object" ref="872665932"/>
-						<reference key="parent" ref="531889011"/>
+						<reference key="object" ref="295045665"/>
+						<reference key="parent" ref="832283359"/>
 					</object>
 				</array>
 			</object>
