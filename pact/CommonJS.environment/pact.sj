@@ -1,5 +1,5 @@
-@STATIC;1.0;p;15;AppController.jt;11076;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;17;TouchScrollView.jt;10986;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("TouchScrollView.j", YES);{var the_class = objj_allocateClassPair(CPObject, "AppController"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("theWindow"), new objj_ivar("myScrollView"), new objj_ivar("myView"), new objj_ivar("imgViewLogo1"), new objj_ivar("imgViewLogo2"), new objj_ivar("imgViewWho"), new objj_ivar("imgViewWho2"), new objj_ivar("imgViewWhoDet"), new objj_ivar("imgViewWhoDet2"), new objj_ivar("xPosition"), new objj_ivar("xPositionWidth"), new objj_ivar("xPositionImage"), new objj_ivar("xscrollerWidth"), new objj_ivar("xcontentViewWidth"), new objj_ivar("xdocumentViewWidth"), new objj_ivar("xdocumentViewWidthScreenPortion"), new objj_ivar("xdocumentViewOriginX"), new objj_ivar("xdocumentVisibleRectOriginX"), new objj_ivar("xdocumentVisibleRectOriginXVar"), new objj_ivar("lastContentOffset")]);objj_registerClassPair(the_class);
+@STATIC;1.0;p;15;AppController.jt;12296;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;17;TouchScrollView.jt;12206;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("TouchScrollView.j", YES);{var the_class = objj_allocateClassPair(CPObject, "AppController"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("theWindow"), new objj_ivar("myScrollView"), new objj_ivar("myView"), new objj_ivar("imgViewLogo1"), new objj_ivar("imgViewLogo2"), new objj_ivar("imgViewWho"), new objj_ivar("imgViewWho2"), new objj_ivar("imgViewWhoDet"), new objj_ivar("imgViewWhoDet2"), new objj_ivar("btnTest"), new objj_ivar("myLabel"), new objj_ivar("xPosition"), new objj_ivar("xPositionWidth"), new objj_ivar("xPositionImage"), new objj_ivar("xscrollerWidth"), new objj_ivar("xcontentViewWidth"), new objj_ivar("xdocumentViewWidth"), new objj_ivar("xdocumentViewWidthScreenPortion"), new objj_ivar("xdocumentViewOriginX"), new objj_ivar("xdocumentVisibleRectOriginX"), new objj_ivar("xdocumentVisibleRectOriginXVar"), new objj_ivar("lastContentOffset")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLaunching:"), function $AppController__applicationDidFinishLaunching_(self, _cmd, aNotification)
 {
     self.lastContentOffset = 1.0;
@@ -49,9 +49,11 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
         }
     }
     ((___r1 = self.imgViewWho2), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", ((___r2 = self.imgViewWho), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame"))));
+    ((___r1 = self.btnTest), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(((___r2 = self.imgViewWho2), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame")).origin.x + ((___r2 = self.imgViewWho2), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame")).size.width * (200 / 1600), ((___r2 = self.imgViewWho2), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame")).size.height * (720 / 1200), 123.0, 21.0)));
     ((___r1 = self.imgViewWhoDet2), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", ((___r2 = self.imgViewWhoDet), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame"))));
     CPLog.info("scrollViewDidScroll - imgViewWho.frame : " + CGStringFromRect(((___r1 = self.imgViewWho), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"))));
     CPLog.info("scrollViewDidScroll - imgViewWho2.frame : " + CGStringFromRect(((___r1 = self.imgViewWho2), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"))));
+    CPLog.info("scrollViewDidScroll - btnTest.frame : " + CGStringFromRect(((___r1 = self.btnTest), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"))));
     var ___r1, ___r2;
 }
 ,["void","CPScrollView"]), new objj_method(sel_getUid("boundsDidChangeNotification:"), function $AppController__boundsDidChangeNotification_(self, _cmd, notification)
@@ -76,12 +78,21 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
 {
     CPLog.info("scrollWheel event");
 }
-,["void","CPEvent"])]);
+,["void","CPEvent"]), new objj_method(sel_getUid("swap:"), function $AppController__swap_(self, _cmd, sender)
+{
+    CPLog.info("Button clicked");
+    if (((___r1 = self.myLabel), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "stringValue")) == "Hello World!")
+        ((___r1 = self.myLabel), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStringValue:", "Goodbye!"));
+    else
+        ((___r1 = self.myLabel), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStringValue:", "Hello World!"));
+    var ___r1;
+}
+,["void","id"])]);
 }p;6;main.jt;292;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;15;AppController.jt;206;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("AppController.j", YES);main = function(args, namedArgs)
 {
     CPApplicationMain(args, namedArgs);
 }
-p;17;TouchScrollView.jt;2492;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.jt;2425;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);{var the_class = objj_allocateClassPair(CPScrollView, "TouchScrollView"),
+p;17;TouchScrollView.jt;2506;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.jt;2439;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);{var the_class = objj_allocateClassPair(CPScrollView, "TouchScrollView"),
 meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("touchStartingPointX"), new objj_ivar("touchStartingPointY")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $TouchScrollView__initWithFrame_(self, _cmd, frame)
 {
@@ -123,8 +134,8 @@ class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), funct
 }
 ,["void","id"]), new objj_method(sel_getUid("performTouchMove:"), function $TouchScrollView__performTouchMove_(self, _cmd, event)
 {
-    var deltaX = event.touches[0].pageX - self.touchStartingPointX;
-    var deltaY = event.touches[0].pageY - self.touchStartingPointY;
+    var deltaX = (event.touches[0].pageX - self.touchStartingPointX) * 25;
+    var deltaY = (event.touches[0].pageY - self.touchStartingPointY) * 25;
     self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-deltaX, -deltaY));
     self.touchStartingPointX = event.touches[0].pageX;
     self.touchStartingPointY = event.touches[0].pageY;
