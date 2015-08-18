@@ -59,8 +59,8 @@
 {
 //150818	var deltaX = event.touches[0].pageX - touchStartingPointX;
 //150818    var deltaY = event.touches[0].pageY - touchStartingPointY;
-    var deltaX = (event.touches[0].pageX - touchStartingPointX)*50;
-    var deltaY = (event.touches[0].pageY - touchStartingPointY)*50;
+    var deltaX = (event.touches[0].pageX - touchStartingPointX)*25;
+    var deltaY = (event.touches[0].pageY - touchStartingPointY)*25;
 
     [self moveByOffset:CGSizeMake(-deltaX, -deltaY)];
     touchStartingPointX = event.touches[0].pageX;
