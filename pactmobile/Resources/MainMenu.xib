@@ -74,7 +74,7 @@
 														<string>NeXT Encapsulated PostScript v1.2 pasteboard type</string>
 														<string>NeXT TIFF v4.0 pasteboard type</string>
 													</set>
-													<string key="NSFrame">{{171, 870}, {120, 120}}</string>
+													<string key="NSFrame">{{171, 1370}, {120, 120}}</string>
 													<reference key="NSSuperview" ref="164184584"/>
 													<reference key="NSWindow"/>
 													<reference key="NSNextKeyView" ref="1057210121"/>
@@ -100,7 +100,7 @@
 												<object class="NSTextField" id="1057210121">
 													<reference key="NSNextResponder" ref="164184584"/>
 													<int key="NSvFlags">266</int>
-													<string key="NSFrame">{{48, 758}, {367, 104}}</string>
+													<string key="NSFrame">{{48, 1258}, {367, 104}}</string>
 													<reference key="NSSuperview" ref="164184584"/>
 													<reference key="NSWindow"/>
 													<reference key="NSNextKeyView" ref="88029104"/>
@@ -159,7 +159,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 														<string>NeXT Encapsulated PostScript v1.2 pasteboard type</string>
 														<string>NeXT TIFF v4.0 pasteboard type</string>
 													</set>
-													<string key="NSFrame">{{71, 420}, {321, 321}}</string>
+													<string key="NSFrame">{{71, 920}, {321, 321}}</string>
 													<reference key="NSSuperview" ref="164184584"/>
 													<reference key="NSWindow"/>
 													<reference key="NSNextKeyView" ref="1033361250"/>
@@ -193,7 +193,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 														<string>NeXT Encapsulated PostScript v1.2 pasteboard type</string>
 														<string>NeXT TIFF v4.0 pasteboard type</string>
 													</set>
-													<string key="NSFrame">{{71, 70}, {321, 321}}</string>
+													<string key="NSFrame">{{71, 570}, {321, 321}}</string>
 													<reference key="NSSuperview" ref="164184584"/>
 													<reference key="NSWindow"/>
 													<reference key="NSNextKeyView" ref="297203833"/>
@@ -227,7 +227,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 														<string>NeXT Encapsulated PostScript v1.2 pasteboard type</string>
 														<string>NeXT TIFF v4.0 pasteboard type</string>
 													</set>
-													<string key="NSFrame">{{71, -282}, {321, 321}}</string>
+													<string key="NSFrame">{{71, 218}, {321, 321}}</string>
 													<reference key="NSSuperview" ref="164184584"/>
 													<reference key="NSWindow"/>
 													<reference key="NSNextKeyView" ref="354253027"/>
@@ -261,7 +261,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 														<string>NeXT Encapsulated PostScript v1.2 pasteboard type</string>
 														<string>NeXT TIFF v4.0 pasteboard type</string>
 													</set>
-													<string key="NSFrame">{{71, -636}, {321, 321}}</string>
+													<string key="NSFrame">{{71, -136}, {321, 321}}</string>
 													<reference key="NSSuperview" ref="164184584"/>
 													<reference key="NSWindow"/>
 													<reference key="NSNextKeyView" ref="536504131"/>
@@ -285,7 +285,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 													<bool key="NSEditable">YES</bool>
 												</object>
 											</array>
-											<string key="NSFrameSize">{463, 1000}</string>
+											<string key="NSFrameSize">{463, 1500}</string>
 											<reference key="NSSuperview" ref="141713841"/>
 											<reference key="NSWindow"/>
 											<reference key="NSNextKeyView" ref="98450734"/>
@@ -317,7 +317,7 @@ YWMgcXVhbSBwb3N1ZXJlIGltcGVyZGlldC4gA</string>
 									<reference key="NSTarget" ref="489250179"/>
 									<string key="NSAction">_doScroller:</string>
 									<double key="NSCurValue">1</double>
-									<double key="NSPercent">0.35799999999999998</double>
+									<double key="NSPercent">0.23866666666666667</double>
 								</object>
 								<object class="NSScroller" id="1021342186">
 									<reference key="NSNextResponder" ref="489250179"/>
