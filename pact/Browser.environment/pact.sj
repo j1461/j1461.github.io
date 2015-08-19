@@ -28,7 +28,7 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
         CPLog.trace("scrollViewDidScroll: comingFromMousewheel === 999.0");
         aScrollView.comingFromMousewheel = 0.0;
         CPLog.trace("scrollViewDidScroll: comingFromMousewheel === 0.0");
-        self.isa.objj_msgSend3(self, "performSelector:withObject:afterDelay:", sel_getUid("scrollViewDidScroll:"), aScrollView, 2.0);
+        self.isa.objj_msgSend3(self, "performSelector:withObject:afterDelay:", sel_getUid("scrollViewDidScroll:"), aScrollView, 1.0);
         return;
     }
     aScrollView.comingFromMousewheel === 0.0;
