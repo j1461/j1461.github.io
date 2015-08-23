@@ -1,4 +1,4 @@
-@STATIC;1.0;p;15;AppController.jt;10321;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;17;TouchScrollView.jt;10231;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("TouchScrollView.j", YES);{var the_class = objj_allocateClassPair(CPObject, "AppController"),
+@STATIC;1.0;p;15;AppController.jt;9719;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;17;TouchScrollView.jt;9630;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("TouchScrollView.j", YES);{var the_class = objj_allocateClassPair(CPObject, "AppController"),
 meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("theWindow"), new objj_ivar("myScrollView"), new objj_ivar("myView"), new objj_ivar("imgViewLogo1"), new objj_ivar("imgViewLogo2"), new objj_ivar("imgViewWho"), new objj_ivar("imgViewWho2"), new objj_ivar("imgViewWhoDet"), new objj_ivar("imgViewWhoDet2"), new objj_ivar("btnTest"), new objj_ivar("myLabel"), new objj_ivar("xPosition"), new objj_ivar("xPositionWidth"), new objj_ivar("xPositionImage"), new objj_ivar("xscrollerWidth"), new objj_ivar("xcontentViewWidth"), new objj_ivar("xdocumentViewWidth"), new objj_ivar("xdocumentViewWidthScreenPortion"), new objj_ivar("xdocumentViewOriginX"), new objj_ivar("xdocumentVisibleRectOriginX"), new objj_ivar("xdocumentVisibleRectOriginXVar"), new objj_ivar("lastContentOffset")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLaunching:"), function $AppController__applicationDidFinishLaunching_(self, _cmd, aNotification)
 {
@@ -18,17 +18,6 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
 ,["void"]), new objj_method(sel_getUid("scrollViewDidScroll:"), function $AppController__scrollViewDidScroll_(self, _cmd, aScrollView)
 {
     CPLog.trace("scrollViewDidScroll");
-    if (aScrollView.comingFromMousewheel === 999.0)
-    {
-        CPLog.info("scrollViewDidScroll - Coming from Mousewheelevent");
-        CPLog.trace("scrollViewDidScroll: comingFromMousewheel === 999.0");
-        aScrollView.comingFromMousewheel = 0.0;
-        CPLog.trace("scrollViewDidScroll: comingFromMousewheel === 0.0");
-        self.isa.objj_msgSend3(self, "performSelector:withObject:afterDelay:", sel_getUid("scrollViewDidScroll:"), aScrollView, 1.0);
-        return;
-    }
-    aScrollView.comingFromMousewheel === 0.0;
-    CPLog.trace("scrollViewDidScroll: comingFromMousewheel === 0.0");
     self.xPosition = ((___r1 = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "contentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).origin.x;
     self.xdocumentViewWidth = ((___r1 = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).size.width;
     self.xdocumentViewWidthScreenPortion = self.xdocumentViewWidth / 3;
@@ -85,7 +74,7 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
 {
     CPApplicationMain(args, namedArgs);
 }
-p;17;TouchScrollView.jt;5660;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.jI;21;Foundation/CPObject.jI;16;AppKit/CPEvent.jt;5546;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("AppKit/CPEvent.j", NO);_DOMWindow = window;
+p;17;TouchScrollView.jt;4395;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.jI;21;Foundation/CPObject.jI;16;AppKit/CPEvent.jt;4281;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("AppKit/CPEvent.j", NO);_DOMWindow = window;
 {var the_class = objj_allocateClassPair(CPScrollView, "TouchScrollView"),
 meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("touchStartingPointX"), new objj_ivar("touchStartingPointY"), new objj_ivar("comingFromMousewheel")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $TouchScrollView__initWithFrame_(self, _cmd, frame)
@@ -120,16 +109,6 @@ class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), funct
             self.isa.objj_msgSend1(self, "performTouchMove:", event);
         }, false);
     }
-    var theClass = self.isa.objj_msgSend0(self, "class"),
-        scrollEventSelector = sel_getUid("scrollEvent:"),
-        scrollEventImplementation = class_getMethodImplementation(theClass, scrollEventSelector),
-        scrollEventCallback = function(anEvent)
-    {
-        scrollEventImplementation(self, nil, anEvent);
-    };
-    _DOMWindow.addEventListener("DOMMouseScroll", scrollEventCallback, NO);
-    _DOMWindow.addEventListener("wheel", scrollEventCallback, NO);
-    _DOMWindow.addEventListener("mousewheel", scrollEventCallback, NO);
 }
 ,["void"]), new objj_method(sel_getUid("performTouchStart:"), function $TouchScrollView__performTouchStart_(self, _cmd, event)
 {
@@ -170,25 +149,5 @@ class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), funct
     _DOMScrollingElement.scrollLeft = 500;
     _DOMScrollingElement.scrollTop = 500;
 }
-,["void","id"]), new objj_method(sel_getUid("scrollEvent:"), function $TouchScrollView__scrollEvent_(self, _cmd, aDOMEvent)
-{
-    CPLog.info("Mousewheel start event");
-    CPLog.info("Event:" + aDOMEvent);
-    CPLog("MouseScrollWheel:deltaX   " + aDOMEvent.deltaX);
-    CPLog("MouseScrollWheel:offsetX  " + aDOMEvent.offsetX);
-    CPLog("MouseScrollWheel:wheelDelta  " + aDOMEvent.wheelDelta);
-    if (aDOMEvent.wheelDelta < 0)
-    {
-        CPLog("Scrolling left");
-    }
-    else
-    {
-        CPLog("Scrolling right");
-    }
-    var deltaX = aDOMEvent.wheelDelta / 50;
-    var deltaY = 0;
-    self.comingFromMousewheel = 999.0;
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-deltaX, -deltaY));
-}
-,["void","DOMEvent"])]);
+,["void","id"])]);
 }e;
