@@ -74,7 +74,7 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
 {
     CPApplicationMain(args, namedArgs);
 }
-p;17;TouchScrollView.jt;4395;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.jI;21;Foundation/CPObject.jI;16;AppKit/CPEvent.jt;4281;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("AppKit/CPEvent.j", NO);_DOMWindow = window;
+p;17;TouchScrollView.jt;2682;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.jI;21;Foundation/CPObject.jI;16;AppKit/CPEvent.jt;2568;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("AppKit/CPEvent.j", NO);_DOMWindow = window;
 {var the_class = objj_allocateClassPair(CPScrollView, "TouchScrollView"),
 meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("touchStartingPointX"), new objj_ivar("touchStartingPointY"), new objj_ivar("comingFromMousewheel")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $TouchScrollView__initWithFrame_(self, _cmd, frame)
@@ -120,34 +120,9 @@ class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), funct
     var deltaX = event.touches[0].pageX - self.touchStartingPointX;
     var deltaY = event.touches[0].pageY - self.touchStartingPointY;
     self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-deltaX, -deltaY));
-    self.touchStartingPointX = event.touches[0].pageX * 10;
-    self.touchStartingPointY = event.touches[0].pageY * 10;
+    self.touchStartingPointX = event.touches[0].pageX;
+    self.touchStartingPointY = event.touches[0].pageY;
     event.stopPropagation();
-}
-,["void","id"]), new objj_method(sel_getUid("performMousewheelStart:"), function $TouchScrollView__performMousewheelStart_(self, _cmd, event)
-{
-    CPLog.info("");
-    var aDOMEvent = window.event;
-    var theDocument = _DOMWindow.document;
-    var _DOMScrollingElement = theDocument.createElement("div");
-    var deltaX = _DOMScrollingElement.scrollLeft - 500 || aDOMEvent.deltaX || 0;
-    CPLog("MouseScrollWheel:deltaX   " + deltaX);
-    CPLog("MouseScrollWheel:scrollingDeltaX  " + (event == null ? null : event.isa.objj_msgSend0(event, "scrollingDeltaX")));
-    var deltaY = _DOMScrollingElement.scrollTop - 500 || aDOMEvent.deltaY || 0;
-    CPLog("MouseScrollWheel:deltaY   " + deltaY);
-    CPLog("MouseScrollWheel:scrollingDeltaY  " + (event == null ? null : event.isa.objj_msgSend0(event, "scrollingDeltaY")));
-    var windowNumber = 0;
-    var timestamp = CPEvent.isa.objj_msgSend0(CPEvent, "currentTimestamp");
-    var modifierFlags = (aDOMEvent.shiftKey ? CPShiftKeyMask : 0) | (aDOMEvent.ctrlKey ? CPControlKeyMask : 0) | (aDOMEvent.altKey ? CPAlternateKeyMask : 0) | (aDOMEvent.metaKey ? CPCommandKeyMask : 0);
-    var event = CPEvent.isa.objj_msgSend(CPEvent, "mouseEventWithType:location:modifierFlags:timestamp:windowNumber:context:eventNumber:clickCount:pressure:", CPScrollWheel, location, modifierFlags, timestamp, windowNumber, nil, -1, 1, 0);
-    if (deltaX || deltaY)
-    {
-        (CPApp == null ? null : CPApp.isa.objj_msgSend1(CPApp, "sendEvent:", event));
-        self.comingFromMousewheel = 999.0;
-        self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-deltaX, -deltaY));
-    }
-    _DOMScrollingElement.scrollLeft = 500;
-    _DOMScrollingElement.scrollTop = 500;
 }
 ,["void","id"])]);
 }e;
