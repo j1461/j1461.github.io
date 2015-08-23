@@ -1,4 +1,996 @@
-@STATIC;1.0;p;8;AppKit.jt;5256;@STATIC;1.0;i;12;_CPToolTip.ji;12;CGGeometry.ji;9;CPAlert.ji;13;CPAnimation.ji;15;CPApplication.ji;7;CPBox.ji;10;CPButton.ji;13;CPButtonBar.ji;12;CPCheckBox.ji;7;CPCib.ji;23;CPCibBindingConnector.ji;16;CPCibConnector.ji;23;CPCibControlConnector.ji;20;CPCibHelpConnector.ji;14;CPCibLoading.ji;22;CPCibOutletConnector.ji;33;CPCibRuntimeAttributesConnector.ji;12;CPClipView.ji;9;CPColor.ji;14;CPColorPanel.ji;12;CPComboBox.ji;17;CPCompatibility.ji;11;CPControl.ji;10;CPCookie.ji;10;CPCursor.ji;12;CPDocument.ji;22;CPDocumentController.ji;9;CPEvent.ji;8;CPFont.ji;9;CPImage.ji;13;CPImageView.ji;14;CPKeyBinding.ji;8;CPMenu.ji;12;CPMenuItem.ji;13;CPOpenPanel.ji;9;CPPanel.ji;14;CPPasteboard.ji;11;CPPopover.ji;15;CPPopUpButton.ji;21;CPProgressIndicator.ji;13;CPResponder.ji;12;CPScroller.ji;14;CPScrollView.ji;10;CPShadow.ji;10;CPSlider.ji;13;CPSplitView.ji;15;CPTableColumn.ji;13;CPTableView.ji;8;CPText.ji;13;CPTextField.ji;11;CPToolbar.ji;15;CPToolbarItem.ji;8;CPView.ji;17;CPViewAnimation.ji;18;CPViewController.ji;10;CPWindow.ji;20;CPWindowController.jt;4197;objj_executeFile("_CPToolTip.j", YES);/* objj_executeFile("CALayer.j", YES) */ (undefined);objj_executeFile("CGGeometry.j", YES);/* objj_executeFile("CPAccordionView.j", YES) */ (undefined);objj_executeFile("CPAlert.j", YES);objj_executeFile("CPAnimation.j", YES);objj_executeFile("CPApplication.j", YES);/* objj_executeFile("CPArrayController.j", YES) */ (undefined);/* objj_executeFile("CPBezierPath.j", YES) */ (undefined);objj_executeFile("CPBox.j", YES);/* objj_executeFile("CPBrowser.j", YES) */ (undefined);objj_executeFile("CPButton.j", YES);objj_executeFile("CPButtonBar.j", YES);objj_executeFile("CPCheckBox.j", YES);objj_executeFile("CPCib.j", YES);objj_executeFile("CPCibBindingConnector.j", YES);objj_executeFile("CPCibConnector.j", YES);objj_executeFile("CPCibControlConnector.j", YES);objj_executeFile("CPCibHelpConnector.j", YES);objj_executeFile("CPCibLoading.j", YES);objj_executeFile("CPCibOutletConnector.j", YES);objj_executeFile("CPCibRuntimeAttributesConnector.j", YES);objj_executeFile("CPClipView.j", YES);/* objj_executeFile("CPCollectionView.j", YES) */ (undefined);/* objj_executeFile("CPCollectionViewItem.j", YES) */ (undefined);objj_executeFile("CPColor.j", YES);objj_executeFile("CPColorPanel.j", YES);/* objj_executeFile("CPColorSpace.j", YES) */ (undefined);/* objj_executeFile("CPColorWell.j", YES) */ (undefined);objj_executeFile("CPComboBox.j", YES);objj_executeFile("CPCompatibility.j", YES);objj_executeFile("CPControl.j", YES);/* objj_executeFile("CPController.j", YES) */ (undefined);objj_executeFile("CPCookie.j", YES);objj_executeFile("CPCursor.j", YES);/* objj_executeFile("CPDatePicker.j", YES) */ (undefined);objj_executeFile("CPDocument.j", YES);objj_executeFile("CPDocumentController.j", YES);objj_executeFile("CPEvent.j", YES);/* objj_executeFile("CPFlashMovie.j", YES) */ (undefined);/* objj_executeFile("CPFlashView.j", YES) */ (undefined);objj_executeFile("CPFont.j", YES);/* objj_executeFile("CPFontManager.j", YES) */ (undefined);/* objj_executeFile("CPGradient.j", YES) */ (undefined);/* objj_executeFile("CPGraphics.j", YES) */ (undefined);objj_executeFile("CPImage.j", YES);objj_executeFile("CPImageView.j", YES);objj_executeFile("CPKeyBinding.j", YES);/* objj_executeFile("CPLevelIndicator.j", YES) */ (undefined);objj_executeFile("CPMenu.j", YES);objj_executeFile("CPMenuItem.j", YES);objj_executeFile("CPOpenPanel.j", YES);/* objj_executeFile("CPOutlineView.j", YES) */ (undefined);objj_executeFile("CPPanel.j", YES);objj_executeFile("CPPasteboard.j", YES);objj_executeFile("CPPopover.j", YES);objj_executeFile("CPPopUpButton.j", YES);/* objj_executeFile("CPPredicateEditor.j", YES) */ (undefined);/* objj_executeFile("CPPredicateEditorRowTemplate.j", YES) */ (undefined);objj_executeFile("CPProgressIndicator.j", YES);/* objj_executeFile("CPRadio.j", YES) */ (undefined);objj_executeFile("CPResponder.j", YES);/* objj_executeFile("CPRuleEditor.j", YES) */ (undefined);objj_executeFile("CPScroller.j", YES);objj_executeFile("CPScrollView.j", YES);/* objj_executeFile("CPSearchField.j", YES) */ (undefined);/* objj_executeFile("CPSecureTextField.j", YES) */ (undefined);/* objj_executeFile("CPSegmentedControl.j", YES) */ (undefined);objj_executeFile("CPShadow.j", YES);objj_executeFile("CPSlider.j", YES);/* objj_executeFile("CPSound.j", YES) */ (undefined);objj_executeFile("CPSplitView.j", YES);/* objj_executeFile("CPStepper.j", YES) */ (undefined);objj_executeFile("CPTableColumn.j", YES);objj_executeFile("CPTableView.j", YES);/* objj_executeFile("CPTabView.j", YES) */ (undefined);objj_executeFile("CPText.j", YES);objj_executeFile("CPTextField.j", YES);/* objj_executeFile("CPTokenField.j", YES) */ (undefined);objj_executeFile("CPToolbar.j", YES);objj_executeFile("CPToolbarItem.j", YES);/* objj_executeFile("CPTreeNode.j", YES) */ (undefined);/* objj_executeFile("CPUserDefaultsController.j", YES) */ (undefined);objj_executeFile("CPView.j", YES);objj_executeFile("CPViewAnimation.j", YES);objj_executeFile("CPViewController.j", YES);/* objj_executeFile("CPWebView.j", YES) */ (undefined);objj_executeFile("CPWindow.j", YES);objj_executeFile("CPWindowController.j", YES);/* objj_executeFile("CPWorkspace.j", YES) */ (undefined);p;19;CPKeyValueBinding.jt;44720;@STATIC;1.0;I;21;Foundation/CPObject.jI;20;Foundation/CPArray.jI;25;Foundation/CPDictionary.jI;25;Foundation/CPInvocation.jI;31;Foundation/CPValueTransformer.jI;32;Foundation/CPKeyValueObserving.jt;44516;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPArray.j", NO);objj_executeFile("Foundation/CPDictionary.j", NO);objj_executeFile("Foundation/CPInvocation.j", NO);objj_executeFile("Foundation/CPValueTransformer.j", NO);objj_executeFile("Foundation/CPKeyValueObserving.j", NO);var exposedBindingsMap = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init"),
+@STATIC;1.0;p;8;AppKit.jt;5256;@STATIC;1.0;i;12;_CPToolTip.ji;12;CGGeometry.ji;9;CPAlert.ji;13;CPAnimation.ji;15;CPApplication.ji;7;CPBox.ji;10;CPButton.ji;13;CPButtonBar.ji;12;CPCheckBox.ji;7;CPCib.ji;23;CPCibBindingConnector.ji;16;CPCibConnector.ji;23;CPCibControlConnector.ji;20;CPCibHelpConnector.ji;14;CPCibLoading.ji;22;CPCibOutletConnector.ji;33;CPCibRuntimeAttributesConnector.ji;12;CPClipView.ji;9;CPColor.ji;14;CPColorPanel.ji;12;CPComboBox.ji;17;CPCompatibility.ji;11;CPControl.ji;10;CPCookie.ji;10;CPCursor.ji;12;CPDocument.ji;22;CPDocumentController.ji;9;CPEvent.ji;8;CPFont.ji;9;CPImage.ji;13;CPImageView.ji;14;CPKeyBinding.ji;8;CPMenu.ji;12;CPMenuItem.ji;13;CPOpenPanel.ji;9;CPPanel.ji;14;CPPasteboard.ji;11;CPPopover.ji;15;CPPopUpButton.ji;21;CPProgressIndicator.ji;13;CPResponder.ji;12;CPScroller.ji;14;CPScrollView.ji;10;CPShadow.ji;10;CPSlider.ji;13;CPSplitView.ji;15;CPTableColumn.ji;13;CPTableView.ji;8;CPText.ji;13;CPTextField.ji;11;CPToolbar.ji;15;CPToolbarItem.ji;8;CPView.ji;17;CPViewAnimation.ji;18;CPViewController.ji;10;CPWindow.ji;20;CPWindowController.jt;4197;objj_executeFile("_CPToolTip.j", YES);/* objj_executeFile("CALayer.j", YES) */ (undefined);objj_executeFile("CGGeometry.j", YES);/* objj_executeFile("CPAccordionView.j", YES) */ (undefined);objj_executeFile("CPAlert.j", YES);objj_executeFile("CPAnimation.j", YES);objj_executeFile("CPApplication.j", YES);/* objj_executeFile("CPArrayController.j", YES) */ (undefined);/* objj_executeFile("CPBezierPath.j", YES) */ (undefined);objj_executeFile("CPBox.j", YES);/* objj_executeFile("CPBrowser.j", YES) */ (undefined);objj_executeFile("CPButton.j", YES);objj_executeFile("CPButtonBar.j", YES);objj_executeFile("CPCheckBox.j", YES);objj_executeFile("CPCib.j", YES);objj_executeFile("CPCibBindingConnector.j", YES);objj_executeFile("CPCibConnector.j", YES);objj_executeFile("CPCibControlConnector.j", YES);objj_executeFile("CPCibHelpConnector.j", YES);objj_executeFile("CPCibLoading.j", YES);objj_executeFile("CPCibOutletConnector.j", YES);objj_executeFile("CPCibRuntimeAttributesConnector.j", YES);objj_executeFile("CPClipView.j", YES);/* objj_executeFile("CPCollectionView.j", YES) */ (undefined);/* objj_executeFile("CPCollectionViewItem.j", YES) */ (undefined);objj_executeFile("CPColor.j", YES);objj_executeFile("CPColorPanel.j", YES);/* objj_executeFile("CPColorSpace.j", YES) */ (undefined);/* objj_executeFile("CPColorWell.j", YES) */ (undefined);objj_executeFile("CPComboBox.j", YES);objj_executeFile("CPCompatibility.j", YES);objj_executeFile("CPControl.j", YES);/* objj_executeFile("CPController.j", YES) */ (undefined);objj_executeFile("CPCookie.j", YES);objj_executeFile("CPCursor.j", YES);/* objj_executeFile("CPDatePicker.j", YES) */ (undefined);objj_executeFile("CPDocument.j", YES);objj_executeFile("CPDocumentController.j", YES);objj_executeFile("CPEvent.j", YES);/* objj_executeFile("CPFlashMovie.j", YES) */ (undefined);/* objj_executeFile("CPFlashView.j", YES) */ (undefined);objj_executeFile("CPFont.j", YES);/* objj_executeFile("CPFontManager.j", YES) */ (undefined);/* objj_executeFile("CPGradient.j", YES) */ (undefined);/* objj_executeFile("CPGraphics.j", YES) */ (undefined);objj_executeFile("CPImage.j", YES);objj_executeFile("CPImageView.j", YES);objj_executeFile("CPKeyBinding.j", YES);/* objj_executeFile("CPLevelIndicator.j", YES) */ (undefined);objj_executeFile("CPMenu.j", YES);objj_executeFile("CPMenuItem.j", YES);objj_executeFile("CPOpenPanel.j", YES);/* objj_executeFile("CPOutlineView.j", YES) */ (undefined);objj_executeFile("CPPanel.j", YES);objj_executeFile("CPPasteboard.j", YES);objj_executeFile("CPPopover.j", YES);objj_executeFile("CPPopUpButton.j", YES);/* objj_executeFile("CPPredicateEditor.j", YES) */ (undefined);/* objj_executeFile("CPPredicateEditorRowTemplate.j", YES) */ (undefined);objj_executeFile("CPProgressIndicator.j", YES);/* objj_executeFile("CPRadio.j", YES) */ (undefined);objj_executeFile("CPResponder.j", YES);/* objj_executeFile("CPRuleEditor.j", YES) */ (undefined);objj_executeFile("CPScroller.j", YES);objj_executeFile("CPScrollView.j", YES);/* objj_executeFile("CPSearchField.j", YES) */ (undefined);/* objj_executeFile("CPSecureTextField.j", YES) */ (undefined);/* objj_executeFile("CPSegmentedControl.j", YES) */ (undefined);objj_executeFile("CPShadow.j", YES);objj_executeFile("CPSlider.j", YES);/* objj_executeFile("CPSound.j", YES) */ (undefined);objj_executeFile("CPSplitView.j", YES);/* objj_executeFile("CPStepper.j", YES) */ (undefined);objj_executeFile("CPTableColumn.j", YES);objj_executeFile("CPTableView.j", YES);/* objj_executeFile("CPTabView.j", YES) */ (undefined);objj_executeFile("CPText.j", YES);objj_executeFile("CPTextField.j", YES);/* objj_executeFile("CPTokenField.j", YES) */ (undefined);objj_executeFile("CPToolbar.j", YES);objj_executeFile("CPToolbarItem.j", YES);/* objj_executeFile("CPTreeNode.j", YES) */ (undefined);/* objj_executeFile("CPUserDefaultsController.j", YES) */ (undefined);objj_executeFile("CPView.j", YES);objj_executeFile("CPViewAnimation.j", YES);objj_executeFile("CPViewController.j", YES);/* objj_executeFile("CPWebView.j", YES) */ (undefined);objj_executeFile("CPWindow.j", YES);objj_executeFile("CPWindowController.j", YES);/* objj_executeFile("CPWorkspace.j", YES) */ (undefined);p;14;CPScrollView.jt;65602;@STATIC;1.0;I;33;Foundation/CPNotificationCenter.ji;7;CPBox.ji;12;CPClipView.ji;12;CPScroller.ji;8;CPView.jt;65487;objj_executeFile("Foundation/CPNotificationCenter.j", NO);objj_executeFile("CPBox.j", YES);objj_executeFile("CPClipView.j", YES);objj_executeFile("CPScroller.j", YES);objj_executeFile("CPView.j", YES);{var the_protocol = objj_allocateProtocol("CPScrollViewDelegate");
+var aProtocol = objj_getProtocol("CPObject");
+if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPScrollViewDelegate\"");
+protocol_addProtocol(the_protocol, aProtocol);
+objj_registerProtocol(the_protocol);
+}var _isBrowserUsingOverlayScrollers = function()
+{
+    var outer = document.createElement('div'),
+        inner = document.createElement('p');
+    outer.style.position = "absolute";
+    outer.style.top = "0px";
+    outer.style.left = "0px";
+    outer.style.visibility = "hidden";
+    outer.style.width = "200px";
+    outer.style.height = "150px";
+    outer.style.overflow = "scroll";
+    inner.style.width = "100%";
+    inner.style.height = "200px";
+    outer.appendChild(inner);
+    document.body.appendChild(outer);
+    var usingOverlayScrollers = outer.clientWidth === outer.offsetWidth;
+    document.body.removeChild(outer);
+    return usingOverlayScrollers;
+};
+var TIMER_INTERVAL = 0.2,
+    CPScrollViewDelegate_scrollViewWillScroll_ = 1 << 0,
+    CPScrollViewDelegate_scrollViewDidScroll_ = 1 << 1,
+    CPScrollViewFadeOutTime = 1.3;
+var CPScrollerStyleGlobal = CPScrollerStyleOverlay,
+    CPScrollerStyleGlobalChangeNotification = "CPScrollerStyleGlobalChangeNotification";
+{var the_class = objj_allocateClassPair(CPView, "CPScrollView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_contentView"), new objj_ivar("_headerClipView"), new objj_ivar("_cornerView"), new objj_ivar("_bottomCornerView"), new objj_ivar("_delegate"), new objj_ivar("_scrollTimer"), new objj_ivar("_hasVerticalScroller"), new objj_ivar("_hasHorizontalScroller"), new objj_ivar("_autohidesScrollers"), new objj_ivar("_verticalScroller"), new objj_ivar("_horizontalScroller"), new objj_ivar("_recursionCount"), new objj_ivar("_implementedDelegateMethods"), new objj_ivar("_verticalLineScroll"), new objj_ivar("_verticalPageScroll"), new objj_ivar("_horizontalLineScroll"), new objj_ivar("_horizontalPageScroll"), new objj_ivar("_borderType"), new objj_ivar("_timerScrollersHide"), new objj_ivar("_scrollerStyle"), new objj_ivar("_scrollerKnobStyle")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $CPScrollView__initWithFrame_(self, _cmd, aFrame)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "initWithFrame:", aFrame);
+    if (self)
+    {
+        self._verticalLineScroll = 10.0;
+        self._verticalPageScroll = 10.0;
+        self._horizontalLineScroll = 10.0;
+        self._horizontalPageScroll = 10.0;
+        self._borderType = CPNoBorder;
+        self._contentView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", (self == null ? null : self.isa.objj_msgSend0(self, "_insetBounds"))));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._contentView));
+        self._headerClipView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._headerClipView));
+        self._bottomCornerView = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._bottomCornerView));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setHasVerticalScroller:", YES));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setHasHorizontalScroller:", YES));
+        self._scrollerKnobStyle = CPScrollerKnobStyleDefault;
+        (self == null ? null : self.isa.objj_msgSend1(self, "setScrollerStyle:", CPScrollerStyleGlobal));
+        self._delegate = nil;
+        self._scrollTimer = nil;
+        self._implementedDelegateMethods = 0;
+    }
+    return self;
+    var ___r1;
+}
+,["id","CGRect"]), new objj_method(sel_getUid("delegate"), function $CPScrollView__delegate(self, _cmd)
+{
+    return self._delegate;
+}
+,["id"]), new objj_method(sel_getUid("setDelegate:"), function $CPScrollView__setDelegate_(self, _cmd, aDelegate)
+{
+    if (aDelegate === self._delegate)
+        return;
+    self._delegate = aDelegate;
+    self._implementedDelegateMethods = 0;
+    if (self._delegate === nil)
+        return;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("scrollViewWillScroll:"))))
+        self._implementedDelegateMethods |= CPScrollViewDelegate_scrollViewWillScroll_;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("scrollViewDidScroll:"))))
+        self._implementedDelegateMethods |= CPScrollViewDelegate_scrollViewDidScroll_;
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("scrollerStyle"), function $CPScrollView__scrollerStyle(self, _cmd)
+{
+    return self._scrollerStyle;
+}
+,["int"]), new objj_method(sel_getUid("setScrollerStyle:"), function $CPScrollView__setScrollerStyle_(self, _cmd, aStyle)
+{
+    if (self._scrollerStyle === aStyle)
+        return;
+    self._scrollerStyle = aStyle;
+    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
+}
+,["void","int"]), new objj_method(sel_getUid("scrollerKnobStyle"), function $CPScrollView__scrollerKnobStyle(self, _cmd)
+{
+    return self._scrollerKnobStyle;
+}
+,["int"]), new objj_method(sel_getUid("setScrollerKnobStyle:"), function $CPScrollView__setScrollerKnobStyle_(self, _cmd, newScrollerKnobStyle)
+{
+    if (self._scrollerKnobStyle === newScrollerKnobStyle)
+        return;
+    self._scrollerKnobStyle = newScrollerKnobStyle;
+    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
+}
+,["void","int"]), new objj_method(sel_getUid("contentView"), function $CPScrollView__contentView(self, _cmd)
+{
+    return self._contentView;
+}
+,["CPClipView"]), new objj_method(sel_getUid("setContentView:"), function $CPScrollView__setContentView_(self, _cmd, aContentView)
+{
+    if (self._contentView === aContentView || !aContentView)
+        return;
+    var documentView = (aContentView == null ? null : aContentView.isa.objj_msgSend0(aContentView, "documentView"));
+    if (documentView)
+        (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "removeFromSuperview"));
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+    self._contentView = aContentView;
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", documentView));
+    self.isa.objj_msgSend1(self, "addSubview:", self._contentView);
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    var ___r1;
+}
+,["void","CPClipView"]), new objj_method(sel_getUid("contentSize"), function $CPScrollView__contentSize(self, _cmd)
+{
+    return ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")).size;
+    var ___r1;
+}
+,["CGSize"]), new objj_method(sel_getUid("documentView"), function $CPScrollView__documentView(self, _cmd)
+{
+    return ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "documentView"));
+    var ___r1;
+}
+,["id"]), new objj_method(sel_getUid("setDocumentView:"), function $CPScrollView__setDocumentView_(self, _cmd, aView)
+{
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", aView));
+    self.isa.objj_msgSend0(self, "_updateCornerAndHeaderView");
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    var ___r1;
+}
+,["void","CPView"]), new objj_method(sel_getUid("borderType"), function $CPScrollView__borderType(self, _cmd)
+{
+    return self._borderType;
+}
+,["CPBorderType"]), new objj_method(sel_getUid("setBorderType:"), function $CPScrollView__setBorderType_(self, _cmd, borderType)
+{
+    if (self._borderType == borderType)
+        return;
+    self._borderType = borderType;
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+}
+,["void","CPBorderType"]), new objj_method(sel_getUid("horizontalScroller"), function $CPScrollView__horizontalScroller(self, _cmd)
+{
+    return self._horizontalScroller;
+}
+,["CPScroller"]), new objj_method(sel_getUid("setHorizontalScroller:"), function $CPScrollView__setHorizontalScroller_(self, _cmd, aScroller)
+{
+    if (self._horizontalScroller === aScroller)
+        return;
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", nil));
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", nil));
+    self._horizontalScroller = aScroller;
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", self));
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", sel_getUid("_horizontalScrollerDidScroll:")));
+    self.isa.objj_msgSend1(self, "addSubview:", self._horizontalScroller);
+    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
+    var ___r1;
+}
+,["void","CPScroller"]), new objj_method(sel_getUid("hasHorizontalScroller"), function $CPScrollView__hasHorizontalScroller(self, _cmd)
+{
+    return self._hasHorizontalScroller;
+}
+,["BOOL"]), new objj_method(sel_getUid("setHasHorizontalScroller:"), function $CPScrollView__setHasHorizontalScroller_(self, _cmd, shouldHaveHorizontalScroller)
+{
+    if (self._hasHorizontalScroller === shouldHaveHorizontalScroller)
+        return;
+    self._hasHorizontalScroller = shouldHaveHorizontalScroller;
+    if (self._hasHorizontalScroller && !self._horizontalScroller)
+    {
+        var bounds = self.isa.objj_msgSend0(self, "_insetBounds");
+        self.isa.objj_msgSend1(self, "setHorizontalScroller:", ((___r1 = CPScroller.isa.objj_msgSend0(CPScroller, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, MAX(CGRectGetWidth(bounds), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle) + 1), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle)))));
+        ((___r1 = self.isa.objj_msgSend0(self, "horizontalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(CGRectGetWidth(bounds), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle))));
+    }
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    var ___r1;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("verticalScroller"), function $CPScrollView__verticalScroller(self, _cmd)
+{
+    return self._verticalScroller;
+}
+,["CPScroller"]), new objj_method(sel_getUid("setVerticalScroller:"), function $CPScrollView__setVerticalScroller_(self, _cmd, aScroller)
+{
+    if (self._verticalScroller === aScroller)
+        return;
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", nil));
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", nil));
+    self._verticalScroller = aScroller;
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", self));
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", sel_getUid("_verticalScrollerDidScroll:")));
+    self.isa.objj_msgSend1(self, "addSubview:", self._verticalScroller);
+    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
+    var ___r1;
+}
+,["void","CPScroller"]), new objj_method(sel_getUid("hasVerticalScroller"), function $CPScrollView__hasVerticalScroller(self, _cmd)
+{
+    return self._hasVerticalScroller;
+}
+,["BOOL"]), new objj_method(sel_getUid("setHasVerticalScroller:"), function $CPScrollView__setHasVerticalScroller_(self, _cmd, shouldHaveVerticalScroller)
+{
+    if (self._hasVerticalScroller === shouldHaveVerticalScroller)
+        return;
+    self._hasVerticalScroller = shouldHaveVerticalScroller;
+    if (self._hasVerticalScroller && !self._verticalScroller)
+    {
+        var bounds = self.isa.objj_msgSend0(self, "_insetBounds");
+        self.isa.objj_msgSend1(self, "setVerticalScroller:", ((___r1 = CPScroller.isa.objj_msgSend0(CPScroller, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle), MAX(CGRectGetHeight(bounds), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle) + 1)))));
+        ((___r1 = self.isa.objj_msgSend0(self, "verticalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle), CGRectGetHeight(bounds))));
+    }
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    var ___r1;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("autohidesScrollers"), function $CPScrollView__autohidesScrollers(self, _cmd)
+{
+    return self._autohidesScrollers;
+}
+,["BOOL"]), new objj_method(sel_getUid("setAutohidesScrollers:"), function $CPScrollView__setAutohidesScrollers_(self, _cmd, autohidesScrollers)
+{
+    if (self._autohidesScrollers == autohidesScrollers)
+        return;
+    self._autohidesScrollers = autohidesScrollers;
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+}
+,["void","BOOL"]), new objj_method(sel_getUid("bottomCornerView"), function $CPScrollView__bottomCornerView(self, _cmd)
+{
+    return self._bottomCornerView;
+}
+,["CPView"]), new objj_method(sel_getUid("setBottomCornerView:"), function $CPScrollView__setBottomCornerView_(self, _cmd, aBottomCornerView)
+{
+    if (self._bottomCornerView === aBottomCornerView)
+        return;
+    ((___r1 = self._bottomCornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+    (aBottomCornerView == null ? null : aBottomCornerView.isa.objj_msgSend1(aBottomCornerView, "setFrame:", self.isa.objj_msgSend0(self, "_bottomCornerViewFrame")));
+    self.isa.objj_msgSend1(self, "addSubview:", aBottomCornerView);
+    self._bottomCornerView = aBottomCornerView;
+    self.isa.objj_msgSend0(self, "_updateCornerAndHeaderView");
+    var ___r1;
+}
+,["void","CPView"]), new objj_method(sel_getUid("lineScroll"), function $CPScrollView__lineScroll(self, _cmd)
+{
+    return self.isa.objj_msgSend0(self, "horizontalLineScroll");
+}
+,["float"]), new objj_method(sel_getUid("setLineScroll:"), function $CPScrollView__setLineScroll_(self, _cmd, aLineScroll)
+{
+    self.isa.objj_msgSend1(self, "setHorizontalLineScroll:", aLineScroll);
+    self.isa.objj_msgSend1(self, "setVerticalLineScroll:", aLineScroll);
+}
+,["void","float"]), new objj_method(sel_getUid("horizontalLineScroll"), function $CPScrollView__horizontalLineScroll(self, _cmd)
+{
+    return self._horizontalLineScroll;
+}
+,["float"]), new objj_method(sel_getUid("setHorizontalLineScroll:"), function $CPScrollView__setHorizontalLineScroll_(self, _cmd, aLineScroll)
+{
+    self._horizontalLineScroll = aLineScroll;
+}
+,["void","float"]), new objj_method(sel_getUid("verticalLineScroll"), function $CPScrollView__verticalLineScroll(self, _cmd)
+{
+    return self._verticalLineScroll;
+}
+,["float"]), new objj_method(sel_getUid("setVerticalLineScroll:"), function $CPScrollView__setVerticalLineScroll_(self, _cmd, aLineScroll)
+{
+    self._verticalLineScroll = aLineScroll;
+}
+,["void","float"]), new objj_method(sel_getUid("pageScroll"), function $CPScrollView__pageScroll(self, _cmd)
+{
+    return self.isa.objj_msgSend0(self, "horizontalPageScroll");
+}
+,["float"]), new objj_method(sel_getUid("setPageScroll:"), function $CPScrollView__setPageScroll_(self, _cmd, aPageScroll)
+{
+    self.isa.objj_msgSend1(self, "setHorizontalPageScroll:", aPageScroll);
+    self.isa.objj_msgSend1(self, "setVerticalPageScroll:", aPageScroll);
+}
+,["void","float"]), new objj_method(sel_getUid("horizontalPageScroll"), function $CPScrollView__horizontalPageScroll(self, _cmd)
+{
+    return self._horizontalPageScroll;
+}
+,["float"]), new objj_method(sel_getUid("setHorizontalPageScroll:"), function $CPScrollView__setHorizontalPageScroll_(self, _cmd, aPageScroll)
+{
+    self._horizontalPageScroll = aPageScroll;
+}
+,["void","float"]), new objj_method(sel_getUid("verticalPageScroll"), function $CPScrollView__verticalPageScroll(self, _cmd)
+{
+    return self._verticalPageScroll;
+}
+,["float"]), new objj_method(sel_getUid("setVerticalPageScroll:"), function $CPScrollView__setVerticalPageScroll_(self, _cmd, aPageScroll)
+{
+    self._verticalPageScroll = aPageScroll;
+}
+,["void","float"]), new objj_method(sel_getUid("_updateScrollerStyle"), function $CPScrollView___updateScrollerStyle(self, _cmd)
+{
+    if (self._hasHorizontalScroller)
+    {
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStyle:", self._scrollerStyle));
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateSelected));
+        switch(self._scrollerKnobStyle) {
+        case CPScrollerKnobStyleLight:
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobLight));
+            break;
+        case CPScrollerKnobStyleDark:
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobDark));
+            break;
+default:
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
+        }
+    }
+    if (self._hasVerticalScroller)
+    {
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStyle:", self._scrollerStyle));
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateSelected));
+        switch(self._scrollerKnobStyle) {
+        case CPScrollerKnobStyleLight:
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobLight));
+            break;
+        case CPScrollerKnobStyleDark:
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobDark));
+            break;
+default:
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
+        }
+    }
+    if (self._scrollerStyle == CPScrollerStyleOverlay)
+    {
+        if (self._timerScrollersHide)
+            ((___r1 = self._timerScrollersHide), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+        self._timerScrollersHide = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", CPScrollViewFadeOutTime, self, sel_getUid("_hideScrollers:"), nil, NO);
+        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+    }
+    else
+        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_insetBounds"), function $CPScrollView___insetBounds(self, _cmd)
+{
+    return ((___r1 = self.isa.objj_msgSend0(self, "class")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "_insetBounds:borderType:", self.isa.objj_msgSend0(self, "bounds"), self._borderType));
+    var ___r1;
+}
+,["CGRect"]), new objj_method(sel_getUid("_updateCornerAndHeaderView"), function $CPScrollView___updateCornerAndHeaderView(self, _cmd)
+{
+    var documentView = self.isa.objj_msgSend0(self, "documentView"),
+        currentHeaderView = self.isa.objj_msgSend0(self, "_headerView"),
+        documentHeaderView = (documentView == null ? null : documentView.isa.objj_msgSend1(documentView, "respondsToSelector:", sel_getUid("headerView"))) ? (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "headerView")) : nil;
+    if (currentHeaderView !== documentHeaderView)
+    {
+        (currentHeaderView == null ? null : currentHeaderView.isa.objj_msgSend0(currentHeaderView, "removeFromSuperview"));
+        ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", documentHeaderView));
+    }
+    var documentCornerView = (documentView == null ? null : documentView.isa.objj_msgSend1(documentView, "respondsToSelector:", sel_getUid("cornerView"))) ? (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "cornerView")) : nil;
+    if (self._cornerView !== documentCornerView)
+    {
+        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+        self._cornerView = documentCornerView;
+        if (self._cornerView)
+        {
+            ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !(self._scrollerStyle === CPScrollerStyleLegacy && self._verticalScroller && !((___r2 = self._verticalScroller), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "isHidden")))));
+            self.isa.objj_msgSend1(self, "addSubview:", self._cornerView);
+        }
+    }
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+    (documentHeaderView == null ? null : documentHeaderView.isa.objj_msgSend0(documentHeaderView, "setNeedsLayout"));
+    (documentHeaderView == null ? null : documentHeaderView.isa.objj_msgSend1(documentHeaderView, "setNeedsDisplay:", YES));
+    var ___r1, ___r2;
+}
+,["void"]), new objj_method(sel_getUid("_headerView"), function $CPScrollView___headerView(self, _cmd)
+{
+    return ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "documentView"));
+    var ___r1;
+}
+,["CPView"]), new objj_method(sel_getUid("_cornerViewFrame"), function $CPScrollView___cornerViewFrame(self, _cmd)
+{
+    if (!self._cornerView)
+        return CGRectMakeZero();
+    var bounds = self.isa.objj_msgSend0(self, "_insetBounds"),
+        frame = ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    frame.origin.x = CGRectGetMaxX(bounds) - CGRectGetWidth(frame);
+    frame.origin.y = CGRectGetMinY(bounds);
+    return frame;
+    var ___r1;
+}
+,["CGRect"]), new objj_method(sel_getUid("_headerClipViewFrame"), function $CPScrollView___headerClipViewFrame(self, _cmd)
+{
+    var headerView = self.isa.objj_msgSend0(self, "_headerView");
+    if (!headerView)
+        return CGRectMakeZero();
+    var frame = self.isa.objj_msgSend0(self, "_insetBounds");
+    frame.size.height = CGRectGetHeight((headerView == null ? null : headerView.isa.objj_msgSend0(headerView, "frame")));
+    if (self._scrollerStyle === CPScrollerStyleLegacy && self._verticalScroller && !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        frame.size.width -= CGRectGetWidth(self.isa.objj_msgSend0(self, "_cornerViewFrame"));
+    return frame;
+    var ___r1;
+}
+,["CGRect"]), new objj_method(sel_getUid("_bottomCornerViewFrame"), function $CPScrollView___bottomCornerViewFrame(self, _cmd)
+{
+    if (((___r1 = self.isa.objj_msgSend0(self, "horizontalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")) || ((___r1 = self.isa.objj_msgSend0(self, "verticalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        return CGRectMakeZero();
+    var verticalFrame = ((___r1 = self.isa.objj_msgSend0(self, "verticalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        bottomCornerFrame = CGRectMakeZero();
+    bottomCornerFrame.origin.x = CGRectGetMinX(verticalFrame);
+    bottomCornerFrame.origin.y = CGRectGetMaxY(verticalFrame);
+    bottomCornerFrame.size.width = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle);
+    bottomCornerFrame.size.height = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle);
+    return bottomCornerFrame;
+    var ___r1;
+}
+,["CGRect"]), new objj_method(sel_getUid("_verticalScrollerDidScroll:"), function $CPScrollView___verticalScrollerDidScroll_(self, _cmd, aScroller)
+{
+    var value = (aScroller == null ? null : aScroller.isa.objj_msgSend0(aScroller, "floatValue")),
+        documentFrame = ((___r1 = ((___r2 = self._contentView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
+    switch(((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hitPart"))) {
+    case CPScrollerDecrementLine:
+        contentBounds.origin.y -= self._verticalLineScroll;
+        break;
+    case CPScrollerIncrementLine:
+        contentBounds.origin.y += self._verticalLineScroll;
+        break;
+    case CPScrollerDecrementPage:
+        contentBounds.origin.y -= CGRectGetHeight(contentBounds) - self._verticalPageScroll;
+        break;
+    case CPScrollerIncrementPage:
+        contentBounds.origin.y += CGRectGetHeight(contentBounds) - self._verticalPageScroll;
+        break;
+    case CPScrollerKnobSlot:
+    case CPScrollerKnob:
+default:
+        contentBounds.origin.y = ROUND(value * (CGRectGetHeight(documentFrame) - CGRectGetHeight(contentBounds)));
+    }
+    self.isa.objj_msgSend0(self, "_sendDelegateMessages");
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", contentBounds.origin));
+    var ___r1, ___r2;
+}
+,["void","CPScroller"]), new objj_method(sel_getUid("_horizontalScrollerDidScroll:"), function $CPScrollView___horizontalScrollerDidScroll_(self, _cmd, aScroller)
+{
+    var value = (aScroller == null ? null : aScroller.isa.objj_msgSend0(aScroller, "floatValue")),
+        documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
+    switch(((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hitPart"))) {
+    case CPScrollerDecrementLine:
+        contentBounds.origin.x -= self._horizontalLineScroll;
+        break;
+    case CPScrollerIncrementLine:
+        contentBounds.origin.x += self._horizontalLineScroll;
+        break;
+    case CPScrollerDecrementPage:
+        contentBounds.origin.x -= CGRectGetWidth(contentBounds) - self._horizontalPageScroll;
+        break;
+    case CPScrollerIncrementPage:
+        contentBounds.origin.x += CGRectGetWidth(contentBounds) - self._horizontalPageScroll;
+        break;
+    case CPScrollerKnobSlot:
+    case CPScrollerKnob:
+default:
+        contentBounds.origin.x = ROUND(value * (CGRectGetWidth(documentFrame) - CGRectGetWidth(contentBounds)));
+    }
+    self.isa.objj_msgSend0(self, "_sendDelegateMessages");
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", contentBounds.origin));
+    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMake(contentBounds.origin.x, 0.0)));
+    var ___r1;
+}
+,["void","CPScroller"]), new objj_method(sel_getUid("_sendDelegateMessages"), function $CPScrollView___sendDelegateMessages(self, _cmd)
+{
+    if (self._implementedDelegateMethods == 0)
+        return;
+    if (!self._scrollTimer)
+    {
+        self.isa.objj_msgSend0(self, "_scrollViewWillScroll");
+        self._scrollTimer = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", TIMER_INTERVAL, self, sel_getUid("_scrollViewDidScroll"), nil, YES);
+    }
+    else
+        ((___r1 = self._scrollTimer), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFireDate:", CPDate.isa.objj_msgSend1(CPDate, "dateWithTimeIntervalSinceNow:", TIMER_INTERVAL)));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_hideScrollers:"), function $CPScrollView___hideScrollers_(self, _cmd, theTimer)
+{
+    if (((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "allowFadingOut")))
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeOut"));
+    if (((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "allowFadingOut")))
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeOut"));
+    self._timerScrollersHide = nil;
+    var ___r1;
+}
+,["void","CPTimer"]), new objj_method(sel_getUid("_respondToScrollWheelEventWithDeltaX:deltaY:"), function $CPScrollView___respondToScrollWheelEventWithDeltaX_deltaY_(self, _cmd, deltaX, deltaY)
+{
+    var documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")),
+        contentFrame = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        enclosingScrollView = self.isa.objj_msgSend0(self, "enclosingScrollView");
+    contentBounds.origin.x = ROUND(contentBounds.origin.x + deltaX);
+    contentBounds.origin.y = ROUND(contentBounds.origin.y + deltaY);
+    var constrainedOrigin = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "constrainScrollPoint:", CGPointCreateCopy(contentBounds.origin))),
+        extraX = contentBounds.origin.x - constrainedOrigin.x,
+        extraY = contentBounds.origin.y - constrainedOrigin.y;
+    self.isa.objj_msgSend0(self, "_sendDelegateMessages");
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", constrainedOrigin));
+    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMake(constrainedOrigin.x, 0.0)));
+    if (extraX || extraY)
+        (enclosingScrollView == null ? null : enclosingScrollView.isa.objj_msgSend2(enclosingScrollView, "_respondToScrollWheelEventWithDeltaX:deltaY:", extraX, extraY));
+    var ___r1;
+}
+,["void","float","float"]), new objj_method(sel_getUid("_scrollViewWillScroll"), function $CPScrollView___scrollViewWillScroll(self, _cmd)
+{
+    if (self._implementedDelegateMethods & CPScrollViewDelegate_scrollViewWillScroll_)
+        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollViewWillScroll:", self));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_scrollViewDidScroll"), function $CPScrollView___scrollViewDidScroll(self, _cmd)
+{
+    ((___r1 = self._scrollTimer), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    self._scrollTimer = nil;
+    if (self._implementedDelegateMethods & CPScrollViewDelegate_scrollViewDidScroll_)
+        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollViewDidScroll:", self));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_didReceiveDefaultStyleChange:"), function $CPScrollView___didReceiveDefaultStyleChange_(self, _cmd, aNotification)
+{
+    self.isa.objj_msgSend1(self, "setScrollerStyle:", CPScrollerStyleGlobal);
+}
+,["void","CPNotification"]), new objj_method(sel_getUid("tile"), function $CPScrollView__tile(self, _cmd)
+{
+}
+,["void"]), new objj_method(sel_getUid("reflectScrolledClipView:"), function $CPScrollView__reflectScrolledClipView_(self, _cmd, aClipView)
+{
+    if (self._contentView !== aClipView)
+        return;
+    if (self._recursionCount > 5)
+        return;
+    ++self._recursionCount;
+    var documentView = self.isa.objj_msgSend0(self, "documentView");
+    if (!documentView)
+    {
+        if (self._autohidesScrollers)
+        {
+            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+        }
+        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_insetBounds")));
+        ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMakeZero()));
+        --self._recursionCount;
+        return;
+    }
+    var documentFrame = (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "frame")),
+        contentFrame = self.isa.objj_msgSend0(self, "_insetBounds"),
+        headerClipViewFrame = self.isa.objj_msgSend0(self, "_headerClipViewFrame"),
+        headerClipViewHeight = CGRectGetHeight(headerClipViewFrame);
+    contentFrame.origin.y += headerClipViewHeight;
+    contentFrame.size.height -= headerClipViewHeight;
+    var difference = CGSizeMake(CGRectGetWidth(documentFrame) - CGRectGetWidth(contentFrame), CGRectGetHeight(documentFrame) - CGRectGetHeight(contentFrame)),
+        verticalScrollerWidth = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "style"))),
+        horizontalScrollerHeight = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "style"))),
+        hasVerticalScroll = difference.height > 0.0,
+        hasHorizontalScroll = difference.width > 0.0,
+        shouldShowVerticalScroller = self._hasVerticalScroller && (!self._autohidesScrollers || hasVerticalScroll),
+        shouldShowHorizontalScroller = self._hasHorizontalScroller && (!self._autohidesScrollers || hasHorizontalScroll);
+    if (shouldShowVerticalScroller)
+    {
+        if (self._scrollerStyle === CPScrollerStyleLegacy)
+            difference.width += verticalScrollerWidth;
+        hasHorizontalScroll = difference.width > 0.0;
+        shouldShowHorizontalScroller = self._hasHorizontalScroller && (!self._autohidesScrollers || hasHorizontalScroll);
+    }
+    if (shouldShowHorizontalScroller)
+    {
+        if (self._scrollerStyle === CPScrollerStyleLegacy)
+            difference.height += horizontalScrollerHeight;
+        hasVerticalScroll = difference.height > 0.0;
+        shouldShowVerticalScroller = self._hasVerticalScroller && (!self._autohidesScrollers || hasVerticalScroll);
+    }
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !shouldShowVerticalScroller));
+    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setEnabled:", hasVerticalScroll));
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !shouldShowHorizontalScroller));
+    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setEnabled:", hasHorizontalScroll));
+    var overlay = CPScroller.isa.objj_msgSend0(CPScroller, "scrollerOverlay");
+    if (self._scrollerStyle === CPScrollerStyleLegacy)
+    {
+        if (shouldShowVerticalScroller)
+            contentFrame.size.width -= verticalScrollerWidth;
+        if (shouldShowHorizontalScroller)
+            contentFrame.size.height -= horizontalScrollerHeight;
+        overlay = 0;
+    }
+    var scrollPoint = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).origin,
+        wasShowingVerticalScroller = !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")),
+        wasShowingHorizontalScroller = !((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
+    if (shouldShowVerticalScroller)
+    {
+        var verticalScrollerY = MAX(CGRectGetMinY(contentFrame), MAX(CGRectGetMaxY(self.isa.objj_msgSend0(self, "_cornerViewFrame")), CGRectGetMaxY(headerClipViewFrame)));
+        var verticalScrollerHeight = CGRectGetMaxY(contentFrame) - verticalScrollerY;
+        if (self._scrollerStyle === CPScrollerStyleOverlay && hasHorizontalScroll)
+            verticalScrollerHeight -= horizontalScrollerHeight;
+        var documentHeight = CGRectGetHeight(documentFrame);
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", difference.height <= 0.0 ? 0.0 : scrollPoint.y / difference.height));
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", documentHeight > 0 ? CGRectGetHeight(contentFrame) / documentHeight : 1.0));
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(CGRectGetMaxX(contentFrame) - overlay, verticalScrollerY, verticalScrollerWidth, verticalScrollerHeight)));
+    }
+    else if (wasShowingVerticalScroller)
+    {
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", 0.0));
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", 1.0));
+    }
+    if (shouldShowHorizontalScroller)
+    {
+        var horizontalScrollerWidth = CGRectGetWidth(contentFrame);
+        if (self._scrollerStyle === CPScrollerStyleOverlay && hasVerticalScroll)
+            horizontalScrollerWidth -= verticalScrollerWidth;
+        var documentWidth = CGRectGetWidth(documentFrame);
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", difference.width <= 0.0 ? 0.0 : scrollPoint.x / difference.width));
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", documentWidth > 0 ? CGRectGetWidth(contentFrame) / documentWidth : 1.0));
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(CGRectGetMinX(contentFrame), CGRectGetMaxY(contentFrame) - overlay, horizontalScrollerWidth, horizontalScrollerHeight)));
+    }
+    else if (wasShowingHorizontalScroller)
+    {
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", 0.0));
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", 1.0));
+    }
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", contentFrame));
+    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_headerClipViewFrame")));
+    ((___r1 = ((___r2 = self._headerClipView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setNeedsDisplay:", YES));
+    if (self._scrollerStyle === CPScrollerStyleLegacy && self._verticalScroller && !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+    {
+        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_cornerViewFrame")));
+        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
+    }
+    else
+        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+    if (self._scrollerStyle === CPScrollerStyleLegacy)
+    {
+        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_bottomCornerViewFrame")));
+        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setBackgroundColor:", self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "bottom-corner-color")));
+    }
+    --self._recursionCount;
+    var ___r1, ___r2;
+}
+,["void","CPClipView"]), new objj_method(sel_getUid("flashScrollers"), function $CPScrollView__flashScrollers(self, _cmd)
+{
+    if (self._scrollerStyle === CPScrollerStyleLegacy)
+        return;
+    if (self._hasHorizontalScroller)
+    {
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
+    }
+    if (self._hasVerticalScroller)
+    {
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
+    }
+    if (self._timerScrollersHide)
+        ((___r1 = self._timerScrollersHide), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    self._timerScrollersHide = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", CPScrollViewFadeOutTime, self, sel_getUid("_hideScrollers:"), nil, NO);
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("resizeSubviewsWithOldSize:"), function $CPScrollView__resizeSubviewsWithOldSize_(self, _cmd, aSize)
+{
+    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
+}
+,["void","CGSize"]), new objj_method(sel_getUid("documentVisibleRect"), function $CPScrollView__documentVisibleRect(self, _cmd)
+{
+    return ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "documentVisibleRect"));
+    var ___r1;
+}
+,["CGRect"]), new objj_method(sel_getUid("_removeObservers"), function $CPScrollView___removeObservers(self, _cmd)
+{
+    if (!self._isObserving)
+        return;
+    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend3(___r1, "removeObserver:name:object:", self, CPScrollerStyleGlobalChangeNotification, nil));
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "_removeObservers");
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_addObservers"), function $CPScrollView___addObservers(self, _cmd)
+{
+    if (self._isObserving)
+        return;
+    self.isa.objj_msgSend1(self, "_didReceiveDefaultStyleChange:", nil);
+    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend(___r1, "addObserver:selector:name:object:", self, sel_getUid("_didReceiveDefaultStyleChange:"), CPScrollerStyleGlobalChangeNotification, nil));
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "_addObservers");
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("drawRect:"), function $CPScrollView__drawRect_(self, _cmd, aRect)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "drawRect:", aRect);
+    if (self._borderType == CPNoBorder)
+        return;
+    var strokeRect = self.isa.objj_msgSend0(self, "bounds"),
+        context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
+    CGContextSetLineWidth(context, 1);
+    switch(self._borderType) {
+    case CPLineBorder:
+        CGContextSetStrokeColor(context, self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "border-color"));
+        CGContextStrokeRect(context, CGRectInset(strokeRect, 0.5, 0.5));
+        break;
+    case CPBezelBorder:
+        self.isa.objj_msgSend2(self, "_drawGrayBezelInContext:bounds:", context, strokeRect);
+        break;
+    case CPGrooveBorder:
+        self.isa.objj_msgSend2(self, "_drawGrooveInContext:bounds:", context, strokeRect);
+        break;
+default:
+        break;
+    }
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawGrayBezelInContext:bounds:"), function $CPScrollView___drawGrayBezelInContext_bounds_(self, _cmd, context, aRect)
+{
+    var minX = CGRectGetMinX(aRect),
+        maxX = CGRectGetMaxX(aRect),
+        minY = CGRectGetMinY(aRect),
+        maxY = CGRectGetMaxY(aRect),
+        y = minY + 0.5;
+    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 142.0 / 255.0, 1.0));
+    CGContextBeginPath(context);
+    CGContextMoveToPoint(context, minX, y);
+    CGContextAddLineToPoint(context, maxX, y);
+    CGContextStrokePath(context);
+    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 192.0 / 255.0, 1.0));
+    var x = maxX - 0.5;
+    CGContextBeginPath(context);
+    CGContextMoveToPoint(context, x, minY + 1.0);
+    CGContextAddLineToPoint(context, x, maxY);
+    CGContextMoveToPoint(context, x - 0.5, maxY - 0.5);
+    CGContextAddLineToPoint(context, minX, maxY - 0.5);
+    x = minX + 0.5;
+    CGContextMoveToPoint(context, x, maxY);
+    CGContextAddLineToPoint(context, x, minY + 1.0);
+    CGContextStrokePath(context);
+}
+,["void","CGContext","CGRect"]), new objj_method(sel_getUid("_drawGrooveInContext:bounds:"), function $CPScrollView___drawGrooveInContext_bounds_(self, _cmd, context, aRect)
+{
+    var minX = CGRectGetMinX(aRect),
+        maxX = CGRectGetMaxX(aRect),
+        minY = CGRectGetMinY(aRect),
+        maxY = CGRectGetMaxY(aRect);
+    CGContextBeginPath(context);
+    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 159.0 / 255.0, 1.0));
+    var y = minY + 0.5;
+    CGContextMoveToPoint(context, minX, y);
+    CGContextAddLineToPoint(context, maxX, y);
+    var x = maxX - 1.5;
+    CGContextMoveToPoint(context, x, minY + 2.0);
+    CGContextAddLineToPoint(context, x, maxY - 1.0);
+    y = maxY - 1.5;
+    CGContextMoveToPoint(context, maxX - 1.0, y);
+    CGContextAddLineToPoint(context, minX + 2.0, y);
+    x = minX + 0.5;
+    CGContextMoveToPoint(context, x, maxY);
+    CGContextAddLineToPoint(context, x, minY);
+    CGContextStrokePath(context);
+    CGContextBeginPath(context);
+    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend0(CPColor, "whiteColor"));
+    var rect = CGRectOffset(aRect, 1.0, 1.0);
+    rect.size.width -= 1.0;
+    rect.size.height -= 1.0;
+    CGContextStrokeRect(context, CGRectInset(rect, 0.5, 0.5));
+    CGContextBeginPath(context);
+    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 192.0 / 255.0, 1.0));
+    y = minY + 2.5;
+    CGContextMoveToPoint(context, minX + 2.0, y);
+    CGContextAddLineToPoint(context, maxX - 2.0, y);
+    CGContextStrokePath(context);
+}
+,["void","CGContext","CGRect"]), new objj_method(sel_getUid("scrollWheel:"), function $CPScrollView__scrollWheel_(self, _cmd, anEvent)
+{
+    if (self._timerScrollersHide)
+        ((___r1 = self._timerScrollersHide), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    if (!((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
+    if (!((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
+    if (!((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")) || !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        self._timerScrollersHide = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", CPScrollViewFadeOutTime, self, sel_getUid("_hideScrollers:"), nil, NO);
+    var deltaX = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "scrollingDeltaX")),
+        deltaY = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "scrollingDeltaY"));
+    if (!(anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "hasPreciseScrollingDeltas")))
+    {
+        deltaX *= self._horizontalLineScroll || 1.0;
+        deltaY *= self._verticalLineScroll || 1.0;
+    }
+    self.isa.objj_msgSend2(self, "_respondToScrollWheelEventWithDeltaX:deltaY:", deltaX, deltaY);
+    var ___r1;
+}
+,["void","CPEvent"]), new objj_method(sel_getUid("scrollPageUp:"), function $CPScrollView__scrollPageUp_(self, _cmd, sender)
+{
+    var contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
+    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, -(CGRectGetHeight(contentBounds) - self._verticalPageScroll)));
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("scrollPageDown:"), function $CPScrollView__scrollPageDown_(self, _cmd, sender)
+{
+    var contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
+    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, CGRectGetHeight(contentBounds) - self._verticalPageScroll));
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("scrollToBeginningOfDocument:"), function $CPScrollView__scrollToBeginningOfDocument_(self, _cmd, sender)
+{
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMakeZero()));
+    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMakeZero()));
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("scrollToEndOfDocument:"), function $CPScrollView__scrollToEndOfDocument_(self, _cmd, sender)
+{
+    var contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")),
+        documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        scrollPoint = CGPointMake(0.0, CGRectGetHeight(documentFrame) - CGRectGetHeight(contentBounds));
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", scrollPoint));
+    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMakeZero()));
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("moveLeft:"), function $CPScrollView__moveLeft_(self, _cmd, sender)
+{
+    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-self._horizontalLineScroll, 0.0));
+}
+,["void","id"]), new objj_method(sel_getUid("moveRight:"), function $CPScrollView__moveRight_(self, _cmd, sender)
+{
+    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(self._horizontalLineScroll, 0.0));
+}
+,["void","id"]), new objj_method(sel_getUid("moveUp:"), function $CPScrollView__moveUp_(self, _cmd, sender)
+{
+    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, -self._verticalLineScroll));
+}
+,["void","id"]), new objj_method(sel_getUid("moveDown:"), function $CPScrollView__moveDown_(self, _cmd, sender)
+{
+    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, self._verticalLineScroll));
+}
+,["void","id"]), new objj_method(sel_getUid("moveByOffset:"), function $CPScrollView__moveByOffset_(self, _cmd, aSize)
+{
+    var documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
+    contentBounds.origin.x += aSize.width;
+    contentBounds.origin.y += aSize.height;
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", contentBounds.origin));
+    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMake(contentBounds.origin.x, 0)));
+    var ___r1;
+}
+,["void","CGSize"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("initialize"), function $CPScrollView__initialize(self, _cmd)
+{
+    if (self !== CPScrollView.isa.objj_msgSend0(CPScrollView, "class"))
+        return;
+    var globalValue = ((___r1 = CPBundle.isa.objj_msgSend0(CPBundle, "mainBundle")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectForInfoDictionaryKey:", "CPScrollersGlobalStyle"));
+    if (globalValue === nil || globalValue === -1)
+        CPScrollerStyleGlobal = _isBrowserUsingOverlayScrollers() ? CPScrollerStyleOverlay : CPScrollerStyleLegacy;
+    else
+        CPScrollerStyleGlobal = globalValue;
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("defaultThemeClass"), function $CPScrollView__defaultThemeClass(self, _cmd)
+{
+    return "scrollview";
+}
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $CPScrollView__themeAttributes(self, _cmd)
+{
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPColor.isa.objj_msgSend0(CPColor, "whiteColor"), "bottom-corner-color", CPColor.isa.objj_msgSend0(CPColor, "blackColor"), "border-color");
+}
+,["CPDictionary"]), new objj_method(sel_getUid("contentSizeForFrameSize:hasHorizontalScroller:hasVerticalScroller:borderType:"), function $CPScrollView__contentSizeForFrameSize_hasHorizontalScroller_hasVerticalScroller_borderType_(self, _cmd, frameSize, hFlag, vFlag, borderType)
+{
+    var bounds = self.isa.objj_msgSend2(self, "_insetBounds:borderType:", CGRectMake(0.0, 0.0, frameSize.width, frameSize.height), borderType),
+        scrollerWidth = CPScroller.isa.objj_msgSend0(CPScroller, "scrollerWidth");
+    if (hFlag)
+        bounds.size.height -= scrollerWidth;
+    if (vFlag)
+        bounds.size.width -= scrollerWidth;
+    return bounds.size;
+}
+,["CGSize","CGSize","BOOL","BOOL","CPBorderType"]), new objj_method(sel_getUid("frameSizeForContentSize:hasHorizontalScroller:hasVerticalScroller:borderType:"), function $CPScrollView__frameSizeForContentSize_hasHorizontalScroller_hasVerticalScroller_borderType_(self, _cmd, contentSize, hFlag, vFlag, borderType)
+{
+    var bounds = self.isa.objj_msgSend2(self, "_insetBounds:borderType:", CGRectMake(0.0, 0.0, contentSize.width, contentSize.height), borderType),
+        widthInset = contentSize.width - bounds.size.width,
+        heightInset = contentSize.height - bounds.size.height,
+        frameSize = CGSizeMake(contentSize.width + widthInset, contentSize.height + heightInset),
+        scrollerWidth = CPScroller.isa.objj_msgSend0(CPScroller, "scrollerWidth");
+    if (hFlag)
+        frameSize.height += scrollerWidth;
+    if (vFlag)
+        frameSize.width += scrollerWidth;
+    return frameSize;
+}
+,["CGSize","CGSize","BOOL","BOOL","CPBorderType"]), new objj_method(sel_getUid("_insetBounds:borderType:"), function $CPScrollView___insetBounds_borderType_(self, _cmd, bounds, borderType)
+{
+    switch(borderType) {
+    case CPLineBorder:
+    case CPBezelBorder:
+        return CGRectInset(bounds, 1.0, 1.0);
+    case CPGrooveBorder:
+        bounds = CGRectInset(bounds, 2.0, 2.0);
+        ++bounds.origin.y;
+        --bounds.size.height;
+        return bounds;
+    case CPNoBorder:
+default:
+        return bounds;
+    }
+}
+,["CGRect","CGRect","CPBorderType"]), new objj_method(sel_getUid("globalScrollerStyle"), function $CPScrollView__globalScrollerStyle(self, _cmd)
+{
+    return CPScrollerStyleGlobal;
+}
+,["int"]), new objj_method(sel_getUid("setGlobalScrollerStyle:"), function $CPScrollView__setGlobalScrollerStyle_(self, _cmd, aStyle)
+{
+    CPScrollerStyleGlobal = aStyle;
+    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "postNotificationName:object:", CPScrollerStyleGlobalChangeNotification, nil));
+    var ___r1;
+}
+,["void","int"])]);
+}var CPScrollViewContentViewKey = "CPScrollViewContentView",
+    CPScrollViewHeaderClipViewKey = "CPScrollViewHeaderClipViewKey",
+    CPScrollViewVLineScrollKey = "CPScrollViewVLineScroll",
+    CPScrollViewHLineScrollKey = "CPScrollViewHLineScroll",
+    CPScrollViewVPageScrollKey = "CPScrollViewVPageScroll",
+    CPScrollViewHPageScrollKey = "CPScrollViewHPageScroll",
+    CPScrollViewHasVScrollerKey = "CPScrollViewHasVScroller",
+    CPScrollViewHasHScrollerKey = "CPScrollViewHasHScroller",
+    CPScrollViewVScrollerKey = "CPScrollViewVScroller",
+    CPScrollViewHScrollerKey = "CPScrollViewHScroller",
+    CPScrollViewAutohidesScrollerKey = "CPScrollViewAutohidesScroller",
+    CPScrollViewCornerViewKey = "CPScrollViewCornerViewKey",
+    CPScrollViewBottomCornerViewKey = "CPScrollViewBottomCornerViewKey",
+    CPScrollViewBorderTypeKey = "CPScrollViewBorderTypeKey",
+    CPScrollViewScrollerStyleKey = "CPScrollViewScrollerStyleKey",
+    CPScrollViewScrollerKnobStyleKey = "CPScrollViewScrollerKnobStyleKey";
+{
+var the_class = objj_getClass("CPScrollView")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPScrollView\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPScrollView__initWithCoder_(self, _cmd, aCoder)
+{
+    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "initWithCoder:", aCoder))
+    {
+        self._verticalLineScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewVLineScrollKey));
+        self._verticalPageScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewVPageScrollKey));
+        self._horizontalLineScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewHLineScrollKey));
+        self._horizontalPageScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewHPageScrollKey));
+        self._contentView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewContentViewKey));
+        self._headerClipView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewHeaderClipViewKey));
+        if (!self._headerClipView)
+        {
+            self._headerClipView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+            (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._headerClipView));
+        }
+        self._verticalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewVScrollerKey));
+        self._horizontalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewHScrollerKey));
+        self._hasVerticalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollViewHasVScrollerKey));
+        self._hasHorizontalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollViewHasHScrollerKey));
+        self._autohidesScrollers = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollViewAutohidesScrollerKey));
+        self._borderType = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPScrollViewBorderTypeKey));
+        self._cornerView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewCornerViewKey));
+        self._bottomCornerView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewBottomCornerViewKey));
+        self._delegate = nil;
+        self._scrollTimer = nil;
+        self._implementedDelegateMethods = 0;
+        self._scrollerStyle = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewScrollerStyleKey)) || CPScrollerStyleGlobal;
+        self._scrollerKnobStyle = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewScrollerKnobStyleKey)) || CPScrollerKnobStyleDefault;
+        ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend(___r1, "addObserver:selector:name:object:", self, sel_getUid("_didReceiveDefaultStyleChange:"), CPScrollerStyleGlobalChangeNotification, nil));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("awakeFromCib"), function $CPScrollView__awakeFromCib(self, _cmd)
+{
+    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
+    self.isa.objj_msgSend0(self, "_updateCornerAndHeaderView");
+}
+,["void"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPScrollView__encodeWithCoder_(self, _cmd, aCoder)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "encodeWithCoder:", aCoder);
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._contentView, CPScrollViewContentViewKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._headerClipView, CPScrollViewHeaderClipViewKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._verticalScroller, CPScrollViewVScrollerKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._horizontalScroller, CPScrollViewHScrollerKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._verticalLineScroll, CPScrollViewVLineScrollKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._verticalPageScroll, CPScrollViewVPageScrollKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._horizontalLineScroll, CPScrollViewHLineScrollKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._horizontalPageScroll, CPScrollViewHPageScrollKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._hasVerticalScroller, CPScrollViewHasVScrollerKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._hasHorizontalScroller, CPScrollViewHasHScrollerKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._autohidesScrollers, CPScrollViewAutohidesScrollerKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._cornerView, CPScrollViewCornerViewKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._bottomCornerView, CPScrollViewBottomCornerViewKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._borderType, CPScrollViewBorderTypeKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._scrollerStyle, CPScrollViewScrollerStyleKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._scrollerKnobStyle, CPScrollViewScrollerKnobStyleKey));
+}
+,["void","CPCoder"])]);
+}p;19;CPKeyValueBinding.jt;44720;@STATIC;1.0;I;21;Foundation/CPObject.jI;20;Foundation/CPArray.jI;25;Foundation/CPDictionary.jI;25;Foundation/CPInvocation.jI;31;Foundation/CPValueTransformer.jI;32;Foundation/CPKeyValueObserving.jt;44516;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPArray.j", NO);objj_executeFile("Foundation/CPDictionary.j", NO);objj_executeFile("Foundation/CPInvocation.j", NO);objj_executeFile("Foundation/CPValueTransformer.j", NO);objj_executeFile("Foundation/CPKeyValueObserving.j", NO);var exposedBindingsMap = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init"),
     bindingsMap = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init");
 {var the_typedef = objj_allocateTypeDef("CPBindingOperationKind");
 objj_registerTypeDef(the_typedef);
@@ -9204,7 +10196,1145 @@ var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_
         (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._autoenablesItems, CPMenuAutoEnablesItemsKey));
 }
 ,["void","CPCoder"])]);
-}objj_executeFile("_CPMenuBarWindow.j", YES);objj_executeFile("_CPMenuWindow.j", YES);p;9;CPTheme.jt;26399;@STATIC;1.0;I;21;Foundation/CPObject.jI;27;Foundation/CPMutableArray.jI;21;Foundation/CPString.jI;30;Foundation/CPKeyedUnarchiver.jt;26260;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPMutableArray.j", NO);objj_executeFile("Foundation/CPString.j", NO);objj_executeFile("Foundation/CPKeyedUnarchiver.j", NO);var CPThemesByName = {},
+}objj_executeFile("_CPMenuBarWindow.j", YES);objj_executeFile("_CPMenuWindow.j", YES);p;12;CPMenuItem.jt;29857;@STATIC;1.0;I;20;Foundation/CPCoder.jI;21;Foundation/CPObject.jI;21;Foundation/CPString.ji;9;CPImage.ji;8;CPText.ji;8;CPView.ji;17;_CPMenuItemView.jt;29701;objj_executeFile("Foundation/CPCoder.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPString.j", NO);objj_executeFile("CPImage.j", YES);objj_executeFile("CPText.j", YES);objj_executeFile("CPView.j", YES);objj_executeFile("_CPMenuItemView.j", YES);var CPMenuItemStringRepresentationDictionary = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", "\u238B", CPEscapeFunctionKey, "\u21E5", CPTabCharacter, "\u21E4", CPBackTabCharacter, "\u2423", CPSpaceFunctionKey, "\u23CE", CPCarriageReturnCharacter, "\u232B", CPBackspaceCharacter, "\u232B", CPDeleteFunctionKey, "\u2326", CPDeleteCharacter, "\u21F1", CPHomeFunctionKey, "\u21F2", CPEndFunctionKey, "\u21DE", CPPageUpFunctionKey, "\u21DF", CPPageDownFunctionKey, "\u2191", CPUpArrowFunctionKey, "\u2193", CPDownArrowFunctionKey, "\u2190", CPLeftArrowFunctionKey, "\u2192", CPRightArrowFunctionKey, "\u2327", CPClearDisplayFunctionKey);
+{var the_class = objj_allocateClassPair(CPObject, "CPMenuItem"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_isSeparator"), new objj_ivar("_title"), new objj_ivar("_font"), new objj_ivar("_target"), new objj_ivar("_action"), new objj_ivar("_isEnabled"), new objj_ivar("_isHidden"), new objj_ivar("_tag"), new objj_ivar("_state"), new objj_ivar("_image"), new objj_ivar("_alternateImage"), new objj_ivar("_onStateImage"), new objj_ivar("_offStateImage"), new objj_ivar("_mixedStateImage"), new objj_ivar("_submenu"), new objj_ivar("_menu"), new objj_ivar("_keyEquivalent"), new objj_ivar("_keyEquivalentModifierMask"), new objj_ivar("_mnemonicLocation"), new objj_ivar("_isAlternate"), new objj_ivar("_indentationLevel"), new objj_ivar("_toolTip"), new objj_ivar("_representedObject"), new objj_ivar("_view"), new objj_ivar("_changeCount"), new objj_ivar("_menuItemView")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("init"), function $CPMenuItem__init(self, _cmd)
+{
+    return self.isa.objj_msgSend3(self, "initWithTitle:action:keyEquivalent:", "", nil, nil);
+}
+,["id"]), new objj_method(sel_getUid("initWithTitle:action:keyEquivalent:"), function $CPMenuItem__initWithTitle_action_keyEquivalent_(self, _cmd, aTitle, anAction, aKeyEquivalent)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPMenuItem").super_class }, "init");
+    if (self)
+    {
+        self._changeCount = 0;
+        self._isSeparator = NO;
+        self._title = aTitle;
+        self._action = anAction;
+        self._isEnabled = YES;
+        self._isHidden = NO;
+        self._tag = 0;
+        self._state = CPOffState;
+        self._keyEquivalent = aKeyEquivalent || "";
+        self._keyEquivalentModifierMask = CPPlatformActionKeyMask;
+        self._indentationLevel = 0;
+        self._mnemonicLocation = CPNotFound;
+    }
+    return self;
+}
+,["id","CPString","SEL","CPString"]), new objj_method(sel_getUid("setEnabled:"), function $CPMenuItem__setEnabled_(self, _cmd, isEnabled)
+{
+    if (self._isEnabled === isEnabled)
+        return;
+    if (!isEnabled && self.isa.objj_msgSend0(self, "isHighlighted"))
+        ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "_highlightItemAtIndex:", CPNotFound));
+    self._isEnabled = !!isEnabled;
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("isEnabled"), function $CPMenuItem__isEnabled(self, _cmd)
+{
+    return self._isEnabled;
+}
+,["BOOL"]), new objj_method(sel_getUid("setHidden:"), function $CPMenuItem__setHidden_(self, _cmd, isHidden)
+{
+    if (self._isHidden == isHidden)
+        return;
+    self._isHidden = isHidden;
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("isHidden"), function $CPMenuItem__isHidden(self, _cmd)
+{
+    return self._isHidden;
+}
+,["BOOL"]), new objj_method(sel_getUid("isHiddenOrHasHiddenAncestor"), function $CPMenuItem__isHiddenOrHasHiddenAncestor(self, _cmd)
+{
+    if (self._isHidden)
+        return YES;
+    var supermenu = ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "supermenu"));
+    if (((___r1 = (supermenu == null ? null : supermenu.isa.objj_msgSend1(supermenu, "itemAtIndex:", (supermenu == null ? null : supermenu.isa.objj_msgSend1(supermenu, "indexOfItemWithSubmenu:", self._menu))))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHiddenOrHasHiddenAncestor")))
+        return YES;
+    return NO;
+    var ___r1;
+}
+,["BOOL"]), new objj_method(sel_getUid("setTarget:"), function $CPMenuItem__setTarget_(self, _cmd, aTarget)
+{
+    self._target = aTarget;
+}
+,["void","id"]), new objj_method(sel_getUid("target"), function $CPMenuItem__target(self, _cmd)
+{
+    return self._target;
+}
+,["id"]), new objj_method(sel_getUid("setAction:"), function $CPMenuItem__setAction_(self, _cmd, anAction)
+{
+    self._action = anAction;
+}
+,["void","SEL"]), new objj_method(sel_getUid("action"), function $CPMenuItem__action(self, _cmd)
+{
+    return self._action;
+}
+,["SEL"]), new objj_method(sel_getUid("setTitle:"), function $CPMenuItem__setTitle_(self, _cmd, aTitle)
+{
+    self._mnemonicLocation = CPNotFound;
+    if (self._title == aTitle)
+        return;
+    self._title = aTitle;
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPString"]), new objj_method(sel_getUid("title"), function $CPMenuItem__title(self, _cmd)
+{
+    return self._title;
+}
+,["CPString"]), new objj_method(sel_getUid("setTextColor:"), function $CPMenuItem__setTextColor_(self, _cmd, aColor)
+{
+}
+,["void","CPString"]), new objj_method(sel_getUid("setFont:"), function $CPMenuItem__setFont_(self, _cmd, aFont)
+{
+    if (((___r1 = self._font), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isEqual:", aFont)))
+        return;
+    self._font = aFont;
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    var ___r1;
+}
+,["void","CPFont"]), new objj_method(sel_getUid("font"), function $CPMenuItem__font(self, _cmd)
+{
+    return self._font;
+}
+,["CPFont"]), new objj_method(sel_getUid("setTag:"), function $CPMenuItem__setTag_(self, _cmd, aTag)
+{
+    self._tag = aTag;
+}
+,["void","int"]), new objj_method(sel_getUid("tag"), function $CPMenuItem__tag(self, _cmd)
+{
+    return self._tag;
+}
+,["int"]), new objj_method(sel_getUid("setState:"), function $CPMenuItem__setState_(self, _cmd, aState)
+{
+    if (self._state == aState)
+        return;
+    self._state = aState;
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    var ___r1;
+}
+,["void","int"]), new objj_method(sel_getUid("state"), function $CPMenuItem__state(self, _cmd)
+{
+    return self._state;
+}
+,["int"]), new objj_method(sel_getUid("setImage:"), function $CPMenuItem__setImage_(self, _cmd, anImage)
+{
+    if (self._image == anImage)
+        return;
+    self._image = anImage;
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPImage"]), new objj_method(sel_getUid("image"), function $CPMenuItem__image(self, _cmd)
+{
+    return self._image;
+}
+,["CPImage"]), new objj_method(sel_getUid("setAlternateImage:"), function $CPMenuItem__setAlternateImage_(self, _cmd, anImage)
+{
+    self._alternateImage = anImage;
+}
+,["void","CPImage"]), new objj_method(sel_getUid("alternateImage"), function $CPMenuItem__alternateImage(self, _cmd)
+{
+    return self._alternateImage;
+}
+,["CPImage"]), new objj_method(sel_getUid("setOnStateImage:"), function $CPMenuItem__setOnStateImage_(self, _cmd, anImage)
+{
+    if (self._onStateImage == anImage)
+        return;
+    self._onStateImage = anImage;
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPImage"]), new objj_method(sel_getUid("onStateImage"), function $CPMenuItem__onStateImage(self, _cmd)
+{
+    return self._onStateImage;
+}
+,["CPImage"]), new objj_method(sel_getUid("setOffStateImage:"), function $CPMenuItem__setOffStateImage_(self, _cmd, anImage)
+{
+    if (self._offStateImage == anImage)
+        return;
+    self._offStateImage = anImage;
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPImage"]), new objj_method(sel_getUid("offStateImage"), function $CPMenuItem__offStateImage(self, _cmd)
+{
+    return self._offStateImage;
+}
+,["CPImage"]), new objj_method(sel_getUid("setMixedStateImage:"), function $CPMenuItem__setMixedStateImage_(self, _cmd, anImage)
+{
+    if (self._mixedStateImage == anImage)
+        return;
+    self._mixedStateImage = anImage;
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPImage"]), new objj_method(sel_getUid("mixedStateImage"), function $CPMenuItem__mixedStateImage(self, _cmd)
+{
+    return self._mixedStateImage;
+}
+,["CPImage"]), new objj_method(sel_getUid("setSubmenu:"), function $CPMenuItem__setSubmenu_(self, _cmd, aMenu)
+{
+    if (self._submenu === aMenu)
+        return;
+    var supermenu = ((___r1 = self._submenu), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "supermenu"));
+    if (supermenu)
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "Can't add submenu \"" + (aMenu == null ? null : aMenu.isa.objj_msgSend0(aMenu, "title")) + "\" to item \"" + self.isa.objj_msgSend0(self, "title") + "\", because it is already submenu of \"" + ((___r1 = (aMenu == null ? null : aMenu.isa.objj_msgSend0(aMenu, "supermenu"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "title")) + "\"");
+    self._submenu = aMenu;
+    if (self._submenu)
+    {
+        ((___r1 = self._submenu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setSupermenu:", self._menu));
+        ((___r1 = self._submenu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTitle:", self.isa.objj_msgSend0(self, "title")));
+        self.isa.objj_msgSend1(self, "setTarget:", self._menu);
+        self.isa.objj_msgSend1(self, "setAction:", sel_getUid("submenuAction:"));
+    }
+    else
+    {
+        self.isa.objj_msgSend1(self, "setTarget:", nil);
+        self.isa.objj_msgSend1(self, "setAction:", NULL);
+    }
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPMenu"]), new objj_method(sel_getUid("submenu"), function $CPMenuItem__submenu(self, _cmd)
+{
+    return self._submenu;
+}
+,["CPMenu"]), new objj_method(sel_getUid("hasSubmenu"), function $CPMenuItem__hasSubmenu(self, _cmd)
+{
+    return self._submenu ? YES : NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("isSeparatorItem"), function $CPMenuItem__isSeparatorItem(self, _cmd)
+{
+    return self._isSeparator;
+}
+,["BOOL"]), new objj_method(sel_getUid("setMenu:"), function $CPMenuItem__setMenu_(self, _cmd, aMenu)
+{
+    self._menu = aMenu;
+}
+,["void","CPMenu"]), new objj_method(sel_getUid("menu"), function $CPMenuItem__menu(self, _cmd)
+{
+    return self._menu;
+}
+,["CPMenu"]), new objj_method(sel_getUid("setKeyEquivalent:"), function $CPMenuItem__setKeyEquivalent_(self, _cmd, aString)
+{
+    self._keyEquivalent = aString || "";
+}
+,["void","CPString"]), new objj_method(sel_getUid("keyEquivalent"), function $CPMenuItem__keyEquivalent(self, _cmd)
+{
+    return self._keyEquivalent;
+}
+,["CPString"]), new objj_method(sel_getUid("setKeyEquivalentModifierMask:"), function $CPMenuItem__setKeyEquivalentModifierMask_(self, _cmd, aMask)
+{
+    self._keyEquivalentModifierMask = aMask;
+}
+,["void","unsigned"]), new objj_method(sel_getUid("keyEquivalentModifierMask"), function $CPMenuItem__keyEquivalentModifierMask(self, _cmd)
+{
+    return self._keyEquivalentModifierMask;
+}
+,["unsigned"]), new objj_method(sel_getUid("keyEquivalentStringRepresentation"), function $CPMenuItem__keyEquivalentStringRepresentation(self, _cmd)
+{
+    if (!((___r1 = self._keyEquivalent), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "length")))
+        return "";
+    var string = self._keyEquivalent.toUpperCase(),
+        needsShift = self._keyEquivalentModifierMask & CPShiftKeyMask || string === self._keyEquivalent && self._keyEquivalent.toLowerCase() !== self._keyEquivalent.toUpperCase();
+    if ((CPMenuItemStringRepresentationDictionary == null ? null : CPMenuItemStringRepresentationDictionary.isa.objj_msgSend1(CPMenuItemStringRepresentationDictionary, "objectForKey:", string)))
+        string = (CPMenuItemStringRepresentationDictionary == null ? null : CPMenuItemStringRepresentationDictionary.isa.objj_msgSend1(CPMenuItemStringRepresentationDictionary, "objectForKey:", string));
+    if (CPBrowserIsOperatingSystem(CPMacOperatingSystem))
+    {
+        if (self._keyEquivalentModifierMask & CPCommandKeyMask)
+            string = "\u2318" + string;
+        if (needsShift)
+            string = "\u21E7" + string;
+        if (self._keyEquivalentModifierMask & CPAlternateKeyMask)
+            string = "\u2325" + string;
+        if (self._keyEquivalentModifierMask & CPControlKeyMask)
+            string = "\u2303" + string;
+    }
+    else
+    {
+        if (needsShift)
+            string = "Shift-" + string;
+        if (self._keyEquivalentModifierMask & CPAlternateKeyMask)
+            string = "Alt-" + string;
+        if (self._keyEquivalentModifierMask & CPControlKeyMask || self._keyEquivalentModifierMask & CPCommandKeyMask)
+            string = "Ctrl-" + string;
+    }
+    return string;
+    var ___r1;
+}
+,["CPString"]), new objj_method(sel_getUid("setMnemonicLocation:"), function $CPMenuItem__setMnemonicLocation_(self, _cmd, aLocation)
+{
+    self._mnemonicLocation = aLocation;
+}
+,["void","unsigned"]), new objj_method(sel_getUid("mnemonicLocation"), function $CPMenuItem__mnemonicLocation(self, _cmd)
+{
+    return self._mnemonicLocation;
+}
+,["unsigned"]), new objj_method(sel_getUid("setTitleWithMnemonicLocation:"), function $CPMenuItem__setTitleWithMnemonicLocation_(self, _cmd, aTitle)
+{
+    var location = (aTitle == null ? null : aTitle.isa.objj_msgSend1(aTitle, "rangeOfString:", "&")).location;
+    if (location == CPNotFound)
+        self.isa.objj_msgSend1(self, "setTitle:", aTitle);
+    else
+    {
+        self.isa.objj_msgSend1(self, "setTitle:", (aTitle == null ? null : aTitle.isa.objj_msgSend1(aTitle, "substringToIndex:", location)) + (aTitle == null ? null : aTitle.isa.objj_msgSend1(aTitle, "substringFromIndex:", location + 1)));
+        self.isa.objj_msgSend1(self, "setMnemonicLocation:", location);
+    }
+}
+,["void","CPString"]), new objj_method(sel_getUid("mnemonic"), function $CPMenuItem__mnemonic(self, _cmd)
+{
+    return self._mnemonicLocation == CPNotFound ? "" : ((___r1 = self._title), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "characterAtIndex:", self._mnemonicLocation));
+    var ___r1;
+}
+,["CPString"]), new objj_method(sel_getUid("setAlternate:"), function $CPMenuItem__setAlternate_(self, _cmd, isAlternate)
+{
+    self._isAlternate = isAlternate;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("isAlternate"), function $CPMenuItem__isAlternate(self, _cmd)
+{
+    return self._isAlternate;
+}
+,["BOOL"]), new objj_method(sel_getUid("setIndentationLevel:"), function $CPMenuItem__setIndentationLevel_(self, _cmd, aLevel)
+{
+    if (aLevel < 0)
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "setIndentationLevel: argument must be greater than or equal to 0.");
+    self._indentationLevel = MIN(15, aLevel);
+}
+,["void","unsigned"]), new objj_method(sel_getUid("indentationLevel"), function $CPMenuItem__indentationLevel(self, _cmd)
+{
+    return self._indentationLevel;
+}
+,["unsigned"]), new objj_method(sel_getUid("setToolTip:"), function $CPMenuItem__setToolTip_(self, _cmd, aToolTip)
+{
+    self._toolTip = aToolTip;
+}
+,["void","CPString"]), new objj_method(sel_getUid("toolTip"), function $CPMenuItem__toolTip(self, _cmd)
+{
+    return self._toolTip;
+}
+,["CPString"]), new objj_method(sel_getUid("setRepresentedObject:"), function $CPMenuItem__setRepresentedObject_(self, _cmd, anObject)
+{
+    self._representedObject = anObject;
+}
+,["void","id"]), new objj_method(sel_getUid("representedObject"), function $CPMenuItem__representedObject(self, _cmd)
+{
+    return self._representedObject;
+}
+,["id"]), new objj_method(sel_getUid("setView:"), function $CPMenuItem__setView_(self, _cmd, aView)
+{
+    if (self._view === aView)
+        return;
+    self._view = aView;
+    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
+    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    var ___r1;
+}
+,["void","CPView"]), new objj_method(sel_getUid("view"), function $CPMenuItem__view(self, _cmd)
+{
+    return self._view;
+}
+,["CPView"]), new objj_method(sel_getUid("isHighlighted"), function $CPMenuItem__isHighlighted(self, _cmd)
+{
+    return ((___r1 = self.isa.objj_msgSend0(self, "menu")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "highlightedItem")) == self;
+    var ___r1;
+}
+,["BOOL"]), new objj_method(sel_getUid("copy"), function $CPMenuItem__copy(self, _cmd)
+{
+    var item = ((___r1 = CPMenuItem.isa.objj_msgSend0(CPMenuItem, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+    item._isSeparator = self._isSeparator;
+    (item == null ? null : item.isa.objj_msgSend1(item, "setTitle:", self._title));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setFont:", self._font));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setTarget:", self._target));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setAction:", self._action));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setEnabled:", self._isEnabled));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setHidden:", self._isHidden));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setTag:", self._tag));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setState:", self._state));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setImage:", self._image));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setAlternateImage:", self._alternateImage));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setOnStateImage:", self._onStateImage));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setOffStateImage:", self._offStateImage));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setMixedStateImage:", self._mixedStateImage));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setKeyEquivalent:", self._keyEquivalent));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setKeyEquivalentModifierMask:", self._keyEquivalentModifierMask));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setMnemonicLocation:", self._mnemonicLocation));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setAlternate:", self._isAlternate));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setIndentationLevel:", self._indentationLevel));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setToolTip:", self._toolTip));
+    (item == null ? null : item.isa.objj_msgSend1(item, "setRepresentedObject:", self._representedObject));
+    return item;
+    var ___r1;
+}
+,["id"]), new objj_method(sel_getUid("mutableCopy"), function $CPMenuItem__mutableCopy(self, _cmd)
+{
+    return self.isa.objj_msgSend0(self, "copy");
+}
+,["id"]), new objj_method(sel_getUid("_menuItemView"), function $CPMenuItem___menuItemView(self, _cmd)
+{
+    if (!self._menuItemView)
+        self._menuItemView = ((___r1 = _CPMenuItemView.isa.objj_msgSend0(_CPMenuItemView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithFrame:forMenuItem:", CGRectMakeZero(), self));
+    return self._menuItemView;
+    var ___r1;
+}
+,["id"]), new objj_method(sel_getUid("_isSelectable"), function $CPMenuItem___isSelectable(self, _cmd)
+{
+    return !self.isa.objj_msgSend0(self, "submenu") || self.isa.objj_msgSend0(self, "action") !== sel_getUid("submenuAction:") || self.isa.objj_msgSend0(self, "target") !== self.isa.objj_msgSend0(self, "menu");
+}
+,["BOOL"]), new objj_method(sel_getUid("_isMenuBarButton"), function $CPMenuItem___isMenuBarButton(self, _cmd)
+{
+    return !self.isa.objj_msgSend0(self, "submenu") && self.isa.objj_msgSend0(self, "menu") === (CPApp == null ? null : CPApp.isa.objj_msgSend0(CPApp, "mainMenu"));
+}
+,["BOOL"]), new objj_method(sel_getUid("description"), function $CPMenuItem__description(self, _cmd)
+{
+    return objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPMenuItem").super_class }, "description") + " target: " + self.isa.objj_msgSend0(self, "target") + " action: " + CPStringFromSelector(self.isa.objj_msgSend0(self, "action"));
+}
+,["CPString"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("_binderClassForBinding:"), function $CPMenuItem___binderClassForBinding_(self, _cmd, aBinding)
+{
+    if ((aBinding == null ? null : aBinding.isa.objj_msgSend1(aBinding, "hasPrefix:", CPEnabledBinding)))
+        return CPMultipleValueAndBinding.isa.objj_msgSend0(CPMultipleValueAndBinding, "class");
+    else if (aBinding === CPTargetBinding || (aBinding == null ? null : aBinding.isa.objj_msgSend1(aBinding, "hasPrefix:", CPArgumentBinding)))
+        return CPActionBinding.isa.objj_msgSend0(CPActionBinding, "class");
+    return objj_msgSendSuper({ receiver:self, super_class:objj_getMetaClass("CPMenuItem").super_class }, "_binderClassForBinding:", aBinding);
+}
+,["Class","CPString"]), new objj_method(sel_getUid("separatorItem"), function $CPMenuItem__separatorItem(self, _cmd)
+{
+    var separatorItem = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend3(___r1, "initWithTitle:action:keyEquivalent:", "", nil, nil));
+    separatorItem._isSeparator = YES;
+    return separatorItem;
+    var ___r1;
+}
+,["CPMenuItem"])]);
+}var CPMenuItemIsSeparatorKey = "CPMenuItemIsSeparatorKey",
+    CPMenuItemTitleKey = "CPMenuItemTitleKey",
+    CPMenuItemTargetKey = "CPMenuItemTargetKey",
+    CPMenuItemActionKey = "CPMenuItemActionKey",
+    CPMenuItemIsEnabledKey = "CPMenuItemIsEnabledKey",
+    CPMenuItemIsHiddenKey = "CPMenuItemIsHiddenKey",
+    CPMenuItemTagKey = "CPMenuItemTagKey",
+    CPMenuItemStateKey = "CPMenuItemStateKey",
+    CPMenuItemImageKey = "CPMenuItemImageKey",
+    CPMenuItemAlternateImageKey = "CPMenuItemAlternateImageKey",
+    CPMenuItemSubmenuKey = "CPMenuItemSubmenuKey",
+    CPMenuItemMenuKey = "CPMenuItemMenuKey",
+    CPMenuItemKeyEquivalentKey = "CPMenuItemKeyEquivalentKey",
+    CPMenuItemKeyEquivalentModifierMaskKey = "CPMenuItemKeyEquivalentModifierMaskKey",
+    CPMenuItemIndentationLevelKey = "CPMenuItemIndentationLevelKey",
+    CPMenuItemRepresentedObjectKey = "CPMenuItemRepresentedObjectKey",
+    CPMenuItemViewKey = "CPMenuItemViewKey";
+{
+var the_class = objj_getClass("CPMenuItem")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPMenuItem\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPMenuItem__initWithCoder_(self, _cmd, aCoder)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPMenuItem").super_class }, "init");
+    if (self)
+    {
+        self._changeCount = 0;
+        self._isSeparator = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "containsValueForKey:", CPMenuItemIsSeparatorKey)) && (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPMenuItemIsSeparatorKey));
+        self._title = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemTitleKey));
+        self._target = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemTargetKey));
+        self._action = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemActionKey));
+        self._isEnabled = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "containsValueForKey:", CPMenuItemIsEnabledKey)) ? (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemIsEnabledKey)) : YES;
+        self._isHidden = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPMenuItemIsHiddenKey));
+        self._tag = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemTagKey));
+        self._state = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemStateKey));
+        self._image = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemImageKey));
+        self._alternateImage = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemAlternateImageKey));
+        self._menu = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemMenuKey));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setSubmenu:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemSubmenuKey))));
+        self._keyEquivalent = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemKeyEquivalentKey)) || "";
+        self._keyEquivalentModifierMask = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemKeyEquivalentModifierMaskKey));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setIndentationLevel:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemIndentationLevelKey))));
+        self._representedObject = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemRepresentedObjectKey));
+        self._view = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemViewKey));
+    }
+    return self;
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPMenuItem__encodeWithCoder_(self, _cmd, aCoder)
+{
+    if (self._isSeparator)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._isSeparator, CPMenuItemIsSeparatorKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._title, CPMenuItemTitleKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._target, CPMenuItemTargetKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._action, CPMenuItemActionKey));
+    if (self._isEnabled !== YES)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._isEnabled, CPMenuItemIsEnabledKey));
+    if (self._isHidden !== NO)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._isHidden, CPMenuItemIsHiddenKey));
+    if (self._tag !== 0)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._tag, CPMenuItemTagKey));
+    if (self._state !== CPOffState)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._state, CPMenuItemStateKey));
+    if (self._image !== nil)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._image, CPMenuItemImageKey));
+    if (self._alternateImage !== nil)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._alternateImage, CPMenuItemAlternateImageKey));
+    if (self._submenu !== nil)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._submenu, CPMenuItemSubmenuKey));
+    if (self._menu !== nil)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._menu, CPMenuItemMenuKey));
+    if (self._keyEquivalent && self._keyEquivalent.length)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._keyEquivalent, CPMenuItemKeyEquivalentKey));
+    if (self._keyEquivalentModifierMask)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._keyEquivalentModifierMask, CPMenuItemKeyEquivalentModifierMaskKey));
+    if (self._indentationLevel > 0)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._indentationLevel, CPMenuItemIndentationLevelKey));
+    if (self._representedObject !== nil)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._representedObject, CPMenuItemRepresentedObjectKey));
+    if (self._view !== nil)
+        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._view, CPMenuItemViewKey));
+}
+,["void","CPCoder"])]);
+}p;9;CPImage.jt;19835;@STATIC;1.0;I;21;Foundation/CPBundle.jI;33;Foundation/CPNotificationCenter.jI;21;Foundation/CPObject.jI;22;Foundation/CPRunLoop.jI;21;Foundation/CPString.jI;19;Foundation/CPData.ji;12;CGGeometry.ji;17;CPCompatibility.jt;19609;objj_executeFile("Foundation/CPBundle.j", NO);objj_executeFile("Foundation/CPNotificationCenter.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPRunLoop.j", NO);objj_executeFile("Foundation/CPString.j", NO);objj_executeFile("Foundation/CPData.j", NO);objj_executeFile("CGGeometry.j", YES);objj_executeFile("CPCompatibility.j", YES);{var the_protocol = objj_allocateProtocol("CPImageDelegate");
+var aProtocol = objj_getProtocol("CPObject");
+if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPImageDelegate\"");
+protocol_addProtocol(the_protocol, aProtocol);
+objj_registerProtocol(the_protocol);
+}var CPImageDelegate_imageDidLoad_ = 1 << 1,
+    CPImageDelegate_imageDidError_ = 1 << 2,
+    CPImageDelegate_imageDidAbort_ = 1 << 3;
+CPImageLoadStatusInitialized = 0;
+CPImageLoadStatusLoading = 1;
+CPImageLoadStatusCompleted = 2;
+CPImageLoadStatusCancelled = 3;
+CPImageLoadStatusInvalidData = 4;
+CPImageLoadStatusUnexpectedEOF = 5;
+CPImageLoadStatusReadError = 6;
+CPImageDidLoadNotification = "CPImageDidLoadNotification";
+CPImageNameColorPanel = "CPImageNameColorPanel";
+CPImageNameColorPanelHighlighted = "CPImageNameColorPanelHighlighted";
+var imagesForNames = {},
+    AppKitImageForNames = {},
+    ImageDescriptionFormat = "%s {\n   filename: \"%s\",\n   size: { width:%f, height:%f }\n}";
+AppKitImageForNames[CPImageNameColorPanel] = CGSizeMake(26.0, 29.0);
+AppKitImageForNames[CPImageNameColorPanelHighlighted] = CGSizeMake(26.0, 29.0);
+CPImageInBundle = function()
+{
+    var filename = arguments[0],
+        size = nil,
+        bundle = nil;
+    if (typeof arguments[1] === "number")
+    {
+        if (arguments[1] !== nil && arguments[1] !== undefined)
+            size = CGSizeMake(arguments[1], arguments[2]);
+        bundle = arguments[3];
+    }
+    else if (typeof arguments[1] === "object")
+    {
+        size = arguments[1];
+        bundle = arguments[2];
+    }
+    if (!bundle)
+        bundle = CPBundle.isa.objj_msgSend0(CPBundle, "mainBundle");
+    if (size)
+        return ((___r1 = (CPImage == null ? null : CPImage.isa.objj_msgSend0(CPImage, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithContentsOfFile:size:", (bundle == null ? null : bundle.isa.objj_msgSend1(bundle, "pathForResource:", filename)), size));
+    return ((___r1 = (CPImage == null ? null : CPImage.isa.objj_msgSend0(CPImage, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithContentsOfFile:", (bundle == null ? null : bundle.isa.objj_msgSend1(bundle, "pathForResource:", filename))));
+    var ___r1;
+}
+CPAppKitImage = function(aFilename, aSize)
+{
+    return CPImageInBundle(aFilename, aSize, CPBundle.isa.objj_msgSend1(CPBundle, "bundleForClass:", (CPView == null ? null : CPView.isa.objj_msgSend0(CPView, "class"))));
+}
+{var the_class = objj_allocateClassPair(CPObject, "CPImage"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_size"), new objj_ivar("_filename"), new objj_ivar("_name"), new objj_ivar("_delegate"), new objj_ivar("_loadStatus"), new objj_ivar("_implementedDelegateMethods"), new objj_ivar("_image")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("init"), function $CPImage__init(self, _cmd)
+{
+    return self.isa.objj_msgSend2(self, "initByReferencingFile:size:", "", CGSizeMake(-1, -1));
+}
+,["id"]), new objj_method(sel_getUid("initByReferencingFile:size:"), function $CPImage__initByReferencingFile_size_(self, _cmd, aFilename, aSize)
+{
+    if (aFilename === undefined || aFilename === nil)
+        return nil;
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPImage").super_class }, "init");
+    if (self)
+    {
+        self._size = CGSizeMakeCopy(aSize);
+        self._filename = aFilename;
+        self._loadStatus = CPImageLoadStatusInitialized;
+    }
+    return self;
+}
+,["id","CPString","CGSize"]), new objj_method(sel_getUid("initWithContentsOfFile:size:"), function $CPImage__initWithContentsOfFile_size_(self, _cmd, aFilename, aSize)
+{
+    self = (self == null ? null : self.isa.objj_msgSend2(self, "initByReferencingFile:size:", aFilename, aSize));
+    if (self)
+        (self == null ? null : self.isa.objj_msgSend0(self, "load"));
+    return self;
+}
+,["id","CPString","CGSize"]), new objj_method(sel_getUid("initWithContentsOfFile:"), function $CPImage__initWithContentsOfFile_(self, _cmd, aFilename)
+{
+    self = (self == null ? null : self.isa.objj_msgSend2(self, "initByReferencingFile:size:", aFilename, CGSizeMake(-1, -1)));
+    if (self)
+        (self == null ? null : self.isa.objj_msgSend0(self, "load"));
+    return self;
+}
+,["id","CPString"]), new objj_method(sel_getUid("initWithData:"), function $CPImage__initWithData_(self, _cmd, someData)
+{
+    var base64 = (someData == null ? null : someData.isa.objj_msgSend0(someData, "base64")),
+        type = (base64 == null ? null : base64.isa.objj_msgSend1(base64, "hasPrefix:", "/9j/4AAQSkZJRgABAQEASABIAAD/")) ? "jpg" : "png",
+        dataURL = "data:image/" + type + ";base64," + base64;
+    return self.isa.objj_msgSend1(self, "initWithContentsOfFile:", dataURL);
+}
+,["id","CPData"]), new objj_method(sel_getUid("filename"), function $CPImage__filename(self, _cmd)
+{
+    return self._filename;
+}
+,["CPString"]), new objj_method(sel_getUid("data"), function $CPImage__data(self, _cmd)
+{
+    var dataURL;
+    if (((___r1 = self._filename), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "hasPrefix:", "data:image")))
+        dataURL = self._filename;
+    else if (CPFeatureIsCompatible(CPHTMLCanvasFeature))
+    {
+        var canvas = document.createElement("canvas"),
+            ctx = canvas.getContext("2d");
+        (canvas.width = self._image.width, canvas.height = self._image.height);
+        ctx.drawImage(self._image, 0, 0);
+        dataURL = canvas.toDataURL("image/png");
+    }
+    else
+        return nil;
+    var base64 = dataURL.replace(/^data:image\/png;base64,/, "");
+    return CPData.isa.objj_msgSend1(CPData, "dataWithBase64:", base64);
+    var ___r1;
+}
+,["CPData"]), new objj_method(sel_getUid("setSize:"), function $CPImage__setSize_(self, _cmd, aSize)
+{
+    self._size = CGSizeMakeCopy(aSize);
+}
+,["void","CGSize"]), new objj_method(sel_getUid("size"), function $CPImage__size(self, _cmd)
+{
+    return self._size;
+}
+,["CGSize"]), new objj_method(sel_getUid("setName:"), function $CPImage__setName_(self, _cmd, aName)
+{
+    if (self._name === aName)
+        return YES;
+    if (imagesForNames[aName])
+        return NO;
+    self._name = aName;
+    imagesForNames[aName] = self;
+    return YES;
+}
+,["BOOL","CPString"]), new objj_method(sel_getUid("name"), function $CPImage__name(self, _cmd)
+{
+    return self._name;
+}
+,["CPString"]), new objj_method(sel_getUid("image"), function $CPImage__image(self, _cmd)
+{
+    return self._image;
+}
+,["Image"]), new objj_method(sel_getUid("setDelegate:"), function $CPImage__setDelegate_(self, _cmd, aDelegate)
+{
+    if (self._delegate === aDelegate)
+        return;
+    self._delegate = aDelegate;
+    self._implementedDelegateMethods = 0;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("imageDidLoad:"))))
+        self._implementedDelegateMethods |= CPImageDelegate_imageDidLoad_;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("imageDidError:"))))
+        self._implementedDelegateMethods |= CPImageDelegate_imageDidError_;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("imageDidAbort:"))))
+        self._implementedDelegateMethods |= CPImageDelegate_imageDidAbort_;
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("delegate"), function $CPImage__delegate(self, _cmd)
+{
+    return self._delegate;
+}
+,["id"]), new objj_method(sel_getUid("loadStatus"), function $CPImage__loadStatus(self, _cmd)
+{
+    return self._loadStatus;
+}
+,["unsigned"]), new objj_method(sel_getUid("load"), function $CPImage__load(self, _cmd)
+{
+    if (self._loadStatus == CPImageLoadStatusLoading || self._loadStatus == CPImageLoadStatusCompleted)
+        return;
+    self._loadStatus = CPImageLoadStatusLoading;
+    self._image = new Image();
+    var isSynchronous = YES;
+    self._image.onload = function()
+    {
+        if (isSynchronous)
+            window.setTimeout(function()
+            {
+                self.isa.objj_msgSend0(self, "_imageDidLoad");
+            }, 0);
+        else
+        {
+            self.isa.objj_msgSend0(self, "_imageDidLoad");
+            ((___r1 = CPRunLoop.isa.objj_msgSend0(CPRunLoop, "currentRunLoop")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "limitDateForMode:", CPDefaultRunLoopMode));
+        }
+        self.isa.objj_msgSend0(self, "_derefFromImage");
+        var ___r1;
+    };
+    self._image.onerror = function()
+    {
+        if (isSynchronous)
+            window.setTimeout(function()
+            {
+                self.isa.objj_msgSend0(self, "_imageDidError");
+            }, 0);
+        else
+        {
+            self.isa.objj_msgSend0(self, "_imageDidError");
+            ((___r1 = CPRunLoop.isa.objj_msgSend0(CPRunLoop, "currentRunLoop")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "limitDateForMode:", CPDefaultRunLoopMode));
+        }
+        self.isa.objj_msgSend0(self, "_derefFromImage");
+        var ___r1;
+    };
+    self._image.onabort = function()
+    {
+        if (isSynchronous)
+            window.setTimeout(function()
+            {
+                self.isa.objj_msgSend0(self, "_imageDidAbort");
+            }, 0);
+        else
+        {
+            self.isa.objj_msgSend0(self, "_imageDidAbort");
+            ((___r1 = CPRunLoop.isa.objj_msgSend0(CPRunLoop, "currentRunLoop")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "limitDateForMode:", CPDefaultRunLoopMode));
+        }
+        self.isa.objj_msgSend0(self, "_derefFromImage");
+        var ___r1;
+    };
+    self._image.src = self._filename;
+    window.setTimeout(function()
+    {
+        isSynchronous = NO;
+    }, 0);
+}
+,["void"]), new objj_method(sel_getUid("isSingleImage"), function $CPImage__isSingleImage(self, _cmd)
+{
+    return YES;
+}
+,["BOOL"]), new objj_method(sel_getUid("isThreePartImage"), function $CPImage__isThreePartImage(self, _cmd)
+{
+    return NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("isNinePartImage"), function $CPImage__isNinePartImage(self, _cmd)
+{
+    return NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("description"), function $CPImage__description(self, _cmd)
+{
+    var filename = self.isa.objj_msgSend0(self, "filename"),
+        size = self.isa.objj_msgSend0(self, "size");
+    if (filename.indexOf("data:") === 0)
+    {
+        var index = filename.indexOf(",");
+        if (index > 0)
+            filename = CPString.isa.objj_msgSend(CPString, "stringWithFormat:", "%s,%s...%s", filename.substr(0, index), filename.substr(index + 1, 10), filename.substr(filename.length - 10));
+        else
+            filename = "data:<unknown type>";
+    }
+    return CPString.isa.objj_msgSend(CPString, "stringWithFormat:", ImageDescriptionFormat, objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPImage").super_class }, "description"), filename, size.width, size.height);
+}
+,["CPString"]), new objj_method(sel_getUid("_derefFromImage"), function $CPImage___derefFromImage(self, _cmd)
+{
+    self._image.onload = null;
+    self._image.onerror = null;
+    self._image.onabort = null;
+}
+,["void"]), new objj_method(sel_getUid("_imageDidLoad"), function $CPImage___imageDidLoad(self, _cmd)
+{
+    self._loadStatus = CPImageLoadStatusCompleted;
+    if (!self._size || self._size.width == -1 && self._size.height == -1)
+        self._size = CGSizeMake(self._image.width, self._image.height);
+    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "postNotificationName:object:", CPImageDidLoadNotification, self));
+    if (self._implementedDelegateMethods & CPImageDelegate_imageDidLoad_)
+        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "imageDidLoad:", self));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_imageDidError"), function $CPImage___imageDidError(self, _cmd)
+{
+    self._loadStatus = CPImageLoadStatusReadError;
+    if (self._implementedDelegateMethods & CPImageDelegate_imageDidError_)
+        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "imageDidError:", self));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_imageDidAbort"), function $CPImage___imageDidAbort(self, _cmd)
+{
+    self._loadStatus = CPImageLoadStatusCancelled;
+    if (self._implementedDelegateMethods & CPImageDelegate_imageDidAbort_)
+        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "imageDidAbort:", self));
+    var ___r1;
+}
+,["void"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("imageNamed:"), function $CPImage__imageNamed_(self, _cmd, aName)
+{
+    var image = imagesForNames[aName];
+    if (image)
+        return image;
+    var imageOrSize = AppKitImageForNames[aName];
+    if (!imageOrSize)
+        return nil;
+    if (!imageOrSize.isa)
+    {
+        imageOrSize = CPAppKitImage("CPImage/" + aName + ".png", imageOrSize);
+        (imageOrSize == null ? null : imageOrSize.isa.objj_msgSend1(imageOrSize, "setName:", aName));
+        AppKitImageForNames[aName] = imageOrSize;
+    }
+    return imageOrSize;
+}
+,["id","CPString"])]);
+}{
+var the_class = objj_getClass("CPImage")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPImage\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPImage__initWithCoder_(self, _cmd, aCoder)
+{
+    return self.isa.objj_msgSend2(self, "initWithContentsOfFile:size:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", "CPFilename")), (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeSizeForKey:", "CPSize")));
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPImage__encodeWithCoder_(self, _cmd, aCoder)
+{
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._filename, "CPFilename"));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeSize:forKey:", self._size, "CPSize"));
+}
+,["void","CPCoder"])]);
+}{var the_class = objj_allocateClassPair(CPObject, "CPThreePartImage"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_imageSlices"), new objj_ivar("_isVertical")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithImageSlices:isVertical:"), function $CPThreePartImage__initWithImageSlices_isVertical_(self, _cmd, imageSlices, isVertical)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPThreePartImage").super_class }, "init");
+    if (self)
+    {
+        self._imageSlices = imageSlices;
+        self._isVertical = isVertical;
+    }
+    return self;
+}
+,["id","CPArray","BOOL"]), new objj_method(sel_getUid("filename"), function $CPThreePartImage__filename(self, _cmd)
+{
+    return "";
+}
+,["CPString"]), new objj_method(sel_getUid("imageSlices"), function $CPThreePartImage__imageSlices(self, _cmd)
+{
+    return self._imageSlices;
+}
+,["CPArray"]), new objj_method(sel_getUid("isVertical"), function $CPThreePartImage__isVertical(self, _cmd)
+{
+    return self._isVertical;
+}
+,["BOOL"]), new objj_method(sel_getUid("isSingleImage"), function $CPThreePartImage__isSingleImage(self, _cmd)
+{
+    return NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("isThreePartImage"), function $CPThreePartImage__isThreePartImage(self, _cmd)
+{
+    return YES;
+}
+,["BOOL"]), new objj_method(sel_getUid("isNinePartImage"), function $CPThreePartImage__isNinePartImage(self, _cmd)
+{
+    return NO;
+}
+,["BOOL"])]);
+}var CPThreePartImageImageSlicesKey = "CPThreePartImageImageSlicesKey",
+    CPThreePartImageIsVerticalKey = "CPThreePartImageIsVerticalKey";
+{
+var the_class = objj_getClass("CPThreePartImage")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPThreePartImage\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPThreePartImage__initWithCoder_(self, _cmd, aCoder)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPThreePartImage").super_class }, "init");
+    if (self)
+    {
+        self._imageSlices = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPThreePartImageImageSlicesKey));
+        self._isVertical = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPThreePartImageIsVerticalKey));
+    }
+    return self;
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPThreePartImage__encodeWithCoder_(self, _cmd, aCoder)
+{
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._imageSlices, CPThreePartImageImageSlicesKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._isVertical, CPThreePartImageIsVerticalKey));
+}
+,["void","CPCoder"])]);
+}{var the_class = objj_allocateClassPair(CPObject, "CPNinePartImage"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_imageSlices")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithImageSlices:"), function $CPNinePartImage__initWithImageSlices_(self, _cmd, imageSlices)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPNinePartImage").super_class }, "init");
+    if (self)
+        self._imageSlices = imageSlices;
+    return self;
+}
+,["id","CPArray"]), new objj_method(sel_getUid("filename"), function $CPNinePartImage__filename(self, _cmd)
+{
+    return "";
+}
+,["CPString"]), new objj_method(sel_getUid("imageSlices"), function $CPNinePartImage__imageSlices(self, _cmd)
+{
+    return self._imageSlices;
+}
+,["CPArray"]), new objj_method(sel_getUid("isSingleImage"), function $CPNinePartImage__isSingleImage(self, _cmd)
+{
+    return NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("isThreePartImage"), function $CPNinePartImage__isThreePartImage(self, _cmd)
+{
+    return NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("isNinePartImage"), function $CPNinePartImage__isNinePartImage(self, _cmd)
+{
+    return YES;
+}
+,["BOOL"])]);
+}var CPNinePartImageImageSlicesKey = "CPNinePartImageImageSlicesKey";
+{
+var the_class = objj_getClass("CPNinePartImage")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPNinePartImage\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPNinePartImage__initWithCoder_(self, _cmd, aCoder)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPNinePartImage").super_class }, "init");
+    if (self)
+        self._imageSlices = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPNinePartImageImageSlicesKey));
+    return self;
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPNinePartImage__encodeWithCoder_(self, _cmd, aCoder)
+{
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._imageSlices, CPNinePartImageImageSlicesKey));
+}
+,["void","CPCoder"])]);
+}p;17;_CPMenuItemView.jt;12194;@STATIC;1.0;i;11;CPControl.ji;26;_CPMenuItemSeparatorView.ji;25;_CPMenuItemStandardView.ji;24;_CPMenuItemMenuBarView.jt;12068;objj_executeFile("CPControl.j", YES);objj_executeFile("_CPMenuItemSeparatorView.j", YES);objj_executeFile("_CPMenuItemStandardView.j", YES);objj_executeFile("_CPMenuItemMenuBarView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuItem"), new objj_ivar("_view"), new objj_ivar("_font"), new objj_ivar("_textColor"), new objj_ivar("_textShadowColor"), new objj_ivar("_minSize"), new objj_ivar("_isDirty"), new objj_ivar("_showsStateColumn"), new objj_ivar("_imageAndTextView"), new objj_ivar("_submenuView")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("view"), function $_CPMenuItemView__view(self, _cmd)
+{
+    return self._view;
+}
+,["CPView"]), new objj_method(sel_getUid("initWithFrame:forMenuItem:"), function $_CPMenuItemView__initWithFrame_forMenuItem_(self, _cmd, aFrame, aMenuItem)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemView").super_class }, "initWithFrame:", aFrame);
+    if (self)
+    {
+        self._menuItem = aMenuItem;
+        self._showsStateColumn = YES;
+        self._isDirty = YES;
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable));
+        (self == null ? null : self.isa.objj_msgSend0(self, "synchronizeWithMenuItem"));
+    }
+    return self;
+}
+,["id","CGRect","CPMenuItem"]), new objj_method(sel_getUid("minSize"), function $_CPMenuItemView__minSize(self, _cmd)
+{
+    return self._minSize;
+}
+,["CGSize"]), new objj_method(sel_getUid("setDirty"), function $_CPMenuItemView__setDirty(self, _cmd)
+{
+    self._isDirty = YES;
+}
+,["void"]), new objj_method(sel_getUid("synchronizeWithMenuItem"), function $_CPMenuItemView__synchronizeWithMenuItem(self, _cmd)
+{
+    var menuItemView = ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "view"));
+    if (((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isSeparatorItem")))
+    {
+        if (!((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isKindOfClass:", _CPMenuItemSeparatorView.isa.objj_msgSend0(_CPMenuItemSeparatorView, "class"))))
+        {
+            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+            self._view = _CPMenuItemSeparatorView.isa.objj_msgSend0(_CPMenuItemSeparatorView, "view");
+        }
+    }
+    else if (menuItemView)
+    {
+        if (self._view !== menuItemView)
+        {
+            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+            self._view = menuItemView;
+        }
+    }
+    else if (((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "menu")) == (CPApp == null ? null : CPApp.isa.objj_msgSend0(CPApp, "mainMenu")))
+    {
+        if (!((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isKindOfClass:", _CPMenuItemMenuBarView.isa.objj_msgSend0(_CPMenuItemMenuBarView, "class"))))
+        {
+            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+            self._view = _CPMenuItemMenuBarView.isa.objj_msgSend0(_CPMenuItemMenuBarView, "view");
+        }
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setMenuItem:", self._menuItem));
+    }
+    else
+    {
+        if (!((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isKindOfClass:", _CPMenuItemStandardView.isa.objj_msgSend0(_CPMenuItemStandardView, "class"))))
+        {
+            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+            self._view = _CPMenuItemStandardView.isa.objj_msgSend0(_CPMenuItemStandardView, "view");
+        }
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setMenuItem:", self._menuItem));
+    }
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "superview")) !== self)
+        self.isa.objj_msgSend1(self, "addSubview:", self._view);
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("update"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "update"));
+    self._minSize = ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")).size;
+    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
+    self.isa.objj_msgSend1(self, "setFrameSize:", self._minSize);
+    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("setShowsStateColumn:"), function $_CPMenuItemView__setShowsStateColumn_(self, _cmd, shouldShowStateColumn)
+{
+    self._showsStateColumn = shouldShowStateColumn;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("highlight:"), function $_CPMenuItemView__highlight_(self, _cmd, shouldHighlight)
+{
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("highlight:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "highlight:", shouldHighlight));
+    var ___r1;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("eventOnSubmenu:"), function $_CPMenuItemView__eventOnSubmenu_(self, _cmd, anEvent)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hasSubmenu")))
+        return NO;
+    return CGRectContainsPoint(((___r1 = self._submenuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")), self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil));
+    var ___r1;
+}
+,["BOOL","CPEvent"]), new objj_method(sel_getUid("isHidden"), function $_CPMenuItemView__isHidden(self, _cmd)
+{
+    return ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
+    var ___r1;
+}
+,["BOOL"]), new objj_method(sel_getUid("menuItem"), function $_CPMenuItemView__menuItem(self, _cmd)
+{
+    return self._menuItem;
+}
+,["CPMenuItem"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuItemView__setFont_(self, _cmd, aFont)
+{
+    if (((___r1 = self._font), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isEqual:", aFont)))
+        return;
+    self._font = aFont;
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setFont:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", aFont));
+    self.isa.objj_msgSend0(self, "setDirty");
+    var ___r1;
+}
+,["void","CPFont"]), new objj_method(sel_getUid("setTextColor:"), function $_CPMenuItemView__setTextColor_(self, _cmd, aColor)
+{
+    if (self._textColor == aColor)
+        return;
+    self._textColor = aColor;
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
+    ((___r1 = self._submenuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", self.isa.objj_msgSend0(self, "textColor")));
+    var ___r1;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemView__textColor(self, _cmd)
+{
+    return nil;
+}
+,["CPColor"]), new objj_method(sel_getUid("setTextShadowColor:"), function $_CPMenuItemView__setTextShadowColor_(self, _cmd, aColor)
+{
+    if (self._textShadowColor == aColor)
+        return;
+    self._textShadowColor = aColor;
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
+    var ___r1;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemView__textShadowColor(self, _cmd)
+{
+    return ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")) ? self._textShadowColor ? self._textShadowColor : CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 1.0, 0.8) : CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 0.8, 0.8);
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("setParentMenuHighlightColor:"), function $_CPMenuItemView__setParentMenuHighlightColor_(self, _cmd, aColor)
+{
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setHighlightColor:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHighlightColor:", aColor));
+    var ___r1;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuHighlightTextColor:"), function $_CPMenuItemView__setParentMenuHighlightTextColor_(self, _cmd, aColor)
+{
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setHighlightTextColor:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHighlightTextColor:", aColor));
+    var ___r1;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuHighlightTextShadowColor:"), function $_CPMenuItemView__setParentMenuHighlightTextShadowColor_(self, _cmd, aColor)
+{
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setHighlightTextShadowColor:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHighlightTextShadowColor:", aColor));
+    var ___r1;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuTextColor:"), function $_CPMenuItemView__setParentMenuTextColor_(self, _cmd, aColor)
+{
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setTextColor:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", aColor));
+    var ___r1;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuTextShadowColor:"), function $_CPMenuItemView__setParentMenuTextShadowColor_(self, _cmd, aColor)
+{
+    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setTextShadowColor:"))))
+        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", aColor));
+    var ___r1;
+}
+,["void","CPColor"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuItemView__defaultThemeClass(self, _cmd)
+{
+    return "menu-item-view";
+}
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuItemView__themeAttributes(self, _cmd)
+{
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init");
+}
+,["CPDictionary"])]);
+}{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemArrowView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_color")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("setColor:"), function $_CPMenuItemArrowView__setColor_(self, _cmd, aColor)
+{
+    if (self._color == aColor)
+        return;
+    self._color = aColor;
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+}
+,["void","CPColor"]), new objj_method(sel_getUid("drawRect:"), function $_CPMenuItemArrowView__drawRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
+    CGContextBeginPath(context);
+    CGContextMoveToPoint(context, 1.0, 4.0);
+    CGContextAddLineToPoint(context, 9.0, 4.0);
+    CGContextAddLineToPoint(context, 5.0, 8.0);
+    CGContextClosePath(context);
+    CGContextSetFillColor(context, self._color);
+    CGContextFillPath(context);
+    var ___r1;
+}
+,["void","CGRect"])]);
+}p;26;_CPMenuItemSeparatorView.jt;1859;@STATIC;1.0;i;8;CPView.jt;1828;objj_executeFile("CPView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemSeparatorView"),
+meta_class = the_class.isa;objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $_CPMenuItemSeparatorView__initWithFrame_(self, _cmd, aFrame)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemSeparatorView").super_class }, "initWithFrame:", aFrame);
+    if (self)
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable));
+    return self;
+}
+,["id","CGRect"]), new objj_method(sel_getUid("drawRect:"), function $_CPMenuItemSeparatorView__drawRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
+        bounds = self.isa.objj_msgSend0(self, "bounds");
+    CGContextBeginPath(context);
+    CGContextMoveToPoint(context, CGRectGetMinX(bounds), FLOOR(CGRectGetMidY(bounds)) - 0.5);
+    CGContextAddLineToPoint(context, CGRectGetMaxX(bounds), FLOOR(CGRectGetMidY(bounds)) - 0.5);
+    CGContextSetStrokeColor(context, ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-item-separator-color", _CPMenuItemStandardView)));
+    CGContextStrokePath(context);
+    var ___r1;
+}
+,["void","CGRect"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("view"), function $_CPMenuItemSeparatorView__view(self, _cmd)
+{
+    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 10.0)));
+    var ___r1;
+}
+,["id"])]);
+}p;9;CPTheme.jt;26399;@STATIC;1.0;I;21;Foundation/CPObject.jI;27;Foundation/CPMutableArray.jI;21;Foundation/CPString.jI;30;Foundation/CPKeyedUnarchiver.jt;26260;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPMutableArray.j", NO);objj_executeFile("Foundation/CPString.j", NO);objj_executeFile("Foundation/CPKeyedUnarchiver.j", NO);var CPThemesByName = {},
     CPThemeDefaultTheme = nil,
     CPThemeDefaultHudTheme = nil;
 {var the_class = objj_allocateClassPair(CPObject, "CPTheme"),
@@ -9840,416 +11970,6 @@ class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), f
     var ___r1;
 }
 ,["id","CPView","CPShadowWeight"])]);
-}p;9;CPImage.jt;19835;@STATIC;1.0;I;21;Foundation/CPBundle.jI;33;Foundation/CPNotificationCenter.jI;21;Foundation/CPObject.jI;22;Foundation/CPRunLoop.jI;21;Foundation/CPString.jI;19;Foundation/CPData.ji;12;CGGeometry.ji;17;CPCompatibility.jt;19609;objj_executeFile("Foundation/CPBundle.j", NO);objj_executeFile("Foundation/CPNotificationCenter.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPRunLoop.j", NO);objj_executeFile("Foundation/CPString.j", NO);objj_executeFile("Foundation/CPData.j", NO);objj_executeFile("CGGeometry.j", YES);objj_executeFile("CPCompatibility.j", YES);{var the_protocol = objj_allocateProtocol("CPImageDelegate");
-var aProtocol = objj_getProtocol("CPObject");
-if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPImageDelegate\"");
-protocol_addProtocol(the_protocol, aProtocol);
-objj_registerProtocol(the_protocol);
-}var CPImageDelegate_imageDidLoad_ = 1 << 1,
-    CPImageDelegate_imageDidError_ = 1 << 2,
-    CPImageDelegate_imageDidAbort_ = 1 << 3;
-CPImageLoadStatusInitialized = 0;
-CPImageLoadStatusLoading = 1;
-CPImageLoadStatusCompleted = 2;
-CPImageLoadStatusCancelled = 3;
-CPImageLoadStatusInvalidData = 4;
-CPImageLoadStatusUnexpectedEOF = 5;
-CPImageLoadStatusReadError = 6;
-CPImageDidLoadNotification = "CPImageDidLoadNotification";
-CPImageNameColorPanel = "CPImageNameColorPanel";
-CPImageNameColorPanelHighlighted = "CPImageNameColorPanelHighlighted";
-var imagesForNames = {},
-    AppKitImageForNames = {},
-    ImageDescriptionFormat = "%s {\n   filename: \"%s\",\n   size: { width:%f, height:%f }\n}";
-AppKitImageForNames[CPImageNameColorPanel] = CGSizeMake(26.0, 29.0);
-AppKitImageForNames[CPImageNameColorPanelHighlighted] = CGSizeMake(26.0, 29.0);
-CPImageInBundle = function()
-{
-    var filename = arguments[0],
-        size = nil,
-        bundle = nil;
-    if (typeof arguments[1] === "number")
-    {
-        if (arguments[1] !== nil && arguments[1] !== undefined)
-            size = CGSizeMake(arguments[1], arguments[2]);
-        bundle = arguments[3];
-    }
-    else if (typeof arguments[1] === "object")
-    {
-        size = arguments[1];
-        bundle = arguments[2];
-    }
-    if (!bundle)
-        bundle = CPBundle.isa.objj_msgSend0(CPBundle, "mainBundle");
-    if (size)
-        return ((___r1 = (CPImage == null ? null : CPImage.isa.objj_msgSend0(CPImage, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithContentsOfFile:size:", (bundle == null ? null : bundle.isa.objj_msgSend1(bundle, "pathForResource:", filename)), size));
-    return ((___r1 = (CPImage == null ? null : CPImage.isa.objj_msgSend0(CPImage, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithContentsOfFile:", (bundle == null ? null : bundle.isa.objj_msgSend1(bundle, "pathForResource:", filename))));
-    var ___r1;
-}
-CPAppKitImage = function(aFilename, aSize)
-{
-    return CPImageInBundle(aFilename, aSize, CPBundle.isa.objj_msgSend1(CPBundle, "bundleForClass:", (CPView == null ? null : CPView.isa.objj_msgSend0(CPView, "class"))));
-}
-{var the_class = objj_allocateClassPair(CPObject, "CPImage"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_size"), new objj_ivar("_filename"), new objj_ivar("_name"), new objj_ivar("_delegate"), new objj_ivar("_loadStatus"), new objj_ivar("_implementedDelegateMethods"), new objj_ivar("_image")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("init"), function $CPImage__init(self, _cmd)
-{
-    return self.isa.objj_msgSend2(self, "initByReferencingFile:size:", "", CGSizeMake(-1, -1));
-}
-,["id"]), new objj_method(sel_getUid("initByReferencingFile:size:"), function $CPImage__initByReferencingFile_size_(self, _cmd, aFilename, aSize)
-{
-    if (aFilename === undefined || aFilename === nil)
-        return nil;
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPImage").super_class }, "init");
-    if (self)
-    {
-        self._size = CGSizeMakeCopy(aSize);
-        self._filename = aFilename;
-        self._loadStatus = CPImageLoadStatusInitialized;
-    }
-    return self;
-}
-,["id","CPString","CGSize"]), new objj_method(sel_getUid("initWithContentsOfFile:size:"), function $CPImage__initWithContentsOfFile_size_(self, _cmd, aFilename, aSize)
-{
-    self = (self == null ? null : self.isa.objj_msgSend2(self, "initByReferencingFile:size:", aFilename, aSize));
-    if (self)
-        (self == null ? null : self.isa.objj_msgSend0(self, "load"));
-    return self;
-}
-,["id","CPString","CGSize"]), new objj_method(sel_getUid("initWithContentsOfFile:"), function $CPImage__initWithContentsOfFile_(self, _cmd, aFilename)
-{
-    self = (self == null ? null : self.isa.objj_msgSend2(self, "initByReferencingFile:size:", aFilename, CGSizeMake(-1, -1)));
-    if (self)
-        (self == null ? null : self.isa.objj_msgSend0(self, "load"));
-    return self;
-}
-,["id","CPString"]), new objj_method(sel_getUid("initWithData:"), function $CPImage__initWithData_(self, _cmd, someData)
-{
-    var base64 = (someData == null ? null : someData.isa.objj_msgSend0(someData, "base64")),
-        type = (base64 == null ? null : base64.isa.objj_msgSend1(base64, "hasPrefix:", "/9j/4AAQSkZJRgABAQEASABIAAD/")) ? "jpg" : "png",
-        dataURL = "data:image/" + type + ";base64," + base64;
-    return self.isa.objj_msgSend1(self, "initWithContentsOfFile:", dataURL);
-}
-,["id","CPData"]), new objj_method(sel_getUid("filename"), function $CPImage__filename(self, _cmd)
-{
-    return self._filename;
-}
-,["CPString"]), new objj_method(sel_getUid("data"), function $CPImage__data(self, _cmd)
-{
-    var dataURL;
-    if (((___r1 = self._filename), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "hasPrefix:", "data:image")))
-        dataURL = self._filename;
-    else if (CPFeatureIsCompatible(CPHTMLCanvasFeature))
-    {
-        var canvas = document.createElement("canvas"),
-            ctx = canvas.getContext("2d");
-        (canvas.width = self._image.width, canvas.height = self._image.height);
-        ctx.drawImage(self._image, 0, 0);
-        dataURL = canvas.toDataURL("image/png");
-    }
-    else
-        return nil;
-    var base64 = dataURL.replace(/^data:image\/png;base64,/, "");
-    return CPData.isa.objj_msgSend1(CPData, "dataWithBase64:", base64);
-    var ___r1;
-}
-,["CPData"]), new objj_method(sel_getUid("setSize:"), function $CPImage__setSize_(self, _cmd, aSize)
-{
-    self._size = CGSizeMakeCopy(aSize);
-}
-,["void","CGSize"]), new objj_method(sel_getUid("size"), function $CPImage__size(self, _cmd)
-{
-    return self._size;
-}
-,["CGSize"]), new objj_method(sel_getUid("setName:"), function $CPImage__setName_(self, _cmd, aName)
-{
-    if (self._name === aName)
-        return YES;
-    if (imagesForNames[aName])
-        return NO;
-    self._name = aName;
-    imagesForNames[aName] = self;
-    return YES;
-}
-,["BOOL","CPString"]), new objj_method(sel_getUid("name"), function $CPImage__name(self, _cmd)
-{
-    return self._name;
-}
-,["CPString"]), new objj_method(sel_getUid("image"), function $CPImage__image(self, _cmd)
-{
-    return self._image;
-}
-,["Image"]), new objj_method(sel_getUid("setDelegate:"), function $CPImage__setDelegate_(self, _cmd, aDelegate)
-{
-    if (self._delegate === aDelegate)
-        return;
-    self._delegate = aDelegate;
-    self._implementedDelegateMethods = 0;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("imageDidLoad:"))))
-        self._implementedDelegateMethods |= CPImageDelegate_imageDidLoad_;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("imageDidError:"))))
-        self._implementedDelegateMethods |= CPImageDelegate_imageDidError_;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("imageDidAbort:"))))
-        self._implementedDelegateMethods |= CPImageDelegate_imageDidAbort_;
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("delegate"), function $CPImage__delegate(self, _cmd)
-{
-    return self._delegate;
-}
-,["id"]), new objj_method(sel_getUid("loadStatus"), function $CPImage__loadStatus(self, _cmd)
-{
-    return self._loadStatus;
-}
-,["unsigned"]), new objj_method(sel_getUid("load"), function $CPImage__load(self, _cmd)
-{
-    if (self._loadStatus == CPImageLoadStatusLoading || self._loadStatus == CPImageLoadStatusCompleted)
-        return;
-    self._loadStatus = CPImageLoadStatusLoading;
-    self._image = new Image();
-    var isSynchronous = YES;
-    self._image.onload = function()
-    {
-        if (isSynchronous)
-            window.setTimeout(function()
-            {
-                self.isa.objj_msgSend0(self, "_imageDidLoad");
-            }, 0);
-        else
-        {
-            self.isa.objj_msgSend0(self, "_imageDidLoad");
-            ((___r1 = CPRunLoop.isa.objj_msgSend0(CPRunLoop, "currentRunLoop")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "limitDateForMode:", CPDefaultRunLoopMode));
-        }
-        self.isa.objj_msgSend0(self, "_derefFromImage");
-        var ___r1;
-    };
-    self._image.onerror = function()
-    {
-        if (isSynchronous)
-            window.setTimeout(function()
-            {
-                self.isa.objj_msgSend0(self, "_imageDidError");
-            }, 0);
-        else
-        {
-            self.isa.objj_msgSend0(self, "_imageDidError");
-            ((___r1 = CPRunLoop.isa.objj_msgSend0(CPRunLoop, "currentRunLoop")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "limitDateForMode:", CPDefaultRunLoopMode));
-        }
-        self.isa.objj_msgSend0(self, "_derefFromImage");
-        var ___r1;
-    };
-    self._image.onabort = function()
-    {
-        if (isSynchronous)
-            window.setTimeout(function()
-            {
-                self.isa.objj_msgSend0(self, "_imageDidAbort");
-            }, 0);
-        else
-        {
-            self.isa.objj_msgSend0(self, "_imageDidAbort");
-            ((___r1 = CPRunLoop.isa.objj_msgSend0(CPRunLoop, "currentRunLoop")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "limitDateForMode:", CPDefaultRunLoopMode));
-        }
-        self.isa.objj_msgSend0(self, "_derefFromImage");
-        var ___r1;
-    };
-    self._image.src = self._filename;
-    window.setTimeout(function()
-    {
-        isSynchronous = NO;
-    }, 0);
-}
-,["void"]), new objj_method(sel_getUid("isSingleImage"), function $CPImage__isSingleImage(self, _cmd)
-{
-    return YES;
-}
-,["BOOL"]), new objj_method(sel_getUid("isThreePartImage"), function $CPImage__isThreePartImage(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("isNinePartImage"), function $CPImage__isNinePartImage(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("description"), function $CPImage__description(self, _cmd)
-{
-    var filename = self.isa.objj_msgSend0(self, "filename"),
-        size = self.isa.objj_msgSend0(self, "size");
-    if (filename.indexOf("data:") === 0)
-    {
-        var index = filename.indexOf(",");
-        if (index > 0)
-            filename = CPString.isa.objj_msgSend(CPString, "stringWithFormat:", "%s,%s...%s", filename.substr(0, index), filename.substr(index + 1, 10), filename.substr(filename.length - 10));
-        else
-            filename = "data:<unknown type>";
-    }
-    return CPString.isa.objj_msgSend(CPString, "stringWithFormat:", ImageDescriptionFormat, objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPImage").super_class }, "description"), filename, size.width, size.height);
-}
-,["CPString"]), new objj_method(sel_getUid("_derefFromImage"), function $CPImage___derefFromImage(self, _cmd)
-{
-    self._image.onload = null;
-    self._image.onerror = null;
-    self._image.onabort = null;
-}
-,["void"]), new objj_method(sel_getUid("_imageDidLoad"), function $CPImage___imageDidLoad(self, _cmd)
-{
-    self._loadStatus = CPImageLoadStatusCompleted;
-    if (!self._size || self._size.width == -1 && self._size.height == -1)
-        self._size = CGSizeMake(self._image.width, self._image.height);
-    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "postNotificationName:object:", CPImageDidLoadNotification, self));
-    if (self._implementedDelegateMethods & CPImageDelegate_imageDidLoad_)
-        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "imageDidLoad:", self));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_imageDidError"), function $CPImage___imageDidError(self, _cmd)
-{
-    self._loadStatus = CPImageLoadStatusReadError;
-    if (self._implementedDelegateMethods & CPImageDelegate_imageDidError_)
-        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "imageDidError:", self));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_imageDidAbort"), function $CPImage___imageDidAbort(self, _cmd)
-{
-    self._loadStatus = CPImageLoadStatusCancelled;
-    if (self._implementedDelegateMethods & CPImageDelegate_imageDidAbort_)
-        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "imageDidAbort:", self));
-    var ___r1;
-}
-,["void"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("imageNamed:"), function $CPImage__imageNamed_(self, _cmd, aName)
-{
-    var image = imagesForNames[aName];
-    if (image)
-        return image;
-    var imageOrSize = AppKitImageForNames[aName];
-    if (!imageOrSize)
-        return nil;
-    if (!imageOrSize.isa)
-    {
-        imageOrSize = CPAppKitImage("CPImage/" + aName + ".png", imageOrSize);
-        (imageOrSize == null ? null : imageOrSize.isa.objj_msgSend1(imageOrSize, "setName:", aName));
-        AppKitImageForNames[aName] = imageOrSize;
-    }
-    return imageOrSize;
-}
-,["id","CPString"])]);
-}{
-var the_class = objj_getClass("CPImage")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPImage\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPImage__initWithCoder_(self, _cmd, aCoder)
-{
-    return self.isa.objj_msgSend2(self, "initWithContentsOfFile:size:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", "CPFilename")), (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeSizeForKey:", "CPSize")));
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPImage__encodeWithCoder_(self, _cmd, aCoder)
-{
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._filename, "CPFilename"));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeSize:forKey:", self._size, "CPSize"));
-}
-,["void","CPCoder"])]);
-}{var the_class = objj_allocateClassPair(CPObject, "CPThreePartImage"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_imageSlices"), new objj_ivar("_isVertical")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithImageSlices:isVertical:"), function $CPThreePartImage__initWithImageSlices_isVertical_(self, _cmd, imageSlices, isVertical)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPThreePartImage").super_class }, "init");
-    if (self)
-    {
-        self._imageSlices = imageSlices;
-        self._isVertical = isVertical;
-    }
-    return self;
-}
-,["id","CPArray","BOOL"]), new objj_method(sel_getUid("filename"), function $CPThreePartImage__filename(self, _cmd)
-{
-    return "";
-}
-,["CPString"]), new objj_method(sel_getUid("imageSlices"), function $CPThreePartImage__imageSlices(self, _cmd)
-{
-    return self._imageSlices;
-}
-,["CPArray"]), new objj_method(sel_getUid("isVertical"), function $CPThreePartImage__isVertical(self, _cmd)
-{
-    return self._isVertical;
-}
-,["BOOL"]), new objj_method(sel_getUid("isSingleImage"), function $CPThreePartImage__isSingleImage(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("isThreePartImage"), function $CPThreePartImage__isThreePartImage(self, _cmd)
-{
-    return YES;
-}
-,["BOOL"]), new objj_method(sel_getUid("isNinePartImage"), function $CPThreePartImage__isNinePartImage(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"])]);
-}var CPThreePartImageImageSlicesKey = "CPThreePartImageImageSlicesKey",
-    CPThreePartImageIsVerticalKey = "CPThreePartImageIsVerticalKey";
-{
-var the_class = objj_getClass("CPThreePartImage")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPThreePartImage\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPThreePartImage__initWithCoder_(self, _cmd, aCoder)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPThreePartImage").super_class }, "init");
-    if (self)
-    {
-        self._imageSlices = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPThreePartImageImageSlicesKey));
-        self._isVertical = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPThreePartImageIsVerticalKey));
-    }
-    return self;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPThreePartImage__encodeWithCoder_(self, _cmd, aCoder)
-{
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._imageSlices, CPThreePartImageImageSlicesKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._isVertical, CPThreePartImageIsVerticalKey));
-}
-,["void","CPCoder"])]);
-}{var the_class = objj_allocateClassPair(CPObject, "CPNinePartImage"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_imageSlices")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithImageSlices:"), function $CPNinePartImage__initWithImageSlices_(self, _cmd, imageSlices)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPNinePartImage").super_class }, "init");
-    if (self)
-        self._imageSlices = imageSlices;
-    return self;
-}
-,["id","CPArray"]), new objj_method(sel_getUid("filename"), function $CPNinePartImage__filename(self, _cmd)
-{
-    return "";
-}
-,["CPString"]), new objj_method(sel_getUid("imageSlices"), function $CPNinePartImage__imageSlices(self, _cmd)
-{
-    return self._imageSlices;
-}
-,["CPArray"]), new objj_method(sel_getUid("isSingleImage"), function $CPNinePartImage__isSingleImage(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("isThreePartImage"), function $CPNinePartImage__isThreePartImage(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("isNinePartImage"), function $CPNinePartImage__isNinePartImage(self, _cmd)
-{
-    return YES;
-}
-,["BOOL"])]);
-}var CPNinePartImageImageSlicesKey = "CPNinePartImageImageSlicesKey";
-{
-var the_class = objj_getClass("CPNinePartImage")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPNinePartImage\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPNinePartImage__initWithCoder_(self, _cmd, aCoder)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPNinePartImage").super_class }, "init");
-    if (self)
-        self._imageSlices = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPNinePartImageImageSlicesKey));
-    return self;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPNinePartImage__encodeWithCoder_(self, _cmd, aCoder)
-{
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._imageSlices, CPNinePartImageImageSlicesKey));
-}
-,["void","CPCoder"])]);
 }p;10;CPButton.jt;39834;@STATIC;1.0;i;21;_CPImageAndTextView.ji;12;CGGeometry.ji;11;CPControl.ji;17;CPStringDrawing.ji;8;CPText.ji;20;CPWindow_Constants.jt;39696;objj_executeFile("_CPImageAndTextView.j", YES);objj_executeFile("CGGeometry.j", YES);objj_executeFile("CPControl.j", YES);objj_executeFile("CPStringDrawing.j", YES);objj_executeFile("CPText.j", YES);objj_executeFile("CPWindow_Constants.j", YES);{var the_typedef = objj_allocateTypeDef("CPBezelStyle");
 objj_registerTypeDef(the_typedef);
 }CPRoundedBezelStyle = 1;
@@ -12269,993 +13989,518 @@ var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_
     return self;
 }
 ,["id","CPCoder"])]);
-}p;12;CPMenuItem.jt;29857;@STATIC;1.0;I;20;Foundation/CPCoder.jI;21;Foundation/CPObject.jI;21;Foundation/CPString.ji;9;CPImage.ji;8;CPText.ji;8;CPView.ji;17;_CPMenuItemView.jt;29701;objj_executeFile("Foundation/CPCoder.j", NO);objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPString.j", NO);objj_executeFile("CPImage.j", YES);objj_executeFile("CPText.j", YES);objj_executeFile("CPView.j", YES);objj_executeFile("_CPMenuItemView.j", YES);var CPMenuItemStringRepresentationDictionary = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", "\u238B", CPEscapeFunctionKey, "\u21E5", CPTabCharacter, "\u21E4", CPBackTabCharacter, "\u2423", CPSpaceFunctionKey, "\u23CE", CPCarriageReturnCharacter, "\u232B", CPBackspaceCharacter, "\u232B", CPDeleteFunctionKey, "\u2326", CPDeleteCharacter, "\u21F1", CPHomeFunctionKey, "\u21F2", CPEndFunctionKey, "\u21DE", CPPageUpFunctionKey, "\u21DF", CPPageDownFunctionKey, "\u2191", CPUpArrowFunctionKey, "\u2193", CPDownArrowFunctionKey, "\u2190", CPLeftArrowFunctionKey, "\u2192", CPRightArrowFunctionKey, "\u2327", CPClearDisplayFunctionKey);
-{var the_class = objj_allocateClassPair(CPObject, "CPMenuItem"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_isSeparator"), new objj_ivar("_title"), new objj_ivar("_font"), new objj_ivar("_target"), new objj_ivar("_action"), new objj_ivar("_isEnabled"), new objj_ivar("_isHidden"), new objj_ivar("_tag"), new objj_ivar("_state"), new objj_ivar("_image"), new objj_ivar("_alternateImage"), new objj_ivar("_onStateImage"), new objj_ivar("_offStateImage"), new objj_ivar("_mixedStateImage"), new objj_ivar("_submenu"), new objj_ivar("_menu"), new objj_ivar("_keyEquivalent"), new objj_ivar("_keyEquivalentModifierMask"), new objj_ivar("_mnemonicLocation"), new objj_ivar("_isAlternate"), new objj_ivar("_indentationLevel"), new objj_ivar("_toolTip"), new objj_ivar("_representedObject"), new objj_ivar("_view"), new objj_ivar("_changeCount"), new objj_ivar("_menuItemView")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("init"), function $CPMenuItem__init(self, _cmd)
+}p;15;_CPMenuWindow.jt;28948;@STATIC;1.0;i;12;CPClipView.ji;13;CPImageView.ji;10;CPWindow.ji;16;_CPMenuManager.jt;28857;objj_executeFile("CPClipView.j", YES);objj_executeFile("CPImageView.j", YES);objj_executeFile("CPWindow.j", YES);objj_executeFile("_CPMenuManager.j", YES);var _CPMenuWindowPool = [],
+    _CPMenuWindowPoolCapacity = 5,
+    _CPMenuWindowBackgroundColors = [];
+_CPMenuWindowMenuBarBackgroundStyle = 0;
+_CPMenuWindowPopUpBackgroundStyle = 1;
+_CPMenuWindowAttachedMenuBackgroundStyle = 2;
+{var the_class = objj_allocateClassPair(CPWindow, "_CPMenuWindow"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuView"), new objj_ivar("_menuClipView"), new objj_ivar("_moreAboveView"), new objj_ivar("_moreBelowView"), new objj_ivar("_unconstrainedFrame"), new objj_ivar("_constraintRect")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithContentRect:styleMask:"), function $_CPMenuWindow__initWithContentRect_styleMask_(self, _cmd, aRect, aStyleMask)
 {
-    return self.isa.objj_msgSend3(self, "initWithTitle:action:keyEquivalent:", "", nil, nil);
-}
-,["id"]), new objj_method(sel_getUid("initWithTitle:action:keyEquivalent:"), function $CPMenuItem__initWithTitle_action_keyEquivalent_(self, _cmd, aTitle, anAction, aKeyEquivalent)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPMenuItem").super_class }, "init");
+    self._constraintRect = CGRectMakeZero();
+    self._unconstrainedFrame = CGRectMakeZero();
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "initWithContentRect:styleMask:", aRect, CPBorderlessWindowMask);
     if (self)
     {
-        self._changeCount = 0;
-        self._isSeparator = NO;
-        self._title = aTitle;
-        self._action = anAction;
-        self._isEnabled = YES;
-        self._isHidden = NO;
-        self._tag = 0;
-        self._state = CPOffState;
-        self._keyEquivalent = aKeyEquivalent || "";
-        self._keyEquivalentModifierMask = CPPlatformActionKeyMask;
-        self._indentationLevel = 0;
-        self._mnemonicLocation = CPNotFound;
+        self._constrainsToUsableScreen = NO;
+        (self == null ? null : self.isa.objj_msgSend1(self, "setLevel:", CPPopUpMenuWindowLevel));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setHasShadow:", YES));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setShadowStyle:", CPMenuWindowShadowStyle));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAcceptsMouseMovedEvents:", YES));
+        var contentView = (self == null ? null : self.isa.objj_msgSend0(self, "contentView"));
+        self._menuView = ((___r1 = (_CPMenuView == null ? null : _CPMenuView.isa.objj_msgSend0(_CPMenuView, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
+        self._menuClipView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-margin-inset")).left, ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-margin-inset")).top, 0.0, 0.0)));
+        ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", self._menuView));
+        (contentView == null ? null : contentView.isa.objj_msgSend1(contentView, "addSubview:", self._menuClipView));
+        self._moreAboveView = ((___r1 = CPImageView.isa.objj_msgSend0(CPImageView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
+        ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-more-above-image"))));
+        ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", ((___r2 = ((___r3 = self._menuView), ___r3 == null ? null : ___r3.isa.objj_msgSend1(___r3, "valueForThemeAttribute:", "menu-window-more-above-image"))), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "size"))));
+        (contentView == null ? null : contentView.isa.objj_msgSend1(contentView, "addSubview:", self._moreAboveView));
+        self._moreBelowView = ((___r1 = CPImageView.isa.objj_msgSend0(CPImageView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
+        ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-more-below-image"))));
+        ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", ((___r2 = ((___r3 = self._menuView), ___r3 == null ? null : ___r3.isa.objj_msgSend1(___r3, "valueForThemeAttribute:", "menu-window-more-below-image"))), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "size"))));
+        (contentView == null ? null : contentView.isa.objj_msgSend1(contentView, "addSubview:", self._moreBelowView));
     }
     return self;
+    var ___r1, ___r2, ___r3;
 }
-,["id","CPString","SEL","CPString"]), new objj_method(sel_getUid("setEnabled:"), function $CPMenuItem__setEnabled_(self, _cmd, isEnabled)
+,["id","CGRect","unsigned"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuWindow__setFont_(self, _cmd, aFont)
 {
-    if (self._isEnabled === isEnabled)
-        return;
-    if (!isEnabled && self.isa.objj_msgSend0(self, "isHighlighted"))
-        ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "_highlightItemAtIndex:", CPNotFound));
-    self._isEnabled = !!isEnabled;
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", aFont));
     var ___r1;
 }
-,["void","BOOL"]), new objj_method(sel_getUid("isEnabled"), function $CPMenuItem__isEnabled(self, _cmd)
+,["void","CPFont"]), new objj_method(sel_getUid("font"), function $_CPMenuWindow__font(self, _cmd)
 {
-    return self._isEnabled;
-}
-,["BOOL"]), new objj_method(sel_getUid("setHidden:"), function $CPMenuItem__setHidden_(self, _cmd, isHidden)
-{
-    if (self._isHidden == isHidden)
-        return;
-    self._isHidden = isHidden;
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "font"));
     var ___r1;
 }
-,["void","BOOL"]), new objj_method(sel_getUid("isHidden"), function $CPMenuItem__isHidden(self, _cmd)
+,["CPFont"]), new objj_method(sel_getUid("setBackgroundStyle:"), function $_CPMenuWindow__setBackgroundStyle_(self, _cmd, aBackgroundStyle)
 {
-    return self._isHidden;
+    self.isa.objj_msgSend1(self, "setBackgroundColor:", ((___r1 = self.isa.objj_msgSend0(self, "class")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "backgroundColorForBackgroundStyle:", aBackgroundStyle)));
+    var ___r1;
 }
-,["BOOL"]), new objj_method(sel_getUid("isHiddenOrHasHiddenAncestor"), function $CPMenuItem__isHiddenOrHasHiddenAncestor(self, _cmd)
+,["void","_CPMenuWindowBackgroundStyle"]), new objj_method(sel_getUid("setMenu:"), function $_CPMenuWindow__setMenu_(self, _cmd, aMenu)
 {
-    if (self._isHidden)
-        return YES;
-    var supermenu = ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "supermenu"));
-    if (((___r1 = (supermenu == null ? null : supermenu.isa.objj_msgSend1(supermenu, "itemAtIndex:", (supermenu == null ? null : supermenu.isa.objj_msgSend1(supermenu, "indexOfItemWithSubmenu:", self._menu))))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHiddenOrHasHiddenAncestor")))
-        return YES;
+    (aMenu == null ? null : aMenu.isa.objj_msgSend1(aMenu, "_setMenuWindow:", self));
+    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setMenu:", aMenu));
+    var menuViewSize = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")).size,
+        marginInset = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset"));
+    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(marginInset.left + menuViewSize.width + marginInset.right, marginInset.top + menuViewSize.height + marginInset.bottom));
+    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollPoint:", CGPointMake(0.0, 0.0)));
+    ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(marginInset.left, marginInset.top, menuViewSize.width, menuViewSize.height)));
+    var ___r1;
+}
+,["void","CPMenu"]), new objj_method(sel_getUid("setMinWidth:"), function $_CPMenuWindow__setMinWidth_(self, _cmd, aWidth)
+{
+    var size = self.isa.objj_msgSend0(self, "unconstrainedFrame").size;
+    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(MAX(size.width, aWidth), size.height));
+}
+,["void","float"]), new objj_method(sel_getUid("menu"), function $_CPMenuWindow__menu(self, _cmd)
+{
+    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "menu"));
+    var ___r1;
+}
+,["CPMenu"]), new objj_method(sel_getUid("_menuView"), function $_CPMenuWindow___menuView(self, _cmd)
+{
+    return self._menuView;
+}
+,["_CPMenuView"]), new objj_method(sel_getUid("orderFront:"), function $_CPMenuWindow__orderFront_(self, _cmd, aSender)
+{
+    ((___r1 = self.isa.objj_msgSend0(self, "menu")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "update"));
+    self.isa.objj_msgSend1(self, "setFrame:", self._unconstrainedFrame);
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "orderFront:", aSender);
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("setConstraintRect:"), function $_CPMenuWindow__setConstraintRect_(self, _cmd, aRect)
+{
+    self._constraintRect = aRect;
+    self.isa.objj_msgSend1(self, "setFrame:", self._unconstrainedFrame);
+}
+,["void","CGRect"]), new objj_method(sel_getUid("unconstrainedFrame"), function $_CPMenuWindow__unconstrainedFrame(self, _cmd)
+{
+    return CGRectMakeCopy(self._unconstrainedFrame);
+}
+,["CGRect"]), new objj_method(sel_getUid("setFrameOrigin:"), function $_CPMenuWindow__setFrameOrigin_(self, _cmd, aPoint)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "setFrame:", CGRectMake(aPoint.x, aPoint.y, CGRectGetWidth(self._unconstrainedFrame), CGRectGetHeight(self._unconstrainedFrame)));
+}
+,["void","CGPoint"]), new objj_method(sel_getUid("setFrameSize:"), function $_CPMenuWindow__setFrameSize_(self, _cmd, aSize)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "setFrame:", CGRectMake(CGRectGetMinX(self._unconstrainedFrame), CGRectGetMinY(self._unconstrainedFrame), aSize.width, aSize.height));
+}
+,["void","CGSize"]), new objj_method(sel_getUid("setFrame:display:animate:"), function $_CPMenuWindow__setFrame_display_animate_(self, _cmd, aFrame, shouldDisplay, shouldAnimate)
+{
+    self._unconstrainedFrame = CGRectMakeCopy(aFrame);
+    var constrainedFrame = CGRectIntersection(self._unconstrainedFrame, self._constraintRect),
+        marginInset = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")),
+        scrollIndicatorHeight = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-scroll-indicator-height"));
+    constrainedFrame.origin.x = CGRectGetMinX(self._unconstrainedFrame);
+    constrainedFrame.size.width = CGRectGetWidth(self._unconstrainedFrame);
+    if (CGRectGetWidth(constrainedFrame) > CGRectGetWidth(self._constraintRect))
+        constrainedFrame.size.width = CGRectGetWidth(self._constraintRect);
+    if (CGRectGetMaxX(constrainedFrame) > CGRectGetMaxX(self._constraintRect))
+        constrainedFrame.origin.x -= CGRectGetMaxX(constrainedFrame) - CGRectGetMaxX(self._constraintRect);
+    if (CGRectGetMinX(constrainedFrame) < CGRectGetMinX(self._constraintRect))
+        constrainedFrame.origin.x = CGRectGetMinX(self._constraintRect);
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "setFrame:display:animate:", constrainedFrame, shouldDisplay, shouldAnimate);
+    var menuViewOrigin = CGPointMake(CGRectGetMinX(aFrame) + marginInset.left, CGRectGetMinY(aFrame) + marginInset.top),
+        moreAbove = menuViewOrigin.y < CGRectGetMinY(constrainedFrame) + marginInset.top,
+        moreBelow = menuViewOrigin.y + CGRectGetHeight(((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"))) > CGRectGetMaxY(constrainedFrame) - marginInset.bottom,
+        topMargin = marginInset.top,
+        bottomMargin = marginInset.bottom,
+        contentView = self.isa.objj_msgSend0(self, "contentView"),
+        bounds = (contentView == null ? null : contentView.isa.objj_msgSend0(contentView, "bounds"));
+    if (moreAbove)
+    {
+        topMargin += scrollIndicatorHeight;
+        var frame = ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+        ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake((CGRectGetWidth(bounds) - CGRectGetWidth(frame)) / 2.0, (marginInset.top + scrollIndicatorHeight - CGRectGetHeight(frame)) / 2.0)));
+    }
+    ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !moreAbove));
+    if (moreBelow)
+    {
+        bottomMargin += scrollIndicatorHeight;
+        ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake((CGRectGetWidth(bounds) - CGRectGetWidth(((___r2 = self._moreBelowView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame")))) / 2.0, CGRectGetHeight(bounds) - scrollIndicatorHeight - marginInset.bottom)));
+    }
+    ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !moreBelow));
+    var clipFrame = CGRectMakeZero();
+    clipFrame.origin.x = marginInset.left;
+    clipFrame.origin.y = topMargin;
+    clipFrame.size.width = CGRectGetWidth(constrainedFrame) - marginInset.left - marginInset.right;
+    clipFrame.size.height = CGRectGetHeight(constrainedFrame) - topMargin - bottomMargin;
+    ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", clipFrame));
+    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(CGRectGetWidth(clipFrame), CGRectGetHeight(((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame"))))));
+    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollPoint:", CGPointMake(0.0, self.isa.objj_msgSend1(self, "convertBaseToGlobal:", clipFrame.origin).y - menuViewOrigin.y)));
+    var ___r1, ___r2;
+}
+,["void","CGRect","BOOL","BOOL"]), new objj_method(sel_getUid("hasMinimumNumberOfVisibleItems"), function $_CPMenuWindow__hasMinimumNumberOfVisibleItems(self, _cmd)
+{
+    var visibleRect = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "visibleRect"));
+    if (CGRectIsEmpty(visibleRect))
+        return NO;
+    var numberOfUnhiddenItems = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "numberOfUnhiddenItems")),
+        minimumNumberOfVisibleItems = MIN(numberOfUnhiddenItems, 3),
+        count = 0,
+        index = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemIndexAtPoint:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend2(___r2, "convertPoint:fromView:", ((___r3 = self._menuClipView), ___r3 == null ? null : ___r3.isa.objj_msgSend0(___r3, "frame")).origin, nil))));
+    for (; index < numberOfUnhiddenItems && count < minimumNumberOfVisibleItems; ++index)
+    {
+        var itemRect = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "rectForUnhiddenItemAtIndex:", index)),
+            visibleItemRect = CGRectIntersection(visibleRect, itemRect);
+        if (CGRectIsEmpty(visibleItemRect))
+            break;
+        if (CGRectEqualToRect(visibleItemRect, itemRect))
+            ++count;
+    }
+    return count >= minimumNumberOfVisibleItems;
+    var ___r1, ___r2, ___r3;
+}
+,["BOOL"]), new objj_method(sel_getUid("canScrollUp"), function $_CPMenuWindow__canScrollUp(self, _cmd)
+{
+    return !((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
+    var ___r1;
+}
+,["BOOL"]), new objj_method(sel_getUid("canScrollDown"), function $_CPMenuWindow__canScrollDown(self, _cmd)
+{
+    return !((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
+    var ___r1;
+}
+,["BOOL"]), new objj_method(sel_getUid("canScroll"), function $_CPMenuWindow__canScroll(self, _cmd)
+{
+    return self.isa.objj_msgSend0(self, "canScrollUp") || self.isa.objj_msgSend0(self, "canScrollDown");
+}
+,["BOOL"]), new objj_method(sel_getUid("scrollByDelta:"), function $_CPMenuWindow__scrollByDelta_(self, _cmd, theDelta)
+{
+    if (theDelta === 0.0)
+        return;
+    if (theDelta > 0.0 && !self.isa.objj_msgSend0(self, "canScrollDown"))
+        return;
+    if (theDelta < 0.0 && !self.isa.objj_msgSend0(self, "canScrollUp"))
+        return;
+    self._unconstrainedFrame.origin.y -= theDelta;
+    self.isa.objj_msgSend1(self, "setFrame:", self._unconstrainedFrame);
+}
+,["void","float"]), new objj_method(sel_getUid("scrollUp"), function $_CPMenuWindow__scrollUp(self, _cmd)
+{
+    self.isa.objj_msgSend1(self, "scrollByDelta:", -10.0);
+}
+,["void"]), new objj_method(sel_getUid("scrollDown"), function $_CPMenuWindow__scrollDown(self, _cmd)
+{
+    self.isa.objj_msgSend1(self, "scrollByDelta:", 10.0);
+}
+,["void"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("menuWindowWithMenu:font:"), function $_CPMenuWindow__menuWindowWithMenu_font_(self, _cmd, aMenu, aFont)
+{
+    var menuWindow = nil;
+    if (_CPMenuWindowPool.length)
+    {
+        menuWindow = _CPMenuWindowPool.pop();
+        (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setFrameOrigin:", CGPointMakeZero()));
+    }
+    else
+        menuWindow = ((___r1 = _CPMenuWindow.isa.objj_msgSend0(_CPMenuWindow, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+    (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setFont:", aFont));
+    (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setMenu:", aMenu));
+    (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setMinWidth:", (aMenu == null ? null : aMenu.isa.objj_msgSend0(aMenu, "minimumWidth"))));
+    return menuWindow;
+    var ___r1;
+}
+,["id","CPMenu","CPFont"]), new objj_method(sel_getUid("poolMenuWindow:"), function $_CPMenuWindow__poolMenuWindow_(self, _cmd, aMenuWindow)
+{
+    if (!aMenuWindow || _CPMenuWindowPool.length >= _CPMenuWindowPoolCapacity || (_CPMenuWindowPool == null ? null : _CPMenuWindowPool.isa.objj_msgSend1(_CPMenuWindowPool, "containsObject:", aMenuWindow)))
+        return;
+    _CPMenuWindowPool.push(aMenuWindow);
+}
+,["void","_CPMenuWindow"]), new objj_method(sel_getUid("_standardLeftMargin"), function $_CPMenuWindow___standardLeftMargin(self, _cmd)
+{
+    return ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-window-margin-inset", _CPMenuView)).left;
+    var ___r1;
+}
+,["float"]), new objj_method(sel_getUid("backgroundColorForBackgroundStyle:"), function $_CPMenuWindow__backgroundColorForBackgroundStyle_(self, _cmd, aBackgroundStyle)
+{
+    var color = _CPMenuWindowBackgroundColors[aBackgroundStyle];
+    if (!color)
+    {
+        var bundle = CPBundle.isa.objj_msgSend1(CPBundle, "bundleForClass:", self.isa.objj_msgSend0(self, "class"));
+        if (aBackgroundStyle == _CPMenuWindowPopUpBackgroundStyle)
+            color = ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-window-pop-up-background-style-color", _CPMenuView));
+        else if (aBackgroundStyle == _CPMenuWindowMenuBarBackgroundStyle)
+            color = ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-window-menu-bar-background-style-color", _CPMenuView));
+        _CPMenuWindowBackgroundColors[aBackgroundStyle] = color;
+    }
+    return color;
+    var ___r1;
+}
+,["CPColor","_CPMenuWindowBackgroundStyle"])]);
+}{
+var the_class = objj_getClass("_CPMenuWindow")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"_CPMenuWindow\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("globalFrame"), function $_CPMenuWindow__globalFrame(self, _cmd)
+{
+    return self.isa.objj_msgSend0(self, "frame");
+}
+,["CGRect"]), new objj_method(sel_getUid("isMenuBar"), function $_CPMenuWindow__isMenuBar(self, _cmd)
+{
     return NO;
+}
+,["BOOL"]), new objj_method(sel_getUid("scrollingStateForPoint:"), function $_CPMenuWindow__scrollingStateForPoint_(self, _cmd, aGlobalLocation)
+{
+    var frame = self.isa.objj_msgSend0(self, "frame");
+    if (!CGRectContainsPoint(frame, aGlobalLocation) || !self.isa.objj_msgSend0(self, "canScroll"))
+        return _CPMenuManagerScrollingStateNone;
+    if (aGlobalLocation.y < CGRectGetMinY(frame) + ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")).top + ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-scroll-indicator-height")) && !((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        return _CPMenuManagerScrollingStateUp;
+    if (aGlobalLocation.y > CGRectGetMaxY(frame) - ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")).bottom - ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-scroll-indicator-height")) && !((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
+        return _CPMenuManagerScrollingStateDown;
+    return _CPMenuManagerScrollingStateNone;
     var ___r1;
 }
-,["BOOL"]), new objj_method(sel_getUid("setTarget:"), function $CPMenuItem__setTarget_(self, _cmd, aTarget)
+,["_CPManagerScrollingState","CGPoint"]), new objj_method(sel_getUid("deltaYForItemAtIndex:"), function $_CPMenuWindow__deltaYForItemAtIndex_(self, _cmd, anIndex)
 {
-    self._target = aTarget;
-}
-,["void","id"]), new objj_method(sel_getUid("target"), function $CPMenuItem__target(self, _cmd)
-{
-    return self._target;
-}
-,["id"]), new objj_method(sel_getUid("setAction:"), function $CPMenuItem__setAction_(self, _cmd, anAction)
-{
-    self._action = anAction;
-}
-,["void","SEL"]), new objj_method(sel_getUid("action"), function $CPMenuItem__action(self, _cmd)
-{
-    return self._action;
-}
-,["SEL"]), new objj_method(sel_getUid("setTitle:"), function $CPMenuItem__setTitle_(self, _cmd, aTitle)
-{
-    self._mnemonicLocation = CPNotFound;
-    if (self._title == aTitle)
-        return;
-    self._title = aTitle;
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
+    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")).top + CGRectGetMinY(((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "rectForItemAtIndex:", anIndex)));
     var ___r1;
 }
-,["void","CPString"]), new objj_method(sel_getUid("title"), function $CPMenuItem__title(self, _cmd)
+,["float","int"]), new objj_method(sel_getUid("rectForItemAtIndex:"), function $_CPMenuWindow__rectForItemAtIndex_(self, _cmd, anIndex)
 {
-    return self._title;
+    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "convertRect:toView:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "rectForItemAtIndex:", anIndex)), nil));
+    var ___r1, ___r2;
 }
-,["CPString"]), new objj_method(sel_getUid("setTextColor:"), function $CPMenuItem__setTextColor_(self, _cmd, aColor)
+,["CGPoint","int"]), new objj_method(sel_getUid("itemIndexAtPoint:"), function $_CPMenuWindow__itemIndexAtPoint_(self, _cmd, aPoint)
 {
+    if (!CGRectContainsPoint(((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")), ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "convertPoint:fromView:", aPoint, nil))))
+        return CPNotFound;
+    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemIndexAtPoint:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend2(___r2, "convertPoint:fromView:", aPoint, nil))));
+    var ___r1, ___r2;
 }
-,["void","CPString"]), new objj_method(sel_getUid("setFont:"), function $CPMenuItem__setFont_(self, _cmd, aFont)
-{
-    if (((___r1 = self._font), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isEqual:", aFont)))
-        return;
-    self._font = aFont;
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    var ___r1;
-}
-,["void","CPFont"]), new objj_method(sel_getUid("font"), function $CPMenuItem__font(self, _cmd)
+,["int","CGPoint"])]);
+}{var the_class = objj_allocateClassPair(CPView, "_CPMenuView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuItemViews"), new objj_ivar("_visibleMenuItemInfos"), new objj_ivar("_font")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("font"), function $_CPMenuView__font(self, _cmd)
 {
     return self._font;
 }
-,["CPFont"]), new objj_method(sel_getUid("setTag:"), function $CPMenuItem__setTag_(self, _cmd, aTag)
+,["CPFont"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuView__setFont_(self, _cmd, newValue)
 {
-    self._tag = aTag;
+    self._font = newValue;
 }
-,["void","int"]), new objj_method(sel_getUid("tag"), function $CPMenuItem__tag(self, _cmd)
+,["void","CPFont"]), new objj_method(sel_getUid("numberOfUnhiddenItems"), function $_CPMenuView__numberOfUnhiddenItems(self, _cmd)
 {
-    return self._tag;
+    return self._visibleMenuItemInfos.length;
 }
-,["int"]), new objj_method(sel_getUid("setState:"), function $CPMenuItem__setState_(self, _cmd, aState)
+,["unsigned"]), new objj_method(sel_getUid("rectForUnhiddenItemAtIndex:"), function $_CPMenuView__rectForUnhiddenItemAtIndex_(self, _cmd, anIndex)
 {
-    if (self._state == aState)
+    return self.isa.objj_msgSend1(self, "rectForItemAtIndex:", self._visibleMenuItemInfos[anIndex].index);
+}
+,["CGRect","int"]), new objj_method(sel_getUid("rectForItemAtIndex:"), function $_CPMenuView__rectForItemAtIndex_(self, _cmd, anIndex)
+{
+    return ((___r1 = self._menuItemViews[anIndex === CPNotFound ? 0 : anIndex]), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    var ___r1;
+}
+,["CGRect","int"]), new objj_method(sel_getUid("itemIndexAtPoint:"), function $_CPMenuView__itemIndexAtPoint_(self, _cmd, aPoint)
+{
+    var x = aPoint.x,
+        bounds = self.isa.objj_msgSend0(self, "bounds");
+    if (x < CGRectGetMinX(bounds) || x > CGRectGetMaxX(bounds))
+        return CPNotFound;
+    var y = aPoint.y,
+        low = 0,
+        high = self._visibleMenuItemInfos.length - 1;
+    while (low <= high)
+    {
+        var middle = FLOOR(low + (high - low) / 2),
+            info = self._visibleMenuItemInfos[middle],
+            frame = ((___r1 = info.view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+        if (y < CGRectGetMinY(frame))
+            high = middle - 1;
+        else if (y > CGRectGetMaxY(frame))
+            low = middle + 1;
+        else
+            return info.index;
+    }
+    return CPNotFound;
+    var ___r1;
+}
+,["int","CGPoint"]), new objj_method(sel_getUid("tile"), function $_CPMenuView__tile(self, _cmd)
+{
+    ((___r1 = self._menuItemViews), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "makeObjectsPerformSelector:", sel_getUid("removeFromSuperview")));
+    self._menuItemViews = [];
+    self._visibleMenuItemInfos = [];
+    var menu = self.isa.objj_msgSend0(self, "menu");
+    if (!menu)
         return;
-    self._state = aState;
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    var ___r1;
-}
-,["void","int"]), new objj_method(sel_getUid("state"), function $CPMenuItem__state(self, _cmd)
-{
-    return self._state;
-}
-,["int"]), new objj_method(sel_getUid("setImage:"), function $CPMenuItem__setImage_(self, _cmd, anImage)
-{
-    if (self._image == anImage)
-        return;
-    self._image = anImage;
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    var ___r1;
-}
-,["void","CPImage"]), new objj_method(sel_getUid("image"), function $CPMenuItem__image(self, _cmd)
-{
-    return self._image;
-}
-,["CPImage"]), new objj_method(sel_getUid("setAlternateImage:"), function $CPMenuItem__setAlternateImage_(self, _cmd, anImage)
-{
-    self._alternateImage = anImage;
-}
-,["void","CPImage"]), new objj_method(sel_getUid("alternateImage"), function $CPMenuItem__alternateImage(self, _cmd)
-{
-    return self._alternateImage;
-}
-,["CPImage"]), new objj_method(sel_getUid("setOnStateImage:"), function $CPMenuItem__setOnStateImage_(self, _cmd, anImage)
-{
-    if (self._onStateImage == anImage)
-        return;
-    self._onStateImage = anImage;
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    var ___r1;
-}
-,["void","CPImage"]), new objj_method(sel_getUid("onStateImage"), function $CPMenuItem__onStateImage(self, _cmd)
-{
-    return self._onStateImage;
-}
-,["CPImage"]), new objj_method(sel_getUid("setOffStateImage:"), function $CPMenuItem__setOffStateImage_(self, _cmd, anImage)
-{
-    if (self._offStateImage == anImage)
-        return;
-    self._offStateImage = anImage;
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    var ___r1;
-}
-,["void","CPImage"]), new objj_method(sel_getUid("offStateImage"), function $CPMenuItem__offStateImage(self, _cmd)
-{
-    return self._offStateImage;
-}
-,["CPImage"]), new objj_method(sel_getUid("setMixedStateImage:"), function $CPMenuItem__setMixedStateImage_(self, _cmd, anImage)
-{
-    if (self._mixedStateImage == anImage)
-        return;
-    self._mixedStateImage = anImage;
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    var ___r1;
-}
-,["void","CPImage"]), new objj_method(sel_getUid("mixedStateImage"), function $CPMenuItem__mixedStateImage(self, _cmd)
-{
-    return self._mixedStateImage;
-}
-,["CPImage"]), new objj_method(sel_getUid("setSubmenu:"), function $CPMenuItem__setSubmenu_(self, _cmd, aMenu)
-{
-    if (self._submenu === aMenu)
-        return;
-    var supermenu = ((___r1 = self._submenu), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "supermenu"));
-    if (supermenu)
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "Can't add submenu \"" + (aMenu == null ? null : aMenu.isa.objj_msgSend0(aMenu, "title")) + "\" to item \"" + self.isa.objj_msgSend0(self, "title") + "\", because it is already submenu of \"" + ((___r1 = (aMenu == null ? null : aMenu.isa.objj_msgSend0(aMenu, "supermenu"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "title")) + "\"");
-    self._submenu = aMenu;
-    if (self._submenu)
+    var items = (menu == null ? null : menu.isa.objj_msgSend0(menu, "itemArray")),
+        index = 0,
+        count = (items == null ? null : items.isa.objj_msgSend0(items, "count")),
+        maxWidth = 0,
+        y = 0,
+        showsStateColumn = (menu == null ? null : menu.isa.objj_msgSend0(menu, "showsStateColumn"));
+    for (; index < count; ++index)
     {
-        ((___r1 = self._submenu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setSupermenu:", self._menu));
-        ((___r1 = self._submenu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTitle:", self.isa.objj_msgSend0(self, "title")));
-        self.isa.objj_msgSend1(self, "setTarget:", self._menu);
-        self.isa.objj_msgSend1(self, "setAction:", sel_getUid("submenuAction:"));
+        var item = items[index],
+            view = (item == null ? null : item.isa.objj_msgSend0(item, "_menuItemView"));
+        self._menuItemViews.push(view);
+        if ((item == null ? null : item.isa.objj_msgSend0(item, "isHidden")))
+            continue;
+        self._visibleMenuItemInfos.push({view: view, index: index});
+        (view == null ? null : view.isa.objj_msgSend1(view, "setFont:", self._font));
+        (view == null ? null : view.isa.objj_msgSend1(view, "setShowsStateColumn:", showsStateColumn));
+        (view == null ? null : view.isa.objj_msgSend0(view, "synchronizeWithMenuItem"));
+        (view == null ? null : view.isa.objj_msgSend1(view, "setFrameOrigin:", CGPointMake(0.0, y)));
+        self.isa.objj_msgSend1(self, "addSubview:", view);
+        var size = (view == null ? null : view.isa.objj_msgSend0(view, "minSize")),
+            width = size.width;
+        if (maxWidth < width)
+            maxWidth = width;
+        y += size.height;
     }
-    else
+    for (index = 0; index < count; ++index)
     {
-        self.isa.objj_msgSend1(self, "setTarget:", nil);
-        self.isa.objj_msgSend1(self, "setAction:", NULL);
+        var view = self._menuItemViews[index];
+        (view == null ? null : view.isa.objj_msgSend1(view, "setFrameSize:", CGSizeMake(maxWidth, CGRectGetHeight((view == null ? null : view.isa.objj_msgSend0(view, "frame"))))));
     }
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    var ___r1;
-}
-,["void","CPMenu"]), new objj_method(sel_getUid("submenu"), function $CPMenuItem__submenu(self, _cmd)
-{
-    return self._submenu;
-}
-,["CPMenu"]), new objj_method(sel_getUid("hasSubmenu"), function $CPMenuItem__hasSubmenu(self, _cmd)
-{
-    return self._submenu ? YES : NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("isSeparatorItem"), function $CPMenuItem__isSeparatorItem(self, _cmd)
-{
-    return self._isSeparator;
-}
-,["BOOL"]), new objj_method(sel_getUid("setMenu:"), function $CPMenuItem__setMenu_(self, _cmd, aMenu)
-{
-    self._menu = aMenu;
-}
-,["void","CPMenu"]), new objj_method(sel_getUid("menu"), function $CPMenuItem__menu(self, _cmd)
-{
-    return self._menu;
-}
-,["CPMenu"]), new objj_method(sel_getUid("setKeyEquivalent:"), function $CPMenuItem__setKeyEquivalent_(self, _cmd, aString)
-{
-    self._keyEquivalent = aString || "";
-}
-,["void","CPString"]), new objj_method(sel_getUid("keyEquivalent"), function $CPMenuItem__keyEquivalent(self, _cmd)
-{
-    return self._keyEquivalent;
-}
-,["CPString"]), new objj_method(sel_getUid("setKeyEquivalentModifierMask:"), function $CPMenuItem__setKeyEquivalentModifierMask_(self, _cmd, aMask)
-{
-    self._keyEquivalentModifierMask = aMask;
-}
-,["void","unsigned"]), new objj_method(sel_getUid("keyEquivalentModifierMask"), function $CPMenuItem__keyEquivalentModifierMask(self, _cmd)
-{
-    return self._keyEquivalentModifierMask;
-}
-,["unsigned"]), new objj_method(sel_getUid("keyEquivalentStringRepresentation"), function $CPMenuItem__keyEquivalentStringRepresentation(self, _cmd)
-{
-    if (!((___r1 = self._keyEquivalent), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "length")))
-        return "";
-    var string = self._keyEquivalent.toUpperCase(),
-        needsShift = self._keyEquivalentModifierMask & CPShiftKeyMask || string === self._keyEquivalent && self._keyEquivalent.toLowerCase() !== self._keyEquivalent.toUpperCase();
-    if ((CPMenuItemStringRepresentationDictionary == null ? null : CPMenuItemStringRepresentationDictionary.isa.objj_msgSend1(CPMenuItemStringRepresentationDictionary, "objectForKey:", string)))
-        string = (CPMenuItemStringRepresentationDictionary == null ? null : CPMenuItemStringRepresentationDictionary.isa.objj_msgSend1(CPMenuItemStringRepresentationDictionary, "objectForKey:", string));
-    if (CPBrowserIsOperatingSystem(CPMacOperatingSystem))
-    {
-        if (self._keyEquivalentModifierMask & CPCommandKeyMask)
-            string = "\u2318" + string;
-        if (needsShift)
-            string = "\u21E7" + string;
-        if (self._keyEquivalentModifierMask & CPAlternateKeyMask)
-            string = "\u2325" + string;
-        if (self._keyEquivalentModifierMask & CPControlKeyMask)
-            string = "\u2303" + string;
-    }
-    else
-    {
-        if (needsShift)
-            string = "Shift-" + string;
-        if (self._keyEquivalentModifierMask & CPAlternateKeyMask)
-            string = "Alt-" + string;
-        if (self._keyEquivalentModifierMask & CPControlKeyMask || self._keyEquivalentModifierMask & CPCommandKeyMask)
-            string = "Ctrl-" + string;
-    }
-    return string;
-    var ___r1;
-}
-,["CPString"]), new objj_method(sel_getUid("setMnemonicLocation:"), function $CPMenuItem__setMnemonicLocation_(self, _cmd, aLocation)
-{
-    self._mnemonicLocation = aLocation;
-}
-,["void","unsigned"]), new objj_method(sel_getUid("mnemonicLocation"), function $CPMenuItem__mnemonicLocation(self, _cmd)
-{
-    return self._mnemonicLocation;
-}
-,["unsigned"]), new objj_method(sel_getUid("setTitleWithMnemonicLocation:"), function $CPMenuItem__setTitleWithMnemonicLocation_(self, _cmd, aTitle)
-{
-    var location = (aTitle == null ? null : aTitle.isa.objj_msgSend1(aTitle, "rangeOfString:", "&")).location;
-    if (location == CPNotFound)
-        self.isa.objj_msgSend1(self, "setTitle:", aTitle);
-    else
-    {
-        self.isa.objj_msgSend1(self, "setTitle:", (aTitle == null ? null : aTitle.isa.objj_msgSend1(aTitle, "substringToIndex:", location)) + (aTitle == null ? null : aTitle.isa.objj_msgSend1(aTitle, "substringFromIndex:", location + 1)));
-        self.isa.objj_msgSend1(self, "setMnemonicLocation:", location);
-    }
-}
-,["void","CPString"]), new objj_method(sel_getUid("mnemonic"), function $CPMenuItem__mnemonic(self, _cmd)
-{
-    return self._mnemonicLocation == CPNotFound ? "" : ((___r1 = self._title), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "characterAtIndex:", self._mnemonicLocation));
-    var ___r1;
-}
-,["CPString"]), new objj_method(sel_getUid("setAlternate:"), function $CPMenuItem__setAlternate_(self, _cmd, isAlternate)
-{
-    self._isAlternate = isAlternate;
-}
-,["void","BOOL"]), new objj_method(sel_getUid("isAlternate"), function $CPMenuItem__isAlternate(self, _cmd)
-{
-    return self._isAlternate;
-}
-,["BOOL"]), new objj_method(sel_getUid("setIndentationLevel:"), function $CPMenuItem__setIndentationLevel_(self, _cmd, aLevel)
-{
-    if (aLevel < 0)
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "setIndentationLevel: argument must be greater than or equal to 0.");
-    self._indentationLevel = MIN(15, aLevel);
-}
-,["void","unsigned"]), new objj_method(sel_getUid("indentationLevel"), function $CPMenuItem__indentationLevel(self, _cmd)
-{
-    return self._indentationLevel;
-}
-,["unsigned"]), new objj_method(sel_getUid("setToolTip:"), function $CPMenuItem__setToolTip_(self, _cmd, aToolTip)
-{
-    self._toolTip = aToolTip;
-}
-,["void","CPString"]), new objj_method(sel_getUid("toolTip"), function $CPMenuItem__toolTip(self, _cmd)
-{
-    return self._toolTip;
-}
-,["CPString"]), new objj_method(sel_getUid("setRepresentedObject:"), function $CPMenuItem__setRepresentedObject_(self, _cmd, anObject)
-{
-    self._representedObject = anObject;
-}
-,["void","id"]), new objj_method(sel_getUid("representedObject"), function $CPMenuItem__representedObject(self, _cmd)
-{
-    return self._representedObject;
-}
-,["id"]), new objj_method(sel_getUid("setView:"), function $CPMenuItem__setView_(self, _cmd, aView)
-{
-    if (self._view === aView)
-        return;
-    self._view = aView;
-    ((___r1 = self._menuItemView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "setDirty"));
-    ((___r1 = self._menu), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemChanged:", self));
-    var ___r1;
-}
-,["void","CPView"]), new objj_method(sel_getUid("view"), function $CPMenuItem__view(self, _cmd)
-{
-    return self._view;
-}
-,["CPView"]), new objj_method(sel_getUid("isHighlighted"), function $CPMenuItem__isHighlighted(self, _cmd)
-{
-    return ((___r1 = self.isa.objj_msgSend0(self, "menu")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "highlightedItem")) == self;
-    var ___r1;
-}
-,["BOOL"]), new objj_method(sel_getUid("copy"), function $CPMenuItem__copy(self, _cmd)
-{
-    var item = ((___r1 = CPMenuItem.isa.objj_msgSend0(CPMenuItem, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-    item._isSeparator = self._isSeparator;
-    (item == null ? null : item.isa.objj_msgSend1(item, "setTitle:", self._title));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setFont:", self._font));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setTarget:", self._target));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setAction:", self._action));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setEnabled:", self._isEnabled));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setHidden:", self._isHidden));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setTag:", self._tag));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setState:", self._state));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setImage:", self._image));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setAlternateImage:", self._alternateImage));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setOnStateImage:", self._onStateImage));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setOffStateImage:", self._offStateImage));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setMixedStateImage:", self._mixedStateImage));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setKeyEquivalent:", self._keyEquivalent));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setKeyEquivalentModifierMask:", self._keyEquivalentModifierMask));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setMnemonicLocation:", self._mnemonicLocation));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setAlternate:", self._isAlternate));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setIndentationLevel:", self._indentationLevel));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setToolTip:", self._toolTip));
-    (item == null ? null : item.isa.objj_msgSend1(item, "setRepresentedObject:", self._representedObject));
-    return item;
-    var ___r1;
-}
-,["id"]), new objj_method(sel_getUid("mutableCopy"), function $CPMenuItem__mutableCopy(self, _cmd)
-{
-    return self.isa.objj_msgSend0(self, "copy");
-}
-,["id"]), new objj_method(sel_getUid("_menuItemView"), function $CPMenuItem___menuItemView(self, _cmd)
-{
-    if (!self._menuItemView)
-        self._menuItemView = ((___r1 = _CPMenuItemView.isa.objj_msgSend0(_CPMenuItemView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithFrame:forMenuItem:", CGRectMakeZero(), self));
-    return self._menuItemView;
-    var ___r1;
-}
-,["id"]), new objj_method(sel_getUid("_isSelectable"), function $CPMenuItem___isSelectable(self, _cmd)
-{
-    return !self.isa.objj_msgSend0(self, "submenu") || self.isa.objj_msgSend0(self, "action") !== sel_getUid("submenuAction:") || self.isa.objj_msgSend0(self, "target") !== self.isa.objj_msgSend0(self, "menu");
-}
-,["BOOL"]), new objj_method(sel_getUid("_isMenuBarButton"), function $CPMenuItem___isMenuBarButton(self, _cmd)
-{
-    return !self.isa.objj_msgSend0(self, "submenu") && self.isa.objj_msgSend0(self, "menu") === (CPApp == null ? null : CPApp.isa.objj_msgSend0(CPApp, "mainMenu"));
-}
-,["BOOL"]), new objj_method(sel_getUid("description"), function $CPMenuItem__description(self, _cmd)
-{
-    return objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPMenuItem").super_class }, "description") + " target: " + self.isa.objj_msgSend0(self, "target") + " action: " + CPStringFromSelector(self.isa.objj_msgSend0(self, "action"));
-}
-,["CPString"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("_binderClassForBinding:"), function $CPMenuItem___binderClassForBinding_(self, _cmd, aBinding)
-{
-    if ((aBinding == null ? null : aBinding.isa.objj_msgSend1(aBinding, "hasPrefix:", CPEnabledBinding)))
-        return CPMultipleValueAndBinding.isa.objj_msgSend0(CPMultipleValueAndBinding, "class");
-    else if (aBinding === CPTargetBinding || (aBinding == null ? null : aBinding.isa.objj_msgSend1(aBinding, "hasPrefix:", CPArgumentBinding)))
-        return CPActionBinding.isa.objj_msgSend0(CPActionBinding, "class");
-    return objj_msgSendSuper({ receiver:self, super_class:objj_getMetaClass("CPMenuItem").super_class }, "_binderClassForBinding:", aBinding);
-}
-,["Class","CPString"]), new objj_method(sel_getUid("separatorItem"), function $CPMenuItem__separatorItem(self, _cmd)
-{
-    var separatorItem = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend3(___r1, "initWithTitle:action:keyEquivalent:", "", nil, nil));
-    separatorItem._isSeparator = YES;
-    return separatorItem;
-    var ___r1;
-}
-,["CPMenuItem"])]);
-}var CPMenuItemIsSeparatorKey = "CPMenuItemIsSeparatorKey",
-    CPMenuItemTitleKey = "CPMenuItemTitleKey",
-    CPMenuItemTargetKey = "CPMenuItemTargetKey",
-    CPMenuItemActionKey = "CPMenuItemActionKey",
-    CPMenuItemIsEnabledKey = "CPMenuItemIsEnabledKey",
-    CPMenuItemIsHiddenKey = "CPMenuItemIsHiddenKey",
-    CPMenuItemTagKey = "CPMenuItemTagKey",
-    CPMenuItemStateKey = "CPMenuItemStateKey",
-    CPMenuItemImageKey = "CPMenuItemImageKey",
-    CPMenuItemAlternateImageKey = "CPMenuItemAlternateImageKey",
-    CPMenuItemSubmenuKey = "CPMenuItemSubmenuKey",
-    CPMenuItemMenuKey = "CPMenuItemMenuKey",
-    CPMenuItemKeyEquivalentKey = "CPMenuItemKeyEquivalentKey",
-    CPMenuItemKeyEquivalentModifierMaskKey = "CPMenuItemKeyEquivalentModifierMaskKey",
-    CPMenuItemIndentationLevelKey = "CPMenuItemIndentationLevelKey",
-    CPMenuItemRepresentedObjectKey = "CPMenuItemRepresentedObjectKey",
-    CPMenuItemViewKey = "CPMenuItemViewKey";
-{
-var the_class = objj_getClass("CPMenuItem")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPMenuItem\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPMenuItem__initWithCoder_(self, _cmd, aCoder)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPMenuItem").super_class }, "init");
-    if (self)
-    {
-        self._changeCount = 0;
-        self._isSeparator = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "containsValueForKey:", CPMenuItemIsSeparatorKey)) && (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPMenuItemIsSeparatorKey));
-        self._title = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemTitleKey));
-        self._target = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemTargetKey));
-        self._action = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemActionKey));
-        self._isEnabled = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "containsValueForKey:", CPMenuItemIsEnabledKey)) ? (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemIsEnabledKey)) : YES;
-        self._isHidden = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPMenuItemIsHiddenKey));
-        self._tag = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemTagKey));
-        self._state = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemStateKey));
-        self._image = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemImageKey));
-        self._alternateImage = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemAlternateImageKey));
-        self._menu = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemMenuKey));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setSubmenu:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemSubmenuKey))));
-        self._keyEquivalent = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemKeyEquivalentKey)) || "";
-        self._keyEquivalentModifierMask = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemKeyEquivalentModifierMaskKey));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setIndentationLevel:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPMenuItemIndentationLevelKey))));
-        self._representedObject = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemRepresentedObjectKey));
-        self._view = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPMenuItemViewKey));
-    }
-    return self;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPMenuItem__encodeWithCoder_(self, _cmd, aCoder)
-{
-    if (self._isSeparator)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._isSeparator, CPMenuItemIsSeparatorKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._title, CPMenuItemTitleKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._target, CPMenuItemTargetKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._action, CPMenuItemActionKey));
-    if (self._isEnabled !== YES)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._isEnabled, CPMenuItemIsEnabledKey));
-    if (self._isHidden !== NO)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._isHidden, CPMenuItemIsHiddenKey));
-    if (self._tag !== 0)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._tag, CPMenuItemTagKey));
-    if (self._state !== CPOffState)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._state, CPMenuItemStateKey));
-    if (self._image !== nil)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._image, CPMenuItemImageKey));
-    if (self._alternateImage !== nil)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._alternateImage, CPMenuItemAlternateImageKey));
-    if (self._submenu !== nil)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._submenu, CPMenuItemSubmenuKey));
-    if (self._menu !== nil)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._menu, CPMenuItemMenuKey));
-    if (self._keyEquivalent && self._keyEquivalent.length)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._keyEquivalent, CPMenuItemKeyEquivalentKey));
-    if (self._keyEquivalentModifierMask)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._keyEquivalentModifierMask, CPMenuItemKeyEquivalentModifierMaskKey));
-    if (self._indentationLevel > 0)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._indentationLevel, CPMenuItemIndentationLevelKey));
-    if (self._representedObject !== nil)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._representedObject, CPMenuItemRepresentedObjectKey));
-    if (self._view !== nil)
-        (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._view, CPMenuItemViewKey));
-}
-,["void","CPCoder"])]);
-}p;17;_CPMenuItemView.jt;12194;@STATIC;1.0;i;11;CPControl.ji;26;_CPMenuItemSeparatorView.ji;25;_CPMenuItemStandardView.ji;24;_CPMenuItemMenuBarView.jt;12068;objj_executeFile("CPControl.j", YES);objj_executeFile("_CPMenuItemSeparatorView.j", YES);objj_executeFile("_CPMenuItemStandardView.j", YES);objj_executeFile("_CPMenuItemMenuBarView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuItem"), new objj_ivar("_view"), new objj_ivar("_font"), new objj_ivar("_textColor"), new objj_ivar("_textShadowColor"), new objj_ivar("_minSize"), new objj_ivar("_isDirty"), new objj_ivar("_showsStateColumn"), new objj_ivar("_imageAndTextView"), new objj_ivar("_submenuView")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("view"), function $_CPMenuItemView__view(self, _cmd)
-{
-    return self._view;
-}
-,["CPView"]), new objj_method(sel_getUid("initWithFrame:forMenuItem:"), function $_CPMenuItemView__initWithFrame_forMenuItem_(self, _cmd, aFrame, aMenuItem)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemView").super_class }, "initWithFrame:", aFrame);
-    if (self)
-    {
-        self._menuItem = aMenuItem;
-        self._showsStateColumn = YES;
-        self._isDirty = YES;
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable));
-        (self == null ? null : self.isa.objj_msgSend0(self, "synchronizeWithMenuItem"));
-    }
-    return self;
-}
-,["id","CGRect","CPMenuItem"]), new objj_method(sel_getUid("minSize"), function $_CPMenuItemView__minSize(self, _cmd)
-{
-    return self._minSize;
-}
-,["CGSize"]), new objj_method(sel_getUid("setDirty"), function $_CPMenuItemView__setDirty(self, _cmd)
-{
-    self._isDirty = YES;
-}
-,["void"]), new objj_method(sel_getUid("synchronizeWithMenuItem"), function $_CPMenuItemView__synchronizeWithMenuItem(self, _cmd)
-{
-    var menuItemView = ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "view"));
-    if (((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isSeparatorItem")))
-    {
-        if (!((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isKindOfClass:", _CPMenuItemSeparatorView.isa.objj_msgSend0(_CPMenuItemSeparatorView, "class"))))
-        {
-            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-            self._view = _CPMenuItemSeparatorView.isa.objj_msgSend0(_CPMenuItemSeparatorView, "view");
-        }
-    }
-    else if (menuItemView)
-    {
-        if (self._view !== menuItemView)
-        {
-            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-            self._view = menuItemView;
-        }
-    }
-    else if (((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "menu")) == (CPApp == null ? null : CPApp.isa.objj_msgSend0(CPApp, "mainMenu")))
-    {
-        if (!((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isKindOfClass:", _CPMenuItemMenuBarView.isa.objj_msgSend0(_CPMenuItemMenuBarView, "class"))))
-        {
-            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-            self._view = _CPMenuItemMenuBarView.isa.objj_msgSend0(_CPMenuItemMenuBarView, "view");
-        }
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setMenuItem:", self._menuItem));
-    }
-    else
-    {
-        if (!((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isKindOfClass:", _CPMenuItemStandardView.isa.objj_msgSend0(_CPMenuItemStandardView, "class"))))
-        {
-            ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-            self._view = _CPMenuItemStandardView.isa.objj_msgSend0(_CPMenuItemStandardView, "view");
-        }
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setMenuItem:", self._menuItem));
-    }
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "superview")) !== self)
-        self.isa.objj_msgSend1(self, "addSubview:", self._view);
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("update"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "update"));
-    self._minSize = ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")).size;
     self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
-    self.isa.objj_msgSend1(self, "setFrameSize:", self._minSize);
+    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(maxWidth, y));
     self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
     var ___r1;
 }
-,["void"]), new objj_method(sel_getUid("setShowsStateColumn:"), function $_CPMenuItemView__setShowsStateColumn_(self, _cmd, shouldShowStateColumn)
+,["void"]), new objj_method(sel_getUid("setMenu:"), function $_CPMenuView__setMenu_(self, _cmd, aMenu)
 {
-    self._showsStateColumn = shouldShowStateColumn;
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuView").super_class }, "setMenu:", aMenu);
+    self.isa.objj_msgSend0(self, "tile");
 }
-,["void","BOOL"]), new objj_method(sel_getUid("highlight:"), function $_CPMenuItemView__highlight_(self, _cmd, shouldHighlight)
+,["void","CPMenu"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuView__defaultThemeClass(self, _cmd)
 {
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("highlight:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "highlight:", shouldHighlight));
-    var ___r1;
+    return "menu-view";
 }
-,["void","BOOL"]), new objj_method(sel_getUid("eventOnSubmenu:"), function $_CPMenuItemView__eventOnSubmenu_(self, _cmd, anEvent)
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuView__themeAttributes(self, _cmd)
 {
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hasSubmenu")))
-        return NO;
-    return CGRectContainsPoint(((___r1 = self._submenuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")), self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil));
-    var ___r1;
-}
-,["BOOL","CPEvent"]), new objj_method(sel_getUid("isHidden"), function $_CPMenuItemView__isHidden(self, _cmd)
-{
-    return ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
-    var ___r1;
-}
-,["BOOL"]), new objj_method(sel_getUid("menuItem"), function $_CPMenuItemView__menuItem(self, _cmd)
-{
-    return self._menuItem;
-}
-,["CPMenuItem"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuItemView__setFont_(self, _cmd, aFont)
-{
-    if (((___r1 = self._font), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "isEqual:", aFont)))
-        return;
-    self._font = aFont;
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setFont:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", aFont));
-    self.isa.objj_msgSend0(self, "setDirty");
-    var ___r1;
-}
-,["void","CPFont"]), new objj_method(sel_getUid("setTextColor:"), function $_CPMenuItemView__setTextColor_(self, _cmd, aColor)
-{
-    if (self._textColor == aColor)
-        return;
-    self._textColor = aColor;
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
-    ((___r1 = self._submenuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", self.isa.objj_msgSend0(self, "textColor")));
-    var ___r1;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemView__textColor(self, _cmd)
-{
-    return nil;
-}
-,["CPColor"]), new objj_method(sel_getUid("setTextShadowColor:"), function $_CPMenuItemView__setTextShadowColor_(self, _cmd, aColor)
-{
-    if (self._textShadowColor == aColor)
-        return;
-    self._textShadowColor = aColor;
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
-    var ___r1;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemView__textShadowColor(self, _cmd)
-{
-    return ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")) ? self._textShadowColor ? self._textShadowColor : CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 1.0, 0.8) : CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 0.8, 0.8);
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("setParentMenuHighlightColor:"), function $_CPMenuItemView__setParentMenuHighlightColor_(self, _cmd, aColor)
-{
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setHighlightColor:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHighlightColor:", aColor));
-    var ___r1;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuHighlightTextColor:"), function $_CPMenuItemView__setParentMenuHighlightTextColor_(self, _cmd, aColor)
-{
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setHighlightTextColor:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHighlightTextColor:", aColor));
-    var ___r1;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuHighlightTextShadowColor:"), function $_CPMenuItemView__setParentMenuHighlightTextShadowColor_(self, _cmd, aColor)
-{
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setHighlightTextShadowColor:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHighlightTextShadowColor:", aColor));
-    var ___r1;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuTextColor:"), function $_CPMenuItemView__setParentMenuTextColor_(self, _cmd, aColor)
-{
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setTextColor:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", aColor));
-    var ___r1;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setParentMenuTextShadowColor:"), function $_CPMenuItemView__setParentMenuTextShadowColor_(self, _cmd, aColor)
-{
-    if (((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("setTextShadowColor:"))))
-        ((___r1 = self._view), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", aColor));
-    var ___r1;
-}
-,["void","CPColor"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuItemView__defaultThemeClass(self, _cmd)
-{
-    return "menu-item-view";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuItemView__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init");
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-more-above-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-more-below-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-pop-up-background-style-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-menu-bar-background-style-color", CGInsetMake(5.0, 1.0, 1.0, 5.0), "menu-window-margin-inset", 16.0, "menu-window-scroll-indicator-height", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-window-background-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-window-background-selected-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-window-font", 30.0, "menu-bar-window-height", 10.0, "menu-bar-window-margin", 10.0, "menu-bar-window-left-margin", 10.0, "menu-bar-window-right-margin", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-text-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-title-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-text-shadow-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-title-shadow-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-highlight-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-highlight-text-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-highlight-text-shadow-color", 28.0, "menu-bar-height", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-icon-image", 1.0, "menu-bar-icon-image-alpha-value", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-general-icon-new", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-general-icon-save", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-general-icon-open");
 }
 ,["CPDictionary"])]);
-}{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemArrowView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_color")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("setColor:"), function $_CPMenuItemArrowView__setColor_(self, _cmd, aColor)
+}p;12;CPClipView.jt;7240;@STATIC;1.0;i;8;CPView.jt;7209;objj_executeFile("CPView.j", YES);{var the_class = objj_allocateClassPair(CPView, "CPClipView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_documentView")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("setDocumentView:"), function $CPClipView__setDocumentView_(self, _cmd, aView)
 {
-    if (self._color == aColor)
+    if (self._documentView == aView)
         return;
-    self._color = aColor;
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-}
-,["void","CPColor"]), new objj_method(sel_getUid("drawRect:"), function $_CPMenuItemArrowView__drawRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
-    CGContextBeginPath(context);
-    CGContextMoveToPoint(context, 1.0, 4.0);
-    CGContextAddLineToPoint(context, 9.0, 4.0);
-    CGContextAddLineToPoint(context, 5.0, 8.0);
-    CGContextClosePath(context);
-    CGContextSetFillColor(context, self._color);
-    CGContextFillPath(context);
+    if (self._documentView)
+        ((___r1 = self._documentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+    self._documentView = aView;
+    if (self._documentView)
+        self.isa.objj_msgSend1(self, "addSubview:", self._documentView);
     var ___r1;
 }
-,["void","CGRect"])]);
-}p;26;_CPMenuItemSeparatorView.jt;1859;@STATIC;1.0;i;8;CPView.jt;1828;objj_executeFile("CPView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemSeparatorView"),
-meta_class = the_class.isa;objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $_CPMenuItemSeparatorView__initWithFrame_(self, _cmd, aFrame)
+,["void","CPView"]), new objj_method(sel_getUid("documentView"), function $CPClipView__documentView(self, _cmd)
 {
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemSeparatorView").super_class }, "initWithFrame:", aFrame);
-    if (self)
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable));
+    return self._documentView;
+}
+,["id"]), new objj_method(sel_getUid("constrainScrollPoint:"), function $CPClipView__constrainScrollPoint_(self, _cmd, aPoint)
+{
+    if (!self._documentView)
+        return CGPointMakeZero();
+    var documentFrame = ((___r1 = self._documentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    aPoint.x = MAX(0.0, MIN(aPoint.x, MAX(CGRectGetWidth(documentFrame) - CGRectGetWidth(self._bounds), 0.0)));
+    aPoint.y = MAX(0.0, MIN(aPoint.y, MAX(CGRectGetHeight(documentFrame) - CGRectGetHeight(self._bounds), 0.0)));
+    return aPoint;
+    var ___r1;
+}
+,["CGPoint","CGPoint"]), new objj_method(sel_getUid("setBoundsOrigin:"), function $CPClipView__setBoundsOrigin_(self, _cmd, aPoint)
+{
+    if (CGPointEqualToPoint(self._bounds.origin, aPoint))
+        return;
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "setBoundsOrigin:", aPoint);
+    var superview = self.isa.objj_msgSend0(self, "superview"),
+        scrollViewClass = objj_getClass("CPScrollView");
+    if ((superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", scrollViewClass)))
+        (superview == null ? null : superview.isa.objj_msgSend1(superview, "reflectScrolledClipView:", self));
+}
+,["void","CGPoint"]), new objj_method(sel_getUid("scrollToPoint:"), function $CPClipView__scrollToPoint_(self, _cmd, aPoint)
+{
+    self.isa.objj_msgSend1(self, "setBoundsOrigin:", self.isa.objj_msgSend1(self, "constrainScrollPoint:", aPoint));
+}
+,["void","CGPoint"]), new objj_method(sel_getUid("viewBoundsChanged:"), function $CPClipView__viewBoundsChanged_(self, _cmd, aNotification)
+{
+    self.isa.objj_msgSend0(self, "_constrainScrollPoint");
+}
+,["void","CPNotification"]), new objj_method(sel_getUid("viewFrameChanged:"), function $CPClipView__viewFrameChanged_(self, _cmd, aNotification)
+{
+    self.isa.objj_msgSend0(self, "_constrainScrollPoint");
+}
+,["void","CPNotification"]), new objj_method(sel_getUid("resizeSubviewsWithOldSize:"), function $CPClipView__resizeSubviewsWithOldSize_(self, _cmd, aSize)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "resizeSubviewsWithOldSize:", aSize);
+    self.isa.objj_msgSend0(self, "_constrainScrollPoint");
+}
+,["void","CGSize"]), new objj_method(sel_getUid("_constrainScrollPoint"), function $CPClipView___constrainScrollPoint(self, _cmd)
+{
+    var oldScrollPoint = self.isa.objj_msgSend0(self, "bounds").origin;
+    self.isa.objj_msgSend1(self, "scrollToPoint:", oldScrollPoint);
+    if (!CGPointEqualToPoint(oldScrollPoint, self.isa.objj_msgSend0(self, "bounds").origin))
+        return;
+    var superview = self.isa.objj_msgSend0(self, "superview"),
+        scrollViewClass = objj_getClass("CPScrollView");
+    if ((superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", scrollViewClass)))
+        (superview == null ? null : superview.isa.objj_msgSend1(superview, "reflectScrolledClipView:", self));
+}
+,["void"]), new objj_method(sel_getUid("autoscroll:"), function $CPClipView__autoscroll_(self, _cmd, anEvent)
+{
+    var bounds = self.isa.objj_msgSend0(self, "bounds"),
+        eventLocation = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil),
+        superview = self.isa.objj_msgSend0(self, "superview"),
+        deltaX = 0,
+        deltaY = 0;
+    if (CGRectContainsPoint(bounds, eventLocation))
+        return NO;
+    if (!(superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", (CPScrollView == null ? null : CPScrollView.isa.objj_msgSend0(CPScrollView, "class")))) || (superview == null ? null : superview.isa.objj_msgSend0(superview, "hasVerticalScroller")))
+    {
+        if (eventLocation.y < CGRectGetMinY(bounds))
+            deltaY = CGRectGetMinY(bounds) - eventLocation.y;
+        else if (eventLocation.y > CGRectGetMaxY(bounds))
+            deltaY = CGRectGetMaxY(bounds) - eventLocation.y;
+        if (deltaY < -bounds.size.height)
+            deltaY = -bounds.size.height;
+        if (deltaY > bounds.size.height)
+            deltaY = bounds.size.height;
+    }
+    if (!(superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", (CPScrollView == null ? null : CPScrollView.isa.objj_msgSend0(CPScrollView, "class")))) || (superview == null ? null : superview.isa.objj_msgSend0(superview, "hasHorizontalScroller")))
+    {
+        if (eventLocation.x < CGRectGetMinX(bounds))
+            deltaX = CGRectGetMinX(bounds) - eventLocation.x;
+        else if (eventLocation.x > CGRectGetMaxX(bounds))
+            deltaX = CGRectGetMaxX(bounds) - eventLocation.x;
+        if (deltaX < -bounds.size.width)
+            deltaX = -bounds.size.width;
+        if (deltaX > bounds.size.width)
+            deltaX = bounds.size.width;
+    }
+    return self.isa.objj_msgSend1(self, "scrollToPoint:", CGPointMake(bounds.origin.x - deltaX, bounds.origin.y - deltaY));
+}
+,["BOOL","CPEvent"]), new objj_method(sel_getUid("documentVisibleRect"), function $CPClipView__documentVisibleRect(self, _cmd)
+{
+    return ((___r1 = self._documentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "visibleRect"));
+    var ___r1;
+}
+,["CGRect"])]);
+}var CPClipViewDocumentViewKey = "CPScrollViewDocumentView";
+{
+var the_class = objj_getClass("CPClipView")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPClipView\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPClipView__initWithCoder_(self, _cmd, aCoder)
+{
+    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "initWithCoder:", aCoder))
+    {
+        self._documentView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPClipViewDocumentViewKey));
+    }
     return self;
 }
-,["id","CGRect"]), new objj_method(sel_getUid("drawRect:"), function $_CPMenuItemSeparatorView__drawRect_(self, _cmd, aRect)
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPClipView__encodeWithCoder_(self, _cmd, aCoder)
 {
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
-        bounds = self.isa.objj_msgSend0(self, "bounds");
-    CGContextBeginPath(context);
-    CGContextMoveToPoint(context, CGRectGetMinX(bounds), FLOOR(CGRectGetMidY(bounds)) - 0.5);
-    CGContextAddLineToPoint(context, CGRectGetMaxX(bounds), FLOOR(CGRectGetMidY(bounds)) - 0.5);
-    CGContextSetStrokeColor(context, ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-item-separator-color", _CPMenuItemStandardView)));
-    CGContextStrokePath(context);
-    var ___r1;
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "encodeWithCoder:", aCoder);
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._documentView, CPClipViewDocumentViewKey));
 }
-,["void","CGRect"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("view"), function $_CPMenuItemSeparatorView__view(self, _cmd)
-{
-    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 10.0)));
-    var ___r1;
-}
-,["id"])]);
-}p;25;_CPMenuItemStandardView.jt;21246;@STATIC;1.0;i;11;CPControl.ji;13;CPImageView.ji;21;_CPImageAndTextView.jt;21166;objj_executeFile("CPControl.j", YES);objj_executeFile("CPImageView.j", YES);objj_executeFile("_CPImageAndTextView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemStandardView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuItem"), new objj_ivar("_font"), new objj_ivar("_minSize"), new objj_ivar("_isDirty"), new objj_ivar("_highlighted"), new objj_ivar("_stateView"), new objj_ivar("_imageAndTextView"), new objj_ivar("_keyEquivalentView"), new objj_ivar("_submenuIndicatorView")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("menuItem"), function $_CPMenuItemStandardView__menuItem(self, _cmd)
-{
-    return self._menuItem;
-}
-,["CPMenuItem"]), new objj_method(sel_getUid("setMenuItem:"), function $_CPMenuItemStandardView__setMenuItem_(self, _cmd, newValue)
-{
-    self._menuItem = newValue;
-}
-,["void","CPMenuItem"]), new objj_method(sel_getUid("minSize"), function $_CPMenuItemStandardView__minSize(self, _cmd)
-{
-    return self._minSize;
-}
-,["CGSize"]), new objj_method(sel_getUid("initWithFrame:"), function $_CPMenuItemStandardView__initWithFrame_(self, _cmd, aFrame)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemStandardView").super_class }, "initWithFrame:", aFrame);
-    if (self)
-    {
-        self._stateView = ((___r1 = CPImageView.isa.objj_msgSend0(CPImageView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 0.0)));
-        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImageScaling:", CPImageScaleNone));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._stateView));
-        self._imageAndTextView = ((___r1 = _CPImageAndTextView.isa.objj_msgSend0(_CPImageAndTextView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 0.0)));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImagePosition:", CPImageLeft));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._imageAndTextView));
-        self._keyEquivalentView = ((___r1 = _CPImageAndTextView.isa.objj_msgSend0(_CPImageAndTextView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 0.0)));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImagePosition:", CPNoImage));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinXMargin));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._keyEquivalentView));
-        self._submenuIndicatorView = ((___r1 = (_CPMenuItemSubmenuIndicatorView == null ? null : _CPMenuItemSubmenuIndicatorView.isa.objj_msgSend0(_CPMenuItemSubmenuIndicatorView, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 8.0, 10.0)));
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", (self == null ? null : self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "submenu-indicator-color"))));
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinXMargin));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._submenuIndicatorView));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CGRect"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemStandardView__textColor(self, _cmd)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return CPColor.isa.objj_msgSend0(CPColor, "lightGrayColor");
-    if (self._highlighted)
-        return CPColor.isa.objj_msgSend0(CPColor, "whiteColor");
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-text-color");
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemStandardView__textShadowColor(self, _cmd)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return nil;
-    if (self._highlighted)
-        return nil;
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-text-shadow-color");
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuItemStandardView__setFont_(self, _cmd, aFont)
-{
-    self._font = aFont;
-}
-,["void","CPFont"]), new objj_method(sel_getUid("update"), function $_CPMenuItemStandardView__update(self, _cmd)
-{
-    var x = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "left-margin") + ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "indentationLevel")) * self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "indentation-width"),
-        height = 0.0,
-        hasStateColumn = ((___r1 = ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "menu"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "showsStateColumn"));
-    if (hasStateColumn)
-    {
-        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
-        switch(((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "state"))) {
-        case CPOnState:
-            ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-on-state-image")));
-            break;
-        case CPOffState:
-            ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-off-state-image")));
-            break;
-        case CPMixedState:
-            ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-mixed-state-image")));
-            break;
-default:
-            break;
-        }
-        x += self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "state-column-width");
-    }
-    else
-        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "font")) || self._font));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setVerticalAlignment:", CPCenterVerticalTextAlignment));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setText:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "title"))));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
-    var imageAndTextViewFrame = ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    imageAndTextViewFrame.origin.x = x;
-    x += CGRectGetWidth(imageAndTextViewFrame);
-    height = MAX(height, CGRectGetHeight(imageAndTextViewFrame));
-    var hasKeyEquivalent = !!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "keyEquivalent")),
-        hasSubmenu = ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hasSubmenu"));
-    if (hasKeyEquivalent || hasSubmenu)
-        x += self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "right-columns-margin");
-    if (hasKeyEquivalent)
-    {
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "font")) || self._font));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setVerticalAlignment:", CPCenterVerticalTextAlignment));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setText:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "keyEquivalentStringRepresentation"))));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0, 1)));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(x, self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "vertical-margin"))));
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
-        var keyEquivalentViewFrame = ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-        keyEquivalentViewFrame.origin.x = x;
-        x += CGRectGetWidth(keyEquivalentViewFrame);
-        height = MAX(height, CGRectGetHeight(keyEquivalentViewFrame));
-        if (hasSubmenu)
-            x += self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "right-columns-margin");
-    }
-    else
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-    if (hasSubmenu)
-    {
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
-        var submenuViewFrame = ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-        submenuViewFrame.origin.x = x;
-        x += CGRectGetWidth(submenuViewFrame);
-        height = MAX(height, CGRectGetHeight(submenuViewFrame));
-    }
-    else
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-    height += 2.0 * self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "vertical-margin");
-    imageAndTextViewFrame.origin.y = FLOOR((height - CGRectGetHeight(imageAndTextViewFrame)) / 2.0);
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", imageAndTextViewFrame));
-    if (hasStateColumn)
-        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "state-column-width"), height)));
-    if (hasKeyEquivalent)
-    {
-        keyEquivalentViewFrame.origin.y = FLOOR((height - CGRectGetHeight(keyEquivalentViewFrame)) / 2.0);
-        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", keyEquivalentViewFrame));
-    }
-    if (hasSubmenu)
-    {
-        submenuViewFrame.origin.y = FLOOR((height - CGRectGetHeight(submenuViewFrame)) / 2.0);
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", submenuViewFrame));
-    }
-    self._minSize = CGSizeMake(x + self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "right-margin"), height);
-    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
-    self.isa.objj_msgSend1(self, "setFrameSize:", self._minSize);
-    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
-    var ___r1, ___r2;
-}
-,["void"]), new objj_method(sel_getUid("highlight:"), function $_CPMenuItemStandardView__highlight_(self, _cmd, shouldHighlight)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return;
-    self._highlighted = shouldHighlight;
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
-    ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
-    ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
-    if (shouldHighlight)
-    {
-        self.isa.objj_msgSend1(self, "setBackgroundColor:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-selection-color"));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "alternateImage")) || ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", self.isa.objj_msgSend0(self, "textColor")));
-    }
-    else
-    {
-        self.isa.objj_msgSend1(self, "setBackgroundColor:", nil);
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "submenu-indicator-color")));
-    }
-    if (((___r1 = ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "menu"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "showsStateColumn")))
-    {
-        if (shouldHighlight)
-        {
-            switch(((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "state"))) {
-            case CPOnState:
-                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-on-state-highlighted-image")));
-                break;
-            case CPOffState:
-                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-off-state-highlighted-image")));
-                break;
-            case CPMixedState:
-                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-mixed-state-highlighted-image")));
-                break;
-default:
-                break;
-            }
-        }
-        else
-        {
-            switch(((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "state"))) {
-            case CPOnState:
-                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-on-state-image")));
-                break;
-            case CPOffState:
-                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-off-state-image")));
-                break;
-            case CPMixedState:
-                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-mixed-state-image")));
-                break;
-default:
-                break;
-            }
-        }
-    }
-    var ___r1, ___r2;
-}
-,["void","BOOL"]), new objj_method(sel_getUid("isHighlighted"), function $_CPMenuItemStandardView__isHighlighted(self, _cmd)
-{
-    return self._highlighted;
-}
-,["BOOL"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuItemStandardView__defaultThemeClass(self, _cmd)
-{
-    return "menu-item-standard-view";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuItemStandardView__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPNull.isa.objj_msgSend0(CPNull, "null"), "submenu-indicator-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-selection-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-text-shadow-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-text-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-off-state-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-off-state-highlighted-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-on-state-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-on-state-highlighted-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-mixed-state-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-mixed-state-highlighted-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-separator-color", 3.0, "left-margin", 17.0, "right-margin", 14.0, "state-column-width", 17.0, "indentation-width", 4.0, "vertical-margin", 30.0, "right-columns-margin");
-}
-,["CPDictionary"]), new objj_method(sel_getUid("view"), function $_CPMenuItemStandardView__view(self, _cmd)
-{
-    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-    var ___r1;
-}
-,["id"]), new objj_method(sel_getUid("_standardLeftMargin"), function $_CPMenuItemStandardView___standardLeftMargin(self, _cmd)
-{
-    return ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "left-margin", self.isa.objj_msgSend0(self, "class"))) + ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "state-column-width", self.isa.objj_msgSend0(self, "class")));
-    var ___r1;
-}
-,["float"])]);
-}{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemSubmenuIndicatorView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_color")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("setColor:"), function $_CPMenuItemSubmenuIndicatorView__setColor_(self, _cmd, aColor)
-{
-    if (self._color === aColor)
-        return;
-    self._color = aColor;
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-}
-,["void","CPColor"]), new objj_method(sel_getUid("drawRect:"), function $_CPMenuItemSubmenuIndicatorView__drawRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
-        bounds = self.isa.objj_msgSend0(self, "bounds");
-    CGContextBeginPath(context);
-    CGContextMoveToPoint(context, CGRectGetMinX(bounds), CGRectGetMinY(bounds));
-    CGContextAddLineToPoint(context, CGRectGetMaxX(bounds), CGRectGetMidY(bounds));
-    CGContextAddLineToPoint(context, CGRectGetMinX(bounds), CGRectGetMaxY(bounds));
-    CGContextClosePath(context);
-    CGContextSetFillColor(context, self._color);
-    CGContextFillPath(context);
-    var ___r1;
-}
-,["void","CGRect"])]);
+,["void","CPCoder"])]);
 }p;13;CPImageView.jt;21379;@STATIC;1.0;I;33;Foundation/CPNotificationCenter.ji;11;CPControl.ji;9;CPImage.ji;14;CPShadowView.jt;21273;objj_executeFile("Foundation/CPNotificationCenter.j", NO);objj_executeFile("CPControl.j", YES);objj_executeFile("CPImage.j", YES);objj_executeFile("CPShadowView.j", YES);{var the_typedef = objj_allocateTypeDef("CPImageAlignment");
 objj_registerTypeDef(the_typedef);
 }CPImageAlignCenter = 0;
@@ -13909,3537 +15154,6 @@ class_addMethods(meta_class, [new objj_method(sel_getUid("DOMDataTransferPastebo
     var ___r1;
 }
 ,["_CPDOMDataTransferPasteboard"])]);
-}p;24;_CPMenuItemMenuBarView.jt;12923;@STATIC;1.0;i;11;CPControl.ji;21;_CPImageAndTextView.jt;12861;objj_executeFile("CPControl.j", YES);objj_executeFile("_CPImageAndTextView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemMenuBarView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_highlightColor"), new objj_ivar("_textColor"), new objj_ivar("_textShadowColor"), new objj_ivar("_highlightTextColor"), new objj_ivar("_highlightTextShadowColor"), new objj_ivar("_menuItem"), new objj_ivar("_font"), new objj_ivar("_isDirty"), new objj_ivar("_shouldHighlight"), new objj_ivar("_imageAndTextView")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("highlightColor"), function $_CPMenuItemMenuBarView__highlightColor(self, _cmd)
-{
-    return self._highlightColor;
-}
-,["CPColor"]), new objj_method(sel_getUid("setHighlightColor:"), function $_CPMenuItemMenuBarView__setHighlightColor_(self, _cmd, newValue)
-{
-    self._highlightColor = newValue;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemMenuBarView__textColor(self, _cmd)
-{
-    return self._textColor;
-}
-,["CPColor"]), new objj_method(sel_getUid("setTextColor:"), function $_CPMenuItemMenuBarView__setTextColor_(self, _cmd, newValue)
-{
-    self._textColor = newValue;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemMenuBarView__textShadowColor(self, _cmd)
-{
-    return self._textShadowColor;
-}
-,["CPColor"]), new objj_method(sel_getUid("setTextShadowColor:"), function $_CPMenuItemMenuBarView__setTextShadowColor_(self, _cmd, newValue)
-{
-    self._textShadowColor = newValue;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("highlightTextColor"), function $_CPMenuItemMenuBarView__highlightTextColor(self, _cmd)
-{
-    return self._highlightTextColor;
-}
-,["CPColor"]), new objj_method(sel_getUid("setHighlightTextColor:"), function $_CPMenuItemMenuBarView__setHighlightTextColor_(self, _cmd, newValue)
-{
-    self._highlightTextColor = newValue;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("highlightTextShadowColor"), function $_CPMenuItemMenuBarView__highlightTextShadowColor(self, _cmd)
-{
-    return self._highlightTextShadowColor;
-}
-,["CPColor"]), new objj_method(sel_getUid("setHighlightTextShadowColor:"), function $_CPMenuItemMenuBarView__setHighlightTextShadowColor_(self, _cmd, newValue)
-{
-    self._highlightTextShadowColor = newValue;
-}
-,["void","CPColor"]), new objj_method(sel_getUid("menuItem"), function $_CPMenuItemMenuBarView__menuItem(self, _cmd)
-{
-    return self._menuItem;
-}
-,["CPMenuItem"]), new objj_method(sel_getUid("setMenuItem:"), function $_CPMenuItemMenuBarView__setMenuItem_(self, _cmd, newValue)
-{
-    self._menuItem = newValue;
-}
-,["void","CPMenuItem"]), new objj_method(sel_getUid("initWithFrame:"), function $_CPMenuItemMenuBarView__initWithFrame_(self, _cmd, aFrame)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemMenuBarView").super_class }, "initWithFrame:", aFrame);
-    if (self)
-    {
-        self._imageAndTextView = ((___r1 = _CPImageAndTextView.isa.objj_msgSend0(_CPImageAndTextView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake((self == null ? null : self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "horizontal-margin")), 0.0, 0.0, 0.0)));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImagePosition:", CPImageLeft));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImageOffset:", 3.0));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinYMargin | CPViewMaxYMargin));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._imageAndTextView));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CGRect"]), new objj_method(sel_getUid("setTextColor:"), function $_CPMenuItemMenuBarView__setTextColor_(self, _cmd, aColor)
-{
-    self._textColor = aColor;
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setTextShadowColor:"), function $_CPMenuItemMenuBarView__setTextShadowColor_(self, _cmd, aColor)
-{
-    self._textShadowColor = aColor;
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setHighlightTextColor:"), function $_CPMenuItemMenuBarView__setHighlightTextColor_(self, _cmd, aColor)
-{
-    self._highlightTextColor = aColor;
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-}
-,["void","CPColor"]), new objj_method(sel_getUid("setHighlightTextShadowColor:"), function $_CPMenuItemMenuBarView__setHighlightTextShadowColor_(self, _cmd, aColor)
-{
-    self._highlightTextShadowColor = aColor;
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-}
-,["void","CPColor"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemMenuBarView__textColor(self, _cmd)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return CPColor.isa.objj_msgSend0(CPColor, "lightGrayColor");
-    return self._textColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-text-color", _CPMenuView));
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemMenuBarView__textShadowColor(self, _cmd)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return CPColor.isa.objj_msgSend0(CPColor, "clearColor");
-    return self._textShadowColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-text-shadow-color", _CPMenuView));
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("highlightTextColor"), function $_CPMenuItemMenuBarView__highlightTextColor(self, _cmd)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return CPColor.isa.objj_msgSend0(CPColor, "lightGrayColor");
-    return self._highlightTextColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-highlight-text-color", _CPMenuView));
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("highlightTextShadowColor"), function $_CPMenuItemMenuBarView__highlightTextShadowColor(self, _cmd)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        return CPColor.isa.objj_msgSend0(CPColor, "clearColor");
-    return self._highlightTextShadowColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-highlight-text-shadow-color", _CPMenuView));
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("highlightColor"), function $_CPMenuItemMenuBarView__highlightColor(self, _cmd)
-{
-    return self._highlightColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-window-background-selected-color", _CPMenuView));
-    var ___r1;
-}
-,["CPColor"]), new objj_method(sel_getUid("update"), function $_CPMenuItemMenuBarView__update(self, _cmd)
-{
-    var x = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "horizontal-margin"),
-        height = 0.0;
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setText:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "title"))));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "font")) || (_CPMenuBarWindow == null ? null : _CPMenuBarWindow.isa.objj_msgSend0(_CPMenuBarWindow, "font"))));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setVerticalAlignment:", CPCenterVerticalTextAlignment));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
-    var imageAndTextViewFrame = ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    imageAndTextViewFrame.origin.x = x;
-    x += CGRectGetWidth(imageAndTextViewFrame);
-    height = MAX(height, CGRectGetHeight(imageAndTextViewFrame)) + 2.0 * self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "vertical-margin");
-    imageAndTextViewFrame.origin.y = FLOOR((height - CGRectGetHeight(imageAndTextViewFrame)) / 2.0);
-    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", imageAndTextViewFrame));
-    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
-    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(x + self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "horizontal-margin"), height));
-    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-    var ___r1, ___r2;
-}
-,["void"]), new objj_method(sel_getUid("highlight:"), function $_CPMenuItemMenuBarView__highlight_(self, _cmd, shouldHighlight)
-{
-    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
-        shouldHighlight = NO;
-    self._shouldHighlight = shouldHighlight;
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-    var ___r1;
-}
-,["void","BOOL"]), new objj_method(sel_getUid("layoutSubviews"), function $_CPMenuItemMenuBarView__layoutSubviews(self, _cmd)
-{
-    if (self._shouldHighlight)
-    {
-        if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "_isMenuBarButton")))
-            self.isa.objj_msgSend1(self, "setBackgroundColor:", self.isa.objj_msgSend0(self, "highlightColor"));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "alternateImage")) || ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "highlightTextColor")));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "highlightTextShadowColor")));
-    }
-    else
-    {
-        self.isa.objj_msgSend1(self, "setBackgroundColor:", nil);
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
-        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
-    }
-    var ___r1, ___r2;
-}
-,["void"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuItemMenuBarView__defaultThemeClass(self, _cmd)
-{
-    return "menu-item-bar-view";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuItemMenuBarView__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", 9.0, "horizontal-margin", 3.0, "submenu-indicator-margin", 4.0, "vertical-margin");
-}
-,["CPDictionary"]), new objj_method(sel_getUid("view"), function $_CPMenuItemMenuBarView__view(self, _cmd)
-{
-    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-    var ___r1;
-}
-,["id"])]);
-}p;15;_CPMenuWindow.jt;28948;@STATIC;1.0;i;12;CPClipView.ji;13;CPImageView.ji;10;CPWindow.ji;16;_CPMenuManager.jt;28857;objj_executeFile("CPClipView.j", YES);objj_executeFile("CPImageView.j", YES);objj_executeFile("CPWindow.j", YES);objj_executeFile("_CPMenuManager.j", YES);var _CPMenuWindowPool = [],
-    _CPMenuWindowPoolCapacity = 5,
-    _CPMenuWindowBackgroundColors = [];
-_CPMenuWindowMenuBarBackgroundStyle = 0;
-_CPMenuWindowPopUpBackgroundStyle = 1;
-_CPMenuWindowAttachedMenuBackgroundStyle = 2;
-{var the_class = objj_allocateClassPair(CPWindow, "_CPMenuWindow"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuView"), new objj_ivar("_menuClipView"), new objj_ivar("_moreAboveView"), new objj_ivar("_moreBelowView"), new objj_ivar("_unconstrainedFrame"), new objj_ivar("_constraintRect")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithContentRect:styleMask:"), function $_CPMenuWindow__initWithContentRect_styleMask_(self, _cmd, aRect, aStyleMask)
-{
-    self._constraintRect = CGRectMakeZero();
-    self._unconstrainedFrame = CGRectMakeZero();
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "initWithContentRect:styleMask:", aRect, CPBorderlessWindowMask);
-    if (self)
-    {
-        self._constrainsToUsableScreen = NO;
-        (self == null ? null : self.isa.objj_msgSend1(self, "setLevel:", CPPopUpMenuWindowLevel));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setHasShadow:", YES));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setShadowStyle:", CPMenuWindowShadowStyle));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAcceptsMouseMovedEvents:", YES));
-        var contentView = (self == null ? null : self.isa.objj_msgSend0(self, "contentView"));
-        self._menuView = ((___r1 = (_CPMenuView == null ? null : _CPMenuView.isa.objj_msgSend0(_CPMenuView, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
-        self._menuClipView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-margin-inset")).left, ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-margin-inset")).top, 0.0, 0.0)));
-        ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", self._menuView));
-        (contentView == null ? null : contentView.isa.objj_msgSend1(contentView, "addSubview:", self._menuClipView));
-        self._moreAboveView = ((___r1 = CPImageView.isa.objj_msgSend0(CPImageView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
-        ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-more-above-image"))));
-        ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", ((___r2 = ((___r3 = self._menuView), ___r3 == null ? null : ___r3.isa.objj_msgSend1(___r3, "valueForThemeAttribute:", "menu-window-more-above-image"))), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "size"))));
-        (contentView == null ? null : contentView.isa.objj_msgSend1(contentView, "addSubview:", self._moreAboveView));
-        self._moreBelowView = ((___r1 = CPImageView.isa.objj_msgSend0(CPImageView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
-        ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "valueForThemeAttribute:", "menu-window-more-below-image"))));
-        ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", ((___r2 = ((___r3 = self._menuView), ___r3 == null ? null : ___r3.isa.objj_msgSend1(___r3, "valueForThemeAttribute:", "menu-window-more-below-image"))), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "size"))));
-        (contentView == null ? null : contentView.isa.objj_msgSend1(contentView, "addSubview:", self._moreBelowView));
-    }
-    return self;
-    var ___r1, ___r2, ___r3;
-}
-,["id","CGRect","unsigned"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuWindow__setFont_(self, _cmd, aFont)
-{
-    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", aFont));
-    var ___r1;
-}
-,["void","CPFont"]), new objj_method(sel_getUid("font"), function $_CPMenuWindow__font(self, _cmd)
-{
-    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "font"));
-    var ___r1;
-}
-,["CPFont"]), new objj_method(sel_getUid("setBackgroundStyle:"), function $_CPMenuWindow__setBackgroundStyle_(self, _cmd, aBackgroundStyle)
-{
-    self.isa.objj_msgSend1(self, "setBackgroundColor:", ((___r1 = self.isa.objj_msgSend0(self, "class")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "backgroundColorForBackgroundStyle:", aBackgroundStyle)));
-    var ___r1;
-}
-,["void","_CPMenuWindowBackgroundStyle"]), new objj_method(sel_getUid("setMenu:"), function $_CPMenuWindow__setMenu_(self, _cmd, aMenu)
-{
-    (aMenu == null ? null : aMenu.isa.objj_msgSend1(aMenu, "_setMenuWindow:", self));
-    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setMenu:", aMenu));
-    var menuViewSize = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")).size,
-        marginInset = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset"));
-    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(marginInset.left + menuViewSize.width + marginInset.right, marginInset.top + menuViewSize.height + marginInset.bottom));
-    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollPoint:", CGPointMake(0.0, 0.0)));
-    ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(marginInset.left, marginInset.top, menuViewSize.width, menuViewSize.height)));
-    var ___r1;
-}
-,["void","CPMenu"]), new objj_method(sel_getUid("setMinWidth:"), function $_CPMenuWindow__setMinWidth_(self, _cmd, aWidth)
-{
-    var size = self.isa.objj_msgSend0(self, "unconstrainedFrame").size;
-    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(MAX(size.width, aWidth), size.height));
-}
-,["void","float"]), new objj_method(sel_getUid("menu"), function $_CPMenuWindow__menu(self, _cmd)
-{
-    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "menu"));
-    var ___r1;
-}
-,["CPMenu"]), new objj_method(sel_getUid("_menuView"), function $_CPMenuWindow___menuView(self, _cmd)
-{
-    return self._menuView;
-}
-,["_CPMenuView"]), new objj_method(sel_getUid("orderFront:"), function $_CPMenuWindow__orderFront_(self, _cmd, aSender)
-{
-    ((___r1 = self.isa.objj_msgSend0(self, "menu")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "update"));
-    self.isa.objj_msgSend1(self, "setFrame:", self._unconstrainedFrame);
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "orderFront:", aSender);
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("setConstraintRect:"), function $_CPMenuWindow__setConstraintRect_(self, _cmd, aRect)
-{
-    self._constraintRect = aRect;
-    self.isa.objj_msgSend1(self, "setFrame:", self._unconstrainedFrame);
-}
-,["void","CGRect"]), new objj_method(sel_getUid("unconstrainedFrame"), function $_CPMenuWindow__unconstrainedFrame(self, _cmd)
-{
-    return CGRectMakeCopy(self._unconstrainedFrame);
-}
-,["CGRect"]), new objj_method(sel_getUid("setFrameOrigin:"), function $_CPMenuWindow__setFrameOrigin_(self, _cmd, aPoint)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "setFrame:", CGRectMake(aPoint.x, aPoint.y, CGRectGetWidth(self._unconstrainedFrame), CGRectGetHeight(self._unconstrainedFrame)));
-}
-,["void","CGPoint"]), new objj_method(sel_getUid("setFrameSize:"), function $_CPMenuWindow__setFrameSize_(self, _cmd, aSize)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "setFrame:", CGRectMake(CGRectGetMinX(self._unconstrainedFrame), CGRectGetMinY(self._unconstrainedFrame), aSize.width, aSize.height));
-}
-,["void","CGSize"]), new objj_method(sel_getUid("setFrame:display:animate:"), function $_CPMenuWindow__setFrame_display_animate_(self, _cmd, aFrame, shouldDisplay, shouldAnimate)
-{
-    self._unconstrainedFrame = CGRectMakeCopy(aFrame);
-    var constrainedFrame = CGRectIntersection(self._unconstrainedFrame, self._constraintRect),
-        marginInset = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")),
-        scrollIndicatorHeight = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-scroll-indicator-height"));
-    constrainedFrame.origin.x = CGRectGetMinX(self._unconstrainedFrame);
-    constrainedFrame.size.width = CGRectGetWidth(self._unconstrainedFrame);
-    if (CGRectGetWidth(constrainedFrame) > CGRectGetWidth(self._constraintRect))
-        constrainedFrame.size.width = CGRectGetWidth(self._constraintRect);
-    if (CGRectGetMaxX(constrainedFrame) > CGRectGetMaxX(self._constraintRect))
-        constrainedFrame.origin.x -= CGRectGetMaxX(constrainedFrame) - CGRectGetMaxX(self._constraintRect);
-    if (CGRectGetMinX(constrainedFrame) < CGRectGetMinX(self._constraintRect))
-        constrainedFrame.origin.x = CGRectGetMinX(self._constraintRect);
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuWindow").super_class }, "setFrame:display:animate:", constrainedFrame, shouldDisplay, shouldAnimate);
-    var menuViewOrigin = CGPointMake(CGRectGetMinX(aFrame) + marginInset.left, CGRectGetMinY(aFrame) + marginInset.top),
-        moreAbove = menuViewOrigin.y < CGRectGetMinY(constrainedFrame) + marginInset.top,
-        moreBelow = menuViewOrigin.y + CGRectGetHeight(((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"))) > CGRectGetMaxY(constrainedFrame) - marginInset.bottom,
-        topMargin = marginInset.top,
-        bottomMargin = marginInset.bottom,
-        contentView = self.isa.objj_msgSend0(self, "contentView"),
-        bounds = (contentView == null ? null : contentView.isa.objj_msgSend0(contentView, "bounds"));
-    if (moreAbove)
-    {
-        topMargin += scrollIndicatorHeight;
-        var frame = ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-        ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake((CGRectGetWidth(bounds) - CGRectGetWidth(frame)) / 2.0, (marginInset.top + scrollIndicatorHeight - CGRectGetHeight(frame)) / 2.0)));
-    }
-    ((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !moreAbove));
-    if (moreBelow)
-    {
-        bottomMargin += scrollIndicatorHeight;
-        ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake((CGRectGetWidth(bounds) - CGRectGetWidth(((___r2 = self._moreBelowView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame")))) / 2.0, CGRectGetHeight(bounds) - scrollIndicatorHeight - marginInset.bottom)));
-    }
-    ((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !moreBelow));
-    var clipFrame = CGRectMakeZero();
-    clipFrame.origin.x = marginInset.left;
-    clipFrame.origin.y = topMargin;
-    clipFrame.size.width = CGRectGetWidth(constrainedFrame) - marginInset.left - marginInset.right;
-    clipFrame.size.height = CGRectGetHeight(constrainedFrame) - topMargin - bottomMargin;
-    ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", clipFrame));
-    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(CGRectGetWidth(clipFrame), CGRectGetHeight(((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "frame"))))));
-    ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollPoint:", CGPointMake(0.0, self.isa.objj_msgSend1(self, "convertBaseToGlobal:", clipFrame.origin).y - menuViewOrigin.y)));
-    var ___r1, ___r2;
-}
-,["void","CGRect","BOOL","BOOL"]), new objj_method(sel_getUid("hasMinimumNumberOfVisibleItems"), function $_CPMenuWindow__hasMinimumNumberOfVisibleItems(self, _cmd)
-{
-    var visibleRect = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "visibleRect"));
-    if (CGRectIsEmpty(visibleRect))
-        return NO;
-    var numberOfUnhiddenItems = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "numberOfUnhiddenItems")),
-        minimumNumberOfVisibleItems = MIN(numberOfUnhiddenItems, 3),
-        count = 0,
-        index = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemIndexAtPoint:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend2(___r2, "convertPoint:fromView:", ((___r3 = self._menuClipView), ___r3 == null ? null : ___r3.isa.objj_msgSend0(___r3, "frame")).origin, nil))));
-    for (; index < numberOfUnhiddenItems && count < minimumNumberOfVisibleItems; ++index)
-    {
-        var itemRect = ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "rectForUnhiddenItemAtIndex:", index)),
-            visibleItemRect = CGRectIntersection(visibleRect, itemRect);
-        if (CGRectIsEmpty(visibleItemRect))
-            break;
-        if (CGRectEqualToRect(visibleItemRect, itemRect))
-            ++count;
-    }
-    return count >= minimumNumberOfVisibleItems;
-    var ___r1, ___r2, ___r3;
-}
-,["BOOL"]), new objj_method(sel_getUid("canScrollUp"), function $_CPMenuWindow__canScrollUp(self, _cmd)
-{
-    return !((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
-    var ___r1;
-}
-,["BOOL"]), new objj_method(sel_getUid("canScrollDown"), function $_CPMenuWindow__canScrollDown(self, _cmd)
-{
-    return !((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
-    var ___r1;
-}
-,["BOOL"]), new objj_method(sel_getUid("canScroll"), function $_CPMenuWindow__canScroll(self, _cmd)
-{
-    return self.isa.objj_msgSend0(self, "canScrollUp") || self.isa.objj_msgSend0(self, "canScrollDown");
-}
-,["BOOL"]), new objj_method(sel_getUid("scrollByDelta:"), function $_CPMenuWindow__scrollByDelta_(self, _cmd, theDelta)
-{
-    if (theDelta === 0.0)
-        return;
-    if (theDelta > 0.0 && !self.isa.objj_msgSend0(self, "canScrollDown"))
-        return;
-    if (theDelta < 0.0 && !self.isa.objj_msgSend0(self, "canScrollUp"))
-        return;
-    self._unconstrainedFrame.origin.y -= theDelta;
-    self.isa.objj_msgSend1(self, "setFrame:", self._unconstrainedFrame);
-}
-,["void","float"]), new objj_method(sel_getUid("scrollUp"), function $_CPMenuWindow__scrollUp(self, _cmd)
-{
-    self.isa.objj_msgSend1(self, "scrollByDelta:", -10.0);
-}
-,["void"]), new objj_method(sel_getUid("scrollDown"), function $_CPMenuWindow__scrollDown(self, _cmd)
-{
-    self.isa.objj_msgSend1(self, "scrollByDelta:", 10.0);
-}
-,["void"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("menuWindowWithMenu:font:"), function $_CPMenuWindow__menuWindowWithMenu_font_(self, _cmd, aMenu, aFont)
-{
-    var menuWindow = nil;
-    if (_CPMenuWindowPool.length)
-    {
-        menuWindow = _CPMenuWindowPool.pop();
-        (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setFrameOrigin:", CGPointMakeZero()));
-    }
-    else
-        menuWindow = ((___r1 = _CPMenuWindow.isa.objj_msgSend0(_CPMenuWindow, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-    (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setFont:", aFont));
-    (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setMenu:", aMenu));
-    (menuWindow == null ? null : menuWindow.isa.objj_msgSend1(menuWindow, "setMinWidth:", (aMenu == null ? null : aMenu.isa.objj_msgSend0(aMenu, "minimumWidth"))));
-    return menuWindow;
-    var ___r1;
-}
-,["id","CPMenu","CPFont"]), new objj_method(sel_getUid("poolMenuWindow:"), function $_CPMenuWindow__poolMenuWindow_(self, _cmd, aMenuWindow)
-{
-    if (!aMenuWindow || _CPMenuWindowPool.length >= _CPMenuWindowPoolCapacity || (_CPMenuWindowPool == null ? null : _CPMenuWindowPool.isa.objj_msgSend1(_CPMenuWindowPool, "containsObject:", aMenuWindow)))
-        return;
-    _CPMenuWindowPool.push(aMenuWindow);
-}
-,["void","_CPMenuWindow"]), new objj_method(sel_getUid("_standardLeftMargin"), function $_CPMenuWindow___standardLeftMargin(self, _cmd)
-{
-    return ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-window-margin-inset", _CPMenuView)).left;
-    var ___r1;
-}
-,["float"]), new objj_method(sel_getUid("backgroundColorForBackgroundStyle:"), function $_CPMenuWindow__backgroundColorForBackgroundStyle_(self, _cmd, aBackgroundStyle)
-{
-    var color = _CPMenuWindowBackgroundColors[aBackgroundStyle];
-    if (!color)
-    {
-        var bundle = CPBundle.isa.objj_msgSend1(CPBundle, "bundleForClass:", self.isa.objj_msgSend0(self, "class"));
-        if (aBackgroundStyle == _CPMenuWindowPopUpBackgroundStyle)
-            color = ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-window-pop-up-background-style-color", _CPMenuView));
-        else if (aBackgroundStyle == _CPMenuWindowMenuBarBackgroundStyle)
-            color = ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-window-menu-bar-background-style-color", _CPMenuView));
-        _CPMenuWindowBackgroundColors[aBackgroundStyle] = color;
-    }
-    return color;
-    var ___r1;
-}
-,["CPColor","_CPMenuWindowBackgroundStyle"])]);
-}{
-var the_class = objj_getClass("_CPMenuWindow")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"_CPMenuWindow\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("globalFrame"), function $_CPMenuWindow__globalFrame(self, _cmd)
-{
-    return self.isa.objj_msgSend0(self, "frame");
-}
-,["CGRect"]), new objj_method(sel_getUid("isMenuBar"), function $_CPMenuWindow__isMenuBar(self, _cmd)
-{
-    return NO;
-}
-,["BOOL"]), new objj_method(sel_getUid("scrollingStateForPoint:"), function $_CPMenuWindow__scrollingStateForPoint_(self, _cmd, aGlobalLocation)
-{
-    var frame = self.isa.objj_msgSend0(self, "frame");
-    if (!CGRectContainsPoint(frame, aGlobalLocation) || !self.isa.objj_msgSend0(self, "canScroll"))
-        return _CPMenuManagerScrollingStateNone;
-    if (aGlobalLocation.y < CGRectGetMinY(frame) + ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")).top + ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-scroll-indicator-height")) && !((___r1 = self._moreAboveView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        return _CPMenuManagerScrollingStateUp;
-    if (aGlobalLocation.y > CGRectGetMaxY(frame) - ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")).bottom - ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-scroll-indicator-height")) && !((___r1 = self._moreBelowView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        return _CPMenuManagerScrollingStateDown;
-    return _CPMenuManagerScrollingStateNone;
-    var ___r1;
-}
-,["_CPManagerScrollingState","CGPoint"]), new objj_method(sel_getUid("deltaYForItemAtIndex:"), function $_CPMenuWindow__deltaYForItemAtIndex_(self, _cmd, anIndex)
-{
-    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "valueForThemeAttribute:", "menu-window-margin-inset")).top + CGRectGetMinY(((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "rectForItemAtIndex:", anIndex)));
-    var ___r1;
-}
-,["float","int"]), new objj_method(sel_getUid("rectForItemAtIndex:"), function $_CPMenuWindow__rectForItemAtIndex_(self, _cmd, anIndex)
-{
-    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "convertRect:toView:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend1(___r2, "rectForItemAtIndex:", anIndex)), nil));
-    var ___r1, ___r2;
-}
-,["CGPoint","int"]), new objj_method(sel_getUid("itemIndexAtPoint:"), function $_CPMenuWindow__itemIndexAtPoint_(self, _cmd, aPoint)
-{
-    if (!CGRectContainsPoint(((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")), ((___r1 = self._menuClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "convertPoint:fromView:", aPoint, nil))))
-        return CPNotFound;
-    return ((___r1 = self._menuView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "itemIndexAtPoint:", ((___r2 = self._menuView), ___r2 == null ? null : ___r2.isa.objj_msgSend2(___r2, "convertPoint:fromView:", aPoint, nil))));
-    var ___r1, ___r2;
-}
-,["int","CGPoint"])]);
-}{var the_class = objj_allocateClassPair(CPView, "_CPMenuView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuItemViews"), new objj_ivar("_visibleMenuItemInfos"), new objj_ivar("_font")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("font"), function $_CPMenuView__font(self, _cmd)
-{
-    return self._font;
-}
-,["CPFont"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuView__setFont_(self, _cmd, newValue)
-{
-    self._font = newValue;
-}
-,["void","CPFont"]), new objj_method(sel_getUid("numberOfUnhiddenItems"), function $_CPMenuView__numberOfUnhiddenItems(self, _cmd)
-{
-    return self._visibleMenuItemInfos.length;
-}
-,["unsigned"]), new objj_method(sel_getUid("rectForUnhiddenItemAtIndex:"), function $_CPMenuView__rectForUnhiddenItemAtIndex_(self, _cmd, anIndex)
-{
-    return self.isa.objj_msgSend1(self, "rectForItemAtIndex:", self._visibleMenuItemInfos[anIndex].index);
-}
-,["CGRect","int"]), new objj_method(sel_getUid("rectForItemAtIndex:"), function $_CPMenuView__rectForItemAtIndex_(self, _cmd, anIndex)
-{
-    return ((___r1 = self._menuItemViews[anIndex === CPNotFound ? 0 : anIndex]), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    var ___r1;
-}
-,["CGRect","int"]), new objj_method(sel_getUid("itemIndexAtPoint:"), function $_CPMenuView__itemIndexAtPoint_(self, _cmd, aPoint)
-{
-    var x = aPoint.x,
-        bounds = self.isa.objj_msgSend0(self, "bounds");
-    if (x < CGRectGetMinX(bounds) || x > CGRectGetMaxX(bounds))
-        return CPNotFound;
-    var y = aPoint.y,
-        low = 0,
-        high = self._visibleMenuItemInfos.length - 1;
-    while (low <= high)
-    {
-        var middle = FLOOR(low + (high - low) / 2),
-            info = self._visibleMenuItemInfos[middle],
-            frame = ((___r1 = info.view), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-        if (y < CGRectGetMinY(frame))
-            high = middle - 1;
-        else if (y > CGRectGetMaxY(frame))
-            low = middle + 1;
-        else
-            return info.index;
-    }
-    return CPNotFound;
-    var ___r1;
-}
-,["int","CGPoint"]), new objj_method(sel_getUid("tile"), function $_CPMenuView__tile(self, _cmd)
-{
-    ((___r1 = self._menuItemViews), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "makeObjectsPerformSelector:", sel_getUid("removeFromSuperview")));
-    self._menuItemViews = [];
-    self._visibleMenuItemInfos = [];
-    var menu = self.isa.objj_msgSend0(self, "menu");
-    if (!menu)
-        return;
-    var items = (menu == null ? null : menu.isa.objj_msgSend0(menu, "itemArray")),
-        index = 0,
-        count = (items == null ? null : items.isa.objj_msgSend0(items, "count")),
-        maxWidth = 0,
-        y = 0,
-        showsStateColumn = (menu == null ? null : menu.isa.objj_msgSend0(menu, "showsStateColumn"));
-    for (; index < count; ++index)
-    {
-        var item = items[index],
-            view = (item == null ? null : item.isa.objj_msgSend0(item, "_menuItemView"));
-        self._menuItemViews.push(view);
-        if ((item == null ? null : item.isa.objj_msgSend0(item, "isHidden")))
-            continue;
-        self._visibleMenuItemInfos.push({view: view, index: index});
-        (view == null ? null : view.isa.objj_msgSend1(view, "setFont:", self._font));
-        (view == null ? null : view.isa.objj_msgSend1(view, "setShowsStateColumn:", showsStateColumn));
-        (view == null ? null : view.isa.objj_msgSend0(view, "synchronizeWithMenuItem"));
-        (view == null ? null : view.isa.objj_msgSend1(view, "setFrameOrigin:", CGPointMake(0.0, y)));
-        self.isa.objj_msgSend1(self, "addSubview:", view);
-        var size = (view == null ? null : view.isa.objj_msgSend0(view, "minSize")),
-            width = size.width;
-        if (maxWidth < width)
-            maxWidth = width;
-        y += size.height;
-    }
-    for (index = 0; index < count; ++index)
-    {
-        var view = self._menuItemViews[index];
-        (view == null ? null : view.isa.objj_msgSend1(view, "setFrameSize:", CGSizeMake(maxWidth, CGRectGetHeight((view == null ? null : view.isa.objj_msgSend0(view, "frame"))))));
-    }
-    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
-    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(maxWidth, y));
-    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("setMenu:"), function $_CPMenuView__setMenu_(self, _cmd, aMenu)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuView").super_class }, "setMenu:", aMenu);
-    self.isa.objj_msgSend0(self, "tile");
-}
-,["void","CPMenu"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuView__defaultThemeClass(self, _cmd)
-{
-    return "menu-view";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuView__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-more-above-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-more-below-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-pop-up-background-style-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-window-menu-bar-background-style-color", CGInsetMake(5.0, 1.0, 1.0, 5.0), "menu-window-margin-inset", 16.0, "menu-window-scroll-indicator-height", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-window-background-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-window-background-selected-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-window-font", 30.0, "menu-bar-window-height", 10.0, "menu-bar-window-margin", 10.0, "menu-bar-window-left-margin", 10.0, "menu-bar-window-right-margin", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-text-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-title-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-text-shadow-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-title-shadow-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-highlight-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-highlight-text-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-highlight-text-shadow-color", 28.0, "menu-bar-height", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-bar-icon-image", 1.0, "menu-bar-icon-image-alpha-value", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-general-icon-new", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-general-icon-save", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-general-icon-open");
-}
-,["CPDictionary"])]);
-}p;12;CPClipView.jt;7240;@STATIC;1.0;i;8;CPView.jt;7209;objj_executeFile("CPView.j", YES);{var the_class = objj_allocateClassPair(CPView, "CPClipView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_documentView")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("setDocumentView:"), function $CPClipView__setDocumentView_(self, _cmd, aView)
-{
-    if (self._documentView == aView)
-        return;
-    if (self._documentView)
-        ((___r1 = self._documentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-    self._documentView = aView;
-    if (self._documentView)
-        self.isa.objj_msgSend1(self, "addSubview:", self._documentView);
-    var ___r1;
-}
-,["void","CPView"]), new objj_method(sel_getUid("documentView"), function $CPClipView__documentView(self, _cmd)
-{
-    return self._documentView;
-}
-,["id"]), new objj_method(sel_getUid("constrainScrollPoint:"), function $CPClipView__constrainScrollPoint_(self, _cmd, aPoint)
-{
-    if (!self._documentView)
-        return CGPointMakeZero();
-    var documentFrame = ((___r1 = self._documentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    aPoint.x = MAX(0.0, MIN(aPoint.x, MAX(CGRectGetWidth(documentFrame) - CGRectGetWidth(self._bounds), 0.0)));
-    aPoint.y = MAX(0.0, MIN(aPoint.y, MAX(CGRectGetHeight(documentFrame) - CGRectGetHeight(self._bounds), 0.0)));
-    return aPoint;
-    var ___r1;
-}
-,["CGPoint","CGPoint"]), new objj_method(sel_getUid("setBoundsOrigin:"), function $CPClipView__setBoundsOrigin_(self, _cmd, aPoint)
-{
-    if (CGPointEqualToPoint(self._bounds.origin, aPoint))
-        return;
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "setBoundsOrigin:", aPoint);
-    var superview = self.isa.objj_msgSend0(self, "superview"),
-        scrollViewClass = objj_getClass("CPScrollView");
-    if ((superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", scrollViewClass)))
-        (superview == null ? null : superview.isa.objj_msgSend1(superview, "reflectScrolledClipView:", self));
-}
-,["void","CGPoint"]), new objj_method(sel_getUid("scrollToPoint:"), function $CPClipView__scrollToPoint_(self, _cmd, aPoint)
-{
-    self.isa.objj_msgSend1(self, "setBoundsOrigin:", self.isa.objj_msgSend1(self, "constrainScrollPoint:", aPoint));
-}
-,["void","CGPoint"]), new objj_method(sel_getUid("viewBoundsChanged:"), function $CPClipView__viewBoundsChanged_(self, _cmd, aNotification)
-{
-    self.isa.objj_msgSend0(self, "_constrainScrollPoint");
-}
-,["void","CPNotification"]), new objj_method(sel_getUid("viewFrameChanged:"), function $CPClipView__viewFrameChanged_(self, _cmd, aNotification)
-{
-    self.isa.objj_msgSend0(self, "_constrainScrollPoint");
-}
-,["void","CPNotification"]), new objj_method(sel_getUid("resizeSubviewsWithOldSize:"), function $CPClipView__resizeSubviewsWithOldSize_(self, _cmd, aSize)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "resizeSubviewsWithOldSize:", aSize);
-    self.isa.objj_msgSend0(self, "_constrainScrollPoint");
-}
-,["void","CGSize"]), new objj_method(sel_getUid("_constrainScrollPoint"), function $CPClipView___constrainScrollPoint(self, _cmd)
-{
-    var oldScrollPoint = self.isa.objj_msgSend0(self, "bounds").origin;
-    self.isa.objj_msgSend1(self, "scrollToPoint:", oldScrollPoint);
-    if (!CGPointEqualToPoint(oldScrollPoint, self.isa.objj_msgSend0(self, "bounds").origin))
-        return;
-    var superview = self.isa.objj_msgSend0(self, "superview"),
-        scrollViewClass = objj_getClass("CPScrollView");
-    if ((superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", scrollViewClass)))
-        (superview == null ? null : superview.isa.objj_msgSend1(superview, "reflectScrolledClipView:", self));
-}
-,["void"]), new objj_method(sel_getUid("autoscroll:"), function $CPClipView__autoscroll_(self, _cmd, anEvent)
-{
-    var bounds = self.isa.objj_msgSend0(self, "bounds"),
-        eventLocation = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil),
-        superview = self.isa.objj_msgSend0(self, "superview"),
-        deltaX = 0,
-        deltaY = 0;
-    if (CGRectContainsPoint(bounds, eventLocation))
-        return NO;
-    if (!(superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", (CPScrollView == null ? null : CPScrollView.isa.objj_msgSend0(CPScrollView, "class")))) || (superview == null ? null : superview.isa.objj_msgSend0(superview, "hasVerticalScroller")))
-    {
-        if (eventLocation.y < CGRectGetMinY(bounds))
-            deltaY = CGRectGetMinY(bounds) - eventLocation.y;
-        else if (eventLocation.y > CGRectGetMaxY(bounds))
-            deltaY = CGRectGetMaxY(bounds) - eventLocation.y;
-        if (deltaY < -bounds.size.height)
-            deltaY = -bounds.size.height;
-        if (deltaY > bounds.size.height)
-            deltaY = bounds.size.height;
-    }
-    if (!(superview == null ? null : superview.isa.objj_msgSend1(superview, "isKindOfClass:", (CPScrollView == null ? null : CPScrollView.isa.objj_msgSend0(CPScrollView, "class")))) || (superview == null ? null : superview.isa.objj_msgSend0(superview, "hasHorizontalScroller")))
-    {
-        if (eventLocation.x < CGRectGetMinX(bounds))
-            deltaX = CGRectGetMinX(bounds) - eventLocation.x;
-        else if (eventLocation.x > CGRectGetMaxX(bounds))
-            deltaX = CGRectGetMaxX(bounds) - eventLocation.x;
-        if (deltaX < -bounds.size.width)
-            deltaX = -bounds.size.width;
-        if (deltaX > bounds.size.width)
-            deltaX = bounds.size.width;
-    }
-    return self.isa.objj_msgSend1(self, "scrollToPoint:", CGPointMake(bounds.origin.x - deltaX, bounds.origin.y - deltaY));
-}
-,["BOOL","CPEvent"]), new objj_method(sel_getUid("documentVisibleRect"), function $CPClipView__documentVisibleRect(self, _cmd)
-{
-    return ((___r1 = self._documentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "visibleRect"));
-    var ___r1;
-}
-,["CGRect"])]);
-}var CPClipViewDocumentViewKey = "CPScrollViewDocumentView";
-{
-var the_class = objj_getClass("CPClipView")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPClipView\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPClipView__initWithCoder_(self, _cmd, aCoder)
-{
-    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "initWithCoder:", aCoder))
-    {
-        self._documentView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPClipViewDocumentViewKey));
-    }
-    return self;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPClipView__encodeWithCoder_(self, _cmd, aCoder)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPClipView").super_class }, "encodeWithCoder:", aCoder);
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._documentView, CPClipViewDocumentViewKey));
-}
-,["void","CPCoder"])]);
-}p;14;CPScrollView.jt;65602;@STATIC;1.0;I;33;Foundation/CPNotificationCenter.ji;7;CPBox.ji;12;CPClipView.ji;12;CPScroller.ji;8;CPView.jt;65487;objj_executeFile("Foundation/CPNotificationCenter.j", NO);objj_executeFile("CPBox.j", YES);objj_executeFile("CPClipView.j", YES);objj_executeFile("CPScroller.j", YES);objj_executeFile("CPView.j", YES);{var the_protocol = objj_allocateProtocol("CPScrollViewDelegate");
-var aProtocol = objj_getProtocol("CPObject");
-if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPScrollViewDelegate\"");
-protocol_addProtocol(the_protocol, aProtocol);
-objj_registerProtocol(the_protocol);
-}var _isBrowserUsingOverlayScrollers = function()
-{
-    var outer = document.createElement('div'),
-        inner = document.createElement('p');
-    outer.style.position = "absolute";
-    outer.style.top = "0px";
-    outer.style.left = "0px";
-    outer.style.visibility = "hidden";
-    outer.style.width = "200px";
-    outer.style.height = "150px";
-    outer.style.overflow = "scroll";
-    inner.style.width = "100%";
-    inner.style.height = "200px";
-    outer.appendChild(inner);
-    document.body.appendChild(outer);
-    var usingOverlayScrollers = outer.clientWidth === outer.offsetWidth;
-    document.body.removeChild(outer);
-    return usingOverlayScrollers;
-};
-var TIMER_INTERVAL = 0.2,
-    CPScrollViewDelegate_scrollViewWillScroll_ = 1 << 0,
-    CPScrollViewDelegate_scrollViewDidScroll_ = 1 << 1,
-    CPScrollViewFadeOutTime = 1.3;
-var CPScrollerStyleGlobal = CPScrollerStyleOverlay,
-    CPScrollerStyleGlobalChangeNotification = "CPScrollerStyleGlobalChangeNotification";
-{var the_class = objj_allocateClassPair(CPView, "CPScrollView"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_contentView"), new objj_ivar("_headerClipView"), new objj_ivar("_cornerView"), new objj_ivar("_bottomCornerView"), new objj_ivar("_delegate"), new objj_ivar("_scrollTimer"), new objj_ivar("_hasVerticalScroller"), new objj_ivar("_hasHorizontalScroller"), new objj_ivar("_autohidesScrollers"), new objj_ivar("_verticalScroller"), new objj_ivar("_horizontalScroller"), new objj_ivar("_recursionCount"), new objj_ivar("_implementedDelegateMethods"), new objj_ivar("_verticalLineScroll"), new objj_ivar("_verticalPageScroll"), new objj_ivar("_horizontalLineScroll"), new objj_ivar("_horizontalPageScroll"), new objj_ivar("_borderType"), new objj_ivar("_timerScrollersHide"), new objj_ivar("_scrollerStyle"), new objj_ivar("_scrollerKnobStyle")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithFrame:"), function $CPScrollView__initWithFrame_(self, _cmd, aFrame)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "initWithFrame:", aFrame);
-    if (self)
-    {
-        self._verticalLineScroll = 10.0;
-        self._verticalPageScroll = 10.0;
-        self._horizontalLineScroll = 10.0;
-        self._horizontalPageScroll = 10.0;
-        self._borderType = CPNoBorder;
-        self._contentView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", (self == null ? null : self.isa.objj_msgSend0(self, "_insetBounds"))));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._contentView));
-        self._headerClipView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._headerClipView));
-        self._bottomCornerView = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._bottomCornerView));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setHasVerticalScroller:", YES));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setHasHorizontalScroller:", YES));
-        self._scrollerKnobStyle = CPScrollerKnobStyleDefault;
-        (self == null ? null : self.isa.objj_msgSend1(self, "setScrollerStyle:", CPScrollerStyleGlobal));
-        self._delegate = nil;
-        self._scrollTimer = nil;
-        self._implementedDelegateMethods = 0;
-    }
-    return self;
-    var ___r1;
-}
-,["id","CGRect"]), new objj_method(sel_getUid("delegate"), function $CPScrollView__delegate(self, _cmd)
-{
-    return self._delegate;
-}
-,["id"]), new objj_method(sel_getUid("setDelegate:"), function $CPScrollView__setDelegate_(self, _cmd, aDelegate)
-{
-    if (aDelegate === self._delegate)
-        return;
-    self._delegate = aDelegate;
-    self._implementedDelegateMethods = 0;
-    if (self._delegate === nil)
-        return;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("scrollViewWillScroll:"))))
-        self._implementedDelegateMethods |= CPScrollViewDelegate_scrollViewWillScroll_;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("scrollViewDidScroll:"))))
-        self._implementedDelegateMethods |= CPScrollViewDelegate_scrollViewDidScroll_;
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("scrollerStyle"), function $CPScrollView__scrollerStyle(self, _cmd)
-{
-    return self._scrollerStyle;
-}
-,["int"]), new objj_method(sel_getUid("setScrollerStyle:"), function $CPScrollView__setScrollerStyle_(self, _cmd, aStyle)
-{
-    if (self._scrollerStyle === aStyle)
-        return;
-    self._scrollerStyle = aStyle;
-    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
-}
-,["void","int"]), new objj_method(sel_getUid("scrollerKnobStyle"), function $CPScrollView__scrollerKnobStyle(self, _cmd)
-{
-    return self._scrollerKnobStyle;
-}
-,["int"]), new objj_method(sel_getUid("setScrollerKnobStyle:"), function $CPScrollView__setScrollerKnobStyle_(self, _cmd, newScrollerKnobStyle)
-{
-    if (self._scrollerKnobStyle === newScrollerKnobStyle)
-        return;
-    self._scrollerKnobStyle = newScrollerKnobStyle;
-    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
-}
-,["void","int"]), new objj_method(sel_getUid("contentView"), function $CPScrollView__contentView(self, _cmd)
-{
-    return self._contentView;
-}
-,["CPClipView"]), new objj_method(sel_getUid("setContentView:"), function $CPScrollView__setContentView_(self, _cmd, aContentView)
-{
-    if (self._contentView === aContentView || !aContentView)
-        return;
-    var documentView = (aContentView == null ? null : aContentView.isa.objj_msgSend0(aContentView, "documentView"));
-    if (documentView)
-        (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "removeFromSuperview"));
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-    self._contentView = aContentView;
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", documentView));
-    self.isa.objj_msgSend1(self, "addSubview:", self._contentView);
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    var ___r1;
-}
-,["void","CPClipView"]), new objj_method(sel_getUid("contentSize"), function $CPScrollView__contentSize(self, _cmd)
-{
-    return ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")).size;
-    var ___r1;
-}
-,["CGSize"]), new objj_method(sel_getUid("documentView"), function $CPScrollView__documentView(self, _cmd)
-{
-    return ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "documentView"));
-    var ___r1;
-}
-,["id"]), new objj_method(sel_getUid("setDocumentView:"), function $CPScrollView__setDocumentView_(self, _cmd, aView)
-{
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", aView));
-    self.isa.objj_msgSend0(self, "_updateCornerAndHeaderView");
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    var ___r1;
-}
-,["void","CPView"]), new objj_method(sel_getUid("borderType"), function $CPScrollView__borderType(self, _cmd)
-{
-    return self._borderType;
-}
-,["CPBorderType"]), new objj_method(sel_getUid("setBorderType:"), function $CPScrollView__setBorderType_(self, _cmd, borderType)
-{
-    if (self._borderType == borderType)
-        return;
-    self._borderType = borderType;
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-}
-,["void","CPBorderType"]), new objj_method(sel_getUid("horizontalScroller"), function $CPScrollView__horizontalScroller(self, _cmd)
-{
-    return self._horizontalScroller;
-}
-,["CPScroller"]), new objj_method(sel_getUid("setHorizontalScroller:"), function $CPScrollView__setHorizontalScroller_(self, _cmd, aScroller)
-{
-    if (self._horizontalScroller === aScroller)
-        return;
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", nil));
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", nil));
-    self._horizontalScroller = aScroller;
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", self));
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", sel_getUid("_horizontalScrollerDidScroll:")));
-    self.isa.objj_msgSend1(self, "addSubview:", self._horizontalScroller);
-    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
-    var ___r1;
-}
-,["void","CPScroller"]), new objj_method(sel_getUid("hasHorizontalScroller"), function $CPScrollView__hasHorizontalScroller(self, _cmd)
-{
-    return self._hasHorizontalScroller;
-}
-,["BOOL"]), new objj_method(sel_getUid("setHasHorizontalScroller:"), function $CPScrollView__setHasHorizontalScroller_(self, _cmd, shouldHaveHorizontalScroller)
-{
-    if (self._hasHorizontalScroller === shouldHaveHorizontalScroller)
-        return;
-    self._hasHorizontalScroller = shouldHaveHorizontalScroller;
-    if (self._hasHorizontalScroller && !self._horizontalScroller)
-    {
-        var bounds = self.isa.objj_msgSend0(self, "_insetBounds");
-        self.isa.objj_msgSend1(self, "setHorizontalScroller:", ((___r1 = CPScroller.isa.objj_msgSend0(CPScroller, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, MAX(CGRectGetWidth(bounds), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle) + 1), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle)))));
-        ((___r1 = self.isa.objj_msgSend0(self, "horizontalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(CGRectGetWidth(bounds), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle))));
-    }
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    var ___r1;
-}
-,["void","BOOL"]), new objj_method(sel_getUid("verticalScroller"), function $CPScrollView__verticalScroller(self, _cmd)
-{
-    return self._verticalScroller;
-}
-,["CPScroller"]), new objj_method(sel_getUid("setVerticalScroller:"), function $CPScrollView__setVerticalScroller_(self, _cmd, aScroller)
-{
-    if (self._verticalScroller === aScroller)
-        return;
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", nil));
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", nil));
-    self._verticalScroller = aScroller;
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTarget:", self));
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAction:", sel_getUid("_verticalScrollerDidScroll:")));
-    self.isa.objj_msgSend1(self, "addSubview:", self._verticalScroller);
-    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
-    var ___r1;
-}
-,["void","CPScroller"]), new objj_method(sel_getUid("hasVerticalScroller"), function $CPScrollView__hasVerticalScroller(self, _cmd)
-{
-    return self._hasVerticalScroller;
-}
-,["BOOL"]), new objj_method(sel_getUid("setHasVerticalScroller:"), function $CPScrollView__setHasVerticalScroller_(self, _cmd, shouldHaveVerticalScroller)
-{
-    if (self._hasVerticalScroller === shouldHaveVerticalScroller)
-        return;
-    self._hasVerticalScroller = shouldHaveVerticalScroller;
-    if (self._hasVerticalScroller && !self._verticalScroller)
-    {
-        var bounds = self.isa.objj_msgSend0(self, "_insetBounds");
-        self.isa.objj_msgSend1(self, "setVerticalScroller:", ((___r1 = CPScroller.isa.objj_msgSend0(CPScroller, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle), MAX(CGRectGetHeight(bounds), CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle) + 1)))));
-        ((___r1 = self.isa.objj_msgSend0(self, "verticalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle), CGRectGetHeight(bounds))));
-    }
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    var ___r1;
-}
-,["void","BOOL"]), new objj_method(sel_getUid("autohidesScrollers"), function $CPScrollView__autohidesScrollers(self, _cmd)
-{
-    return self._autohidesScrollers;
-}
-,["BOOL"]), new objj_method(sel_getUid("setAutohidesScrollers:"), function $CPScrollView__setAutohidesScrollers_(self, _cmd, autohidesScrollers)
-{
-    if (self._autohidesScrollers == autohidesScrollers)
-        return;
-    self._autohidesScrollers = autohidesScrollers;
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-}
-,["void","BOOL"]), new objj_method(sel_getUid("bottomCornerView"), function $CPScrollView__bottomCornerView(self, _cmd)
-{
-    return self._bottomCornerView;
-}
-,["CPView"]), new objj_method(sel_getUid("setBottomCornerView:"), function $CPScrollView__setBottomCornerView_(self, _cmd, aBottomCornerView)
-{
-    if (self._bottomCornerView === aBottomCornerView)
-        return;
-    ((___r1 = self._bottomCornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-    (aBottomCornerView == null ? null : aBottomCornerView.isa.objj_msgSend1(aBottomCornerView, "setFrame:", self.isa.objj_msgSend0(self, "_bottomCornerViewFrame")));
-    self.isa.objj_msgSend1(self, "addSubview:", aBottomCornerView);
-    self._bottomCornerView = aBottomCornerView;
-    self.isa.objj_msgSend0(self, "_updateCornerAndHeaderView");
-    var ___r1;
-}
-,["void","CPView"]), new objj_method(sel_getUid("lineScroll"), function $CPScrollView__lineScroll(self, _cmd)
-{
-    return self.isa.objj_msgSend0(self, "horizontalLineScroll");
-}
-,["float"]), new objj_method(sel_getUid("setLineScroll:"), function $CPScrollView__setLineScroll_(self, _cmd, aLineScroll)
-{
-    self.isa.objj_msgSend1(self, "setHorizontalLineScroll:", aLineScroll);
-    self.isa.objj_msgSend1(self, "setVerticalLineScroll:", aLineScroll);
-}
-,["void","float"]), new objj_method(sel_getUid("horizontalLineScroll"), function $CPScrollView__horizontalLineScroll(self, _cmd)
-{
-    return self._horizontalLineScroll;
-}
-,["float"]), new objj_method(sel_getUid("setHorizontalLineScroll:"), function $CPScrollView__setHorizontalLineScroll_(self, _cmd, aLineScroll)
-{
-    self._horizontalLineScroll = aLineScroll;
-}
-,["void","float"]), new objj_method(sel_getUid("verticalLineScroll"), function $CPScrollView__verticalLineScroll(self, _cmd)
-{
-    return self._verticalLineScroll;
-}
-,["float"]), new objj_method(sel_getUid("setVerticalLineScroll:"), function $CPScrollView__setVerticalLineScroll_(self, _cmd, aLineScroll)
-{
-    self._verticalLineScroll = aLineScroll;
-}
-,["void","float"]), new objj_method(sel_getUid("pageScroll"), function $CPScrollView__pageScroll(self, _cmd)
-{
-    return self.isa.objj_msgSend0(self, "horizontalPageScroll");
-}
-,["float"]), new objj_method(sel_getUid("setPageScroll:"), function $CPScrollView__setPageScroll_(self, _cmd, aPageScroll)
-{
-    self.isa.objj_msgSend1(self, "setHorizontalPageScroll:", aPageScroll);
-    self.isa.objj_msgSend1(self, "setVerticalPageScroll:", aPageScroll);
-}
-,["void","float"]), new objj_method(sel_getUid("horizontalPageScroll"), function $CPScrollView__horizontalPageScroll(self, _cmd)
-{
-    return self._horizontalPageScroll;
-}
-,["float"]), new objj_method(sel_getUid("setHorizontalPageScroll:"), function $CPScrollView__setHorizontalPageScroll_(self, _cmd, aPageScroll)
-{
-    self._horizontalPageScroll = aPageScroll;
-}
-,["void","float"]), new objj_method(sel_getUid("verticalPageScroll"), function $CPScrollView__verticalPageScroll(self, _cmd)
-{
-    return self._verticalPageScroll;
-}
-,["float"]), new objj_method(sel_getUid("setVerticalPageScroll:"), function $CPScrollView__setVerticalPageScroll_(self, _cmd, aPageScroll)
-{
-    self._verticalPageScroll = aPageScroll;
-}
-,["void","float"]), new objj_method(sel_getUid("_updateScrollerStyle"), function $CPScrollView___updateScrollerStyle(self, _cmd)
-{
-    if (self._hasHorizontalScroller)
-    {
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStyle:", self._scrollerStyle));
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateSelected));
-        switch(self._scrollerKnobStyle) {
-        case CPScrollerKnobStyleLight:
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobLight));
-            break;
-        case CPScrollerKnobStyleDark:
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobDark));
-            break;
-default:
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
-        }
-    }
-    if (self._hasVerticalScroller)
-    {
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStyle:", self._scrollerStyle));
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateSelected));
-        switch(self._scrollerKnobStyle) {
-        case CPScrollerKnobStyleLight:
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobLight));
-            break;
-        case CPScrollerKnobStyleDark:
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setThemeState:", CPThemeStateScrollerKnobDark));
-            break;
-default:
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobLight));
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "unsetThemeState:", CPThemeStateScrollerKnobDark));
-        }
-    }
-    if (self._scrollerStyle == CPScrollerStyleOverlay)
-    {
-        if (self._timerScrollersHide)
-            ((___r1 = self._timerScrollersHide), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-        self._timerScrollersHide = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", CPScrollViewFadeOutTime, self, sel_getUid("_hideScrollers:"), nil, NO);
-        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-    }
-    else
-        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_insetBounds"), function $CPScrollView___insetBounds(self, _cmd)
-{
-    return ((___r1 = self.isa.objj_msgSend0(self, "class")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "_insetBounds:borderType:", self.isa.objj_msgSend0(self, "bounds"), self._borderType));
-    var ___r1;
-}
-,["CGRect"]), new objj_method(sel_getUid("_updateCornerAndHeaderView"), function $CPScrollView___updateCornerAndHeaderView(self, _cmd)
-{
-    var documentView = self.isa.objj_msgSend0(self, "documentView"),
-        currentHeaderView = self.isa.objj_msgSend0(self, "_headerView"),
-        documentHeaderView = (documentView == null ? null : documentView.isa.objj_msgSend1(documentView, "respondsToSelector:", sel_getUid("headerView"))) ? (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "headerView")) : nil;
-    if (currentHeaderView !== documentHeaderView)
-    {
-        (currentHeaderView == null ? null : currentHeaderView.isa.objj_msgSend0(currentHeaderView, "removeFromSuperview"));
-        ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDocumentView:", documentHeaderView));
-    }
-    var documentCornerView = (documentView == null ? null : documentView.isa.objj_msgSend1(documentView, "respondsToSelector:", sel_getUid("cornerView"))) ? (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "cornerView")) : nil;
-    if (self._cornerView !== documentCornerView)
-    {
-        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-        self._cornerView = documentCornerView;
-        if (self._cornerView)
-        {
-            ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !(self._scrollerStyle === CPScrollerStyleLegacy && self._verticalScroller && !((___r2 = self._verticalScroller), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "isHidden")))));
-            self.isa.objj_msgSend1(self, "addSubview:", self._cornerView);
-        }
-    }
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-    (documentHeaderView == null ? null : documentHeaderView.isa.objj_msgSend0(documentHeaderView, "setNeedsLayout"));
-    (documentHeaderView == null ? null : documentHeaderView.isa.objj_msgSend1(documentHeaderView, "setNeedsDisplay:", YES));
-    var ___r1, ___r2;
-}
-,["void"]), new objj_method(sel_getUid("_headerView"), function $CPScrollView___headerView(self, _cmd)
-{
-    return ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "documentView"));
-    var ___r1;
-}
-,["CPView"]), new objj_method(sel_getUid("_cornerViewFrame"), function $CPScrollView___cornerViewFrame(self, _cmd)
-{
-    if (!self._cornerView)
-        return CGRectMakeZero();
-    var bounds = self.isa.objj_msgSend0(self, "_insetBounds"),
-        frame = ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    frame.origin.x = CGRectGetMaxX(bounds) - CGRectGetWidth(frame);
-    frame.origin.y = CGRectGetMinY(bounds);
-    return frame;
-    var ___r1;
-}
-,["CGRect"]), new objj_method(sel_getUid("_headerClipViewFrame"), function $CPScrollView___headerClipViewFrame(self, _cmd)
-{
-    var headerView = self.isa.objj_msgSend0(self, "_headerView");
-    if (!headerView)
-        return CGRectMakeZero();
-    var frame = self.isa.objj_msgSend0(self, "_insetBounds");
-    frame.size.height = CGRectGetHeight((headerView == null ? null : headerView.isa.objj_msgSend0(headerView, "frame")));
-    if (self._scrollerStyle === CPScrollerStyleLegacy && self._verticalScroller && !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        frame.size.width -= CGRectGetWidth(self.isa.objj_msgSend0(self, "_cornerViewFrame"));
-    return frame;
-    var ___r1;
-}
-,["CGRect"]), new objj_method(sel_getUid("_bottomCornerViewFrame"), function $CPScrollView___bottomCornerViewFrame(self, _cmd)
-{
-    if (((___r1 = self.isa.objj_msgSend0(self, "horizontalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")) || ((___r1 = self.isa.objj_msgSend0(self, "verticalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        return CGRectMakeZero();
-    var verticalFrame = ((___r1 = self.isa.objj_msgSend0(self, "verticalScroller")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        bottomCornerFrame = CGRectMakeZero();
-    bottomCornerFrame.origin.x = CGRectGetMinX(verticalFrame);
-    bottomCornerFrame.origin.y = CGRectGetMaxY(verticalFrame);
-    bottomCornerFrame.size.width = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle);
-    bottomCornerFrame.size.height = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", self._scrollerStyle);
-    return bottomCornerFrame;
-    var ___r1;
-}
-,["CGRect"]), new objj_method(sel_getUid("_verticalScrollerDidScroll:"), function $CPScrollView___verticalScrollerDidScroll_(self, _cmd, aScroller)
-{
-    var value = (aScroller == null ? null : aScroller.isa.objj_msgSend0(aScroller, "floatValue")),
-        documentFrame = ((___r1 = ((___r2 = self._contentView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
-    switch(((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hitPart"))) {
-    case CPScrollerDecrementLine:
-        contentBounds.origin.y -= self._verticalLineScroll;
-        break;
-    case CPScrollerIncrementLine:
-        contentBounds.origin.y += self._verticalLineScroll;
-        break;
-    case CPScrollerDecrementPage:
-        contentBounds.origin.y -= CGRectGetHeight(contentBounds) - self._verticalPageScroll;
-        break;
-    case CPScrollerIncrementPage:
-        contentBounds.origin.y += CGRectGetHeight(contentBounds) - self._verticalPageScroll;
-        break;
-    case CPScrollerKnobSlot:
-    case CPScrollerKnob:
-default:
-        contentBounds.origin.y = ROUND(value * (CGRectGetHeight(documentFrame) - CGRectGetHeight(contentBounds)));
-    }
-    self.isa.objj_msgSend0(self, "_sendDelegateMessages");
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", contentBounds.origin));
-    var ___r1, ___r2;
-}
-,["void","CPScroller"]), new objj_method(sel_getUid("_horizontalScrollerDidScroll:"), function $CPScrollView___horizontalScrollerDidScroll_(self, _cmd, aScroller)
-{
-    var value = (aScroller == null ? null : aScroller.isa.objj_msgSend0(aScroller, "floatValue")),
-        documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
-    switch(((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hitPart"))) {
-    case CPScrollerDecrementLine:
-        contentBounds.origin.x -= self._horizontalLineScroll;
-        break;
-    case CPScrollerIncrementLine:
-        contentBounds.origin.x += self._horizontalLineScroll;
-        break;
-    case CPScrollerDecrementPage:
-        contentBounds.origin.x -= CGRectGetWidth(contentBounds) - self._horizontalPageScroll;
-        break;
-    case CPScrollerIncrementPage:
-        contentBounds.origin.x += CGRectGetWidth(contentBounds) - self._horizontalPageScroll;
-        break;
-    case CPScrollerKnobSlot:
-    case CPScrollerKnob:
-default:
-        contentBounds.origin.x = ROUND(value * (CGRectGetWidth(documentFrame) - CGRectGetWidth(contentBounds)));
-    }
-    self.isa.objj_msgSend0(self, "_sendDelegateMessages");
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", contentBounds.origin));
-    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMake(contentBounds.origin.x, 0.0)));
-    var ___r1;
-}
-,["void","CPScroller"]), new objj_method(sel_getUid("_sendDelegateMessages"), function $CPScrollView___sendDelegateMessages(self, _cmd)
-{
-    if (self._implementedDelegateMethods == 0)
-        return;
-    if (!self._scrollTimer)
-    {
-        self.isa.objj_msgSend0(self, "_scrollViewWillScroll");
-        self._scrollTimer = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", TIMER_INTERVAL, self, sel_getUid("_scrollViewDidScroll"), nil, YES);
-    }
-    else
-        ((___r1 = self._scrollTimer), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFireDate:", CPDate.isa.objj_msgSend1(CPDate, "dateWithTimeIntervalSinceNow:", TIMER_INTERVAL)));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_hideScrollers:"), function $CPScrollView___hideScrollers_(self, _cmd, theTimer)
-{
-    if (((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "allowFadingOut")))
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeOut"));
-    if (((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "allowFadingOut")))
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeOut"));
-    self._timerScrollersHide = nil;
-    var ___r1;
-}
-,["void","CPTimer"]), new objj_method(sel_getUid("_respondToScrollWheelEventWithDeltaX:deltaY:"), function $CPScrollView___respondToScrollWheelEventWithDeltaX_deltaY_(self, _cmd, deltaX, deltaY)
-{
-    var documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")),
-        contentFrame = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        enclosingScrollView = self.isa.objj_msgSend0(self, "enclosingScrollView");
-    contentBounds.origin.x = ROUND(contentBounds.origin.x + deltaX);
-    contentBounds.origin.y = ROUND(contentBounds.origin.y + deltaY);
-    var constrainedOrigin = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "constrainScrollPoint:", CGPointCreateCopy(contentBounds.origin))),
-        extraX = contentBounds.origin.x - constrainedOrigin.x,
-        extraY = contentBounds.origin.y - constrainedOrigin.y;
-    self.isa.objj_msgSend0(self, "_sendDelegateMessages");
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", constrainedOrigin));
-    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMake(constrainedOrigin.x, 0.0)));
-    if (extraX || extraY)
-        (enclosingScrollView == null ? null : enclosingScrollView.isa.objj_msgSend2(enclosingScrollView, "_respondToScrollWheelEventWithDeltaX:deltaY:", extraX, extraY));
-    var ___r1;
-}
-,["void","float","float"]), new objj_method(sel_getUid("_scrollViewWillScroll"), function $CPScrollView___scrollViewWillScroll(self, _cmd)
-{
-    if (self._implementedDelegateMethods & CPScrollViewDelegate_scrollViewWillScroll_)
-        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollViewWillScroll:", self));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_scrollViewDidScroll"), function $CPScrollView___scrollViewDidScroll(self, _cmd)
-{
-    ((___r1 = self._scrollTimer), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    self._scrollTimer = nil;
-    if (self._implementedDelegateMethods & CPScrollViewDelegate_scrollViewDidScroll_)
-        ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollViewDidScroll:", self));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_didReceiveDefaultStyleChange:"), function $CPScrollView___didReceiveDefaultStyleChange_(self, _cmd, aNotification)
-{
-    self.isa.objj_msgSend1(self, "setScrollerStyle:", CPScrollerStyleGlobal);
-}
-,["void","CPNotification"]), new objj_method(sel_getUid("tile"), function $CPScrollView__tile(self, _cmd)
-{
-}
-,["void"]), new objj_method(sel_getUid("reflectScrolledClipView:"), function $CPScrollView__reflectScrolledClipView_(self, _cmd, aClipView)
-{
-    if (self._contentView !== aClipView)
-        return;
-    if (self._recursionCount > 5)
-        return;
-    ++self._recursionCount;
-    var documentView = self.isa.objj_msgSend0(self, "documentView");
-    if (!documentView)
-    {
-        if (self._autohidesScrollers)
-        {
-            ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-            ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-        }
-        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_insetBounds")));
-        ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMakeZero()));
-        --self._recursionCount;
-        return;
-    }
-    var documentFrame = (documentView == null ? null : documentView.isa.objj_msgSend0(documentView, "frame")),
-        contentFrame = self.isa.objj_msgSend0(self, "_insetBounds"),
-        headerClipViewFrame = self.isa.objj_msgSend0(self, "_headerClipViewFrame"),
-        headerClipViewHeight = CGRectGetHeight(headerClipViewFrame);
-    contentFrame.origin.y += headerClipViewHeight;
-    contentFrame.size.height -= headerClipViewHeight;
-    var difference = CGSizeMake(CGRectGetWidth(documentFrame) - CGRectGetWidth(contentFrame), CGRectGetHeight(documentFrame) - CGRectGetHeight(contentFrame)),
-        verticalScrollerWidth = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "style"))),
-        horizontalScrollerHeight = CPScroller.isa.objj_msgSend1(CPScroller, "scrollerWidthInStyle:", ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "style"))),
-        hasVerticalScroll = difference.height > 0.0,
-        hasHorizontalScroll = difference.width > 0.0,
-        shouldShowVerticalScroller = self._hasVerticalScroller && (!self._autohidesScrollers || hasVerticalScroll),
-        shouldShowHorizontalScroller = self._hasHorizontalScroller && (!self._autohidesScrollers || hasHorizontalScroll);
-    if (shouldShowVerticalScroller)
-    {
-        if (self._scrollerStyle === CPScrollerStyleLegacy)
-            difference.width += verticalScrollerWidth;
-        hasHorizontalScroll = difference.width > 0.0;
-        shouldShowHorizontalScroller = self._hasHorizontalScroller && (!self._autohidesScrollers || hasHorizontalScroll);
-    }
-    if (shouldShowHorizontalScroller)
-    {
-        if (self._scrollerStyle === CPScrollerStyleLegacy)
-            difference.height += horizontalScrollerHeight;
-        hasVerticalScroll = difference.height > 0.0;
-        shouldShowVerticalScroller = self._hasVerticalScroller && (!self._autohidesScrollers || hasVerticalScroll);
-    }
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !shouldShowVerticalScroller));
-    ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setEnabled:", hasVerticalScroll));
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", !shouldShowHorizontalScroller));
-    ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setEnabled:", hasHorizontalScroll));
-    var overlay = CPScroller.isa.objj_msgSend0(CPScroller, "scrollerOverlay");
-    if (self._scrollerStyle === CPScrollerStyleLegacy)
-    {
-        if (shouldShowVerticalScroller)
-            contentFrame.size.width -= verticalScrollerWidth;
-        if (shouldShowHorizontalScroller)
-            contentFrame.size.height -= horizontalScrollerHeight;
-        overlay = 0;
-    }
-    var scrollPoint = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).origin,
-        wasShowingVerticalScroller = !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")),
-        wasShowingHorizontalScroller = !((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden"));
-    if (shouldShowVerticalScroller)
-    {
-        var verticalScrollerY = MAX(CGRectGetMinY(contentFrame), MAX(CGRectGetMaxY(self.isa.objj_msgSend0(self, "_cornerViewFrame")), CGRectGetMaxY(headerClipViewFrame)));
-        var verticalScrollerHeight = CGRectGetMaxY(contentFrame) - verticalScrollerY;
-        if (self._scrollerStyle === CPScrollerStyleOverlay && hasHorizontalScroll)
-            verticalScrollerHeight -= horizontalScrollerHeight;
-        var documentHeight = CGRectGetHeight(documentFrame);
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", difference.height <= 0.0 ? 0.0 : scrollPoint.y / difference.height));
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", documentHeight > 0 ? CGRectGetHeight(contentFrame) / documentHeight : 1.0));
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(CGRectGetMaxX(contentFrame) - overlay, verticalScrollerY, verticalScrollerWidth, verticalScrollerHeight)));
-    }
-    else if (wasShowingVerticalScroller)
-    {
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", 0.0));
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", 1.0));
-    }
-    if (shouldShowHorizontalScroller)
-    {
-        var horizontalScrollerWidth = CGRectGetWidth(contentFrame);
-        if (self._scrollerStyle === CPScrollerStyleOverlay && hasVerticalScroll)
-            horizontalScrollerWidth -= verticalScrollerWidth;
-        var documentWidth = CGRectGetWidth(documentFrame);
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", difference.width <= 0.0 ? 0.0 : scrollPoint.x / difference.width));
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", documentWidth > 0 ? CGRectGetWidth(contentFrame) / documentWidth : 1.0));
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", CGRectMake(CGRectGetMinX(contentFrame), CGRectGetMaxY(contentFrame) - overlay, horizontalScrollerWidth, horizontalScrollerHeight)));
-    }
-    else if (wasShowingHorizontalScroller)
-    {
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFloatValue:", 0.0));
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setKnobProportion:", 1.0));
-    }
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", contentFrame));
-    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_headerClipViewFrame")));
-    ((___r1 = ((___r2 = self._headerClipView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setNeedsDisplay:", YES));
-    if (self._scrollerStyle === CPScrollerStyleLegacy && self._verticalScroller && !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-    {
-        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_cornerViewFrame")));
-        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
-    }
-    else
-        ((___r1 = self._cornerView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
-    if (self._scrollerStyle === CPScrollerStyleLegacy)
-    {
-        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", self.isa.objj_msgSend0(self, "_bottomCornerViewFrame")));
-        ((___r1 = self.isa.objj_msgSend0(self, "bottomCornerView")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setBackgroundColor:", self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "bottom-corner-color")));
-    }
-    --self._recursionCount;
-    var ___r1, ___r2;
-}
-,["void","CPClipView"]), new objj_method(sel_getUid("flashScrollers"), function $CPScrollView__flashScrollers(self, _cmd)
-{
-    if (self._scrollerStyle === CPScrollerStyleLegacy)
-        return;
-    if (self._hasHorizontalScroller)
-    {
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
-    }
-    if (self._hasVerticalScroller)
-    {
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
-    }
-    if (self._timerScrollersHide)
-        ((___r1 = self._timerScrollersHide), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    self._timerScrollersHide = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", CPScrollViewFadeOutTime, self, sel_getUid("_hideScrollers:"), nil, NO);
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("resizeSubviewsWithOldSize:"), function $CPScrollView__resizeSubviewsWithOldSize_(self, _cmd, aSize)
-{
-    self.isa.objj_msgSend1(self, "reflectScrolledClipView:", self._contentView);
-}
-,["void","CGSize"]), new objj_method(sel_getUid("documentVisibleRect"), function $CPScrollView__documentVisibleRect(self, _cmd)
-{
-    return ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "documentVisibleRect"));
-    var ___r1;
-}
-,["CGRect"]), new objj_method(sel_getUid("_removeObservers"), function $CPScrollView___removeObservers(self, _cmd)
-{
-    if (!self._isObserving)
-        return;
-    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend3(___r1, "removeObserver:name:object:", self, CPScrollerStyleGlobalChangeNotification, nil));
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "_removeObservers");
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_addObservers"), function $CPScrollView___addObservers(self, _cmd)
-{
-    if (self._isObserving)
-        return;
-    self.isa.objj_msgSend1(self, "_didReceiveDefaultStyleChange:", nil);
-    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend(___r1, "addObserver:selector:name:object:", self, sel_getUid("_didReceiveDefaultStyleChange:"), CPScrollerStyleGlobalChangeNotification, nil));
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "_addObservers");
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("drawRect:"), function $CPScrollView__drawRect_(self, _cmd, aRect)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "drawRect:", aRect);
-    if (self._borderType == CPNoBorder)
-        return;
-    var strokeRect = self.isa.objj_msgSend0(self, "bounds"),
-        context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
-    CGContextSetLineWidth(context, 1);
-    switch(self._borderType) {
-    case CPLineBorder:
-        CGContextSetStrokeColor(context, self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "border-color"));
-        CGContextStrokeRect(context, CGRectInset(strokeRect, 0.5, 0.5));
-        break;
-    case CPBezelBorder:
-        self.isa.objj_msgSend2(self, "_drawGrayBezelInContext:bounds:", context, strokeRect);
-        break;
-    case CPGrooveBorder:
-        self.isa.objj_msgSend2(self, "_drawGrooveInContext:bounds:", context, strokeRect);
-        break;
-default:
-        break;
-    }
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawGrayBezelInContext:bounds:"), function $CPScrollView___drawGrayBezelInContext_bounds_(self, _cmd, context, aRect)
-{
-    var minX = CGRectGetMinX(aRect),
-        maxX = CGRectGetMaxX(aRect),
-        minY = CGRectGetMinY(aRect),
-        maxY = CGRectGetMaxY(aRect),
-        y = minY + 0.5;
-    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 142.0 / 255.0, 1.0));
-    CGContextBeginPath(context);
-    CGContextMoveToPoint(context, minX, y);
-    CGContextAddLineToPoint(context, maxX, y);
-    CGContextStrokePath(context);
-    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 192.0 / 255.0, 1.0));
-    var x = maxX - 0.5;
-    CGContextBeginPath(context);
-    CGContextMoveToPoint(context, x, minY + 1.0);
-    CGContextAddLineToPoint(context, x, maxY);
-    CGContextMoveToPoint(context, x - 0.5, maxY - 0.5);
-    CGContextAddLineToPoint(context, minX, maxY - 0.5);
-    x = minX + 0.5;
-    CGContextMoveToPoint(context, x, maxY);
-    CGContextAddLineToPoint(context, x, minY + 1.0);
-    CGContextStrokePath(context);
-}
-,["void","CGContext","CGRect"]), new objj_method(sel_getUid("_drawGrooveInContext:bounds:"), function $CPScrollView___drawGrooveInContext_bounds_(self, _cmd, context, aRect)
-{
-    var minX = CGRectGetMinX(aRect),
-        maxX = CGRectGetMaxX(aRect),
-        minY = CGRectGetMinY(aRect),
-        maxY = CGRectGetMaxY(aRect);
-    CGContextBeginPath(context);
-    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 159.0 / 255.0, 1.0));
-    var y = minY + 0.5;
-    CGContextMoveToPoint(context, minX, y);
-    CGContextAddLineToPoint(context, maxX, y);
-    var x = maxX - 1.5;
-    CGContextMoveToPoint(context, x, minY + 2.0);
-    CGContextAddLineToPoint(context, x, maxY - 1.0);
-    y = maxY - 1.5;
-    CGContextMoveToPoint(context, maxX - 1.0, y);
-    CGContextAddLineToPoint(context, minX + 2.0, y);
-    x = minX + 0.5;
-    CGContextMoveToPoint(context, x, maxY);
-    CGContextAddLineToPoint(context, x, minY);
-    CGContextStrokePath(context);
-    CGContextBeginPath(context);
-    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend0(CPColor, "whiteColor"));
-    var rect = CGRectOffset(aRect, 1.0, 1.0);
-    rect.size.width -= 1.0;
-    rect.size.height -= 1.0;
-    CGContextStrokeRect(context, CGRectInset(rect, 0.5, 0.5));
-    CGContextBeginPath(context);
-    CGContextSetStrokeColor(context, CPColor.isa.objj_msgSend2(CPColor, "colorWithWhite:alpha:", 192.0 / 255.0, 1.0));
-    y = minY + 2.5;
-    CGContextMoveToPoint(context, minX + 2.0, y);
-    CGContextAddLineToPoint(context, maxX - 2.0, y);
-    CGContextStrokePath(context);
-}
-,["void","CGContext","CGRect"]), new objj_method(sel_getUid("scrollWheel:"), function $CPScrollView__scrollWheel_(self, _cmd, anEvent)
-{
-    if (self._timerScrollersHide)
-        ((___r1 = self._timerScrollersHide), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    if (!((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        ((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
-    if (!((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        ((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "fadeIn"));
-    if (!((___r1 = self._horizontalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")) || !((___r1 = self._verticalScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isHidden")))
-        self._timerScrollersHide = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", CPScrollViewFadeOutTime, self, sel_getUid("_hideScrollers:"), nil, NO);
-    var deltaX = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "scrollingDeltaX")),
-        deltaY = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "scrollingDeltaY"));
-    if (!(anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "hasPreciseScrollingDeltas")))
-    {
-        deltaX *= self._horizontalLineScroll || 1.0;
-        deltaY *= self._verticalLineScroll || 1.0;
-    }
-    self.isa.objj_msgSend2(self, "_respondToScrollWheelEventWithDeltaX:deltaY:", deltaX, deltaY);
-    var ___r1;
-}
-,["void","CPEvent"]), new objj_method(sel_getUid("scrollPageUp:"), function $CPScrollView__scrollPageUp_(self, _cmd, sender)
-{
-    var contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, -(CGRectGetHeight(contentBounds) - self._verticalPageScroll)));
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("scrollPageDown:"), function $CPScrollView__scrollPageDown_(self, _cmd, sender)
-{
-    var contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, CGRectGetHeight(contentBounds) - self._verticalPageScroll));
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("scrollToBeginningOfDocument:"), function $CPScrollView__scrollToBeginningOfDocument_(self, _cmd, sender)
-{
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMakeZero()));
-    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMakeZero()));
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("scrollToEndOfDocument:"), function $CPScrollView__scrollToEndOfDocument_(self, _cmd, sender)
-{
-    var contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")),
-        documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        scrollPoint = CGPointMake(0.0, CGRectGetHeight(documentFrame) - CGRectGetHeight(contentBounds));
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", scrollPoint));
-    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMakeZero()));
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("moveLeft:"), function $CPScrollView__moveLeft_(self, _cmd, sender)
-{
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(-self._horizontalLineScroll, 0.0));
-}
-,["void","id"]), new objj_method(sel_getUid("moveRight:"), function $CPScrollView__moveRight_(self, _cmd, sender)
-{
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(self._horizontalLineScroll, 0.0));
-}
-,["void","id"]), new objj_method(sel_getUid("moveUp:"), function $CPScrollView__moveUp_(self, _cmd, sender)
-{
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, -self._verticalLineScroll));
-}
-,["void","id"]), new objj_method(sel_getUid("moveDown:"), function $CPScrollView__moveDown_(self, _cmd, sender)
-{
-    self.isa.objj_msgSend1(self, "moveByOffset:", CGSizeMake(0.0, self._verticalLineScroll));
-}
-,["void","id"]), new objj_method(sel_getUid("moveByOffset:"), function $CPScrollView__moveByOffset_(self, _cmd, aSize)
-{
-    var documentFrame = ((___r1 = self.isa.objj_msgSend0(self, "documentView")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        contentBounds = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds"));
-    contentBounds.origin.x += aSize.width;
-    contentBounds.origin.y += aSize.height;
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", contentBounds.origin));
-    ((___r1 = self._headerClipView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollToPoint:", CGPointMake(contentBounds.origin.x, 0)));
-    var ___r1;
-}
-,["void","CGSize"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("initialize"), function $CPScrollView__initialize(self, _cmd)
-{
-    if (self !== CPScrollView.isa.objj_msgSend0(CPScrollView, "class"))
-        return;
-    var globalValue = ((___r1 = CPBundle.isa.objj_msgSend0(CPBundle, "mainBundle")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectForInfoDictionaryKey:", "CPScrollersGlobalStyle"));
-    if (globalValue === nil || globalValue === -1)
-        CPScrollerStyleGlobal = _isBrowserUsingOverlayScrollers() ? CPScrollerStyleOverlay : CPScrollerStyleLegacy;
-    else
-        CPScrollerStyleGlobal = globalValue;
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("defaultThemeClass"), function $CPScrollView__defaultThemeClass(self, _cmd)
-{
-    return "scrollview";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $CPScrollView__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPColor.isa.objj_msgSend0(CPColor, "whiteColor"), "bottom-corner-color", CPColor.isa.objj_msgSend0(CPColor, "blackColor"), "border-color");
-}
-,["CPDictionary"]), new objj_method(sel_getUid("contentSizeForFrameSize:hasHorizontalScroller:hasVerticalScroller:borderType:"), function $CPScrollView__contentSizeForFrameSize_hasHorizontalScroller_hasVerticalScroller_borderType_(self, _cmd, frameSize, hFlag, vFlag, borderType)
-{
-    var bounds = self.isa.objj_msgSend2(self, "_insetBounds:borderType:", CGRectMake(0.0, 0.0, frameSize.width, frameSize.height), borderType),
-        scrollerWidth = CPScroller.isa.objj_msgSend0(CPScroller, "scrollerWidth");
-    if (hFlag)
-        bounds.size.height -= scrollerWidth;
-    if (vFlag)
-        bounds.size.width -= scrollerWidth;
-    return bounds.size;
-}
-,["CGSize","CGSize","BOOL","BOOL","CPBorderType"]), new objj_method(sel_getUid("frameSizeForContentSize:hasHorizontalScroller:hasVerticalScroller:borderType:"), function $CPScrollView__frameSizeForContentSize_hasHorizontalScroller_hasVerticalScroller_borderType_(self, _cmd, contentSize, hFlag, vFlag, borderType)
-{
-    var bounds = self.isa.objj_msgSend2(self, "_insetBounds:borderType:", CGRectMake(0.0, 0.0, contentSize.width, contentSize.height), borderType),
-        widthInset = contentSize.width - bounds.size.width,
-        heightInset = contentSize.height - bounds.size.height,
-        frameSize = CGSizeMake(contentSize.width + widthInset, contentSize.height + heightInset),
-        scrollerWidth = CPScroller.isa.objj_msgSend0(CPScroller, "scrollerWidth");
-    if (hFlag)
-        frameSize.height += scrollerWidth;
-    if (vFlag)
-        frameSize.width += scrollerWidth;
-    return frameSize;
-}
-,["CGSize","CGSize","BOOL","BOOL","CPBorderType"]), new objj_method(sel_getUid("_insetBounds:borderType:"), function $CPScrollView___insetBounds_borderType_(self, _cmd, bounds, borderType)
-{
-    switch(borderType) {
-    case CPLineBorder:
-    case CPBezelBorder:
-        return CGRectInset(bounds, 1.0, 1.0);
-    case CPGrooveBorder:
-        bounds = CGRectInset(bounds, 2.0, 2.0);
-        ++bounds.origin.y;
-        --bounds.size.height;
-        return bounds;
-    case CPNoBorder:
-default:
-        return bounds;
-    }
-}
-,["CGRect","CGRect","CPBorderType"]), new objj_method(sel_getUid("globalScrollerStyle"), function $CPScrollView__globalScrollerStyle(self, _cmd)
-{
-    return CPScrollerStyleGlobal;
-}
-,["int"]), new objj_method(sel_getUid("setGlobalScrollerStyle:"), function $CPScrollView__setGlobalScrollerStyle_(self, _cmd, aStyle)
-{
-    CPScrollerStyleGlobal = aStyle;
-    ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "postNotificationName:object:", CPScrollerStyleGlobalChangeNotification, nil));
-    var ___r1;
-}
-,["void","int"])]);
-}var CPScrollViewContentViewKey = "CPScrollViewContentView",
-    CPScrollViewHeaderClipViewKey = "CPScrollViewHeaderClipViewKey",
-    CPScrollViewVLineScrollKey = "CPScrollViewVLineScroll",
-    CPScrollViewHLineScrollKey = "CPScrollViewHLineScroll",
-    CPScrollViewVPageScrollKey = "CPScrollViewVPageScroll",
-    CPScrollViewHPageScrollKey = "CPScrollViewHPageScroll",
-    CPScrollViewHasVScrollerKey = "CPScrollViewHasVScroller",
-    CPScrollViewHasHScrollerKey = "CPScrollViewHasHScroller",
-    CPScrollViewVScrollerKey = "CPScrollViewVScroller",
-    CPScrollViewHScrollerKey = "CPScrollViewHScroller",
-    CPScrollViewAutohidesScrollerKey = "CPScrollViewAutohidesScroller",
-    CPScrollViewCornerViewKey = "CPScrollViewCornerViewKey",
-    CPScrollViewBottomCornerViewKey = "CPScrollViewBottomCornerViewKey",
-    CPScrollViewBorderTypeKey = "CPScrollViewBorderTypeKey",
-    CPScrollViewScrollerStyleKey = "CPScrollViewScrollerStyleKey",
-    CPScrollViewScrollerKnobStyleKey = "CPScrollViewScrollerKnobStyleKey";
-{
-var the_class = objj_getClass("CPScrollView")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPScrollView\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPScrollView__initWithCoder_(self, _cmd, aCoder)
-{
-    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "initWithCoder:", aCoder))
-    {
-        self._verticalLineScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewVLineScrollKey));
-        self._verticalPageScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewVPageScrollKey));
-        self._horizontalLineScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewHLineScrollKey));
-        self._horizontalPageScroll = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollViewHPageScrollKey));
-        self._contentView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewContentViewKey));
-        self._headerClipView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewHeaderClipViewKey));
-        if (!self._headerClipView)
-        {
-            self._headerClipView = ((___r1 = CPClipView.isa.objj_msgSend0(CPClipView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-            (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._headerClipView));
-        }
-        self._verticalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewVScrollerKey));
-        self._horizontalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewHScrollerKey));
-        self._hasVerticalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollViewHasVScrollerKey));
-        self._hasHorizontalScroller = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollViewHasHScrollerKey));
-        self._autohidesScrollers = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollViewAutohidesScrollerKey));
-        self._borderType = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPScrollViewBorderTypeKey));
-        self._cornerView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewCornerViewKey));
-        self._bottomCornerView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewBottomCornerViewKey));
-        self._delegate = nil;
-        self._scrollTimer = nil;
-        self._implementedDelegateMethods = 0;
-        self._scrollerStyle = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewScrollerStyleKey)) || CPScrollerStyleGlobal;
-        self._scrollerKnobStyle = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPScrollViewScrollerKnobStyleKey)) || CPScrollerKnobStyleDefault;
-        ((___r1 = CPNotificationCenter.isa.objj_msgSend0(CPNotificationCenter, "defaultCenter")), ___r1 == null ? null : ___r1.isa.objj_msgSend(___r1, "addObserver:selector:name:object:", self, sel_getUid("_didReceiveDefaultStyleChange:"), CPScrollerStyleGlobalChangeNotification, nil));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("awakeFromCib"), function $CPScrollView__awakeFromCib(self, _cmd)
-{
-    self.isa.objj_msgSend0(self, "_updateScrollerStyle");
-    self.isa.objj_msgSend0(self, "_updateCornerAndHeaderView");
-}
-,["void"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPScrollView__encodeWithCoder_(self, _cmd, aCoder)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScrollView").super_class }, "encodeWithCoder:", aCoder);
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._contentView, CPScrollViewContentViewKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._headerClipView, CPScrollViewHeaderClipViewKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._verticalScroller, CPScrollViewVScrollerKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._horizontalScroller, CPScrollViewHScrollerKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._verticalLineScroll, CPScrollViewVLineScrollKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._verticalPageScroll, CPScrollViewVPageScrollKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._horizontalLineScroll, CPScrollViewHLineScrollKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._horizontalPageScroll, CPScrollViewHPageScrollKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._hasVerticalScroller, CPScrollViewHasVScrollerKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._hasHorizontalScroller, CPScrollViewHasHScrollerKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeBool:forKey:", self._autohidesScrollers, CPScrollViewAutohidesScrollerKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._cornerView, CPScrollViewCornerViewKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._bottomCornerView, CPScrollViewBottomCornerViewKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._borderType, CPScrollViewBorderTypeKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._scrollerStyle, CPScrollViewScrollerStyleKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._scrollerKnobStyle, CPScrollViewScrollerKnobStyleKey));
-}
-,["void","CPCoder"])]);
-}p;7;CPBox.jt;24516;@STATIC;1.0;i;13;CPTextField.ji;8;CPView.jt;24466;objj_executeFile("CPTextField.j", YES);objj_executeFile("CPView.j", YES);{var the_typedef = objj_allocateTypeDef("CPBoxType");
-objj_registerTypeDef(the_typedef);
-}CPBoxPrimary = 0;
-CPBoxSecondary = 1;
-CPBoxSeparator = 2;
-CPBoxOldStyle = 3;
-CPBoxCustom = 4;
-{var the_typedef = objj_allocateTypeDef("CPBorderType");
-objj_registerTypeDef(the_typedef);
-}CPNoBorder = 0;
-CPLineBorder = 1;
-CPBezelBorder = 2;
-CPGrooveBorder = 3;
-{var the_typedef = objj_allocateTypeDef("CPTitlePosition");
-objj_registerTypeDef(the_typedef);
-}CPNoTitle = 0;
-CPAboveTop = 1;
-CPAtTop = 2;
-CPBelowTop = 3;
-CPAboveBottom = 4;
-CPAtBottom = 5;
-CPBelowBottom = 6;
-{var the_class = objj_allocateClassPair(CPView, "CPBox"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_boxType"), new objj_ivar("_borderType"), new objj_ivar("_contentView"), new objj_ivar("_title"), new objj_ivar("_titlePosition"), new objj_ivar("_titleView")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("title"), function $CPBox__title(self, _cmd)
-{
-    return self._title;
-}
-,["CPString"]), new objj_method(sel_getUid("_setTitle:"), function $CPBox___setTitle_(self, _cmd, newValue)
-{
-    self._title = newValue;
-}
-,["void","CPString"]), new objj_method(sel_getUid("titlePosition"), function $CPBox__titlePosition(self, _cmd)
-{
-    return self._titlePosition;
-}
-,["int"]), new objj_method(sel_getUid("_setTitlePosition:"), function $CPBox___setTitlePosition_(self, _cmd, newValue)
-{
-    self._titlePosition = newValue;
-}
-,["void","int"]), new objj_method(sel_getUid("initWithFrame:"), function $CPBox__initWithFrame_(self, _cmd, frameRect)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "initWithFrame:", frameRect);
-    if (self)
-    {
-        self._borderType = CPBezelBorder;
-        self._titlePosition = CPNoTitle;
-        self._titleView = CPTextField.isa.objj_msgSend1(CPTextField, "labelWithTitle:", "");
-        self._contentView = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", (self == null ? null : self.isa.objj_msgSend0(self, "bounds"))));
-        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES));
-        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._contentView));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CGRect"]), new objj_method(sel_getUid("borderRect"), function $CPBox__borderRect(self, _cmd)
-{
-    return self.isa.objj_msgSend0(self, "bounds");
-}
-,["CGRect"]), new objj_method(sel_getUid("borderType"), function $CPBox__borderType(self, _cmd)
-{
-    return self._borderType;
-}
-,["CPBorderType"]), new objj_method(sel_getUid("setBorderType:"), function $CPBox__setBorderType_(self, _cmd, aBorderType)
-{
-    if (self._borderType === aBorderType)
-        return;
-    self._borderType = aBorderType;
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-}
-,["void","CPBorderType"]), new objj_method(sel_getUid("boxType"), function $CPBox__boxType(self, _cmd)
-{
-    return self._boxType;
-}
-,["CPBoxType"]), new objj_method(sel_getUid("setBoxType:"), function $CPBox__setBoxType_(self, _cmd, aBoxType)
-{
-    if (self._boxType === aBoxType)
-        return;
-    self._boxType = aBoxType;
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-}
-,["void","CPBoxType"]), new objj_method(sel_getUid("borderColor"), function $CPBox__borderColor(self, _cmd)
-{
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "border-color");
-}
-,["CPColor"]), new objj_method(sel_getUid("setBorderColor:"), function $CPBox__setBorderColor_(self, _cmd, color)
-{
-    if ((color == null ? null : color.isa.objj_msgSend1(color, "isEqual:", self.isa.objj_msgSend0(self, "borderColor"))))
-        return;
-    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", color, "border-color");
-}
-,["void","CPColor"]), new objj_method(sel_getUid("borderWidth"), function $CPBox__borderWidth(self, _cmd)
-{
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "border-width");
-}
-,["float"]), new objj_method(sel_getUid("setBorderWidth:"), function $CPBox__setBorderWidth_(self, _cmd, width)
-{
-    if (width === self.isa.objj_msgSend0(self, "borderWidth"))
-        return;
-    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", width, "border-width");
-}
-,["void","float"]), new objj_method(sel_getUid("cornerRadius"), function $CPBox__cornerRadius(self, _cmd)
-{
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "corner-radius");
-}
-,["float"]), new objj_method(sel_getUid("setCornerRadius:"), function $CPBox__setCornerRadius_(self, _cmd, radius)
-{
-    if (radius === self.isa.objj_msgSend0(self, "cornerRadius"))
-        return;
-    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", radius, "corner-radius");
-}
-,["void","float"]), new objj_method(sel_getUid("fillColor"), function $CPBox__fillColor(self, _cmd)
-{
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "background-color");
-}
-,["CPColor"]), new objj_method(sel_getUid("setFillColor:"), function $CPBox__setFillColor_(self, _cmd, color)
-{
-    if ((color == null ? null : color.isa.objj_msgSend1(color, "isEqual:", self.isa.objj_msgSend0(self, "fillColor"))))
-        return;
-    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", color, "background-color");
-}
-,["void","CPColor"]), new objj_method(sel_getUid("contentView"), function $CPBox__contentView(self, _cmd)
-{
-    return self._contentView;
-}
-,["CPView"]), new objj_method(sel_getUid("setContentView:"), function $CPBox__setContentView_(self, _cmd, aView)
-{
-    if (aView === self._contentView)
-        return;
-    var borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
-        contentMargin = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
-    (aView == null ? null : aView.isa.objj_msgSend1(aView, "setFrame:", CGRectInset(self.isa.objj_msgSend0(self, "bounds"), contentMargin.width + borderWidth, contentMargin.height + borderWidth)));
-    (aView == null ? null : aView.isa.objj_msgSend1(aView, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
-    if (!aView)
-        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-    else if (self._contentView)
-        self.isa.objj_msgSend2(self, "replaceSubview:with:", self._contentView, aView);
-    else
-        self.isa.objj_msgSend1(self, "addSubview:", aView);
-    self._contentView = aView;
-    var ___r1;
-}
-,["void","CPView"]), new objj_method(sel_getUid("contentViewMargins"), function $CPBox__contentViewMargins(self, _cmd)
-{
-    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
-}
-,["CGSize"]), new objj_method(sel_getUid("setContentViewMargins:"), function $CPBox__setContentViewMargins_(self, _cmd, size)
-{
-    if (size.width < 0 || size.height < 0)
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPGenericException, "Margins must be positive");
-    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", CGSizeMakeCopy(size), "content-margin");
-}
-,["void","CGSize"]), new objj_method(sel_getUid("setFrameFromContentFrame:"), function $CPBox__setFrameFromContentFrame_(self, _cmd, aRect)
-{
-    var offset = self.isa.objj_msgSend0(self, "_titleHeightOffset"),
-        borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
-        contentMargin = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
-    self.isa.objj_msgSend1(self, "setFrame:", CGRectInset(aRect, -(contentMargin.width + borderWidth), -(contentMargin.height + offset[0] + borderWidth)));
-}
-,["void","CGRect"]), new objj_method(sel_getUid("setTitle:"), function $CPBox__setTitle_(self, _cmd, aTitle)
-{
-    if (aTitle == self._title)
-        return;
-    self._title = aTitle;
-    self.isa.objj_msgSend0(self, "_manageTitlePositioning");
-}
-,["void","CPString"]), new objj_method(sel_getUid("setTitlePosition:"), function $CPBox__setTitlePosition_(self, _cmd, aTitlePotisition)
-{
-    if (aTitlePotisition == self._titlePosition)
-        return;
-    self._titlePosition = aTitlePotisition;
-    self.isa.objj_msgSend0(self, "_manageTitlePositioning");
-}
-,["void","int"]), new objj_method(sel_getUid("titleFont"), function $CPBox__titleFont(self, _cmd)
-{
-    return ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "font"));
-    var ___r1;
-}
-,["CPFont"]), new objj_method(sel_getUid("setTitleFont:"), function $CPBox__setTitleFont_(self, _cmd, aFont)
-{
-    ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", aFont));
-    var ___r1;
-}
-,["void","CPFont"]), new objj_method(sel_getUid("titleView"), function $CPBox__titleView(self, _cmd)
-{
-    return self._titleView;
-}
-,["CPTextField"]), new objj_method(sel_getUid("_manageTitlePositioning"), function $CPBox___manageTitlePositioning(self, _cmd)
-{
-    if (self._titlePosition == CPNoTitle)
-    {
-        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
-        self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-        return;
-    }
-    ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStringValue:", self._title));
-    ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
-    self.isa.objj_msgSend1(self, "addSubview:", self._titleView);
-    switch(self._titlePosition) {
-    case CPAtTop:
-    case CPAboveTop:
-    case CPBelowTop:
-        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(5.0, 0.0)));
-        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewNotSizable));
-        break;
-    case CPAboveBottom:
-    case CPAtBottom:
-    case CPBelowBottom:
-        var h = ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
-        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(5.0, self.isa.objj_msgSend0(self, "frameSize").height - h)));
-        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinYMargin));
-        break;
-    }
-    self.isa.objj_msgSend0(self, "sizeToFit");
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("sizeToFit"), function $CPBox__sizeToFit(self, _cmd)
-{
-    var contentFrame = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
-        offset = self.isa.objj_msgSend0(self, "_titleHeightOffset"),
-        contentMargin = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
-    if (!contentFrame)
-        return;
-    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(contentMargin.width, contentMargin.height + offset[1])));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_titleHeightOffset"), function $CPBox___titleHeightOffset(self, _cmd)
-{
-    if (self._titlePosition == CPNoTitle)
-        return [0.0, 0.0];
-    switch(self._titlePosition) {
-    case CPAtTop:
-        return [((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height, ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height];
-    case CPAtBottom:
-        return [((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height, 0.0];
-default:
-        return [0.0, 0.0];
-    }
-    var ___r1;
-}
-,["float"]), new objj_method(sel_getUid("setValue:forKey:"), function $CPBox__setValue_forKey_(self, _cmd, aValue, aKey)
-{
-    if (aKey === CPDisplayPatternTitleBinding)
-        self.isa.objj_msgSend1(self, "setTitle:", aValue || "");
-    else
-        objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "setValue:forKey:", aValue, aKey);
-}
-,["void","id","CPString"]), new objj_method(sel_getUid("drawRect:"), function $CPBox__drawRect_(self, _cmd, rect)
-{
-    var bounds = self.isa.objj_msgSend0(self, "bounds");
-    switch(self._boxType) {
-    case CPBoxSeparator:
-        if (CGRectGetWidth(bounds) === 5.0)
-            return self.isa.objj_msgSend1(self, "_drawVerticalSeparatorInRect:", bounds);
-        else if (CGRectGetHeight(bounds) === 5.0)
-            return self.isa.objj_msgSend1(self, "_drawHorizontalSeparatorInRect:", bounds);
-        break;
-    }
-    if (self._titlePosition == CPAtTop)
-    {
-        bounds.origin.y += ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
-        bounds.size.height -= ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
-    }
-    if (self._titlePosition == CPAtBottom)
-    {
-        bounds.size.height -= ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
-    }
-    if ((self._boxType === CPBoxPrimary || self._boxType === CPBoxSecondary) && self._borderType !== CPNoBorder)
-    {
-        self.isa.objj_msgSend1(self, "_drawPrimaryBorderInRect:", bounds);
-        return;
-    }
-    switch(self._borderType) {
-    case CPBezelBorder:
-        self.isa.objj_msgSend1(self, "_drawBezelBorderInRect:", bounds);
-        break;
-    case CPGrooveBorder:
-    case CPLineBorder:
-        self.isa.objj_msgSend1(self, "_drawLineBorderInRect:", bounds);
-        break;
-    case CPNoBorder:
-        self.isa.objj_msgSend1(self, "_drawNoBorderInRect:", bounds);
-        break;
-    }
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawHorizontalSeparatorInRect:"), function $CPBox___drawHorizontalSeparatorInRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
-    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
-    CGContextSetLineWidth(context, 1.0);
-    CGContextMoveToPoint(context, CGRectGetMinX(aRect), CGRectGetMidY(aRect));
-    CGContextAddLineToPoint(context, CGRectGetWidth(aRect), CGRectGetMidY(aRect));
-    CGContextStrokePath(context);
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawVerticalSeparatorInRect:"), function $CPBox___drawVerticalSeparatorInRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
-    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
-    CGContextSetLineWidth(context, 1.0);
-    CGContextMoveToPoint(context, CGRectGetMidX(aRect), CGRectGetMinY(aRect));
-    CGContextAddLineToPoint(context, CGRectGetMidX(aRect), CGRectGetHeight(aRect));
-    CGContextStrokePath(context);
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawLineBorderInRect:"), function $CPBox___drawLineBorderInRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
-        cornerRadius = self.isa.objj_msgSend0(self, "cornerRadius"),
-        borderWidth = self.isa.objj_msgSend0(self, "borderWidth");
-    aRect = CGRectInset(aRect, borderWidth / 2.0, borderWidth / 2.0);
-    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
-    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
-    CGContextSetLineWidth(context, borderWidth);
-    CGContextFillRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
-    CGContextStrokeRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawBezelBorderInRect:"), function $CPBox___drawBezelBorderInRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
-        cornerRadius = self.isa.objj_msgSend0(self, "cornerRadius"),
-        borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
-        shadowOffset = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-offset"),
-        shadowSize = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-size"),
-        shadowColor = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-color");
-    var baseRect = aRect;
-    aRect = CGRectInset(aRect, borderWidth / 2.0, borderWidth / 2.0);
-    CGContextSaveGState(context);
-    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
-    CGContextSetLineWidth(context, borderWidth);
-    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
-    CGContextFillRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
-    CGContextStrokeRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
-    CGContextRestoreGState(context);
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawPrimaryBorderInRect:"), function $CPBox___drawPrimaryBorderInRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
-        cornerRadius = self.isa.objj_msgSend0(self, "cornerRadius"),
-        borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
-        shadowOffset = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-offset"),
-        shadowSize = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-size"),
-        shadowColor = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-color"),
-        baseRect = aRect;
-    aRect = CGRectInset(aRect, borderWidth / 2.0, borderWidth / 2.0);
-    CGContextSaveGState(context);
-    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
-    CGContextSetLineWidth(context, borderWidth);
-    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
-    CGContextFillRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
-    CGContextBeginPath(context);
-    CGContextAddPath(context, CGPathWithRoundedRectangleInRect(baseRect, cornerRadius, cornerRadius, YES, YES, YES, YES));
-    CGContextClip(context);
-    CGContextSetShadowWithColor(context, shadowOffset, shadowSize, shadowColor);
-    CGContextStrokeRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
-    CGContextRestoreGState(context);
-    var ___r1;
-}
-,["void","CGRect"]), new objj_method(sel_getUid("_drawNoBorderInRect:"), function $CPBox___drawNoBorderInRect_(self, _cmd, aRect)
-{
-    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
-    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
-    CGContextFillRect(context, aRect);
-    var ___r1;
-}
-,["void","CGRect"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("_binderClassForBinding:"), function $CPBox___binderClassForBinding_(self, _cmd, aBinding)
-{
-    if ((aBinding == null ? null : aBinding.isa.objj_msgSend1(aBinding, "hasPrefix:", CPDisplayPatternTitleBinding)))
-        return CPTitleWithPatternBinding.isa.objj_msgSend0(CPTitleWithPatternBinding, "class");
-    return objj_msgSendSuper({ receiver:self, super_class:objj_getMetaClass("CPBox").super_class }, "_binderClassForBinding:", aBinding);
-}
-,["Class","CPString"]), new objj_method(sel_getUid("defaultThemeClass"), function $CPBox__defaultThemeClass(self, _cmd)
-{
-    return "box";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $CPBox__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPNull.isa.objj_msgSend0(CPNull, "null"), "background-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "border-color", 1.0, "border-width", 3.0, "corner-radius", CGSizeMakeZero(), "inner-shadow-offset", 6.0, "inner-shadow-size", CPNull.isa.objj_msgSend0(CPNull, "null"), "inner-shadow-color", CGSizeMakeZero(), "content-margin");
-}
-,["CPDictionary"]), new objj_method(sel_getUid("boxEnclosingView:"), function $CPBox__boxEnclosingView_(self, _cmd, aView)
-{
-    var box = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero())),
-        enclosingView = (aView == null ? null : aView.isa.objj_msgSend0(aView, "superview"));
-    (box == null ? null : box.isa.objj_msgSend1(box, "setAutoresizingMask:", (aView == null ? null : aView.isa.objj_msgSend0(aView, "autoresizingMask"))));
-    (box == null ? null : box.isa.objj_msgSend1(box, "setFrameFromContentFrame:", (aView == null ? null : aView.isa.objj_msgSend0(aView, "frame"))));
-    (enclosingView == null ? null : enclosingView.isa.objj_msgSend2(enclosingView, "replaceSubview:with:", aView, box));
-    (box == null ? null : box.isa.objj_msgSend1(box, "setContentView:", aView));
-    return box;
-    var ___r1;
-}
-,["id","CPView"])]);
-}var CPBoxTypeKey = "CPBoxTypeKey",
-    CPBoxBorderTypeKey = "CPBoxBorderTypeKey",
-    CPBoxTitle = "CPBoxTitle",
-    CPBoxTitlePosition = "CPBoxTitlePosition",
-    CPBoxTitleView = "CPBoxTitleView";
-{
-var the_class = objj_getClass("CPBox")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPBox\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPBox__initWithCoder_(self, _cmd, aCoder)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "initWithCoder:", aCoder);
-    if (self)
-    {
-        self._boxType = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPBoxTypeKey));
-        self._borderType = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPBoxBorderTypeKey));
-        self._title = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPBoxTitle));
-        self._titlePosition = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPBoxTitlePosition));
-        self._titleView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPBoxTitleView)) || CPTextField.isa.objj_msgSend1(CPTextField, "labelWithTitle:", self._title);
-        self._contentView = (self == null ? null : self.isa.objj_msgSend0(self, "subviews"))[0];
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES));
-        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
-        (self == null ? null : self.isa.objj_msgSend0(self, "_manageTitlePositioning"));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPBox__encodeWithCoder_(self, _cmd, aCoder)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "encodeWithCoder:", aCoder);
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._boxType, CPBoxTypeKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._borderType, CPBoxBorderTypeKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._title, CPBoxTitle));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._titlePosition, CPBoxTitlePosition));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._titleView, CPBoxTitleView));
-}
-,["void","CPCoder"])]);
-}p;8;CGPath.jt;16129;@STATIC;1.0;i;19;CGAffineTransform.ji;12;CGGeometry.jt;16068;objj_executeFile("CGAffineTransform.j", YES);objj_executeFile("CGGeometry.j", YES);{var the_typedef = objj_allocateTypeDef("CGPath");
-objj_registerTypeDef(the_typedef);
-}kCGPathElementMoveToPoint = 0;
-kCGPathElementAddLineToPoint = 1;
-kCGPathElementAddQuadCurveToPoint = 2;
-kCGPathElementAddCurveToPoint = 3;
-kCGPathElementCloseSubpath = 4;
-kCGPathElementAddArc = 5;
-kCGPathElementAddArcToPoint = 6;
-CGPathCreateMutable = function()
-{
-    return {count: 0, start: CGPointMake(0, 0), current: CGPointMake(0, 0), elements: []};
-}
-CGPathCreateMutableCopy = function(aPath)
-{
-    var path = CGPathCreateMutable();
-    CGPathAddPath(path, aPath);
-    return path;
-}
-CGPathCreateCopy = function(aPath)
-{
-    return CGPathCreateMutableCopy(aPath);
-}
-CGPathRelease = function(aPath)
-{
-}
-CGPathRetain = function(aPath)
-{
-    return aPath;
-}
-CGPathAddArc = function(aPath, aTransform, x, y, aRadius, aStartAngle, anEndAngle, isClockwise)
-{
-    if (aTransform && !CGAffineTransformIsIdentity(aTransform))
-    {
-        var center = CGPointMake(x, y),
-            end = CGPointMake(COS(anEndAngle), SIN(anEndAngle)),
-            start = CGPointMake(COS(aStartAngle), SIN(aStartAngle));
-        end = CGPointApplyAffineTransform(end, aTransform);
-        start = CGPointApplyAffineTransform(start, aTransform);
-        center = CGPointApplyAffineTransform(center, aTransform);
-        x = center.x;
-        y = center.y;
-        var oldEndAngle = anEndAngle,
-            oldStartAngle = aStartAngle;
-        anEndAngle = ATAN2(end.y - aTransform.ty, end.x - aTransform.tx);
-        aStartAngle = ATAN2(start.y - aTransform.ty, start.x - aTransform.tx);
-        if (anEndAngle === aStartAngle && oldEndAngle !== oldStartAngle)
-            if (oldStartAngle > oldEndAngle)
-                anEndAngle = anEndAngle - PI2;
-            else
-                aStartAngle = aStartAngle - PI2;
-        aRadius = CGSizeMake(aRadius, 0);
-        aRadius = CGSizeApplyAffineTransform(aRadius, aTransform);
-        aRadius = SQRT(aRadius.width * aRadius.width + aRadius.height * aRadius.height);
-    }
-    var arcEndX = x + aRadius * COS(anEndAngle),
-        arcEndY = y + aRadius * SIN(anEndAngle),
-        arcStartX = x + aRadius * COS(aStartAngle),
-        arcStartY = y + aRadius * SIN(aStartAngle);
-    if (aPath.count)
-    {
-        if (aPath.current.x !== x || aPath.current.y !== y)
-            CGPathAddLineToPoint(aPath, aTransform, arcStartX, arcStartY);
-    }
-    else
-    {
-        var arcStartX = x + aRadius * COS(aStartAngle),
-            arcStartY = y + aRadius * SIN(aStartAngle);
-        aPath.start = CGPointMake(arcStartX, arcStartY);
-    }
-    aPath.current = CGPointMake(arcEndX, arcEndY);
-    aPath.elements[aPath.count++] = {type: kCGPathElementAddArc, x: x, y: y, radius: aRadius, startAngle: aStartAngle, endAngle: anEndAngle, isClockwise: isClockwise};
-}
-CGPathAddArcToPoint = function(aPath, aTransform, x1, y1, x2, y2, aRadius)
-{
-    var p1 = CGPointMake(x1, y1),
-        p2 = CGPointMake(x2, y2);
-    if (aTransform)
-    {
-        p1 = CGPointApplyAffineTransform(p1, aTransform);
-        p2 = CGPointApplyAffineTransform(p2, aTransform);
-    }
-    if (aPath.count)
-    {
-        if (aPath.current.x !== p1.x || aPath.current.y !== p1.y)
-            CGPathAddLineToPoint(aPath, aTransform, p1.x, p1.y);
-    }
-    else
-        aPath.start = p1;
-    aPath.current = p2;
-    aPath.elements[aPath.count++] = {type: kCGPathElementAddArcToPoint, p1x: p1.x, p1y: p1.y, p2x: p2.x, p2y: p2.y, radius: aRadius};
-}
-CGPathAddCurveToPoint = function(aPath, aTransform, cp1x, cp1y, cp2x, cp2y, x, y)
-{
-    var cp1 = CGPointMake(cp1x, cp1y),
-        cp2 = CGPointMake(cp2x, cp2y),
-        end = CGPointMake(x, y);
-    if (aTransform)
-    {
-        cp1 = CGPointApplyAffineTransform(cp1, aTransform);
-        cp2 = CGPointApplyAffineTransform(cp2, aTransform);
-        end = CGPointApplyAffineTransform(end, aTransform);
-    }
-    aPath.current = end;
-    aPath.elements[aPath.count++] = {type: kCGPathElementAddCurveToPoint, cp1x: cp1.x, cp1y: cp1.y, cp2x: cp2.x, cp2y: cp2.y, x: end.x, y: end.y};
-}
-CGPathAddLines = function(aPath, aTransform, points, count)
-{
-    if (count === null || count === undefined)
-        count = points.length;
-    if (!aPath || count < 1)
-        return;
-    CGPathMoveToPoint(aPath, aTransform, points[0].x, points[0].y);
-    for (var i = 1; i < count; ++i)
-        CGPathAddLineToPoint(aPath, aTransform, points[i].x, points[i].y);
-}
-CGPathAddLineToPoint = function(aPath, aTransform, x, y)
-{
-    var point = CGPointMake(x, y);
-    if (aTransform !== NULL)
-        point = CGPointApplyAffineTransform(point, aTransform);
-    aPath.elements[aPath.count++] = {type: kCGPathElementAddLineToPoint, x: point.x, y: point.y};
-    aPath.current = point;
-}
-CGPathAddPath = function(aPath, aTransform, anotherPath)
-{
-    for (var i = 0, count = anotherPath.count; i < count; ++i)
-    {
-        var element = anotherPath.elements[i];
-        switch(element.type) {
-        case kCGPathElementAddLineToPoint:
-            CGPathAddLineToPoint(aPath, aTransform, element.x, element.y);
-            break;
-        case kCGPathElementAddCurveToPoint:
-            CGPathAddCurveToPoint(aPath, aTransform, element.cp1x, element.cp1y, element.cp2x, element.cp2y, element.x, element.y);
-            break;
-        case kCGPathElementAddArc:
-            CGPathAddArc(aPath, aTransform, element.x, element.y, element.radius, element.startAngle, element.endAngle, element.isClockwise);
-            break;
-        case kCGPathElementAddArcToPoint:
-            CGPathAddArcToPoint(aPath, aTransform, element.p1x, element.p1y, element.p2x, element.p2y, element.radius);
-            break;
-        case kCGPathElementAddQuadCurveToPoint:
-            CGPathAddQuadCurveToPoint(aPath, aTransform, element.cpx, element.cpy, element.x, element.y);
-            break;
-        case kCGPathElementMoveToPoint:
-            CGPathMoveToPoint(aPath, aTransform, element.x, element.y);
-            break;
-        case kCGPathElementCloseSubpath:
-            CGPathCloseSubpath(aPath);
-            break;
-        }
-    }
-}
-CGPathAddQuadCurveToPoint = function(aPath, aTransform, cpx, cpy, x, y)
-{
-    var cp = CGPointMake(cpx, cpy),
-        end = CGPointMake(x, y);
-    if (aTransform)
-    {
-        cp = CGPointApplyAffineTransform(cp, aTransform);
-        end = CGPointApplyAffineTransform(end, aTransform);
-    }
-    aPath.elements[aPath.count++] = {type: kCGPathElementAddQuadCurveToPoint, cpx: cp.x, cpy: cp.y, x: end.x, y: end.y};
-    aPath.current = end;
-}
-CGPathAddRect = function(aPath, aTransform, aRect)
-{
-    CGPathAddRects(aPath, aTransform, [aRect], 1);
-}
-CGPathAddRects = function(aPath, aTransform, rects, count)
-{
-    var i = 0;
-    if (count === NULL)
-        var count = rects.length;
-    for (; i < count; ++i)
-    {
-        var rect = rects[i];
-        CGPathMoveToPoint(aPath, aTransform, CGRectGetMinX(rect), CGRectGetMinY(rect));
-        CGPathAddLineToPoint(aPath, aTransform, CGRectGetMaxX(rect), CGRectGetMinY(rect));
-        CGPathAddLineToPoint(aPath, aTransform, CGRectGetMaxX(rect), CGRectGetMaxY(rect));
-        CGPathAddLineToPoint(aPath, aTransform, CGRectGetMinX(rect), CGRectGetMaxY(rect));
-        CGPathCloseSubpath(aPath);
-    }
-}
-CGPathMoveToPoint = function(aPath, aTransform, x, y)
-{
-    var point = CGPointMake(x, y);
-    if (aTransform !== NULL)
-        point = CGPointApplyAffineTransform(point, aTransform);
-    aPath.start = aPath.current = point;
-    if (aPath.count)
-    {
-        var previous = aPath.elements[aPath.count - 1];
-        if (previous.type === kCGPathElementMoveToPoint)
-        {
-            previous.x = point.x;
-            previous.y = point.y;
-            return;
-        }
-    }
-    aPath.elements[aPath.count++] = {type: kCGPathElementMoveToPoint, x: point.x, y: point.y};
-}
-var KAPPA = 4.0 * ((SQRT2 - 1.0) / 3.0);
-CGPathWithEllipseInRect = function(aRect)
-{
-    var path = CGPathCreateMutable();
-    if (CGRectGetWidth(aRect) === CGRectGetHeight(aRect))
-        CGPathAddArc(path, nil, CGRectGetMidX(aRect), CGRectGetMidY(aRect), CGRectGetWidth(aRect) / 2.0, 0.0, 2 * PI, YES);
-    else
-    {
-        var axis = CGSizeMake(CGRectGetWidth(aRect) / 2.0, CGRectGetHeight(aRect) / 2.0),
-            center = CGPointMake(CGRectGetMinX(aRect) + axis.width, CGRectGetMinY(aRect) + axis.height);
-        CGPathMoveToPoint(path, nil, center.x, center.y - axis.height);
-        CGPathAddCurveToPoint(path, nil, center.x + KAPPA * axis.width, center.y - axis.height, center.x + axis.width, center.y - KAPPA * axis.height, center.x + axis.width, center.y);
-        CGPathAddCurveToPoint(path, nil, center.x + axis.width, center.y + KAPPA * axis.height, center.x + KAPPA * axis.width, center.y + axis.height, center.x, center.y + axis.height);
-        CGPathAddCurveToPoint(path, nil, center.x - KAPPA * axis.width, center.y + axis.height, center.x - axis.width, center.y + KAPPA * axis.height, center.x - axis.width, center.y);
-        CGPathAddCurveToPoint(path, nil, center.x - axis.width, center.y - KAPPA * axis.height, center.x - KAPPA * axis.width, center.y - axis.height, center.x, center.y - axis.height);
-    }
-    CGPathCloseSubpath(path);
-    return path;
-}
-CGPathWithRoundedRectangleInRect = function(aRect, xRadius, yRadius, ne, se, sw, nw)
-{
-    var path = CGPathCreateMutable(),
-        xMin = CGRectGetMinX(aRect),
-        xMax = CGRectGetMaxX(aRect),
-        yMin = CGRectGetMinY(aRect),
-        yMax = CGRectGetMaxY(aRect);
-    CGPathMoveToPoint(path, nil, xMin + xRadius, yMin);
-    if (ne)
-    {
-        CGPathAddLineToPoint(path, nil, xMax - xRadius, yMin);
-        CGPathAddCurveToPoint(path, nil, xMax - xRadius, yMin, xMax, yMin, xMax, yMin + xRadius);
-    }
-    else
-        CGPathAddLineToPoint(path, nil, xMax, yMin);
-    if (se)
-    {
-        CGPathAddLineToPoint(path, nil, xMax, yMax - xRadius);
-        CGPathAddCurveToPoint(path, nil, xMax, yMax - xRadius, xMax, yMax, xMax - xRadius, yMax);
-    }
-    else
-        CGPathAddLineToPoint(path, nil, xMax, yMax);
-    if (sw)
-    {
-        CGPathAddLineToPoint(path, nil, xMin + xRadius, yMax);
-        CGPathAddCurveToPoint(path, nil, xMin + xRadius, yMax, xMin, yMax, xMin, yMax - xRadius);
-    }
-    else
-        CGPathAddLineToPoint(path, nil, xMin, yMax);
-    if (nw)
-    {
-        CGPathAddLineToPoint(path, nil, xMin, yMin + xRadius);
-        CGPathAddCurveToPoint(path, nil, xMin, yMin + xRadius, xMin, yMin, xMin + xRadius, yMin);
-    }
-    else
-        CGPathAddLineToPoint(path, nil, xMin, yMin);
-    CGPathCloseSubpath(path);
-    return path;
-}
-CGPathCloseSubpath = function(aPath)
-{
-    var count = aPath.count;
-    if (count === 0 || aPath.elements[count - 1].type === kCGPathElementCloseSubpath)
-        return;
-    aPath.current = CGPointCreateCopy(aPath.start);
-    aPath.elements[aPath.count++] = {type: kCGPathElementCloseSubpath, start: aPath.start};
-}
-CGPathEqualToPath = function(aPath, anotherPath)
-{
-    if (aPath === anotherPath)
-        return YES;
-    if (aPath.count !== anotherPath.count || !CGPointEqualToPoint(aPath.start, anotherPath.start) || !CGPointEqualToPoint(aPath.current, anotherPath.current))
-        return NO;
-    var i = 0,
-        count = aPath.count;
-    for (; i < count; ++i)
-    {
-        var element = aPath[i],
-            anotherElement = anotherPath[i];
-        if (element.type !== anotherElement.type)
-            return NO;
-        switch(element.type) {
-        case kCGPathElementAddArc:
-            if (element.x !== anotherElement.x || element.y !== anotherElement.y || element.radius !== anotherElement.radius || element.startAngle !== anotherElement.startAngle || element.endAngle !== anotherElement.endAngle || element.isClockwise !== anotherElement.isClockwise)
-            {
-                return NO;
-            }
-            break;
-        case kCGPathElementAddArcToPoint:
-            if (element.p1x !== anotherElement.p1x || element.p1y !== anotherElement.p1y || element.p2x !== anotherElement.p2x || element.p2y !== anotherElement.p2y || element.radius !== anotherElement.radius)
-            {
-                return NO;
-            }
-            break;
-        case kCGPathElementAddCurveToPoint:
-            if (element.cp1x !== anotherElement.cp1x || element.cp1y !== anotherElement.cp1y || element.cp2x !== anotherElement.cp2x || element.cp2y !== anotherElement.cp2y || element.x !== anotherElement.x || element.y !== anotherElement.y)
-            {
-                return NO;
-            }
-            break;
-        case kCGPathElementAddLineToPoint:
-        case kCGPathElementMoveToPoint:
-            if (element.x !== anotherElement.x || element.y !== anotherElement.y)
-            {
-                return NO;
-            }
-            break;
-        case kCGPathElementAddQuadCurveToPoint:
-            if (element.cpx !== anotherElement.cpx || element.cpy !== anotherElement.cpy || element.x !== anotherElement.x || element.y !== anotherElement.y)
-            {
-                return NO;
-            }
-            break;
-        case kCGPathElementCloseSubpath:
-            if (!CGPointEqualToPoint(element.start, anotherElement.start))
-                return NO;
-            break;
-        }
-    }
-    return YES;
-}
-CGPathGetCurrentPoint = function(aPath)
-{
-    return CGPointCreateCopy(aPath.current);
-}
-CGPathIsEmpty = function(aPath)
-{
-    return !aPath || aPath.count === 0;
-}
-CGPathGetBoundingBox = function(aPath)
-{
-    if (!aPath || !aPath.count)
-        return CGRectMakeZero();
-    var ox = 0,
-        oy = 0,
-        rx = 0,
-        ry = 0,
-        movePoint = nil;
-addPoint = function(x, y)
-    {
-        ox = MIN(ox, x);
-        oy = MIN(oy, y);
-        rx = MAX(rx, x);
-        ry = MAX(ry, y);
-    }
-    for (var i = 0, count = aPath.count; i < count; ++i)
-    {
-        var element = aPath.elements[i];
-        switch(element.type) {
-        case kCGPathElementAddLineToPoint:
-            if (movePoint)
-            {
-                addPoint(movePoint.x, movePoint.y);
-                movePoint = nil;
-            }
-            addPoint(element.x, element.y);
-            break;
-        case kCGPathElementAddCurveToPoint:
-            if (movePoint)
-            {
-                addPoint(movePoint.x, movePoint.y);
-                movePoint = nil;
-            }
-            addPoint(element.cp1x, element.cp1y);
-            addPoint(element.cp2x, element.cp2y);
-            addPoint(element.x, element.y);
-            break;
-        case kCGPathElementAddArc:
-            if (movePoint)
-            {
-                addPoint(movePoint.x, movePoint.y);
-                movePoint = nil;
-            }
-            addPoint(element.x, element.y);
-            break;
-        case kCGPathElementAddArcToPoint:
-            if (movePoint)
-            {
-                addPoint(movePoint.x, movePoint.y);
-                movePoint = nil;
-            }
-            addPoint(element.p1x, element.p1y);
-            addPoint(element.p2x, element.p2y);
-            break;
-        case kCGPathElementAddQuadCurveToPoint:
-            if (movePoint)
-            {
-                addPoint(movePoint.x, movePoint.y);
-                movePoint = nil;
-            }
-            addPoint(element.cpx, element.cpy);
-            addPoint(element.x, element.y);
-            break;
-        case kCGPathElementMoveToPoint:
-            movePoint = CGPointMake(element.x, element.y);
-            break;
-        case kCGPathElementCloseSubpath:
-            if (movePoint)
-            {
-                addPoint(movePoint.x, movePoint.y);
-                movePoint = nil;
-            }
-            break;
-        }
-    }
-    return CGRectMake(ox, oy, rx - ox, ry - oy);
-}
-CGPathContainsPoint = function(aPath, aTransform, point, eoFill)
-{
-    if (!aPath.count)
-        return NO;
-    if (aTransform)
-        point = CGPointApplyAffineTransform(point, aTransform);
-    var context = CGBitmapGraphicsContextCreate();
-    CGContextBeginPath(context);
-    CGContextAddPath(context, aPath);
-    CGContextClosePath(context);
-    return context.isPointInPath(point.x, point.y);
-}
-p;12;CPScroller.jt;32994;@STATIC;1.0;i;13;CPAnimation.ji;11;CPControl.ji;20;CPWindow_Constants.ji;17;CPViewAnimation.jt;32893;objj_executeFile("CPAnimation.j", YES);objj_executeFile("CPControl.j", YES);objj_executeFile("CPWindow_Constants.j", YES);objj_executeFile("CPViewAnimation.j", YES);{var the_typedef = objj_allocateTypeDef("CPScrollerPart");
-objj_registerTypeDef(the_typedef);
-}CPScrollerNoPart = 0;
-CPScrollerDecrementPage = 1;
-CPScrollerKnob = 2;
-CPScrollerIncrementPage = 3;
-CPScrollerDecrementLine = 4;
-CPScrollerIncrementLine = 5;
-CPScrollerKnobSlot = 6;
-CPScrollerIncrementArrow = 0;
-CPScrollerDecrementArrow = 1;
-{var the_typedef = objj_allocateTypeDef("CPUsableScrollerParts");
-objj_registerTypeDef(the_typedef);
-}CPNoScrollerParts = 0;
-CPOnlyScrollerArrows = 1;
-CPAllScrollerParts = 2;
-var PARTS_ARRANGEMENT = [CPScrollerKnobSlot, CPScrollerDecrementLine, CPScrollerIncrementLine, CPScrollerKnob],
-    NAMES_FOR_PARTS = {},
-    PARTS_FOR_NAMES = {};
-var _CACHED_THEME_SCROLLER = nil;
-NAMES_FOR_PARTS[CPScrollerDecrementLine] = "decrement-line";
-NAMES_FOR_PARTS[CPScrollerIncrementLine] = "increment-line";
-NAMES_FOR_PARTS[CPScrollerKnobSlot] = "knob-slot";
-NAMES_FOR_PARTS[CPScrollerKnob] = "knob";
-CPScrollerStyleLegacy = 0;
-CPScrollerStyleOverlay = 1;
-CPScrollerKnobStyleDefault = 0;
-CPScrollerKnobStyleDark = 1;
-CPScrollerKnobStyleLight = 2;
-CPThemeStateScrollViewLegacy = CPThemeState("scroller-style-legacy");
-CPThemeStateScrollerKnobLight = CPThemeState("scroller-knob-light");
-CPThemeStateScrollerKnobDark = CPThemeState("scroller-knob-dark");
-{var the_class = objj_allocateClassPair(CPControl, "CPScroller"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_usableParts"), new objj_ivar("_partRects"), new objj_ivar("_isVertical"), new objj_ivar("_knobProportion"), new objj_ivar("_hitPart"), new objj_ivar("_trackingPart"), new objj_ivar("_trackingFloatValue"), new objj_ivar("_trackingStartPoint"), new objj_ivar("_animationScroller"), new objj_ivar("_allowFadingOut"), new objj_ivar("_style"), new objj_ivar("_timerFadeOut"), new objj_ivar("_isMouseOver")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("isVertical"), function $CPScroller__isVertical(self, _cmd)
-{
-    return self._isVertical;
-}
-,["BOOL"]), new objj_method(sel_getUid("allowFadingOut"), function $CPScroller__allowFadingOut(self, _cmd)
-{
-    return self._allowFadingOut;
-}
-,["BOOL"]), new objj_method(sel_getUid("_setAllowFadingOut:"), function $CPScroller___setAllowFadingOut_(self, _cmd, newValue)
-{
-    self._allowFadingOut = newValue;
-}
-,["void","BOOL"]), new objj_method(sel_getUid("initWithFrame:"), function $CPScroller__initWithFrame_(self, _cmd, aFrame)
-{
-    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "initWithFrame:", aFrame))
-    {
-        self._partRects = [];
-        (self == null ? null : self.isa.objj_msgSend1(self, "setFloatValue:", 0.0));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setKnobProportion:", 1.0));
-        self._hitPart = CPScrollerNoPart;
-        self._allowFadingOut = YES;
-        self._isMouseOver = NO;
-        self._style = CPScrollerStyleOverlay;
-        var paramAnimFadeOut = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", self, CPViewAnimationTargetKey, CPViewAnimationFadeOutEffect, CPViewAnimationEffectKey);
-        self._animationScroller = ((___r1 = CPViewAnimation.isa.objj_msgSend0(CPViewAnimation, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithDuration:animationCurve:", 0.2, CPAnimationEaseInOut));
-        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setViewAnimations:", [paramAnimFadeOut]));
-        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDelegate:", self));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAlphaValue:", 0.0));
-        (self == null ? null : self.isa.objj_msgSend1(self, "_setIsVertical:", CGRectGetHeight(aFrame) >= CGRectGetWidth(aFrame)));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CGRect"]), new objj_method(sel_getUid("style"), function $CPScroller__style(self, _cmd)
-{
-    return self._style;
-}
-,["void"]), new objj_method(sel_getUid("setStyle:"), function $CPScroller__setStyle_(self, _cmd, aStyle)
-{
-    if (self._style != nil && self._style === aStyle)
-        return;
-    self._style = aStyle;
-    if (self._style === CPScrollerStyleLegacy)
-    {
-        self.isa.objj_msgSend0(self, "fadeIn");
-        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateScrollViewLegacy);
-    }
-    else
-    {
-        self._allowFadingOut = YES;
-        self.isa.objj_msgSend1(self, "unsetThemeState:", CPThemeStateScrollViewLegacy);
-    }
-}
-,["void","id"]), new objj_method(sel_getUid("setObjectValue:"), function $CPScroller__setObjectValue_(self, _cmd, aValue)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "setObjectValue:", MIN(1.0, MAX(0.0, +aValue)));
-}
-,["void","id"]), new objj_method(sel_getUid("knobProportion"), function $CPScroller__knobProportion(self, _cmd)
-{
-    return self._knobProportion;
-}
-,["float"]), new objj_method(sel_getUid("setKnobProportion:"), function $CPScroller__setKnobProportion_(self, _cmd, aProportion)
-{
-    if (!(!isNaN(parseFloat(aProportion)) && isFinite(aProportion)))
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "aProportion must be numeric");
-    self._knobProportion = MIN(1.0, MAX(0.0001, aProportion));
-    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-}
-,["void","float"]), new objj_method(sel_getUid("_adjustScrollerSize"), function $CPScroller___adjustScrollerSize(self, _cmd)
-{
-    var frame = self.isa.objj_msgSend0(self, "frame"),
-        scrollerWidth = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "scroller-width");
-    if (self.isa.objj_msgSend0(self, "isVertical") && CGRectGetWidth(frame) !== scrollerWidth)
-        frame.size.width = scrollerWidth;
-    if (!self.isa.objj_msgSend0(self, "isVertical") && CGRectGetHeight(frame) !== scrollerWidth)
-        frame.size.height = scrollerWidth;
-    self.isa.objj_msgSend1(self, "setFrame:", frame);
-}
-,["void"]), new objj_method(sel_getUid("_performFadeOut:"), function $CPScroller___performFadeOut_(self, _cmd, aTimer)
-{
-    self.isa.objj_msgSend0(self, "fadeOut");
-    self._timerFadeOut = nil;
-}
-,["void","CPTimer"]), new objj_method(sel_getUid("rectForPart:"), function $CPScroller__rectForPart_(self, _cmd, aPart)
-{
-    if (aPart == CPScrollerNoPart)
-        return CGRectMakeZero();
-    return self._partRects[aPart];
-}
-,["CGRect","CPScrollerPart"]), new objj_method(sel_getUid("testPart:"), function $CPScroller__testPart_(self, _cmd, aPoint)
-{
-    aPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", aPoint, nil);
-    if (!self.isa.objj_msgSend1(self, "hasThemeState:", CPThemeStateSelected))
-        return CPScrollerNoPart;
-    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnob), aPoint))
-        return CPScrollerKnob;
-    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerDecrementPage), aPoint))
-        return CPScrollerDecrementPage;
-    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerIncrementPage), aPoint))
-        return CPScrollerIncrementPage;
-    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerDecrementLine), aPoint))
-        return CPScrollerDecrementLine;
-    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerIncrementLine), aPoint))
-        return CPScrollerIncrementLine;
-    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnobSlot), aPoint))
-        return CPScrollerKnobSlot;
-    return CPScrollerNoPart;
-}
-,["CPScrollerPart","CGPoint"]), new objj_method(sel_getUid("checkSpaceForParts"), function $CPScroller__checkSpaceForParts(self, _cmd)
-{
-    var bounds = self.isa.objj_msgSend0(self, "bounds");
-    if (self._knobProportion === 1.0)
-    {
-        self._usableParts = CPNoScrollerParts;
-        self._partRects[CPScrollerDecrementPage] = CGRectMakeZero();
-        self._partRects[CPScrollerKnob] = CGRectMakeZero();
-        self._partRects[CPScrollerIncrementPage] = CGRectMakeZero();
-        self._partRects[CPScrollerDecrementLine] = CGRectMakeZero();
-        self._partRects[CPScrollerIncrementLine] = CGRectMakeZero();
-        self._partRects[CPScrollerKnobSlot] = CGRectMakeCopy(bounds);
-        return;
-    }
-    self._usableParts = CPAllScrollerParts;
-    var knobInset = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "knob-inset"),
-        trackInset = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "track-inset"),
-        width = CGRectGetWidth(bounds),
-        height = CGRectGetHeight(bounds);
-    if (self.isa.objj_msgSend0(self, "isVertical"))
-    {
-        var decrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "decrement-line-size"),
-            incrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "increment-line-size"),
-            effectiveDecrementLineHeight = decrementLineSize.height + trackInset.top,
-            effectiveIncrementLineHeight = incrementLineSize.height + trackInset.bottom,
-            slotSize = height - effectiveDecrementLineHeight - effectiveIncrementLineHeight,
-            minimumKnobLength = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "minimum-knob-length"),
-            knobWidth = width - knobInset.left - knobInset.right,
-            knobHeight = MAX(minimumKnobLength, slotSize * self._knobProportion),
-            knobLocation = effectiveDecrementLineHeight + (slotSize - knobHeight) * self.isa.objj_msgSend0(self, "floatValue");
-        self._partRects[CPScrollerDecrementPage] = CGRectMake(0.0, effectiveDecrementLineHeight, width, knobLocation - effectiveDecrementLineHeight);
-        self._partRects[CPScrollerKnob] = CGRectMake(knobInset.left, knobLocation, knobWidth, knobHeight);
-        self._partRects[CPScrollerIncrementPage] = CGRectMake(0.0, knobLocation + knobHeight, width, height - (knobLocation + knobHeight) - effectiveIncrementLineHeight);
-        self._partRects[CPScrollerKnobSlot] = CGRectMake(trackInset.left, effectiveDecrementLineHeight, width - trackInset.left - trackInset.right, slotSize);
-        self._partRects[CPScrollerDecrementLine] = CGRectMake(0.0, 0.0, decrementLineSize.width, decrementLineSize.height);
-        self._partRects[CPScrollerIncrementLine] = CGRectMake(0.0, height - incrementLineSize.height, incrementLineSize.width, incrementLineSize.height);
-        if (height < knobHeight + decrementLineSize.height + incrementLineSize.height + trackInset.top + trackInset.bottom)
-            self._partRects[CPScrollerKnob] = CGRectMakeZero();
-        if (height < decrementLineSize.height + incrementLineSize.height - 2)
-        {
-            self._partRects[CPScrollerIncrementLine] = CGRectMakeZero();
-            self._partRects[CPScrollerDecrementLine] = CGRectMakeZero();
-            self._partRects[CPScrollerKnobSlot] = CGRectMake(trackInset.left, 0, width - trackInset.left - trackInset.right, height);
-        }
-    }
-    else
-    {
-        var decrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "decrement-line-size"),
-            incrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "increment-line-size"),
-            effectiveDecrementLineWidth = decrementLineSize.width + trackInset.left,
-            effectiveIncrementLineWidth = incrementLineSize.width + trackInset.right,
-            slotSize = width - effectiveDecrementLineWidth - effectiveIncrementLineWidth,
-            minimumKnobLength = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "minimum-knob-length"),
-            knobWidth = MAX(minimumKnobLength, slotSize * self._knobProportion),
-            knobHeight = height - knobInset.top - knobInset.bottom,
-            knobLocation = effectiveDecrementLineWidth + (slotSize - knobWidth) * self.isa.objj_msgSend0(self, "floatValue");
-        self._partRects[CPScrollerDecrementPage] = CGRectMake(effectiveDecrementLineWidth, 0.0, knobLocation - effectiveDecrementLineWidth, height);
-        self._partRects[CPScrollerKnob] = CGRectMake(knobLocation, knobInset.top, knobWidth, knobHeight);
-        self._partRects[CPScrollerIncrementPage] = CGRectMake(knobLocation + knobWidth, 0.0, width - (knobLocation + knobWidth) - effectiveIncrementLineWidth, height);
-        self._partRects[CPScrollerKnobSlot] = CGRectMake(effectiveDecrementLineWidth, trackInset.top, slotSize, height - trackInset.top - trackInset.bottom);
-        self._partRects[CPScrollerDecrementLine] = CGRectMake(0.0, 0.0, decrementLineSize.width, decrementLineSize.height);
-        self._partRects[CPScrollerIncrementLine] = CGRectMake(width - incrementLineSize.width, 0.0, incrementLineSize.width, incrementLineSize.height);
-        if (width < knobWidth + decrementLineSize.width + incrementLineSize.width + trackInset.left + trackInset.right)
-            self._partRects[CPScrollerKnob] = CGRectMakeZero();
-        if (width < decrementLineSize.width + incrementLineSize.width - 2)
-        {
-            self._partRects[CPScrollerIncrementLine] = CGRectMakeZero();
-            self._partRects[CPScrollerDecrementLine] = CGRectMakeZero();
-            self._partRects[CPScrollerKnobSlot] = CGRectMake(0.0, 0.0, width, slotSize);
-        }
-    }
-}
-,["void"]), new objj_method(sel_getUid("usableParts"), function $CPScroller__usableParts(self, _cmd)
-{
-    return self._usableParts;
-}
-,["CPUsableScrollerParts"]), new objj_method(sel_getUid("fadeIn"), function $CPScroller__fadeIn(self, _cmd)
-{
-    if (self._isMouseOver && self._knobProportion != 1.0)
-        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateSelected);
-    if (self._timerFadeOut)
-        ((___r1 = self._timerFadeOut), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    self.isa.objj_msgSend1(self, "setAlphaValue:", 1.0);
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("fadeOut"), function $CPScroller__fadeOut(self, _cmd)
-{
-    if (self.isa.objj_msgSend1(self, "hasThemeState:", CPThemeStateScrollViewLegacy))
-        return;
-    ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "startAnimation"));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("drawArrow:highlight:"), function $CPScroller__drawArrow_highlight_(self, _cmd, anArrow, shouldHighlight)
-{
-}
-,["void","CPScrollerArrow","BOOL"]), new objj_method(sel_getUid("drawKnob"), function $CPScroller__drawKnob(self, _cmd)
-{
-}
-,["void"]), new objj_method(sel_getUid("drawKnobSlot"), function $CPScroller__drawKnobSlot(self, _cmd)
-{
-}
-,["void"]), new objj_method(sel_getUid("createViewForPart:"), function $CPScroller__createViewForPart_(self, _cmd, aPart)
-{
-    var view = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
-    (view == null ? null : view.isa.objj_msgSend1(view, "setHitTests:", NO));
-    return view;
-    var ___r1;
-}
-,["CPView","CPScrollerPart"]), new objj_method(sel_getUid("rectForEphemeralSubviewNamed:"), function $CPScroller__rectForEphemeralSubviewNamed_(self, _cmd, aName)
-{
-    return self._partRects[aName];
-}
-,["CGRect","CPString"]), new objj_method(sel_getUid("createEphemeralSubviewNamed:"), function $CPScroller__createEphemeralSubviewNamed_(self, _cmd, aName)
-{
-    var view = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
-    (view == null ? null : view.isa.objj_msgSend1(view, "setHitTests:", NO));
-    return view;
-    var ___r1;
-}
-,["CPView","CPString"]), new objj_method(sel_getUid("layoutSubviews"), function $CPScroller__layoutSubviews(self, _cmd)
-{
-    self.isa.objj_msgSend0(self, "_adjustScrollerSize");
-    self.isa.objj_msgSend0(self, "checkSpaceForParts");
-    var index = 0,
-        count = PARTS_ARRANGEMENT.length,
-        view;
-    for (; index < count; ++index)
-    {
-        var part = PARTS_ARRANGEMENT[index];
-        if (index === 0)
-            view = self.isa.objj_msgSend3(self, "layoutEphemeralSubviewNamed:positioned:relativeToEphemeralSubviewNamed:", part, CPWindowBelow, PARTS_ARRANGEMENT[index + 1]);
-        else
-            view = self.isa.objj_msgSend3(self, "layoutEphemeralSubviewNamed:positioned:relativeToEphemeralSubviewNamed:", part, CPWindowAbove, PARTS_ARRANGEMENT[index - 1]);
-        if (view)
-            (view == null ? null : view.isa.objj_msgSend1(view, "setBackgroundColor:", self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", NAMES_FOR_PARTS[part] + "-color")));
-    }
-}
-,["void"]), new objj_method(sel_getUid("drawParts"), function $CPScroller__drawParts(self, _cmd)
-{
-    self.isa.objj_msgSend0(self, "drawKnobSlot");
-    self.isa.objj_msgSend0(self, "drawKnob");
-    self.isa.objj_msgSend2(self, "drawArrow:highlight:", CPScrollerDecrementArrow, NO);
-    self.isa.objj_msgSend2(self, "drawArrow:highlight:", CPScrollerIncrementArrow, NO);
-}
-,["void"]), new objj_method(sel_getUid("hitPart"), function $CPScroller__hitPart(self, _cmd)
-{
-    return self._hitPart;
-}
-,["CPScrollerPart"]), new objj_method(sel_getUid("trackKnob:"), function $CPScroller__trackKnob_(self, _cmd, anEvent)
-{
-    var type = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "type"));
-    if (type === CPLeftMouseUp)
-    {
-        self._hitPart = CPScrollerNoPart;
-        return;
-    }
-    if (type === CPLeftMouseDown)
-    {
-        self._trackingFloatValue = self.isa.objj_msgSend0(self, "floatValue");
-        self._trackingStartPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil);
-    }
-    else if (type === CPLeftMouseDragged)
-    {
-        var knobRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnob),
-            knobSlotRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnobSlot),
-            remainder = !self.isa.objj_msgSend0(self, "isVertical") ? CGRectGetWidth(knobSlotRect) - CGRectGetWidth(knobRect) : CGRectGetHeight(knobSlotRect) - CGRectGetHeight(knobRect);
-        if (remainder <= 0)
-            self.isa.objj_msgSend1(self, "setFloatValue:", 0.0);
-        else
-        {
-            var location = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil),
-                delta = !self.isa.objj_msgSend0(self, "isVertical") ? location.x - self._trackingStartPoint.x : location.y - self._trackingStartPoint.y;
-            self.isa.objj_msgSend1(self, "setFloatValue:", self._trackingFloatValue + delta / remainder);
-        }
-    }
-    (CPApp == null ? null : CPApp.isa.objj_msgSend(CPApp, "setTarget:selector:forNextEventMatchingMask:untilDate:inMode:dequeue:", self, sel_getUid("trackKnob:"), CPLeftMouseDraggedMask | CPLeftMouseUpMask, nil, nil, YES));
-    if (type === CPLeftMouseDragged)
-        self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
-}
-,["void","CPEvent"]), new objj_method(sel_getUid("trackScrollButtons:"), function $CPScroller__trackScrollButtons_(self, _cmd, anEvent)
-{
-    var type = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "type"));
-    if (type === CPLeftMouseUp)
-    {
-        self.isa.objj_msgSend1(self, "highlight:", NO);
-        CPEvent.isa.objj_msgSend0(CPEvent, "stopPeriodicEvents");
-        self._hitPart = CPScrollerNoPart;
-        return;
-    }
-    if (type === CPLeftMouseDown)
-    {
-        self._trackingPart = self.isa.objj_msgSend0(self, "hitPart");
-        self._trackingStartPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil);
-        if ((anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "modifierFlags")) & CPAlternateKeyMask)
-        {
-            if (self._trackingPart === CPScrollerDecrementLine)
-                self._hitPart = CPScrollerDecrementPage;
-            else if (self._trackingPart === CPScrollerIncrementLine)
-                self._hitPart = CPScrollerIncrementPage;
-            else if (self._trackingPart === CPScrollerDecrementPage || self._trackingPart === CPScrollerIncrementPage)
-            {
-                var knobRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnob),
-                    knobWidth = !self.isa.objj_msgSend0(self, "isVertical") ? CGRectGetWidth(knobRect) : CGRectGetHeight(knobRect),
-                    knobSlotRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnobSlot),
-                    remainder = (!self.isa.objj_msgSend0(self, "isVertical") ? CGRectGetWidth(knobSlotRect) : CGRectGetHeight(knobSlotRect)) - knobWidth;
-                self.isa.objj_msgSend1(self, "setFloatValue:", ((!self.isa.objj_msgSend0(self, "isVertical") ? self._trackingStartPoint.x - CGRectGetMinX(knobSlotRect) : self._trackingStartPoint.y - CGRectGetMinY(knobSlotRect)) - knobWidth / 2.0) / remainder);
-                self._hitPart = CPScrollerKnob;
-                self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
-                return self.isa.objj_msgSend1(self, "trackKnob:", anEvent);
-            }
-        }
-        self.isa.objj_msgSend1(self, "highlight:", YES);
-        self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
-        CPEvent.isa.objj_msgSend2(CPEvent, "startPeriodicEventsAfterDelay:withPeriod:", 0.5, 0.04);
-    }
-    else if (type === CPLeftMouseDragged)
-    {
-        self._trackingStartPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil);
-        if (self._trackingPart === CPScrollerDecrementPage || self._trackingPart === CPScrollerIncrementPage)
-        {
-            var hitPart = self.isa.objj_msgSend1(self, "testPart:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")));
-            if (hitPart === CPScrollerDecrementPage || hitPart === CPScrollerIncrementPage)
-            {
-                self._trackingPart = hitPart;
-                self._hitPart = hitPart;
-            }
-        }
-        self.isa.objj_msgSend1(self, "highlight:", CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", self._trackingPart), self._trackingStartPoint));
-    }
-    else if (type == CPPeriodic && CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", self._trackingPart), self._trackingStartPoint))
-        self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
-    (CPApp == null ? null : CPApp.isa.objj_msgSend(CPApp, "setTarget:selector:forNextEventMatchingMask:untilDate:inMode:dequeue:", self, sel_getUid("trackScrollButtons:"), CPPeriodicMask | CPLeftMouseDraggedMask | CPLeftMouseUpMask, nil, nil, YES));
-}
-,["void","CPEvent"]), new objj_method(sel_getUid("_setIsVertical:"), function $CPScroller___setIsVertical_(self, _cmd, isVertical)
-{
-    self._isVertical = isVertical;
-    if (self._isVertical)
-        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateVertical);
-    else
-        self.isa.objj_msgSend1(self, "unsetThemeState:", CPThemeStateVertical);
-}
-,["void","BOOL"]), new objj_method(sel_getUid("setFrameSize:"), function $CPScroller__setFrameSize_(self, _cmd, aSize)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "setFrameSize:", aSize);
-    self.isa.objj_msgSend0(self, "checkSpaceForParts");
-    self.isa.objj_msgSend0(self, "setNeedsLayout");
-}
-,["void","CGSize"]), new objj_method(sel_getUid("currentValueForThemeAttribute:"), function $CPScroller__currentValueForThemeAttribute_(self, _cmd, anAttributeName)
-{
-    var themeState = self._themeState;
-    if (NAMES_FOR_PARTS[self._hitPart] + "-color" !== anAttributeName)
-        themeState = themeState.without(CPThemeStateHighlighted);
-    return self.isa.objj_msgSend2(self, "valueForThemeAttribute:inState:", anAttributeName, themeState);
-}
-,["id","CPString"]), new objj_method(sel_getUid("mouseDown:"), function $CPScroller__mouseDown_(self, _cmd, anEvent)
-{
-    if (!self.isa.objj_msgSend0(self, "isEnabled"))
-        return;
-    self._hitPart = self.isa.objj_msgSend1(self, "testPart:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")));
-    switch(self._hitPart) {
-    case CPScrollerKnob:
-        return self.isa.objj_msgSend1(self, "trackKnob:", anEvent);
-    case CPScrollerDecrementLine:
-    case CPScrollerIncrementLine:
-    case CPScrollerDecrementPage:
-    case CPScrollerIncrementPage:
-        return self.isa.objj_msgSend1(self, "trackScrollButtons:", anEvent);
-    }
-}
-,["void","CPEvent"]), new objj_method(sel_getUid("mouseEntered:"), function $CPScroller__mouseEntered_(self, _cmd, anEvent)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "mouseEntered:", anEvent);
-    if (self._timerFadeOut)
-        ((___r1 = self._timerFadeOut), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    if (!self.isa.objj_msgSend0(self, "isEnabled"))
-        return;
-    self._allowFadingOut = NO;
-    self._isMouseOver = YES;
-    if (self.isa.objj_msgSend0(self, "alphaValue") > 0 && self._knobProportion != 1.0)
-        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateSelected);
-    var ___r1;
-}
-,["void","CPEvent"]), new objj_method(sel_getUid("mouseExited:"), function $CPScroller__mouseExited_(self, _cmd, anEvent)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "mouseExited:", anEvent);
-    if (self.isa.objj_msgSend0(self, "isHidden") || !self.isa.objj_msgSend0(self, "isEnabled") || !self._isMouseOver)
-        return;
-    self._allowFadingOut = YES;
-    self._isMouseOver = NO;
-    if (self._timerFadeOut)
-        ((___r1 = self._timerFadeOut), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    self._timerFadeOut = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", 1.2, self, sel_getUid("_performFadeOut:"), nil, NO);
-    var ___r1;
-}
-,["void","CPEvent"]), new objj_method(sel_getUid("animationDidEnd:"), function $CPScroller__animationDidEnd_(self, _cmd, animation)
-{
-    self.isa.objj_msgSend1(self, "unsetThemeState:", CPThemeStateSelected);
-}
-,["void","CPAnimation"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $CPScroller__defaultThemeClass(self, _cmd)
-{
-    return "scroller";
-}
-,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $CPScroller__themeAttributes(self, _cmd)
-{
-    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", 7.0, "scroller-width", CPNull.isa.objj_msgSend0(CPNull, "null"), "knob-slot-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "decrement-line-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "increment-line-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "knob-color", CGSizeMakeZero(), "decrement-line-size", CGSizeMakeZero(), "increment-line-size", CGInsetMakeZero(), "track-inset", CGInsetMakeZero(), "knob-inset", 21.0, "minimum-knob-length", 9.0, "track-border-overlay");
-}
-,["CPDictionary"]), new objj_method(sel_getUid("scrollerWidth"), function $CPScroller__scrollerWidth(self, _cmd)
-{
-    return self.isa.objj_msgSend1(self, "scrollerWidthInStyle:", CPScrollerStyleLegacy);
-}
-,["float"]), new objj_method(sel_getUid("scrollerWidthInStyle:"), function $CPScroller__scrollerWidthInStyle_(self, _cmd, aStyle)
-{
-    if (!_CACHED_THEME_SCROLLER)
-        _CACHED_THEME_SCROLLER = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-    if (aStyle == CPScrollerStyleLegacy)
-        return (_CACHED_THEME_SCROLLER == null ? null : _CACHED_THEME_SCROLLER.isa.objj_msgSend2(_CACHED_THEME_SCROLLER, "valueForThemeAttribute:inState:", "scroller-width", CPThemeStateScrollViewLegacy));
-    return (_CACHED_THEME_SCROLLER == null ? null : _CACHED_THEME_SCROLLER.isa.objj_msgSend1(_CACHED_THEME_SCROLLER, "currentValueForThemeAttribute:", "scroller-width"));
-    var ___r1;
-}
-,["float","int"]), new objj_method(sel_getUid("scrollerOverlay"), function $CPScroller__scrollerOverlay(self, _cmd)
-{
-    if (!_CACHED_THEME_SCROLLER)
-        _CACHED_THEME_SCROLLER = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
-    return (_CACHED_THEME_SCROLLER == null ? null : _CACHED_THEME_SCROLLER.isa.objj_msgSend1(_CACHED_THEME_SCROLLER, "currentValueForThemeAttribute:", "track-border-overlay"));
-    var ___r1;
-}
-,["float"]), new objj_method(sel_getUid("scrollerWidthForControlSize:"), function $CPScroller__scrollerWidthForControlSize_(self, _cmd, aControlSize)
-{
-    return self.isa.objj_msgSend0(self, "scrollerWidth");
-}
-,["float","CPControlSize"])]);
-}var CPScrollerIsVerticalKey = "CPScrollerIsVerticalKey",
-    CPScrollerKnobProportionKey = "CPScrollerKnobProportion",
-    CPScrollerStyleKey = "CPScrollerStyleKey";
-{
-var the_class = objj_getClass("CPScroller")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPScroller\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPScroller__initWithCoder_(self, _cmd, aCoder)
-{
-    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "initWithCoder:", aCoder))
-    {
-        self._knobProportion = 1.0;
-        if ((aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "containsValueForKey:", CPScrollerKnobProportionKey)))
-            self._knobProportion = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollerKnobProportionKey));
-        self._partRects = [];
-        self._hitPart = CPScrollerNoPart;
-        self._allowFadingOut = YES;
-        self._isMouseOver = NO;
-        var paramAnimFadeOut = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", self, CPViewAnimationTargetKey, CPViewAnimationFadeOutEffect, CPViewAnimationEffectKey);
-        self._animationScroller = ((___r1 = CPViewAnimation.isa.objj_msgSend0(CPViewAnimation, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithDuration:animationCurve:", 0.2, CPAnimationEaseInOut));
-        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setViewAnimations:", [paramAnimFadeOut]));
-        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDelegate:", self));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAlphaValue:", 0.0));
-        (self == null ? null : self.isa.objj_msgSend1(self, "setStyle:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPScrollerStyleKey))));
-        (self == null ? null : self.isa.objj_msgSend1(self, "_setIsVertical:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollerIsVerticalKey))));
-    }
-    return self;
-    var ___r1;
-}
-,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPScroller__encodeWithCoder_(self, _cmd, aCoder)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "encodeWithCoder:", aCoder);
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._isVertical, CPScrollerIsVerticalKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._knobProportion, CPScrollerKnobProportionKey));
-    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._style, CPScrollerStyleKey));
-}
-,["void","CPCoder"])]);
-}{
-var the_class = objj_getClass("CPScroller")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPScroller\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("setFloatValue:knobProportion:"), function $CPScroller__setFloatValue_knobProportion_(self, _cmd, aValue, aProportion)
-{
-    self.isa.objj_msgSend1(self, "setFloatValue:", aValue);
-    self.isa.objj_msgSend1(self, "setKnobProportion:", aProportion);
-}
-,["void","float","float"])]);
-}p;13;CPAnimation.jt;12064;@STATIC;1.0;I;21;Foundation/CPObject.jI;20;Foundation/CPTimer.ji;23;CAMediaTimingFunction.jt;11965;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPTimer.j", NO);objj_executeFile("CAMediaTimingFunction.j", YES);{var the_protocol = objj_allocateProtocol("CPAnimationDelegate");
-var aProtocol = objj_getProtocol("CPObject");
-if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPAnimationDelegate\"");
-protocol_addProtocol(the_protocol, aProtocol);
-objj_registerProtocol(the_protocol);
-}var CPAnimationDelegate_animationShouldStart_ = 1 << 1,
-    CPAnimationDelegate_animation_valueForProgress_ = 1 << 2,
-    CPAnimationDelegate_animationDidEnd_ = 1 << 3,
-    CPAnimationDelegate_animationDidStop_ = 1 << 4;
-{var the_typedef = objj_allocateTypeDef("CPAnimationCurve");
-objj_registerTypeDef(the_typedef);
-}CPAnimationEaseInOut = 0;
-CPAnimationEaseIn = 1;
-CPAnimationEaseOut = 2;
-CPAnimationLinear = 3;
-ACTUAL_FRAME_RATE = 0;
-{var the_class = objj_allocateClassPair(CPObject, "CPAnimation"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_lastTime"), new objj_ivar("_duration"), new objj_ivar("_animationCurve"), new objj_ivar("_timingFunction"), new objj_ivar("_frameRate"), new objj_ivar("_progress"), new objj_ivar("_delegate"), new objj_ivar("_timer"), new objj_ivar("_implementedDelegateMethods")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithDuration:animationCurve:"), function $CPAnimation__initWithDuration_animationCurve_(self, _cmd, aDuration, anAnimationCurve)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPAnimation").super_class }, "init");
-    if (self)
-    {
-        self._progress = 0.0;
-        self._duration = MAX(0.0, aDuration);
-        self._frameRate = 60.0;
-        (self == null ? null : self.isa.objj_msgSend1(self, "setAnimationCurve:", anAnimationCurve));
-    }
-    return self;
-}
-,["id","float","CPAnimationCurve"]), new objj_method(sel_getUid("setAnimationCurve:"), function $CPAnimation__setAnimationCurve_(self, _cmd, anAnimationCurve)
-{
-    var timingFunctionName;
-    switch(anAnimationCurve) {
-    case CPAnimationEaseInOut:
-        timingFunctionName = kCAMediaTimingFunctionEaseInEaseOut;
-        break;
-    case CPAnimationEaseIn:
-        timingFunctionName = kCAMediaTimingFunctionEaseIn;
-        break;
-    case CPAnimationEaseOut:
-        timingFunctionName = kCAMediaTimingFunctionEaseOut;
-        break;
-    case CPAnimationLinear:
-        timingFunctionName = kCAMediaTimingFunctionLinear;
-        break;
-default:
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "Invalid value provided for animation curve");
-        break;
-    }
-    self._animationCurve = anAnimationCurve;
-    self._timingFunction = CAMediaTimingFunction.isa.objj_msgSend1(CAMediaTimingFunction, "functionWithName:", timingFunctionName);
-}
-,["void","CPAnimationCurve"]), new objj_method(sel_getUid("animationCurve"), function $CPAnimation__animationCurve(self, _cmd)
-{
-    return self._animationCurve;
-}
-,["CPAnimationCurve"]), new objj_method(sel_getUid("setDuration:"), function $CPAnimation__setDuration_(self, _cmd, aDuration)
-{
-    if (aDuration < 0)
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "aDuration can't be negative");
-    self._duration = aDuration;
-}
-,["void","CPTimeInterval"]), new objj_method(sel_getUid("duration"), function $CPAnimation__duration(self, _cmd)
-{
-    return self._duration;
-}
-,["CPTimeInterval"]), new objj_method(sel_getUid("setFrameRate:"), function $CPAnimation__setFrameRate_(self, _cmd, frameRate)
-{
-    if (frameRate < 0)
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "frameRate can't be negative");
-    self._frameRate = frameRate;
-}
-,["void","float"]), new objj_method(sel_getUid("frameRate"), function $CPAnimation__frameRate(self, _cmd)
-{
-    return self._frameRate;
-}
-,["float"]), new objj_method(sel_getUid("delegate"), function $CPAnimation__delegate(self, _cmd)
-{
-    return self._delegate;
-}
-,["id"]), new objj_method(sel_getUid("setDelegate:"), function $CPAnimation__setDelegate_(self, _cmd, aDelegate)
-{
-    if (self._delegate === aDelegate)
-        return;
-    self._delegate = aDelegate;
-    self._implementedDelegateMethods = 0;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animationShouldStart:"))))
-        self._implementedDelegateMethods |= CPAnimationDelegate_animationShouldStart_;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animationDidEnd:"))))
-        self._implementedDelegateMethods |= CPAnimationDelegate_animationDidEnd_;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animationDidStop:"))))
-        self._implementedDelegateMethods |= CPAnimationDelegate_animationDidStop_;
-    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animation:valueForProgress:"))))
-        self._implementedDelegateMethods |= CPAnimationDelegate_animation_valueForProgress_;
-    var ___r1;
-}
-,["void","id"]), new objj_method(sel_getUid("startAnimation"), function $CPAnimation__startAnimation(self, _cmd)
-{
-    if (self._timer || !self.isa.objj_msgSend0(self, "_sendDelegateAnimationShouldStart"))
-        return;
-    if (self._progress === 1.0)
-        self._progress = 0.0;
-    ACTUAL_FRAME_RATE = 0;
-    self._lastTime = new Date();
-    var timerInterval = self._frameRate <= 0.0 ? 0.0001 : 1.0 / self._frameRate;
-    self._timer = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", timerInterval, self, sel_getUid("animationTimerDidFire:"), nil, YES);
-}
-,["void"]), new objj_method(sel_getUid("animationTimerDidFire:"), function $CPAnimation__animationTimerDidFire_(self, _cmd, aTimer)
-{
-    var currentTime = new Date(),
-        progress = MIN(1.0, self.isa.objj_msgSend0(self, "currentProgress") + (currentTime - self._lastTime) / (self._duration * 1000.0));
-    self._lastTime = currentTime;
-    ++ACTUAL_FRAME_RATE;
-    self.isa.objj_msgSend1(self, "setCurrentProgress:", progress);
-    if (progress === 1.0)
-    {
-        ((___r1 = self._timer), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-        self._timer = nil;
-        self.isa.objj_msgSend0(self, "_sendDelegateAnimationDidEnd");
-    }
-    var ___r1;
-}
-,["void","CPTimer"]), new objj_method(sel_getUid("stopAnimation"), function $CPAnimation__stopAnimation(self, _cmd)
-{
-    if (!self._timer)
-        return;
-    ((___r1 = self._timer), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
-    self._timer = nil;
-    self.isa.objj_msgSend0(self, "_sendDelegateAnimationDidStop");
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("isAnimating"), function $CPAnimation__isAnimating(self, _cmd)
-{
-    return self._timer;
-}
-,["BOOL"]), new objj_method(sel_getUid("setCurrentProgress:"), function $CPAnimation__setCurrentProgress_(self, _cmd, aProgress)
-{
-    self._progress = aProgress;
-}
-,["void","float"]), new objj_method(sel_getUid("currentProgress"), function $CPAnimation__currentProgress(self, _cmd)
-{
-    return self._progress;
-}
-,["float"]), new objj_method(sel_getUid("currentValue"), function $CPAnimation__currentValue(self, _cmd)
-{
-    var t = self.isa.objj_msgSend0(self, "currentProgress");
-    if (self.isa.objj_msgSend0(self, "_delegateRespondsToAnimationValueForProgress"))
-        return self.isa.objj_msgSend1(self, "_sendDelegateAnimationValueForProgress:", t);
-    if (self._animationCurve == CPAnimationLinear)
-        return t;
-    var c1 = [],
-        c2 = [];
-    ((___r1 = self._timingFunction), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "getControlPointAtIndex:values:", 1, c1));
-    ((___r1 = self._timingFunction), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "getControlPointAtIndex:values:", 2, c2));
-    return CubicBezierAtTime(t, c1[0], c1[1], c2[0], c2[1], self._duration);
-    var ___r1;
-}
-,["float"])]);
-}{
-var the_class = objj_getClass("CPAnimation")
-if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPAnimation\"");
-var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("_delegateRespondsToAnimationValueForProgress"), function $CPAnimation___delegateRespondsToAnimationValueForProgress(self, _cmd)
-{
-    return self._implementedDelegateMethods & CPAnimationDelegate_animation_valueForProgress_;
-}
-,["BOOL"]), new objj_method(sel_getUid("_sendDelegateAnimationShouldStart"), function $CPAnimation___sendDelegateAnimationShouldStart(self, _cmd)
-{
-    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animationShouldStart_))
-        return YES;
-    return ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "animationShouldStart:", self));
-    var ___r1;
-}
-,["BOOL"]), new objj_method(sel_getUid("_sendDelegateAnimationValueForProgress:"), function $CPAnimation___sendDelegateAnimationValueForProgress_(self, _cmd, aProgress)
-{
-    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animation_valueForProgress_))
-        return aProgress;
-    return ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "animation:valueForProgress:", self, aProgress));
-    var ___r1;
-}
-,["float","float"]), new objj_method(sel_getUid("_sendDelegateAnimationDidEnd"), function $CPAnimation___sendDelegateAnimationDidEnd(self, _cmd)
-{
-    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animationDidEnd_))
-        return;
-    ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "animationDidEnd:", self));
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_sendDelegateAnimationDidStop"), function $CPAnimation___sendDelegateAnimationDidStop(self, _cmd)
-{
-    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animationDidStop_))
-        return;
-    ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "animationDidStop:", self));
-    var ___r1;
-}
-,["void"])]);
-}var CubicBezierAtTime = function(t, p1x, p1y, p2x, p2y, duration)
-{
-    var ax = 0,
-        bx = 0,
-        cx = 0,
-        ay = 0,
-        by = 0,
-        cy = 0;
-sampleCurveX = function(t)
-    {
-        return ((ax * t + bx) * t + cx) * t;
-    }
-sampleCurveY = function(t)
-    {
-        return ((ay * t + by) * t + cy) * t;
-    }
-sampleCurveDerivativeX = function(t)
-    {
-        return (3.0 * ax * t + 2.0 * bx) * t + cx;
-    }
-solveEpsilon = function(duration)
-    {
-        return 1.0 / (200.0 * duration);
-    }
-solve = function(x, epsilon)
-    {
-        return sampleCurveY(solveCurveX(x, epsilon));
-    }
-solveCurveX = function(x, epsilon)
-    {
-        var t0,
-            t1,
-            t2 = x,
-            x2,
-            d2,
-            i = 0;
-        for (; i < 8; i++)
-        {
-            x2 = sampleCurveX(t2) - x;
-            if (ABS(x2) < epsilon)
-                return t2;
-            d2 = sampleCurveDerivativeX(t2);
-            if (ABS(d2) < 1e-6)
-                break;
-            t2 = t2 - x2 / d2;
-        }
-        t0 = 0.0;
-        t1 = 1.0;
-        t2 = x;
-        if (t2 < t0)
-            return t0;
-        if (t2 > t1)
-            return t1;
-        while (t0 < t1)
-        {
-            x2 = sampleCurveX(t2);
-            if (ABS(x2 - x) < epsilon)
-                return t2;
-            if (x > x2)
-                t0 = t2;
-            else
-                t1 = t2;
-            t2 = (t1 - t0) * 0.5 + t0;
-        }
-        return t2;
-    }
-    cx = 3.0 * p1x;
-    bx = 3.0 * (p2x - p1x) - cx;
-    ax = 1.0 - cx - bx;
-    cy = 3.0 * p1y;
-    by = 3.0 * (p2y - p1y) - cy;
-    ay = 1.0 - cy - by;
-    return solve(t, solveEpsilon(duration));
-};
-p;23;CAMediaTimingFunction.jt;3937;@STATIC;1.0;I;21;Foundation/CPObject.jI;25;Foundation/CPDictionary.jI;21;Foundation/CPString.jt;3836;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPDictionary.j", NO);objj_executeFile("Foundation/CPString.j", NO);kCAMediaTimingFunctionLinear = "kCAMediaTimingFunctionLinear";
-kCAMediaTimingFunctionEaseIn = "kCAMediaTimingFunctionEaseIn";
-kCAMediaTimingFunctionEaseOut = "kCAMediaTimingFunctionEaseOut";
-kCAMediaTimingFunctionEaseInEaseOut = "kCAMediaTimingFunctionEaseInEaseOut";
-var CAMediaNamedTimingFunctions = nil;
-{var the_class = objj_allocateClassPair(CPObject, "CAMediaTimingFunction"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_c1x"), new objj_ivar("_c1y"), new objj_ivar("_c2x"), new objj_ivar("_c2y")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithControlPoints::::"), function $CAMediaTimingFunction__initWithControlPoints____(self, _cmd, c1x, c1y, c2x, c2y)
-{
-    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CAMediaTimingFunction").super_class }, "init");
-    if (self)
-    {
-        self._c1x = c1x;
-        self._c1y = c1y;
-        self._c2x = c2x;
-        self._c2y = c2y;
-    }
-    return self;
-}
-,["id","float","float","float","float"]), new objj_method(sel_getUid("getControlPointAtIndex:values:"), function $CAMediaTimingFunction__getControlPointAtIndex_values_(self, _cmd, anIndex, reference)
-{
-    if (anIndex == 0)
-    {
-        reference[0] = 0;
-        reference[1] = 0;
-    }
-    else if (anIndex == 1)
-    {
-        reference[0] = self._c1x;
-        reference[1] = self._c1y;
-    }
-    else if (anIndex == 2)
-    {
-        reference[0] = self._c2x;
-        reference[1] = self._c2y;
-    }
-    else
-    {
-        reference[0] = 1.0;
-        reference[1] = 1.0;
-    }
-}
-,["void","CPUInteger","float"])]);
-class_addMethods(meta_class, [new objj_method(sel_getUid("functionWithName:"), function $CAMediaTimingFunction__functionWithName_(self, _cmd, aName)
-{
-    if (!CAMediaNamedTimingFunctions)
-    {
-        CAMediaNamedTimingFunctions = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init");
-        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.0, 0.0, 1.0, 1.0), kCAMediaTimingFunctionLinear));
-        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.42, 0.0, 1.0, 1.0), kCAMediaTimingFunctionEaseIn));
-        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.0, 0.0, 0.58, 1.0), kCAMediaTimingFunctionEaseOut));
-        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.42, 0.0, 0.58, 1.0), kCAMediaTimingFunctionEaseInEaseOut));
-    }
-    return (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend1(CAMediaNamedTimingFunctions, "objectForKey:", aName));
-}
-,["id","CPString"]), new objj_method(sel_getUid("functionWithControlPoints::::"), function $CAMediaTimingFunction__functionWithControlPoints____(self, _cmd, c1x, c1y, c2x, c2y)
-{
-    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend(___r1, "initWithControlPoints::::", c1x, c1y, c2x, c2y));
-    var ___r1;
-}
-,["id","float","float","float","float"])]);
-}p;17;CPViewAnimation.jt;9243;@STATIC;1.0;i;13;CPAnimation.jt;9206;objj_executeFile("CPAnimation.j", YES);CPViewAnimationTargetKey = "CPViewAnimationTargetKey";
-CPViewAnimationStartFrameKey = "CPViewAnimationStartFrameKey";
-CPViewAnimationEndFrameKey = "CPViewAnimationEndFrameKey";
-CPViewAnimationEffectKey = "CPViewAnimationEffectKey";
-CPViewAnimationFadeInEffect = "CPViewAnimationFadeInEffect";
-CPViewAnimationFadeOutEffect = "CPViewAnimationFadeOutEffect";
-{var the_class = objj_allocateClassPair(CPAnimation, "CPViewAnimation"),
-meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_viewAnimations")]);objj_registerClassPair(the_class);
-class_addMethods(the_class, [new objj_method(sel_getUid("initWithViewAnimations:"), function $CPViewAnimation__initWithViewAnimations_(self, _cmd, viewAnimations)
-{
-    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "initWithDuration:animationCurve:", 0.5, CPAnimationLinear))
-    {
-        (self == null ? null : self.isa.objj_msgSend1(self, "setViewAnimations:", viewAnimations));
-    }
-    return self;
-}
-,["id","CPArray"]), new objj_method(sel_getUid("startAnimation"), function $CPViewAnimation__startAnimation(self, _cmd)
-{
-    var animationIndex = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "count"));
-    while (animationIndex--)
-    {
-        var dictionary = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectAtIndex:", animationIndex)),
-            view = self.isa.objj_msgSend1(self, "_targetView:", dictionary),
-            startFrame = self.isa.objj_msgSend1(self, "_startFrame:", dictionary);
-        (view == null ? null : view.isa.objj_msgSend1(view, "setFrame:", startFrame));
-        var effect = self.isa.objj_msgSend1(self, "_effect:", dictionary);
-        if (effect === CPViewAnimationFadeInEffect)
-        {
-            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 0.0));
-            self.isa.objj_msgSend2(self, "_targetView:setHidden:", view, NO);
-        }
-        else if (effect === CPViewAnimationFadeOutEffect)
-            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0));
-    }
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "startAnimation");
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("setCurrentProgress:"), function $CPViewAnimation__setCurrentProgress_(self, _cmd, progress)
-{
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "setCurrentProgress:", progress);
-    var animationIndex = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "count"));
-    while (animationIndex--)
-    {
-        var dictionary = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectAtIndex:", animationIndex)),
-            view = self.isa.objj_msgSend1(self, "_targetView:", dictionary),
-            startFrame = self.isa.objj_msgSend1(self, "_startFrame:", dictionary),
-            endFrame = self.isa.objj_msgSend1(self, "_endFrame:", dictionary),
-            differenceFrame = CGRectMakeZero(),
-            value = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "currentValue");
-        differenceFrame.origin.x = endFrame.origin.x - startFrame.origin.x;
-        differenceFrame.origin.y = endFrame.origin.y - startFrame.origin.y;
-        differenceFrame.size.width = endFrame.size.width - startFrame.size.width;
-        differenceFrame.size.height = endFrame.size.height - startFrame.size.height;
-        var intermediateFrame = CGRectMakeZero();
-        intermediateFrame.origin.x = startFrame.origin.x + differenceFrame.origin.x * value;
-        intermediateFrame.origin.y = startFrame.origin.y + differenceFrame.origin.y * value;
-        intermediateFrame.size.width = startFrame.size.width + differenceFrame.size.width * value;
-        intermediateFrame.size.height = startFrame.size.height + differenceFrame.size.height * value;
-        (view == null ? null : view.isa.objj_msgSend1(view, "setFrame:", intermediateFrame));
-        var effect = self.isa.objj_msgSend1(self, "_effect:", dictionary);
-        if (effect === CPViewAnimationFadeInEffect)
-            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0 * value));
-        else if (effect === CPViewAnimationFadeOutEffect)
-            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0 + (0.0 - 1.0) * value));
-        if (progress === 1.0)
-            self.isa.objj_msgSend2(self, "_targetView:setHidden:", view, CGRectIsEmpty(endFrame) || (view == null ? null : view.isa.objj_msgSend0(view, "alphaValue")) === 0.0);
-    }
-    var ___r1;
-}
-,["void","float"]), new objj_method(sel_getUid("stopAnimation"), function $CPViewAnimation__stopAnimation(self, _cmd)
-{
-    var animationIndex = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "count"));
-    while (animationIndex--)
-    {
-        var dictionary = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectAtIndex:", animationIndex)),
-            view = self.isa.objj_msgSend1(self, "_targetView:", dictionary),
-            endFrame = self.isa.objj_msgSend1(self, "_endFrame:", dictionary);
-        (view == null ? null : view.isa.objj_msgSend1(view, "setFrame:", endFrame));
-        var effect = self.isa.objj_msgSend1(self, "_effect:", dictionary);
-        if (effect === CPViewAnimationFadeInEffect)
-            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0));
-        else if (effect === CPViewAnimationFadeOutEffect)
-            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 0.0));
-        self.isa.objj_msgSend2(self, "_targetView:setHidden:", view, CGRectIsEmpty(endFrame) || (view == null ? null : view.isa.objj_msgSend0(view, "alphaValue")) === 0.0);
-    }
-    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "stopAnimation");
-    var ___r1;
-}
-,["void"]), new objj_method(sel_getUid("_targetView:setHidden:"), function $CPViewAnimation___targetView_setHidden_(self, _cmd, theView, isHidden)
-{
-    if ((theView == null ? null : theView.isa.objj_msgSend1(theView, "isKindOfClass:", (CPWindow == null ? null : CPWindow.isa.objj_msgSend0(CPWindow, "class")))))
-    {
-        if (isHidden)
-            (theView == null ? null : theView.isa.objj_msgSend1(theView, "orderOut:", self));
-        else
-            (theView == null ? null : theView.isa.objj_msgSend1(theView, "orderFront:", self));
-    }
-    else
-        (theView == null ? null : theView.isa.objj_msgSend1(theView, "setHidden:", isHidden));
-}
-,["void","id","BOOL"]), new objj_method(sel_getUid("_targetView:"), function $CPViewAnimation___targetView_(self, _cmd, dictionary)
-{
-    var targetView = (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationTargetKey));
-    if (!targetView)
-        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInternalInconsistencyException, CPString.isa.objj_msgSend2(CPString, "stringWithFormat:", "view animation: %@ does not have a target view", (dictionary == null ? null : dictionary.isa.objj_msgSend0(dictionary, "description"))));
-    return targetView;
-}
-,["id","CPDictionary"]), new objj_method(sel_getUid("_startFrame:"), function $CPViewAnimation___startFrame_(self, _cmd, dictionary)
-{
-    var startFrame = (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationStartFrameKey));
-    if (!startFrame)
-        return ((___r1 = self.isa.objj_msgSend1(self, "_targetView:", dictionary)), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    return startFrame;
-    var ___r1;
-}
-,["CGRect","CPDictionary"]), new objj_method(sel_getUid("_endFrame:"), function $CPViewAnimation___endFrame_(self, _cmd, dictionary)
-{
-    var endFrame = (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationEndFrameKey));
-    if (!endFrame)
-        return ((___r1 = self.isa.objj_msgSend1(self, "_targetView:", dictionary)), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
-    return endFrame;
-    var ___r1;
-}
-,["CGRect","CPDictionary"]), new objj_method(sel_getUid("_effect:"), function $CPViewAnimation___effect_(self, _cmd, dictionary)
-{
-    return (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationEffectKey));
-}
-,["CPString","CPDictionary"]), new objj_method(sel_getUid("viewAnimations"), function $CPViewAnimation__viewAnimations(self, _cmd)
-{
-    return self._viewAnimations;
-}
-,["CPArray"]), new objj_method(sel_getUid("setViewAnimations:"), function $CPViewAnimation__setViewAnimations_(self, _cmd, viewAnimations)
-{
-    if (viewAnimations != self._viewAnimations)
-    {
-        self.isa.objj_msgSend0(self, "stopAnimation");
-        self._viewAnimations = (viewAnimations == null ? null : viewAnimations.isa.objj_msgSend0(viewAnimations, "copy"));
-    }
-}
-,["void","CPArray"])]);
 }p;10;CPWindow.jt;142052;@STATIC;1.0;I;25;Foundation/CPCountedSet.jI;33;Foundation/CPNotificationCenter.jI;26;Foundation/CPUndoManager.ji;12;CGGeometry.ji;13;CPAnimation.ji;10;CPCursor.ji;14;CPDragServer.ji;9;CPEvent.ji;18;CPPlatformWindow.ji;22;CPPlatformWindow+DOM.ji;13;CPResponder.ji;10;CPScreen.ji;8;CPText.ji;8;CPView.ji;20;CPWindow_Constants.ji;31;_CPBorderlessBridgeWindowView.ji;25;_CPBorderlessWindowView.ji;23;_CPDocModalWindowView.ji;18;_CPHUDWindowView.ji;20;_CPModalWindowView.ji;22;_CPPopoverWindowView.ji;21;_CPShadowWindowView.ji;23;_CPStandardWindowView.ji;22;_CPToolTipWindowView.jt;141468;objj_executeFile("Foundation/CPCountedSet.j", NO);objj_executeFile("Foundation/CPNotificationCenter.j", NO);objj_executeFile("Foundation/CPUndoManager.j", NO);objj_executeFile("CGGeometry.j", YES);objj_executeFile("CPAnimation.j", YES);objj_executeFile("CPCursor.j", YES);objj_executeFile("CPDragServer.j", YES);objj_executeFile("CPEvent.j", YES);objj_executeFile("CPPlatformWindow.j", YES);objj_executeFile("CPPlatformWindow+DOM.j", YES);objj_executeFile("CPResponder.j", YES);objj_executeFile("CPScreen.j", YES);objj_executeFile("CPText.j", YES);objj_executeFile("CPView.j", YES);objj_executeFile("CPWindow_Constants.j", YES);objj_executeFile("_CPBorderlessBridgeWindowView.j", YES);objj_executeFile("_CPBorderlessWindowView.j", YES);objj_executeFile("_CPDocModalWindowView.j", YES);objj_executeFile("_CPHUDWindowView.j", YES);objj_executeFile("_CPModalWindowView.j", YES);objj_executeFile("_CPPopoverWindowView.j", YES);objj_executeFile("_CPShadowWindowView.j", YES);objj_executeFile("_CPStandardWindowView.j", YES);objj_executeFile("_CPToolTipWindowView.j", YES);{var the_typedef = objj_allocateTypeDef("_CPWindowFullPlatformWindowSession");
 objj_registerTypeDef(the_typedef);
 }{var the_protocol = objj_allocateProtocol("CPWindowDelegate");
@@ -19648,7 +17362,337 @@ var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_
 {
     return {windowView: aWindowView, contentRect: aContentRect, hasShadow: hasShadow, level: aLevel};
 }
-p;10;CPCursor.jt;14237;@STATIC;1.0;I;21;Foundation/CPObject.ji;9;CPImage.jt;14178;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("CPImage.j", YES);var currentCursor = nil,
+p;13;CPAnimation.jt;12064;@STATIC;1.0;I;21;Foundation/CPObject.jI;20;Foundation/CPTimer.ji;23;CAMediaTimingFunction.jt;11965;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPTimer.j", NO);objj_executeFile("CAMediaTimingFunction.j", YES);{var the_protocol = objj_allocateProtocol("CPAnimationDelegate");
+var aProtocol = objj_getProtocol("CPObject");
+if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPAnimationDelegate\"");
+protocol_addProtocol(the_protocol, aProtocol);
+objj_registerProtocol(the_protocol);
+}var CPAnimationDelegate_animationShouldStart_ = 1 << 1,
+    CPAnimationDelegate_animation_valueForProgress_ = 1 << 2,
+    CPAnimationDelegate_animationDidEnd_ = 1 << 3,
+    CPAnimationDelegate_animationDidStop_ = 1 << 4;
+{var the_typedef = objj_allocateTypeDef("CPAnimationCurve");
+objj_registerTypeDef(the_typedef);
+}CPAnimationEaseInOut = 0;
+CPAnimationEaseIn = 1;
+CPAnimationEaseOut = 2;
+CPAnimationLinear = 3;
+ACTUAL_FRAME_RATE = 0;
+{var the_class = objj_allocateClassPair(CPObject, "CPAnimation"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_lastTime"), new objj_ivar("_duration"), new objj_ivar("_animationCurve"), new objj_ivar("_timingFunction"), new objj_ivar("_frameRate"), new objj_ivar("_progress"), new objj_ivar("_delegate"), new objj_ivar("_timer"), new objj_ivar("_implementedDelegateMethods")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithDuration:animationCurve:"), function $CPAnimation__initWithDuration_animationCurve_(self, _cmd, aDuration, anAnimationCurve)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPAnimation").super_class }, "init");
+    if (self)
+    {
+        self._progress = 0.0;
+        self._duration = MAX(0.0, aDuration);
+        self._frameRate = 60.0;
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAnimationCurve:", anAnimationCurve));
+    }
+    return self;
+}
+,["id","float","CPAnimationCurve"]), new objj_method(sel_getUid("setAnimationCurve:"), function $CPAnimation__setAnimationCurve_(self, _cmd, anAnimationCurve)
+{
+    var timingFunctionName;
+    switch(anAnimationCurve) {
+    case CPAnimationEaseInOut:
+        timingFunctionName = kCAMediaTimingFunctionEaseInEaseOut;
+        break;
+    case CPAnimationEaseIn:
+        timingFunctionName = kCAMediaTimingFunctionEaseIn;
+        break;
+    case CPAnimationEaseOut:
+        timingFunctionName = kCAMediaTimingFunctionEaseOut;
+        break;
+    case CPAnimationLinear:
+        timingFunctionName = kCAMediaTimingFunctionLinear;
+        break;
+default:
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "Invalid value provided for animation curve");
+        break;
+    }
+    self._animationCurve = anAnimationCurve;
+    self._timingFunction = CAMediaTimingFunction.isa.objj_msgSend1(CAMediaTimingFunction, "functionWithName:", timingFunctionName);
+}
+,["void","CPAnimationCurve"]), new objj_method(sel_getUid("animationCurve"), function $CPAnimation__animationCurve(self, _cmd)
+{
+    return self._animationCurve;
+}
+,["CPAnimationCurve"]), new objj_method(sel_getUid("setDuration:"), function $CPAnimation__setDuration_(self, _cmd, aDuration)
+{
+    if (aDuration < 0)
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "aDuration can't be negative");
+    self._duration = aDuration;
+}
+,["void","CPTimeInterval"]), new objj_method(sel_getUid("duration"), function $CPAnimation__duration(self, _cmd)
+{
+    return self._duration;
+}
+,["CPTimeInterval"]), new objj_method(sel_getUid("setFrameRate:"), function $CPAnimation__setFrameRate_(self, _cmd, frameRate)
+{
+    if (frameRate < 0)
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "frameRate can't be negative");
+    self._frameRate = frameRate;
+}
+,["void","float"]), new objj_method(sel_getUid("frameRate"), function $CPAnimation__frameRate(self, _cmd)
+{
+    return self._frameRate;
+}
+,["float"]), new objj_method(sel_getUid("delegate"), function $CPAnimation__delegate(self, _cmd)
+{
+    return self._delegate;
+}
+,["id"]), new objj_method(sel_getUid("setDelegate:"), function $CPAnimation__setDelegate_(self, _cmd, aDelegate)
+{
+    if (self._delegate === aDelegate)
+        return;
+    self._delegate = aDelegate;
+    self._implementedDelegateMethods = 0;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animationShouldStart:"))))
+        self._implementedDelegateMethods |= CPAnimationDelegate_animationShouldStart_;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animationDidEnd:"))))
+        self._implementedDelegateMethods |= CPAnimationDelegate_animationDidEnd_;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animationDidStop:"))))
+        self._implementedDelegateMethods |= CPAnimationDelegate_animationDidStop_;
+    if (((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "respondsToSelector:", sel_getUid("animation:valueForProgress:"))))
+        self._implementedDelegateMethods |= CPAnimationDelegate_animation_valueForProgress_;
+    var ___r1;
+}
+,["void","id"]), new objj_method(sel_getUid("startAnimation"), function $CPAnimation__startAnimation(self, _cmd)
+{
+    if (self._timer || !self.isa.objj_msgSend0(self, "_sendDelegateAnimationShouldStart"))
+        return;
+    if (self._progress === 1.0)
+        self._progress = 0.0;
+    ACTUAL_FRAME_RATE = 0;
+    self._lastTime = new Date();
+    var timerInterval = self._frameRate <= 0.0 ? 0.0001 : 1.0 / self._frameRate;
+    self._timer = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", timerInterval, self, sel_getUid("animationTimerDidFire:"), nil, YES);
+}
+,["void"]), new objj_method(sel_getUid("animationTimerDidFire:"), function $CPAnimation__animationTimerDidFire_(self, _cmd, aTimer)
+{
+    var currentTime = new Date(),
+        progress = MIN(1.0, self.isa.objj_msgSend0(self, "currentProgress") + (currentTime - self._lastTime) / (self._duration * 1000.0));
+    self._lastTime = currentTime;
+    ++ACTUAL_FRAME_RATE;
+    self.isa.objj_msgSend1(self, "setCurrentProgress:", progress);
+    if (progress === 1.0)
+    {
+        ((___r1 = self._timer), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+        self._timer = nil;
+        self.isa.objj_msgSend0(self, "_sendDelegateAnimationDidEnd");
+    }
+    var ___r1;
+}
+,["void","CPTimer"]), new objj_method(sel_getUid("stopAnimation"), function $CPAnimation__stopAnimation(self, _cmd)
+{
+    if (!self._timer)
+        return;
+    ((___r1 = self._timer), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    self._timer = nil;
+    self.isa.objj_msgSend0(self, "_sendDelegateAnimationDidStop");
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("isAnimating"), function $CPAnimation__isAnimating(self, _cmd)
+{
+    return self._timer;
+}
+,["BOOL"]), new objj_method(sel_getUid("setCurrentProgress:"), function $CPAnimation__setCurrentProgress_(self, _cmd, aProgress)
+{
+    self._progress = aProgress;
+}
+,["void","float"]), new objj_method(sel_getUid("currentProgress"), function $CPAnimation__currentProgress(self, _cmd)
+{
+    return self._progress;
+}
+,["float"]), new objj_method(sel_getUid("currentValue"), function $CPAnimation__currentValue(self, _cmd)
+{
+    var t = self.isa.objj_msgSend0(self, "currentProgress");
+    if (self.isa.objj_msgSend0(self, "_delegateRespondsToAnimationValueForProgress"))
+        return self.isa.objj_msgSend1(self, "_sendDelegateAnimationValueForProgress:", t);
+    if (self._animationCurve == CPAnimationLinear)
+        return t;
+    var c1 = [],
+        c2 = [];
+    ((___r1 = self._timingFunction), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "getControlPointAtIndex:values:", 1, c1));
+    ((___r1 = self._timingFunction), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "getControlPointAtIndex:values:", 2, c2));
+    return CubicBezierAtTime(t, c1[0], c1[1], c2[0], c2[1], self._duration);
+    var ___r1;
+}
+,["float"])]);
+}{
+var the_class = objj_getClass("CPAnimation")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPAnimation\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("_delegateRespondsToAnimationValueForProgress"), function $CPAnimation___delegateRespondsToAnimationValueForProgress(self, _cmd)
+{
+    return self._implementedDelegateMethods & CPAnimationDelegate_animation_valueForProgress_;
+}
+,["BOOL"]), new objj_method(sel_getUid("_sendDelegateAnimationShouldStart"), function $CPAnimation___sendDelegateAnimationShouldStart(self, _cmd)
+{
+    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animationShouldStart_))
+        return YES;
+    return ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "animationShouldStart:", self));
+    var ___r1;
+}
+,["BOOL"]), new objj_method(sel_getUid("_sendDelegateAnimationValueForProgress:"), function $CPAnimation___sendDelegateAnimationValueForProgress_(self, _cmd, aProgress)
+{
+    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animation_valueForProgress_))
+        return aProgress;
+    return ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "animation:valueForProgress:", self, aProgress));
+    var ___r1;
+}
+,["float","float"]), new objj_method(sel_getUid("_sendDelegateAnimationDidEnd"), function $CPAnimation___sendDelegateAnimationDidEnd(self, _cmd)
+{
+    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animationDidEnd_))
+        return;
+    ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "animationDidEnd:", self));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_sendDelegateAnimationDidStop"), function $CPAnimation___sendDelegateAnimationDidStop(self, _cmd)
+{
+    if (!(self._implementedDelegateMethods & CPAnimationDelegate_animationDidStop_))
+        return;
+    ((___r1 = self._delegate), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "animationDidStop:", self));
+    var ___r1;
+}
+,["void"])]);
+}var CubicBezierAtTime = function(t, p1x, p1y, p2x, p2y, duration)
+{
+    var ax = 0,
+        bx = 0,
+        cx = 0,
+        ay = 0,
+        by = 0,
+        cy = 0;
+sampleCurveX = function(t)
+    {
+        return ((ax * t + bx) * t + cx) * t;
+    }
+sampleCurveY = function(t)
+    {
+        return ((ay * t + by) * t + cy) * t;
+    }
+sampleCurveDerivativeX = function(t)
+    {
+        return (3.0 * ax * t + 2.0 * bx) * t + cx;
+    }
+solveEpsilon = function(duration)
+    {
+        return 1.0 / (200.0 * duration);
+    }
+solve = function(x, epsilon)
+    {
+        return sampleCurveY(solveCurveX(x, epsilon));
+    }
+solveCurveX = function(x, epsilon)
+    {
+        var t0,
+            t1,
+            t2 = x,
+            x2,
+            d2,
+            i = 0;
+        for (; i < 8; i++)
+        {
+            x2 = sampleCurveX(t2) - x;
+            if (ABS(x2) < epsilon)
+                return t2;
+            d2 = sampleCurveDerivativeX(t2);
+            if (ABS(d2) < 1e-6)
+                break;
+            t2 = t2 - x2 / d2;
+        }
+        t0 = 0.0;
+        t1 = 1.0;
+        t2 = x;
+        if (t2 < t0)
+            return t0;
+        if (t2 > t1)
+            return t1;
+        while (t0 < t1)
+        {
+            x2 = sampleCurveX(t2);
+            if (ABS(x2 - x) < epsilon)
+                return t2;
+            if (x > x2)
+                t0 = t2;
+            else
+                t1 = t2;
+            t2 = (t1 - t0) * 0.5 + t0;
+        }
+        return t2;
+    }
+    cx = 3.0 * p1x;
+    bx = 3.0 * (p2x - p1x) - cx;
+    ax = 1.0 - cx - bx;
+    cy = 3.0 * p1y;
+    by = 3.0 * (p2y - p1y) - cy;
+    ay = 1.0 - cy - by;
+    return solve(t, solveEpsilon(duration));
+};
+p;23;CAMediaTimingFunction.jt;3937;@STATIC;1.0;I;21;Foundation/CPObject.jI;25;Foundation/CPDictionary.jI;21;Foundation/CPString.jt;3836;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPDictionary.j", NO);objj_executeFile("Foundation/CPString.j", NO);kCAMediaTimingFunctionLinear = "kCAMediaTimingFunctionLinear";
+kCAMediaTimingFunctionEaseIn = "kCAMediaTimingFunctionEaseIn";
+kCAMediaTimingFunctionEaseOut = "kCAMediaTimingFunctionEaseOut";
+kCAMediaTimingFunctionEaseInEaseOut = "kCAMediaTimingFunctionEaseInEaseOut";
+var CAMediaNamedTimingFunctions = nil;
+{var the_class = objj_allocateClassPair(CPObject, "CAMediaTimingFunction"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_c1x"), new objj_ivar("_c1y"), new objj_ivar("_c2x"), new objj_ivar("_c2y")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithControlPoints::::"), function $CAMediaTimingFunction__initWithControlPoints____(self, _cmd, c1x, c1y, c2x, c2y)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CAMediaTimingFunction").super_class }, "init");
+    if (self)
+    {
+        self._c1x = c1x;
+        self._c1y = c1y;
+        self._c2x = c2x;
+        self._c2y = c2y;
+    }
+    return self;
+}
+,["id","float","float","float","float"]), new objj_method(sel_getUid("getControlPointAtIndex:values:"), function $CAMediaTimingFunction__getControlPointAtIndex_values_(self, _cmd, anIndex, reference)
+{
+    if (anIndex == 0)
+    {
+        reference[0] = 0;
+        reference[1] = 0;
+    }
+    else if (anIndex == 1)
+    {
+        reference[0] = self._c1x;
+        reference[1] = self._c1y;
+    }
+    else if (anIndex == 2)
+    {
+        reference[0] = self._c2x;
+        reference[1] = self._c2y;
+    }
+    else
+    {
+        reference[0] = 1.0;
+        reference[1] = 1.0;
+    }
+}
+,["void","CPUInteger","float"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("functionWithName:"), function $CAMediaTimingFunction__functionWithName_(self, _cmd, aName)
+{
+    if (!CAMediaNamedTimingFunctions)
+    {
+        CAMediaNamedTimingFunctions = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "init");
+        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.0, 0.0, 1.0, 1.0), kCAMediaTimingFunctionLinear));
+        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.42, 0.0, 1.0, 1.0), kCAMediaTimingFunctionEaseIn));
+        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.0, 0.0, 0.58, 1.0), kCAMediaTimingFunctionEaseOut));
+        (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend2(CAMediaNamedTimingFunctions, "setObject:forKey:", CAMediaTimingFunction.isa.objj_msgSend(CAMediaTimingFunction, "functionWithControlPoints::::", 0.42, 0.0, 0.58, 1.0), kCAMediaTimingFunctionEaseInEaseOut));
+    }
+    return (CAMediaNamedTimingFunctions == null ? null : CAMediaNamedTimingFunctions.isa.objj_msgSend1(CAMediaNamedTimingFunctions, "objectForKey:", aName));
+}
+,["id","CPString"]), new objj_method(sel_getUid("functionWithControlPoints::::"), function $CAMediaTimingFunction__functionWithControlPoints____(self, _cmd, c1x, c1y, c2x, c2y)
+{
+    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend(___r1, "initWithControlPoints::::", c1x, c1y, c2x, c2y));
+    var ___r1;
+}
+,["id","float","float","float","float"])]);
+}p;10;CPCursor.jt;14237;@STATIC;1.0;I;21;Foundation/CPObject.ji;9;CPImage.jt;14178;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("CPImage.j", YES);var currentCursor = nil,
     cursorStack = [],
     cursors = {},
     ieCursorMap = {};
@@ -26370,6 +24414,666 @@ var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_
     var ___r1;
 }
 ,["void","CPCoder"])]);
+}p;12;CPScroller.jt;32994;@STATIC;1.0;i;13;CPAnimation.ji;11;CPControl.ji;20;CPWindow_Constants.ji;17;CPViewAnimation.jt;32893;objj_executeFile("CPAnimation.j", YES);objj_executeFile("CPControl.j", YES);objj_executeFile("CPWindow_Constants.j", YES);objj_executeFile("CPViewAnimation.j", YES);{var the_typedef = objj_allocateTypeDef("CPScrollerPart");
+objj_registerTypeDef(the_typedef);
+}CPScrollerNoPart = 0;
+CPScrollerDecrementPage = 1;
+CPScrollerKnob = 2;
+CPScrollerIncrementPage = 3;
+CPScrollerDecrementLine = 4;
+CPScrollerIncrementLine = 5;
+CPScrollerKnobSlot = 6;
+CPScrollerIncrementArrow = 0;
+CPScrollerDecrementArrow = 1;
+{var the_typedef = objj_allocateTypeDef("CPUsableScrollerParts");
+objj_registerTypeDef(the_typedef);
+}CPNoScrollerParts = 0;
+CPOnlyScrollerArrows = 1;
+CPAllScrollerParts = 2;
+var PARTS_ARRANGEMENT = [CPScrollerKnobSlot, CPScrollerDecrementLine, CPScrollerIncrementLine, CPScrollerKnob],
+    NAMES_FOR_PARTS = {},
+    PARTS_FOR_NAMES = {};
+var _CACHED_THEME_SCROLLER = nil;
+NAMES_FOR_PARTS[CPScrollerDecrementLine] = "decrement-line";
+NAMES_FOR_PARTS[CPScrollerIncrementLine] = "increment-line";
+NAMES_FOR_PARTS[CPScrollerKnobSlot] = "knob-slot";
+NAMES_FOR_PARTS[CPScrollerKnob] = "knob";
+CPScrollerStyleLegacy = 0;
+CPScrollerStyleOverlay = 1;
+CPScrollerKnobStyleDefault = 0;
+CPScrollerKnobStyleDark = 1;
+CPScrollerKnobStyleLight = 2;
+CPThemeStateScrollViewLegacy = CPThemeState("scroller-style-legacy");
+CPThemeStateScrollerKnobLight = CPThemeState("scroller-knob-light");
+CPThemeStateScrollerKnobDark = CPThemeState("scroller-knob-dark");
+{var the_class = objj_allocateClassPair(CPControl, "CPScroller"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_usableParts"), new objj_ivar("_partRects"), new objj_ivar("_isVertical"), new objj_ivar("_knobProportion"), new objj_ivar("_hitPart"), new objj_ivar("_trackingPart"), new objj_ivar("_trackingFloatValue"), new objj_ivar("_trackingStartPoint"), new objj_ivar("_animationScroller"), new objj_ivar("_allowFadingOut"), new objj_ivar("_style"), new objj_ivar("_timerFadeOut"), new objj_ivar("_isMouseOver")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("isVertical"), function $CPScroller__isVertical(self, _cmd)
+{
+    return self._isVertical;
+}
+,["BOOL"]), new objj_method(sel_getUid("allowFadingOut"), function $CPScroller__allowFadingOut(self, _cmd)
+{
+    return self._allowFadingOut;
+}
+,["BOOL"]), new objj_method(sel_getUid("_setAllowFadingOut:"), function $CPScroller___setAllowFadingOut_(self, _cmd, newValue)
+{
+    self._allowFadingOut = newValue;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("initWithFrame:"), function $CPScroller__initWithFrame_(self, _cmd, aFrame)
+{
+    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "initWithFrame:", aFrame))
+    {
+        self._partRects = [];
+        (self == null ? null : self.isa.objj_msgSend1(self, "setFloatValue:", 0.0));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setKnobProportion:", 1.0));
+        self._hitPart = CPScrollerNoPart;
+        self._allowFadingOut = YES;
+        self._isMouseOver = NO;
+        self._style = CPScrollerStyleOverlay;
+        var paramAnimFadeOut = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", self, CPViewAnimationTargetKey, CPViewAnimationFadeOutEffect, CPViewAnimationEffectKey);
+        self._animationScroller = ((___r1 = CPViewAnimation.isa.objj_msgSend0(CPViewAnimation, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithDuration:animationCurve:", 0.2, CPAnimationEaseInOut));
+        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setViewAnimations:", [paramAnimFadeOut]));
+        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDelegate:", self));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAlphaValue:", 0.0));
+        (self == null ? null : self.isa.objj_msgSend1(self, "_setIsVertical:", CGRectGetHeight(aFrame) >= CGRectGetWidth(aFrame)));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CGRect"]), new objj_method(sel_getUid("style"), function $CPScroller__style(self, _cmd)
+{
+    return self._style;
+}
+,["void"]), new objj_method(sel_getUid("setStyle:"), function $CPScroller__setStyle_(self, _cmd, aStyle)
+{
+    if (self._style != nil && self._style === aStyle)
+        return;
+    self._style = aStyle;
+    if (self._style === CPScrollerStyleLegacy)
+    {
+        self.isa.objj_msgSend0(self, "fadeIn");
+        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateScrollViewLegacy);
+    }
+    else
+    {
+        self._allowFadingOut = YES;
+        self.isa.objj_msgSend1(self, "unsetThemeState:", CPThemeStateScrollViewLegacy);
+    }
+}
+,["void","id"]), new objj_method(sel_getUid("setObjectValue:"), function $CPScroller__setObjectValue_(self, _cmd, aValue)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "setObjectValue:", MIN(1.0, MAX(0.0, +aValue)));
+}
+,["void","id"]), new objj_method(sel_getUid("knobProportion"), function $CPScroller__knobProportion(self, _cmd)
+{
+    return self._knobProportion;
+}
+,["float"]), new objj_method(sel_getUid("setKnobProportion:"), function $CPScroller__setKnobProportion_(self, _cmd, aProportion)
+{
+    if (!(!isNaN(parseFloat(aProportion)) && isFinite(aProportion)))
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInvalidArgumentException, "aProportion must be numeric");
+    self._knobProportion = MIN(1.0, MAX(0.0001, aProportion));
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+}
+,["void","float"]), new objj_method(sel_getUid("_adjustScrollerSize"), function $CPScroller___adjustScrollerSize(self, _cmd)
+{
+    var frame = self.isa.objj_msgSend0(self, "frame"),
+        scrollerWidth = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "scroller-width");
+    if (self.isa.objj_msgSend0(self, "isVertical") && CGRectGetWidth(frame) !== scrollerWidth)
+        frame.size.width = scrollerWidth;
+    if (!self.isa.objj_msgSend0(self, "isVertical") && CGRectGetHeight(frame) !== scrollerWidth)
+        frame.size.height = scrollerWidth;
+    self.isa.objj_msgSend1(self, "setFrame:", frame);
+}
+,["void"]), new objj_method(sel_getUid("_performFadeOut:"), function $CPScroller___performFadeOut_(self, _cmd, aTimer)
+{
+    self.isa.objj_msgSend0(self, "fadeOut");
+    self._timerFadeOut = nil;
+}
+,["void","CPTimer"]), new objj_method(sel_getUid("rectForPart:"), function $CPScroller__rectForPart_(self, _cmd, aPart)
+{
+    if (aPart == CPScrollerNoPart)
+        return CGRectMakeZero();
+    return self._partRects[aPart];
+}
+,["CGRect","CPScrollerPart"]), new objj_method(sel_getUid("testPart:"), function $CPScroller__testPart_(self, _cmd, aPoint)
+{
+    aPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", aPoint, nil);
+    if (!self.isa.objj_msgSend1(self, "hasThemeState:", CPThemeStateSelected))
+        return CPScrollerNoPart;
+    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnob), aPoint))
+        return CPScrollerKnob;
+    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerDecrementPage), aPoint))
+        return CPScrollerDecrementPage;
+    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerIncrementPage), aPoint))
+        return CPScrollerIncrementPage;
+    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerDecrementLine), aPoint))
+        return CPScrollerDecrementLine;
+    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerIncrementLine), aPoint))
+        return CPScrollerIncrementLine;
+    if (CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnobSlot), aPoint))
+        return CPScrollerKnobSlot;
+    return CPScrollerNoPart;
+}
+,["CPScrollerPart","CGPoint"]), new objj_method(sel_getUid("checkSpaceForParts"), function $CPScroller__checkSpaceForParts(self, _cmd)
+{
+    var bounds = self.isa.objj_msgSend0(self, "bounds");
+    if (self._knobProportion === 1.0)
+    {
+        self._usableParts = CPNoScrollerParts;
+        self._partRects[CPScrollerDecrementPage] = CGRectMakeZero();
+        self._partRects[CPScrollerKnob] = CGRectMakeZero();
+        self._partRects[CPScrollerIncrementPage] = CGRectMakeZero();
+        self._partRects[CPScrollerDecrementLine] = CGRectMakeZero();
+        self._partRects[CPScrollerIncrementLine] = CGRectMakeZero();
+        self._partRects[CPScrollerKnobSlot] = CGRectMakeCopy(bounds);
+        return;
+    }
+    self._usableParts = CPAllScrollerParts;
+    var knobInset = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "knob-inset"),
+        trackInset = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "track-inset"),
+        width = CGRectGetWidth(bounds),
+        height = CGRectGetHeight(bounds);
+    if (self.isa.objj_msgSend0(self, "isVertical"))
+    {
+        var decrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "decrement-line-size"),
+            incrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "increment-line-size"),
+            effectiveDecrementLineHeight = decrementLineSize.height + trackInset.top,
+            effectiveIncrementLineHeight = incrementLineSize.height + trackInset.bottom,
+            slotSize = height - effectiveDecrementLineHeight - effectiveIncrementLineHeight,
+            minimumKnobLength = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "minimum-knob-length"),
+            knobWidth = width - knobInset.left - knobInset.right,
+            knobHeight = MAX(minimumKnobLength, slotSize * self._knobProportion),
+            knobLocation = effectiveDecrementLineHeight + (slotSize - knobHeight) * self.isa.objj_msgSend0(self, "floatValue");
+        self._partRects[CPScrollerDecrementPage] = CGRectMake(0.0, effectiveDecrementLineHeight, width, knobLocation - effectiveDecrementLineHeight);
+        self._partRects[CPScrollerKnob] = CGRectMake(knobInset.left, knobLocation, knobWidth, knobHeight);
+        self._partRects[CPScrollerIncrementPage] = CGRectMake(0.0, knobLocation + knobHeight, width, height - (knobLocation + knobHeight) - effectiveIncrementLineHeight);
+        self._partRects[CPScrollerKnobSlot] = CGRectMake(trackInset.left, effectiveDecrementLineHeight, width - trackInset.left - trackInset.right, slotSize);
+        self._partRects[CPScrollerDecrementLine] = CGRectMake(0.0, 0.0, decrementLineSize.width, decrementLineSize.height);
+        self._partRects[CPScrollerIncrementLine] = CGRectMake(0.0, height - incrementLineSize.height, incrementLineSize.width, incrementLineSize.height);
+        if (height < knobHeight + decrementLineSize.height + incrementLineSize.height + trackInset.top + trackInset.bottom)
+            self._partRects[CPScrollerKnob] = CGRectMakeZero();
+        if (height < decrementLineSize.height + incrementLineSize.height - 2)
+        {
+            self._partRects[CPScrollerIncrementLine] = CGRectMakeZero();
+            self._partRects[CPScrollerDecrementLine] = CGRectMakeZero();
+            self._partRects[CPScrollerKnobSlot] = CGRectMake(trackInset.left, 0, width - trackInset.left - trackInset.right, height);
+        }
+    }
+    else
+    {
+        var decrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "decrement-line-size"),
+            incrementLineSize = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "increment-line-size"),
+            effectiveDecrementLineWidth = decrementLineSize.width + trackInset.left,
+            effectiveIncrementLineWidth = incrementLineSize.width + trackInset.right,
+            slotSize = width - effectiveDecrementLineWidth - effectiveIncrementLineWidth,
+            minimumKnobLength = self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", "minimum-knob-length"),
+            knobWidth = MAX(minimumKnobLength, slotSize * self._knobProportion),
+            knobHeight = height - knobInset.top - knobInset.bottom,
+            knobLocation = effectiveDecrementLineWidth + (slotSize - knobWidth) * self.isa.objj_msgSend0(self, "floatValue");
+        self._partRects[CPScrollerDecrementPage] = CGRectMake(effectiveDecrementLineWidth, 0.0, knobLocation - effectiveDecrementLineWidth, height);
+        self._partRects[CPScrollerKnob] = CGRectMake(knobLocation, knobInset.top, knobWidth, knobHeight);
+        self._partRects[CPScrollerIncrementPage] = CGRectMake(knobLocation + knobWidth, 0.0, width - (knobLocation + knobWidth) - effectiveIncrementLineWidth, height);
+        self._partRects[CPScrollerKnobSlot] = CGRectMake(effectiveDecrementLineWidth, trackInset.top, slotSize, height - trackInset.top - trackInset.bottom);
+        self._partRects[CPScrollerDecrementLine] = CGRectMake(0.0, 0.0, decrementLineSize.width, decrementLineSize.height);
+        self._partRects[CPScrollerIncrementLine] = CGRectMake(width - incrementLineSize.width, 0.0, incrementLineSize.width, incrementLineSize.height);
+        if (width < knobWidth + decrementLineSize.width + incrementLineSize.width + trackInset.left + trackInset.right)
+            self._partRects[CPScrollerKnob] = CGRectMakeZero();
+        if (width < decrementLineSize.width + incrementLineSize.width - 2)
+        {
+            self._partRects[CPScrollerIncrementLine] = CGRectMakeZero();
+            self._partRects[CPScrollerDecrementLine] = CGRectMakeZero();
+            self._partRects[CPScrollerKnobSlot] = CGRectMake(0.0, 0.0, width, slotSize);
+        }
+    }
+}
+,["void"]), new objj_method(sel_getUid("usableParts"), function $CPScroller__usableParts(self, _cmd)
+{
+    return self._usableParts;
+}
+,["CPUsableScrollerParts"]), new objj_method(sel_getUid("fadeIn"), function $CPScroller__fadeIn(self, _cmd)
+{
+    if (self._isMouseOver && self._knobProportion != 1.0)
+        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateSelected);
+    if (self._timerFadeOut)
+        ((___r1 = self._timerFadeOut), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    self.isa.objj_msgSend1(self, "setAlphaValue:", 1.0);
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("fadeOut"), function $CPScroller__fadeOut(self, _cmd)
+{
+    if (self.isa.objj_msgSend1(self, "hasThemeState:", CPThemeStateScrollViewLegacy))
+        return;
+    ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "startAnimation"));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("drawArrow:highlight:"), function $CPScroller__drawArrow_highlight_(self, _cmd, anArrow, shouldHighlight)
+{
+}
+,["void","CPScrollerArrow","BOOL"]), new objj_method(sel_getUid("drawKnob"), function $CPScroller__drawKnob(self, _cmd)
+{
+}
+,["void"]), new objj_method(sel_getUid("drawKnobSlot"), function $CPScroller__drawKnobSlot(self, _cmd)
+{
+}
+,["void"]), new objj_method(sel_getUid("createViewForPart:"), function $CPScroller__createViewForPart_(self, _cmd, aPart)
+{
+    var view = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
+    (view == null ? null : view.isa.objj_msgSend1(view, "setHitTests:", NO));
+    return view;
+    var ___r1;
+}
+,["CPView","CPScrollerPart"]), new objj_method(sel_getUid("rectForEphemeralSubviewNamed:"), function $CPScroller__rectForEphemeralSubviewNamed_(self, _cmd, aName)
+{
+    return self._partRects[aName];
+}
+,["CGRect","CPString"]), new objj_method(sel_getUid("createEphemeralSubviewNamed:"), function $CPScroller__createEphemeralSubviewNamed_(self, _cmd, aName)
+{
+    var view = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero()));
+    (view == null ? null : view.isa.objj_msgSend1(view, "setHitTests:", NO));
+    return view;
+    var ___r1;
+}
+,["CPView","CPString"]), new objj_method(sel_getUid("layoutSubviews"), function $CPScroller__layoutSubviews(self, _cmd)
+{
+    self.isa.objj_msgSend0(self, "_adjustScrollerSize");
+    self.isa.objj_msgSend0(self, "checkSpaceForParts");
+    var index = 0,
+        count = PARTS_ARRANGEMENT.length,
+        view;
+    for (; index < count; ++index)
+    {
+        var part = PARTS_ARRANGEMENT[index];
+        if (index === 0)
+            view = self.isa.objj_msgSend3(self, "layoutEphemeralSubviewNamed:positioned:relativeToEphemeralSubviewNamed:", part, CPWindowBelow, PARTS_ARRANGEMENT[index + 1]);
+        else
+            view = self.isa.objj_msgSend3(self, "layoutEphemeralSubviewNamed:positioned:relativeToEphemeralSubviewNamed:", part, CPWindowAbove, PARTS_ARRANGEMENT[index - 1]);
+        if (view)
+            (view == null ? null : view.isa.objj_msgSend1(view, "setBackgroundColor:", self.isa.objj_msgSend1(self, "currentValueForThemeAttribute:", NAMES_FOR_PARTS[part] + "-color")));
+    }
+}
+,["void"]), new objj_method(sel_getUid("drawParts"), function $CPScroller__drawParts(self, _cmd)
+{
+    self.isa.objj_msgSend0(self, "drawKnobSlot");
+    self.isa.objj_msgSend0(self, "drawKnob");
+    self.isa.objj_msgSend2(self, "drawArrow:highlight:", CPScrollerDecrementArrow, NO);
+    self.isa.objj_msgSend2(self, "drawArrow:highlight:", CPScrollerIncrementArrow, NO);
+}
+,["void"]), new objj_method(sel_getUid("hitPart"), function $CPScroller__hitPart(self, _cmd)
+{
+    return self._hitPart;
+}
+,["CPScrollerPart"]), new objj_method(sel_getUid("trackKnob:"), function $CPScroller__trackKnob_(self, _cmd, anEvent)
+{
+    var type = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "type"));
+    if (type === CPLeftMouseUp)
+    {
+        self._hitPart = CPScrollerNoPart;
+        return;
+    }
+    if (type === CPLeftMouseDown)
+    {
+        self._trackingFloatValue = self.isa.objj_msgSend0(self, "floatValue");
+        self._trackingStartPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil);
+    }
+    else if (type === CPLeftMouseDragged)
+    {
+        var knobRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnob),
+            knobSlotRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnobSlot),
+            remainder = !self.isa.objj_msgSend0(self, "isVertical") ? CGRectGetWidth(knobSlotRect) - CGRectGetWidth(knobRect) : CGRectGetHeight(knobSlotRect) - CGRectGetHeight(knobRect);
+        if (remainder <= 0)
+            self.isa.objj_msgSend1(self, "setFloatValue:", 0.0);
+        else
+        {
+            var location = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil),
+                delta = !self.isa.objj_msgSend0(self, "isVertical") ? location.x - self._trackingStartPoint.x : location.y - self._trackingStartPoint.y;
+            self.isa.objj_msgSend1(self, "setFloatValue:", self._trackingFloatValue + delta / remainder);
+        }
+    }
+    (CPApp == null ? null : CPApp.isa.objj_msgSend(CPApp, "setTarget:selector:forNextEventMatchingMask:untilDate:inMode:dequeue:", self, sel_getUid("trackKnob:"), CPLeftMouseDraggedMask | CPLeftMouseUpMask, nil, nil, YES));
+    if (type === CPLeftMouseDragged)
+        self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
+}
+,["void","CPEvent"]), new objj_method(sel_getUid("trackScrollButtons:"), function $CPScroller__trackScrollButtons_(self, _cmd, anEvent)
+{
+    var type = (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "type"));
+    if (type === CPLeftMouseUp)
+    {
+        self.isa.objj_msgSend1(self, "highlight:", NO);
+        CPEvent.isa.objj_msgSend0(CPEvent, "stopPeriodicEvents");
+        self._hitPart = CPScrollerNoPart;
+        return;
+    }
+    if (type === CPLeftMouseDown)
+    {
+        self._trackingPart = self.isa.objj_msgSend0(self, "hitPart");
+        self._trackingStartPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil);
+        if ((anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "modifierFlags")) & CPAlternateKeyMask)
+        {
+            if (self._trackingPart === CPScrollerDecrementLine)
+                self._hitPart = CPScrollerDecrementPage;
+            else if (self._trackingPart === CPScrollerIncrementLine)
+                self._hitPart = CPScrollerIncrementPage;
+            else if (self._trackingPart === CPScrollerDecrementPage || self._trackingPart === CPScrollerIncrementPage)
+            {
+                var knobRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnob),
+                    knobWidth = !self.isa.objj_msgSend0(self, "isVertical") ? CGRectGetWidth(knobRect) : CGRectGetHeight(knobRect),
+                    knobSlotRect = self.isa.objj_msgSend1(self, "rectForPart:", CPScrollerKnobSlot),
+                    remainder = (!self.isa.objj_msgSend0(self, "isVertical") ? CGRectGetWidth(knobSlotRect) : CGRectGetHeight(knobSlotRect)) - knobWidth;
+                self.isa.objj_msgSend1(self, "setFloatValue:", ((!self.isa.objj_msgSend0(self, "isVertical") ? self._trackingStartPoint.x - CGRectGetMinX(knobSlotRect) : self._trackingStartPoint.y - CGRectGetMinY(knobSlotRect)) - knobWidth / 2.0) / remainder);
+                self._hitPart = CPScrollerKnob;
+                self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
+                return self.isa.objj_msgSend1(self, "trackKnob:", anEvent);
+            }
+        }
+        self.isa.objj_msgSend1(self, "highlight:", YES);
+        self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
+        CPEvent.isa.objj_msgSend2(CPEvent, "startPeriodicEventsAfterDelay:withPeriod:", 0.5, 0.04);
+    }
+    else if (type === CPLeftMouseDragged)
+    {
+        self._trackingStartPoint = self.isa.objj_msgSend2(self, "convertPoint:fromView:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")), nil);
+        if (self._trackingPart === CPScrollerDecrementPage || self._trackingPart === CPScrollerIncrementPage)
+        {
+            var hitPart = self.isa.objj_msgSend1(self, "testPart:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")));
+            if (hitPart === CPScrollerDecrementPage || hitPart === CPScrollerIncrementPage)
+            {
+                self._trackingPart = hitPart;
+                self._hitPart = hitPart;
+            }
+        }
+        self.isa.objj_msgSend1(self, "highlight:", CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", self._trackingPart), self._trackingStartPoint));
+    }
+    else if (type == CPPeriodic && CGRectContainsPoint(self.isa.objj_msgSend1(self, "rectForPart:", self._trackingPart), self._trackingStartPoint))
+        self.isa.objj_msgSend2(self, "sendAction:to:", self.isa.objj_msgSend0(self, "action"), self.isa.objj_msgSend0(self, "target"));
+    (CPApp == null ? null : CPApp.isa.objj_msgSend(CPApp, "setTarget:selector:forNextEventMatchingMask:untilDate:inMode:dequeue:", self, sel_getUid("trackScrollButtons:"), CPPeriodicMask | CPLeftMouseDraggedMask | CPLeftMouseUpMask, nil, nil, YES));
+}
+,["void","CPEvent"]), new objj_method(sel_getUid("_setIsVertical:"), function $CPScroller___setIsVertical_(self, _cmd, isVertical)
+{
+    self._isVertical = isVertical;
+    if (self._isVertical)
+        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateVertical);
+    else
+        self.isa.objj_msgSend1(self, "unsetThemeState:", CPThemeStateVertical);
+}
+,["void","BOOL"]), new objj_method(sel_getUid("setFrameSize:"), function $CPScroller__setFrameSize_(self, _cmd, aSize)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "setFrameSize:", aSize);
+    self.isa.objj_msgSend0(self, "checkSpaceForParts");
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+}
+,["void","CGSize"]), new objj_method(sel_getUid("currentValueForThemeAttribute:"), function $CPScroller__currentValueForThemeAttribute_(self, _cmd, anAttributeName)
+{
+    var themeState = self._themeState;
+    if (NAMES_FOR_PARTS[self._hitPart] + "-color" !== anAttributeName)
+        themeState = themeState.without(CPThemeStateHighlighted);
+    return self.isa.objj_msgSend2(self, "valueForThemeAttribute:inState:", anAttributeName, themeState);
+}
+,["id","CPString"]), new objj_method(sel_getUid("mouseDown:"), function $CPScroller__mouseDown_(self, _cmd, anEvent)
+{
+    if (!self.isa.objj_msgSend0(self, "isEnabled"))
+        return;
+    self._hitPart = self.isa.objj_msgSend1(self, "testPart:", (anEvent == null ? null : anEvent.isa.objj_msgSend0(anEvent, "locationInWindow")));
+    switch(self._hitPart) {
+    case CPScrollerKnob:
+        return self.isa.objj_msgSend1(self, "trackKnob:", anEvent);
+    case CPScrollerDecrementLine:
+    case CPScrollerIncrementLine:
+    case CPScrollerDecrementPage:
+    case CPScrollerIncrementPage:
+        return self.isa.objj_msgSend1(self, "trackScrollButtons:", anEvent);
+    }
+}
+,["void","CPEvent"]), new objj_method(sel_getUid("mouseEntered:"), function $CPScroller__mouseEntered_(self, _cmd, anEvent)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "mouseEntered:", anEvent);
+    if (self._timerFadeOut)
+        ((___r1 = self._timerFadeOut), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    if (!self.isa.objj_msgSend0(self, "isEnabled"))
+        return;
+    self._allowFadingOut = NO;
+    self._isMouseOver = YES;
+    if (self.isa.objj_msgSend0(self, "alphaValue") > 0 && self._knobProportion != 1.0)
+        self.isa.objj_msgSend1(self, "setThemeState:", CPThemeStateSelected);
+    var ___r1;
+}
+,["void","CPEvent"]), new objj_method(sel_getUid("mouseExited:"), function $CPScroller__mouseExited_(self, _cmd, anEvent)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "mouseExited:", anEvent);
+    if (self.isa.objj_msgSend0(self, "isHidden") || !self.isa.objj_msgSend0(self, "isEnabled") || !self._isMouseOver)
+        return;
+    self._allowFadingOut = YES;
+    self._isMouseOver = NO;
+    if (self._timerFadeOut)
+        ((___r1 = self._timerFadeOut), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "invalidate"));
+    self._timerFadeOut = CPTimer.isa.objj_msgSend(CPTimer, "scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:", 1.2, self, sel_getUid("_performFadeOut:"), nil, NO);
+    var ___r1;
+}
+,["void","CPEvent"]), new objj_method(sel_getUid("animationDidEnd:"), function $CPScroller__animationDidEnd_(self, _cmd, animation)
+{
+    self.isa.objj_msgSend1(self, "unsetThemeState:", CPThemeStateSelected);
+}
+,["void","CPAnimation"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $CPScroller__defaultThemeClass(self, _cmd)
+{
+    return "scroller";
+}
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $CPScroller__themeAttributes(self, _cmd)
+{
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", 7.0, "scroller-width", CPNull.isa.objj_msgSend0(CPNull, "null"), "knob-slot-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "decrement-line-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "increment-line-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "knob-color", CGSizeMakeZero(), "decrement-line-size", CGSizeMakeZero(), "increment-line-size", CGInsetMakeZero(), "track-inset", CGInsetMakeZero(), "knob-inset", 21.0, "minimum-knob-length", 9.0, "track-border-overlay");
+}
+,["CPDictionary"]), new objj_method(sel_getUid("scrollerWidth"), function $CPScroller__scrollerWidth(self, _cmd)
+{
+    return self.isa.objj_msgSend1(self, "scrollerWidthInStyle:", CPScrollerStyleLegacy);
+}
+,["float"]), new objj_method(sel_getUid("scrollerWidthInStyle:"), function $CPScroller__scrollerWidthInStyle_(self, _cmd, aStyle)
+{
+    if (!_CACHED_THEME_SCROLLER)
+        _CACHED_THEME_SCROLLER = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+    if (aStyle == CPScrollerStyleLegacy)
+        return (_CACHED_THEME_SCROLLER == null ? null : _CACHED_THEME_SCROLLER.isa.objj_msgSend2(_CACHED_THEME_SCROLLER, "valueForThemeAttribute:inState:", "scroller-width", CPThemeStateScrollViewLegacy));
+    return (_CACHED_THEME_SCROLLER == null ? null : _CACHED_THEME_SCROLLER.isa.objj_msgSend1(_CACHED_THEME_SCROLLER, "currentValueForThemeAttribute:", "scroller-width"));
+    var ___r1;
+}
+,["float","int"]), new objj_method(sel_getUid("scrollerOverlay"), function $CPScroller__scrollerOverlay(self, _cmd)
+{
+    if (!_CACHED_THEME_SCROLLER)
+        _CACHED_THEME_SCROLLER = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+    return (_CACHED_THEME_SCROLLER == null ? null : _CACHED_THEME_SCROLLER.isa.objj_msgSend1(_CACHED_THEME_SCROLLER, "currentValueForThemeAttribute:", "track-border-overlay"));
+    var ___r1;
+}
+,["float"]), new objj_method(sel_getUid("scrollerWidthForControlSize:"), function $CPScroller__scrollerWidthForControlSize_(self, _cmd, aControlSize)
+{
+    return self.isa.objj_msgSend0(self, "scrollerWidth");
+}
+,["float","CPControlSize"])]);
+}var CPScrollerIsVerticalKey = "CPScrollerIsVerticalKey",
+    CPScrollerKnobProportionKey = "CPScrollerKnobProportion",
+    CPScrollerStyleKey = "CPScrollerStyleKey";
+{
+var the_class = objj_getClass("CPScroller")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPScroller\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPScroller__initWithCoder_(self, _cmd, aCoder)
+{
+    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "initWithCoder:", aCoder))
+    {
+        self._knobProportion = 1.0;
+        if ((aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "containsValueForKey:", CPScrollerKnobProportionKey)))
+            self._knobProportion = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeFloatForKey:", CPScrollerKnobProportionKey));
+        self._partRects = [];
+        self._hitPart = CPScrollerNoPart;
+        self._allowFadingOut = YES;
+        self._isMouseOver = NO;
+        var paramAnimFadeOut = objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", self, CPViewAnimationTargetKey, CPViewAnimationFadeOutEffect, CPViewAnimationEffectKey);
+        self._animationScroller = ((___r1 = CPViewAnimation.isa.objj_msgSend0(CPViewAnimation, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "initWithDuration:animationCurve:", 0.2, CPAnimationEaseInOut));
+        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setViewAnimations:", [paramAnimFadeOut]));
+        ((___r1 = self._animationScroller), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setDelegate:", self));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAlphaValue:", 0.0));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setStyle:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPScrollerStyleKey))));
+        (self == null ? null : self.isa.objj_msgSend1(self, "_setIsVertical:", (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeBoolForKey:", CPScrollerIsVerticalKey))));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPScroller__encodeWithCoder_(self, _cmd, aCoder)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPScroller").super_class }, "encodeWithCoder:", aCoder);
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._isVertical, CPScrollerIsVerticalKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeFloat:forKey:", self._knobProportion, CPScrollerKnobProportionKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._style, CPScrollerStyleKey));
+}
+,["void","CPCoder"])]);
+}{
+var the_class = objj_getClass("CPScroller")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPScroller\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("setFloatValue:knobProportion:"), function $CPScroller__setFloatValue_knobProportion_(self, _cmd, aValue, aProportion)
+{
+    self.isa.objj_msgSend1(self, "setFloatValue:", aValue);
+    self.isa.objj_msgSend1(self, "setKnobProportion:", aProportion);
+}
+,["void","float","float"])]);
+}p;17;CPViewAnimation.jt;9243;@STATIC;1.0;i;13;CPAnimation.jt;9206;objj_executeFile("CPAnimation.j", YES);CPViewAnimationTargetKey = "CPViewAnimationTargetKey";
+CPViewAnimationStartFrameKey = "CPViewAnimationStartFrameKey";
+CPViewAnimationEndFrameKey = "CPViewAnimationEndFrameKey";
+CPViewAnimationEffectKey = "CPViewAnimationEffectKey";
+CPViewAnimationFadeInEffect = "CPViewAnimationFadeInEffect";
+CPViewAnimationFadeOutEffect = "CPViewAnimationFadeOutEffect";
+{var the_class = objj_allocateClassPair(CPAnimation, "CPViewAnimation"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_viewAnimations")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("initWithViewAnimations:"), function $CPViewAnimation__initWithViewAnimations_(self, _cmd, viewAnimations)
+{
+    if (self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "initWithDuration:animationCurve:", 0.5, CPAnimationLinear))
+    {
+        (self == null ? null : self.isa.objj_msgSend1(self, "setViewAnimations:", viewAnimations));
+    }
+    return self;
+}
+,["id","CPArray"]), new objj_method(sel_getUid("startAnimation"), function $CPViewAnimation__startAnimation(self, _cmd)
+{
+    var animationIndex = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "count"));
+    while (animationIndex--)
+    {
+        var dictionary = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectAtIndex:", animationIndex)),
+            view = self.isa.objj_msgSend1(self, "_targetView:", dictionary),
+            startFrame = self.isa.objj_msgSend1(self, "_startFrame:", dictionary);
+        (view == null ? null : view.isa.objj_msgSend1(view, "setFrame:", startFrame));
+        var effect = self.isa.objj_msgSend1(self, "_effect:", dictionary);
+        if (effect === CPViewAnimationFadeInEffect)
+        {
+            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 0.0));
+            self.isa.objj_msgSend2(self, "_targetView:setHidden:", view, NO);
+        }
+        else if (effect === CPViewAnimationFadeOutEffect)
+            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0));
+    }
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "startAnimation");
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("setCurrentProgress:"), function $CPViewAnimation__setCurrentProgress_(self, _cmd, progress)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "setCurrentProgress:", progress);
+    var animationIndex = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "count"));
+    while (animationIndex--)
+    {
+        var dictionary = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectAtIndex:", animationIndex)),
+            view = self.isa.objj_msgSend1(self, "_targetView:", dictionary),
+            startFrame = self.isa.objj_msgSend1(self, "_startFrame:", dictionary),
+            endFrame = self.isa.objj_msgSend1(self, "_endFrame:", dictionary),
+            differenceFrame = CGRectMakeZero(),
+            value = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "currentValue");
+        differenceFrame.origin.x = endFrame.origin.x - startFrame.origin.x;
+        differenceFrame.origin.y = endFrame.origin.y - startFrame.origin.y;
+        differenceFrame.size.width = endFrame.size.width - startFrame.size.width;
+        differenceFrame.size.height = endFrame.size.height - startFrame.size.height;
+        var intermediateFrame = CGRectMakeZero();
+        intermediateFrame.origin.x = startFrame.origin.x + differenceFrame.origin.x * value;
+        intermediateFrame.origin.y = startFrame.origin.y + differenceFrame.origin.y * value;
+        intermediateFrame.size.width = startFrame.size.width + differenceFrame.size.width * value;
+        intermediateFrame.size.height = startFrame.size.height + differenceFrame.size.height * value;
+        (view == null ? null : view.isa.objj_msgSend1(view, "setFrame:", intermediateFrame));
+        var effect = self.isa.objj_msgSend1(self, "_effect:", dictionary);
+        if (effect === CPViewAnimationFadeInEffect)
+            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0 * value));
+        else if (effect === CPViewAnimationFadeOutEffect)
+            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0 + (0.0 - 1.0) * value));
+        if (progress === 1.0)
+            self.isa.objj_msgSend2(self, "_targetView:setHidden:", view, CGRectIsEmpty(endFrame) || (view == null ? null : view.isa.objj_msgSend0(view, "alphaValue")) === 0.0);
+    }
+    var ___r1;
+}
+,["void","float"]), new objj_method(sel_getUid("stopAnimation"), function $CPViewAnimation__stopAnimation(self, _cmd)
+{
+    var animationIndex = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "count"));
+    while (animationIndex--)
+    {
+        var dictionary = ((___r1 = self._viewAnimations), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "objectAtIndex:", animationIndex)),
+            view = self.isa.objj_msgSend1(self, "_targetView:", dictionary),
+            endFrame = self.isa.objj_msgSend1(self, "_endFrame:", dictionary);
+        (view == null ? null : view.isa.objj_msgSend1(view, "setFrame:", endFrame));
+        var effect = self.isa.objj_msgSend1(self, "_effect:", dictionary);
+        if (effect === CPViewAnimationFadeInEffect)
+            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 1.0));
+        else if (effect === CPViewAnimationFadeOutEffect)
+            (view == null ? null : view.isa.objj_msgSend1(view, "setAlphaValue:", 0.0));
+        self.isa.objj_msgSend2(self, "_targetView:setHidden:", view, CGRectIsEmpty(endFrame) || (view == null ? null : view.isa.objj_msgSend0(view, "alphaValue")) === 0.0);
+    }
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPViewAnimation").super_class }, "stopAnimation");
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_targetView:setHidden:"), function $CPViewAnimation___targetView_setHidden_(self, _cmd, theView, isHidden)
+{
+    if ((theView == null ? null : theView.isa.objj_msgSend1(theView, "isKindOfClass:", (CPWindow == null ? null : CPWindow.isa.objj_msgSend0(CPWindow, "class")))))
+    {
+        if (isHidden)
+            (theView == null ? null : theView.isa.objj_msgSend1(theView, "orderOut:", self));
+        else
+            (theView == null ? null : theView.isa.objj_msgSend1(theView, "orderFront:", self));
+    }
+    else
+        (theView == null ? null : theView.isa.objj_msgSend1(theView, "setHidden:", isHidden));
+}
+,["void","id","BOOL"]), new objj_method(sel_getUid("_targetView:"), function $CPViewAnimation___targetView_(self, _cmd, dictionary)
+{
+    var targetView = (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationTargetKey));
+    if (!targetView)
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPInternalInconsistencyException, CPString.isa.objj_msgSend2(CPString, "stringWithFormat:", "view animation: %@ does not have a target view", (dictionary == null ? null : dictionary.isa.objj_msgSend0(dictionary, "description"))));
+    return targetView;
+}
+,["id","CPDictionary"]), new objj_method(sel_getUid("_startFrame:"), function $CPViewAnimation___startFrame_(self, _cmd, dictionary)
+{
+    var startFrame = (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationStartFrameKey));
+    if (!startFrame)
+        return ((___r1 = self.isa.objj_msgSend1(self, "_targetView:", dictionary)), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    return startFrame;
+    var ___r1;
+}
+,["CGRect","CPDictionary"]), new objj_method(sel_getUid("_endFrame:"), function $CPViewAnimation___endFrame_(self, _cmd, dictionary)
+{
+    var endFrame = (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationEndFrameKey));
+    if (!endFrame)
+        return ((___r1 = self.isa.objj_msgSend1(self, "_targetView:", dictionary)), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    return endFrame;
+    var ___r1;
+}
+,["CGRect","CPDictionary"]), new objj_method(sel_getUid("_effect:"), function $CPViewAnimation___effect_(self, _cmd, dictionary)
+{
+    return (dictionary == null ? null : dictionary.isa.objj_msgSend1(dictionary, "valueForKey:", CPViewAnimationEffectKey));
+}
+,["CPString","CPDictionary"]), new objj_method(sel_getUid("viewAnimations"), function $CPViewAnimation__viewAnimations(self, _cmd)
+{
+    return self._viewAnimations;
+}
+,["CPArray"]), new objj_method(sel_getUid("setViewAnimations:"), function $CPViewAnimation__setViewAnimations_(self, _cmd, viewAnimations)
+{
+    if (viewAnimations != self._viewAnimations)
+    {
+        self.isa.objj_msgSend0(self, "stopAnimation");
+        self._viewAnimations = (viewAnimations == null ? null : viewAnimations.isa.objj_msgSend0(viewAnimations, "copy"));
+    }
+}
+,["void","CPArray"])]);
 }p;12;CPComboBox.jt;54419;@STATIC;1.0;i;8;CPText.ji;13;CPTextField.ji;14;_CPPopUpList.jt;54350;objj_executeFile("CPText.j", YES);objj_executeFile("CPTextField.j", YES);objj_executeFile("_CPPopUpList.j", YES);{var the_protocol = objj_allocateProtocol("CPComboBoxDelegate");
 var aProtocol = objj_getProtocol("CPObject");
 if (!aProtocol) throw new SyntaxError("*** Could not find definition for protocol \"CPComboBoxDelegate\"");
@@ -32988,7 +31692,861 @@ class_addMethods(meta_class, [new objj_method(sel_getUid("protocolIsImplementedB
     return anObject && (anObject == null ? null : anObject.isa.objj_msgSend1(anObject, "respondsToSelector:", sel_getUid("numberOfItemsInList:"))) && (anObject == null ? null : anObject.isa.objj_msgSend1(anObject, "respondsToSelector:", sel_getUid("numberOfVisibleItemsInList:"))) && (anObject == null ? null : anObject.isa.objj_msgSend1(anObject, "respondsToSelector:", sel_getUid("list:objectValueForItemAtIndex:"))) && (anObject == null ? null : anObject.isa.objj_msgSend1(anObject, "respondsToSelector:", sel_getUid("list:displayValueForObjectValue:"))) && (anObject == null ? null : anObject.isa.objj_msgSend1(anObject, "respondsToSelector:", sel_getUid("list:stringValueForObjectValue:")));
 }
 ,["BOOL","id"])]);
-}p;20;_CPCibClassSwapper.jt;2452;@STATIC;1.0;I;21;Foundation/CPObject.jI;21;Foundation/CPString.jt;2381;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPString.j", NO);var _CPCibClassSwapperClassNameKey = "_CPCibClassSwapperClassNameKey",
+}p;7;CPBox.jt;24516;@STATIC;1.0;i;13;CPTextField.ji;8;CPView.jt;24466;objj_executeFile("CPTextField.j", YES);objj_executeFile("CPView.j", YES);{var the_typedef = objj_allocateTypeDef("CPBoxType");
+objj_registerTypeDef(the_typedef);
+}CPBoxPrimary = 0;
+CPBoxSecondary = 1;
+CPBoxSeparator = 2;
+CPBoxOldStyle = 3;
+CPBoxCustom = 4;
+{var the_typedef = objj_allocateTypeDef("CPBorderType");
+objj_registerTypeDef(the_typedef);
+}CPNoBorder = 0;
+CPLineBorder = 1;
+CPBezelBorder = 2;
+CPGrooveBorder = 3;
+{var the_typedef = objj_allocateTypeDef("CPTitlePosition");
+objj_registerTypeDef(the_typedef);
+}CPNoTitle = 0;
+CPAboveTop = 1;
+CPAtTop = 2;
+CPBelowTop = 3;
+CPAboveBottom = 4;
+CPAtBottom = 5;
+CPBelowBottom = 6;
+{var the_class = objj_allocateClassPair(CPView, "CPBox"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_boxType"), new objj_ivar("_borderType"), new objj_ivar("_contentView"), new objj_ivar("_title"), new objj_ivar("_titlePosition"), new objj_ivar("_titleView")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("title"), function $CPBox__title(self, _cmd)
+{
+    return self._title;
+}
+,["CPString"]), new objj_method(sel_getUid("_setTitle:"), function $CPBox___setTitle_(self, _cmd, newValue)
+{
+    self._title = newValue;
+}
+,["void","CPString"]), new objj_method(sel_getUid("titlePosition"), function $CPBox__titlePosition(self, _cmd)
+{
+    return self._titlePosition;
+}
+,["int"]), new objj_method(sel_getUid("_setTitlePosition:"), function $CPBox___setTitlePosition_(self, _cmd, newValue)
+{
+    self._titlePosition = newValue;
+}
+,["void","int"]), new objj_method(sel_getUid("initWithFrame:"), function $CPBox__initWithFrame_(self, _cmd, frameRect)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "initWithFrame:", frameRect);
+    if (self)
+    {
+        self._borderType = CPBezelBorder;
+        self._titlePosition = CPNoTitle;
+        self._titleView = CPTextField.isa.objj_msgSend1(CPTextField, "labelWithTitle:", "");
+        self._contentView = ((___r1 = CPView.isa.objj_msgSend0(CPView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", (self == null ? null : self.isa.objj_msgSend0(self, "bounds"))));
+        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._contentView));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CGRect"]), new objj_method(sel_getUid("borderRect"), function $CPBox__borderRect(self, _cmd)
+{
+    return self.isa.objj_msgSend0(self, "bounds");
+}
+,["CGRect"]), new objj_method(sel_getUid("borderType"), function $CPBox__borderType(self, _cmd)
+{
+    return self._borderType;
+}
+,["CPBorderType"]), new objj_method(sel_getUid("setBorderType:"), function $CPBox__setBorderType_(self, _cmd, aBorderType)
+{
+    if (self._borderType === aBorderType)
+        return;
+    self._borderType = aBorderType;
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+}
+,["void","CPBorderType"]), new objj_method(sel_getUid("boxType"), function $CPBox__boxType(self, _cmd)
+{
+    return self._boxType;
+}
+,["CPBoxType"]), new objj_method(sel_getUid("setBoxType:"), function $CPBox__setBoxType_(self, _cmd, aBoxType)
+{
+    if (self._boxType === aBoxType)
+        return;
+    self._boxType = aBoxType;
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+}
+,["void","CPBoxType"]), new objj_method(sel_getUid("borderColor"), function $CPBox__borderColor(self, _cmd)
+{
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "border-color");
+}
+,["CPColor"]), new objj_method(sel_getUid("setBorderColor:"), function $CPBox__setBorderColor_(self, _cmd, color)
+{
+    if ((color == null ? null : color.isa.objj_msgSend1(color, "isEqual:", self.isa.objj_msgSend0(self, "borderColor"))))
+        return;
+    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", color, "border-color");
+}
+,["void","CPColor"]), new objj_method(sel_getUid("borderWidth"), function $CPBox__borderWidth(self, _cmd)
+{
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "border-width");
+}
+,["float"]), new objj_method(sel_getUid("setBorderWidth:"), function $CPBox__setBorderWidth_(self, _cmd, width)
+{
+    if (width === self.isa.objj_msgSend0(self, "borderWidth"))
+        return;
+    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", width, "border-width");
+}
+,["void","float"]), new objj_method(sel_getUid("cornerRadius"), function $CPBox__cornerRadius(self, _cmd)
+{
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "corner-radius");
+}
+,["float"]), new objj_method(sel_getUid("setCornerRadius:"), function $CPBox__setCornerRadius_(self, _cmd, radius)
+{
+    if (radius === self.isa.objj_msgSend0(self, "cornerRadius"))
+        return;
+    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", radius, "corner-radius");
+}
+,["void","float"]), new objj_method(sel_getUid("fillColor"), function $CPBox__fillColor(self, _cmd)
+{
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "background-color");
+}
+,["CPColor"]), new objj_method(sel_getUid("setFillColor:"), function $CPBox__setFillColor_(self, _cmd, color)
+{
+    if ((color == null ? null : color.isa.objj_msgSend1(color, "isEqual:", self.isa.objj_msgSend0(self, "fillColor"))))
+        return;
+    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", color, "background-color");
+}
+,["void","CPColor"]), new objj_method(sel_getUid("contentView"), function $CPBox__contentView(self, _cmd)
+{
+    return self._contentView;
+}
+,["CPView"]), new objj_method(sel_getUid("setContentView:"), function $CPBox__setContentView_(self, _cmd, aView)
+{
+    if (aView === self._contentView)
+        return;
+    var borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
+        contentMargin = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
+    (aView == null ? null : aView.isa.objj_msgSend1(aView, "setFrame:", CGRectInset(self.isa.objj_msgSend0(self, "bounds"), contentMargin.width + borderWidth, contentMargin.height + borderWidth)));
+    (aView == null ? null : aView.isa.objj_msgSend1(aView, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
+    if (!aView)
+        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+    else if (self._contentView)
+        self.isa.objj_msgSend2(self, "replaceSubview:with:", self._contentView, aView);
+    else
+        self.isa.objj_msgSend1(self, "addSubview:", aView);
+    self._contentView = aView;
+    var ___r1;
+}
+,["void","CPView"]), new objj_method(sel_getUid("contentViewMargins"), function $CPBox__contentViewMargins(self, _cmd)
+{
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
+}
+,["CGSize"]), new objj_method(sel_getUid("setContentViewMargins:"), function $CPBox__setContentViewMargins_(self, _cmd, size)
+{
+    if (size.width < 0 || size.height < 0)
+        CPException.isa.objj_msgSend2(CPException, "raise:reason:", CPGenericException, "Margins must be positive");
+    self.isa.objj_msgSend2(self, "setValue:forThemeAttribute:", CGSizeMakeCopy(size), "content-margin");
+}
+,["void","CGSize"]), new objj_method(sel_getUid("setFrameFromContentFrame:"), function $CPBox__setFrameFromContentFrame_(self, _cmd, aRect)
+{
+    var offset = self.isa.objj_msgSend0(self, "_titleHeightOffset"),
+        borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
+        contentMargin = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
+    self.isa.objj_msgSend1(self, "setFrame:", CGRectInset(aRect, -(contentMargin.width + borderWidth), -(contentMargin.height + offset[0] + borderWidth)));
+}
+,["void","CGRect"]), new objj_method(sel_getUid("setTitle:"), function $CPBox__setTitle_(self, _cmd, aTitle)
+{
+    if (aTitle == self._title)
+        return;
+    self._title = aTitle;
+    self.isa.objj_msgSend0(self, "_manageTitlePositioning");
+}
+,["void","CPString"]), new objj_method(sel_getUid("setTitlePosition:"), function $CPBox__setTitlePosition_(self, _cmd, aTitlePotisition)
+{
+    if (aTitlePotisition == self._titlePosition)
+        return;
+    self._titlePosition = aTitlePotisition;
+    self.isa.objj_msgSend0(self, "_manageTitlePositioning");
+}
+,["void","int"]), new objj_method(sel_getUid("titleFont"), function $CPBox__titleFont(self, _cmd)
+{
+    return ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "font"));
+    var ___r1;
+}
+,["CPFont"]), new objj_method(sel_getUid("setTitleFont:"), function $CPBox__setTitleFont_(self, _cmd, aFont)
+{
+    ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", aFont));
+    var ___r1;
+}
+,["void","CPFont"]), new objj_method(sel_getUid("titleView"), function $CPBox__titleView(self, _cmd)
+{
+    return self._titleView;
+}
+,["CPTextField"]), new objj_method(sel_getUid("_manageTitlePositioning"), function $CPBox___manageTitlePositioning(self, _cmd)
+{
+    if (self._titlePosition == CPNoTitle)
+    {
+        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "removeFromSuperview"));
+        self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+        return;
+    }
+    ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setStringValue:", self._title));
+    ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
+    self.isa.objj_msgSend1(self, "addSubview:", self._titleView);
+    switch(self._titlePosition) {
+    case CPAtTop:
+    case CPAboveTop:
+    case CPBelowTop:
+        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(5.0, 0.0)));
+        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewNotSizable));
+        break;
+    case CPAboveBottom:
+    case CPAtBottom:
+    case CPBelowBottom:
+        var h = ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
+        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(5.0, self.isa.objj_msgSend0(self, "frameSize").height - h)));
+        ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinYMargin));
+        break;
+    }
+    self.isa.objj_msgSend0(self, "sizeToFit");
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("sizeToFit"), function $CPBox__sizeToFit(self, _cmd)
+{
+    var contentFrame = ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame")),
+        offset = self.isa.objj_msgSend0(self, "_titleHeightOffset"),
+        contentMargin = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "content-margin");
+    if (!contentFrame)
+        return;
+    ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(contentMargin.width, contentMargin.height + offset[1])));
+    var ___r1;
+}
+,["void"]), new objj_method(sel_getUid("_titleHeightOffset"), function $CPBox___titleHeightOffset(self, _cmd)
+{
+    if (self._titlePosition == CPNoTitle)
+        return [0.0, 0.0];
+    switch(self._titlePosition) {
+    case CPAtTop:
+        return [((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height, ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height];
+    case CPAtBottom:
+        return [((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height, 0.0];
+default:
+        return [0.0, 0.0];
+    }
+    var ___r1;
+}
+,["float"]), new objj_method(sel_getUid("setValue:forKey:"), function $CPBox__setValue_forKey_(self, _cmd, aValue, aKey)
+{
+    if (aKey === CPDisplayPatternTitleBinding)
+        self.isa.objj_msgSend1(self, "setTitle:", aValue || "");
+    else
+        objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "setValue:forKey:", aValue, aKey);
+}
+,["void","id","CPString"]), new objj_method(sel_getUid("drawRect:"), function $CPBox__drawRect_(self, _cmd, rect)
+{
+    var bounds = self.isa.objj_msgSend0(self, "bounds");
+    switch(self._boxType) {
+    case CPBoxSeparator:
+        if (CGRectGetWidth(bounds) === 5.0)
+            return self.isa.objj_msgSend1(self, "_drawVerticalSeparatorInRect:", bounds);
+        else if (CGRectGetHeight(bounds) === 5.0)
+            return self.isa.objj_msgSend1(self, "_drawHorizontalSeparatorInRect:", bounds);
+        break;
+    }
+    if (self._titlePosition == CPAtTop)
+    {
+        bounds.origin.y += ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
+        bounds.size.height -= ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
+    }
+    if (self._titlePosition == CPAtBottom)
+    {
+        bounds.size.height -= ((___r1 = self._titleView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frameSize")).height;
+    }
+    if ((self._boxType === CPBoxPrimary || self._boxType === CPBoxSecondary) && self._borderType !== CPNoBorder)
+    {
+        self.isa.objj_msgSend1(self, "_drawPrimaryBorderInRect:", bounds);
+        return;
+    }
+    switch(self._borderType) {
+    case CPBezelBorder:
+        self.isa.objj_msgSend1(self, "_drawBezelBorderInRect:", bounds);
+        break;
+    case CPGrooveBorder:
+    case CPLineBorder:
+        self.isa.objj_msgSend1(self, "_drawLineBorderInRect:", bounds);
+        break;
+    case CPNoBorder:
+        self.isa.objj_msgSend1(self, "_drawNoBorderInRect:", bounds);
+        break;
+    }
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawHorizontalSeparatorInRect:"), function $CPBox___drawHorizontalSeparatorInRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
+    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
+    CGContextSetLineWidth(context, 1.0);
+    CGContextMoveToPoint(context, CGRectGetMinX(aRect), CGRectGetMidY(aRect));
+    CGContextAddLineToPoint(context, CGRectGetWidth(aRect), CGRectGetMidY(aRect));
+    CGContextStrokePath(context);
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawVerticalSeparatorInRect:"), function $CPBox___drawVerticalSeparatorInRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
+    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
+    CGContextSetLineWidth(context, 1.0);
+    CGContextMoveToPoint(context, CGRectGetMidX(aRect), CGRectGetMinY(aRect));
+    CGContextAddLineToPoint(context, CGRectGetMidX(aRect), CGRectGetHeight(aRect));
+    CGContextStrokePath(context);
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawLineBorderInRect:"), function $CPBox___drawLineBorderInRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
+        cornerRadius = self.isa.objj_msgSend0(self, "cornerRadius"),
+        borderWidth = self.isa.objj_msgSend0(self, "borderWidth");
+    aRect = CGRectInset(aRect, borderWidth / 2.0, borderWidth / 2.0);
+    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
+    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
+    CGContextSetLineWidth(context, borderWidth);
+    CGContextFillRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
+    CGContextStrokeRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawBezelBorderInRect:"), function $CPBox___drawBezelBorderInRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
+        cornerRadius = self.isa.objj_msgSend0(self, "cornerRadius"),
+        borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
+        shadowOffset = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-offset"),
+        shadowSize = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-size"),
+        shadowColor = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-color");
+    var baseRect = aRect;
+    aRect = CGRectInset(aRect, borderWidth / 2.0, borderWidth / 2.0);
+    CGContextSaveGState(context);
+    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
+    CGContextSetLineWidth(context, borderWidth);
+    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
+    CGContextFillRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
+    CGContextStrokeRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
+    CGContextRestoreGState(context);
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawPrimaryBorderInRect:"), function $CPBox___drawPrimaryBorderInRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
+        cornerRadius = self.isa.objj_msgSend0(self, "cornerRadius"),
+        borderWidth = self.isa.objj_msgSend0(self, "borderWidth"),
+        shadowOffset = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-offset"),
+        shadowSize = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-size"),
+        shadowColor = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "inner-shadow-color"),
+        baseRect = aRect;
+    aRect = CGRectInset(aRect, borderWidth / 2.0, borderWidth / 2.0);
+    CGContextSaveGState(context);
+    CGContextSetStrokeColor(context, self.isa.objj_msgSend0(self, "borderColor"));
+    CGContextSetLineWidth(context, borderWidth);
+    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
+    CGContextFillRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
+    CGContextBeginPath(context);
+    CGContextAddPath(context, CGPathWithRoundedRectangleInRect(baseRect, cornerRadius, cornerRadius, YES, YES, YES, YES));
+    CGContextClip(context);
+    CGContextSetShadowWithColor(context, shadowOffset, shadowSize, shadowColor);
+    CGContextStrokeRoundedRectangleInRect(context, aRect, cornerRadius, YES, YES, YES, YES);
+    CGContextRestoreGState(context);
+    var ___r1;
+}
+,["void","CGRect"]), new objj_method(sel_getUid("_drawNoBorderInRect:"), function $CPBox___drawNoBorderInRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort"));
+    CGContextSetFillColor(context, self.isa.objj_msgSend0(self, "fillColor"));
+    CGContextFillRect(context, aRect);
+    var ___r1;
+}
+,["void","CGRect"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("_binderClassForBinding:"), function $CPBox___binderClassForBinding_(self, _cmd, aBinding)
+{
+    if ((aBinding == null ? null : aBinding.isa.objj_msgSend1(aBinding, "hasPrefix:", CPDisplayPatternTitleBinding)))
+        return CPTitleWithPatternBinding.isa.objj_msgSend0(CPTitleWithPatternBinding, "class");
+    return objj_msgSendSuper({ receiver:self, super_class:objj_getMetaClass("CPBox").super_class }, "_binderClassForBinding:", aBinding);
+}
+,["Class","CPString"]), new objj_method(sel_getUid("defaultThemeClass"), function $CPBox__defaultThemeClass(self, _cmd)
+{
+    return "box";
+}
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $CPBox__themeAttributes(self, _cmd)
+{
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPNull.isa.objj_msgSend0(CPNull, "null"), "background-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "border-color", 1.0, "border-width", 3.0, "corner-radius", CGSizeMakeZero(), "inner-shadow-offset", 6.0, "inner-shadow-size", CPNull.isa.objj_msgSend0(CPNull, "null"), "inner-shadow-color", CGSizeMakeZero(), "content-margin");
+}
+,["CPDictionary"]), new objj_method(sel_getUid("boxEnclosingView:"), function $CPBox__boxEnclosingView_(self, _cmd, aView)
+{
+    var box = ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMakeZero())),
+        enclosingView = (aView == null ? null : aView.isa.objj_msgSend0(aView, "superview"));
+    (box == null ? null : box.isa.objj_msgSend1(box, "setAutoresizingMask:", (aView == null ? null : aView.isa.objj_msgSend0(aView, "autoresizingMask"))));
+    (box == null ? null : box.isa.objj_msgSend1(box, "setFrameFromContentFrame:", (aView == null ? null : aView.isa.objj_msgSend0(aView, "frame"))));
+    (enclosingView == null ? null : enclosingView.isa.objj_msgSend2(enclosingView, "replaceSubview:with:", aView, box));
+    (box == null ? null : box.isa.objj_msgSend1(box, "setContentView:", aView));
+    return box;
+    var ___r1;
+}
+,["id","CPView"])]);
+}var CPBoxTypeKey = "CPBoxTypeKey",
+    CPBoxBorderTypeKey = "CPBoxBorderTypeKey",
+    CPBoxTitle = "CPBoxTitle",
+    CPBoxTitlePosition = "CPBoxTitlePosition",
+    CPBoxTitleView = "CPBoxTitleView";
+{
+var the_class = objj_getClass("CPBox")
+if(!the_class) throw new SyntaxError("*** Could not find definition for class \"CPBox\"");
+var meta_class = the_class.isa;class_addMethods(the_class, [new objj_method(sel_getUid("initWithCoder:"), function $CPBox__initWithCoder_(self, _cmd, aCoder)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "initWithCoder:", aCoder);
+    if (self)
+    {
+        self._boxType = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPBoxTypeKey));
+        self._borderType = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPBoxBorderTypeKey));
+        self._title = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPBoxTitle));
+        self._titlePosition = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeIntForKey:", CPBoxTitlePosition));
+        self._titleView = (aCoder == null ? null : aCoder.isa.objj_msgSend1(aCoder, "decodeObjectForKey:", CPBoxTitleView)) || CPTextField.isa.objj_msgSend1(CPTextField, "labelWithTitle:", self._title);
+        self._contentView = (self == null ? null : self.isa.objj_msgSend0(self, "subviews"))[0];
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES));
+        ((___r1 = self._contentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
+        (self == null ? null : self.isa.objj_msgSend0(self, "_manageTitlePositioning"));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CPCoder"]), new objj_method(sel_getUid("encodeWithCoder:"), function $CPBox__encodeWithCoder_(self, _cmd, aCoder)
+{
+    objj_msgSendSuper({ receiver:self, super_class:objj_getClass("CPBox").super_class }, "encodeWithCoder:", aCoder);
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._boxType, CPBoxTypeKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._borderType, CPBoxBorderTypeKey));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._title, CPBoxTitle));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeInt:forKey:", self._titlePosition, CPBoxTitlePosition));
+    (aCoder == null ? null : aCoder.isa.objj_msgSend2(aCoder, "encodeObject:forKey:", self._titleView, CPBoxTitleView));
+}
+,["void","CPCoder"])]);
+}p;8;CGPath.jt;16129;@STATIC;1.0;i;19;CGAffineTransform.ji;12;CGGeometry.jt;16068;objj_executeFile("CGAffineTransform.j", YES);objj_executeFile("CGGeometry.j", YES);{var the_typedef = objj_allocateTypeDef("CGPath");
+objj_registerTypeDef(the_typedef);
+}kCGPathElementMoveToPoint = 0;
+kCGPathElementAddLineToPoint = 1;
+kCGPathElementAddQuadCurveToPoint = 2;
+kCGPathElementAddCurveToPoint = 3;
+kCGPathElementCloseSubpath = 4;
+kCGPathElementAddArc = 5;
+kCGPathElementAddArcToPoint = 6;
+CGPathCreateMutable = function()
+{
+    return {count: 0, start: CGPointMake(0, 0), current: CGPointMake(0, 0), elements: []};
+}
+CGPathCreateMutableCopy = function(aPath)
+{
+    var path = CGPathCreateMutable();
+    CGPathAddPath(path, aPath);
+    return path;
+}
+CGPathCreateCopy = function(aPath)
+{
+    return CGPathCreateMutableCopy(aPath);
+}
+CGPathRelease = function(aPath)
+{
+}
+CGPathRetain = function(aPath)
+{
+    return aPath;
+}
+CGPathAddArc = function(aPath, aTransform, x, y, aRadius, aStartAngle, anEndAngle, isClockwise)
+{
+    if (aTransform && !CGAffineTransformIsIdentity(aTransform))
+    {
+        var center = CGPointMake(x, y),
+            end = CGPointMake(COS(anEndAngle), SIN(anEndAngle)),
+            start = CGPointMake(COS(aStartAngle), SIN(aStartAngle));
+        end = CGPointApplyAffineTransform(end, aTransform);
+        start = CGPointApplyAffineTransform(start, aTransform);
+        center = CGPointApplyAffineTransform(center, aTransform);
+        x = center.x;
+        y = center.y;
+        var oldEndAngle = anEndAngle,
+            oldStartAngle = aStartAngle;
+        anEndAngle = ATAN2(end.y - aTransform.ty, end.x - aTransform.tx);
+        aStartAngle = ATAN2(start.y - aTransform.ty, start.x - aTransform.tx);
+        if (anEndAngle === aStartAngle && oldEndAngle !== oldStartAngle)
+            if (oldStartAngle > oldEndAngle)
+                anEndAngle = anEndAngle - PI2;
+            else
+                aStartAngle = aStartAngle - PI2;
+        aRadius = CGSizeMake(aRadius, 0);
+        aRadius = CGSizeApplyAffineTransform(aRadius, aTransform);
+        aRadius = SQRT(aRadius.width * aRadius.width + aRadius.height * aRadius.height);
+    }
+    var arcEndX = x + aRadius * COS(anEndAngle),
+        arcEndY = y + aRadius * SIN(anEndAngle),
+        arcStartX = x + aRadius * COS(aStartAngle),
+        arcStartY = y + aRadius * SIN(aStartAngle);
+    if (aPath.count)
+    {
+        if (aPath.current.x !== x || aPath.current.y !== y)
+            CGPathAddLineToPoint(aPath, aTransform, arcStartX, arcStartY);
+    }
+    else
+    {
+        var arcStartX = x + aRadius * COS(aStartAngle),
+            arcStartY = y + aRadius * SIN(aStartAngle);
+        aPath.start = CGPointMake(arcStartX, arcStartY);
+    }
+    aPath.current = CGPointMake(arcEndX, arcEndY);
+    aPath.elements[aPath.count++] = {type: kCGPathElementAddArc, x: x, y: y, radius: aRadius, startAngle: aStartAngle, endAngle: anEndAngle, isClockwise: isClockwise};
+}
+CGPathAddArcToPoint = function(aPath, aTransform, x1, y1, x2, y2, aRadius)
+{
+    var p1 = CGPointMake(x1, y1),
+        p2 = CGPointMake(x2, y2);
+    if (aTransform)
+    {
+        p1 = CGPointApplyAffineTransform(p1, aTransform);
+        p2 = CGPointApplyAffineTransform(p2, aTransform);
+    }
+    if (aPath.count)
+    {
+        if (aPath.current.x !== p1.x || aPath.current.y !== p1.y)
+            CGPathAddLineToPoint(aPath, aTransform, p1.x, p1.y);
+    }
+    else
+        aPath.start = p1;
+    aPath.current = p2;
+    aPath.elements[aPath.count++] = {type: kCGPathElementAddArcToPoint, p1x: p1.x, p1y: p1.y, p2x: p2.x, p2y: p2.y, radius: aRadius};
+}
+CGPathAddCurveToPoint = function(aPath, aTransform, cp1x, cp1y, cp2x, cp2y, x, y)
+{
+    var cp1 = CGPointMake(cp1x, cp1y),
+        cp2 = CGPointMake(cp2x, cp2y),
+        end = CGPointMake(x, y);
+    if (aTransform)
+    {
+        cp1 = CGPointApplyAffineTransform(cp1, aTransform);
+        cp2 = CGPointApplyAffineTransform(cp2, aTransform);
+        end = CGPointApplyAffineTransform(end, aTransform);
+    }
+    aPath.current = end;
+    aPath.elements[aPath.count++] = {type: kCGPathElementAddCurveToPoint, cp1x: cp1.x, cp1y: cp1.y, cp2x: cp2.x, cp2y: cp2.y, x: end.x, y: end.y};
+}
+CGPathAddLines = function(aPath, aTransform, points, count)
+{
+    if (count === null || count === undefined)
+        count = points.length;
+    if (!aPath || count < 1)
+        return;
+    CGPathMoveToPoint(aPath, aTransform, points[0].x, points[0].y);
+    for (var i = 1; i < count; ++i)
+        CGPathAddLineToPoint(aPath, aTransform, points[i].x, points[i].y);
+}
+CGPathAddLineToPoint = function(aPath, aTransform, x, y)
+{
+    var point = CGPointMake(x, y);
+    if (aTransform !== NULL)
+        point = CGPointApplyAffineTransform(point, aTransform);
+    aPath.elements[aPath.count++] = {type: kCGPathElementAddLineToPoint, x: point.x, y: point.y};
+    aPath.current = point;
+}
+CGPathAddPath = function(aPath, aTransform, anotherPath)
+{
+    for (var i = 0, count = anotherPath.count; i < count; ++i)
+    {
+        var element = anotherPath.elements[i];
+        switch(element.type) {
+        case kCGPathElementAddLineToPoint:
+            CGPathAddLineToPoint(aPath, aTransform, element.x, element.y);
+            break;
+        case kCGPathElementAddCurveToPoint:
+            CGPathAddCurveToPoint(aPath, aTransform, element.cp1x, element.cp1y, element.cp2x, element.cp2y, element.x, element.y);
+            break;
+        case kCGPathElementAddArc:
+            CGPathAddArc(aPath, aTransform, element.x, element.y, element.radius, element.startAngle, element.endAngle, element.isClockwise);
+            break;
+        case kCGPathElementAddArcToPoint:
+            CGPathAddArcToPoint(aPath, aTransform, element.p1x, element.p1y, element.p2x, element.p2y, element.radius);
+            break;
+        case kCGPathElementAddQuadCurveToPoint:
+            CGPathAddQuadCurveToPoint(aPath, aTransform, element.cpx, element.cpy, element.x, element.y);
+            break;
+        case kCGPathElementMoveToPoint:
+            CGPathMoveToPoint(aPath, aTransform, element.x, element.y);
+            break;
+        case kCGPathElementCloseSubpath:
+            CGPathCloseSubpath(aPath);
+            break;
+        }
+    }
+}
+CGPathAddQuadCurveToPoint = function(aPath, aTransform, cpx, cpy, x, y)
+{
+    var cp = CGPointMake(cpx, cpy),
+        end = CGPointMake(x, y);
+    if (aTransform)
+    {
+        cp = CGPointApplyAffineTransform(cp, aTransform);
+        end = CGPointApplyAffineTransform(end, aTransform);
+    }
+    aPath.elements[aPath.count++] = {type: kCGPathElementAddQuadCurveToPoint, cpx: cp.x, cpy: cp.y, x: end.x, y: end.y};
+    aPath.current = end;
+}
+CGPathAddRect = function(aPath, aTransform, aRect)
+{
+    CGPathAddRects(aPath, aTransform, [aRect], 1);
+}
+CGPathAddRects = function(aPath, aTransform, rects, count)
+{
+    var i = 0;
+    if (count === NULL)
+        var count = rects.length;
+    for (; i < count; ++i)
+    {
+        var rect = rects[i];
+        CGPathMoveToPoint(aPath, aTransform, CGRectGetMinX(rect), CGRectGetMinY(rect));
+        CGPathAddLineToPoint(aPath, aTransform, CGRectGetMaxX(rect), CGRectGetMinY(rect));
+        CGPathAddLineToPoint(aPath, aTransform, CGRectGetMaxX(rect), CGRectGetMaxY(rect));
+        CGPathAddLineToPoint(aPath, aTransform, CGRectGetMinX(rect), CGRectGetMaxY(rect));
+        CGPathCloseSubpath(aPath);
+    }
+}
+CGPathMoveToPoint = function(aPath, aTransform, x, y)
+{
+    var point = CGPointMake(x, y);
+    if (aTransform !== NULL)
+        point = CGPointApplyAffineTransform(point, aTransform);
+    aPath.start = aPath.current = point;
+    if (aPath.count)
+    {
+        var previous = aPath.elements[aPath.count - 1];
+        if (previous.type === kCGPathElementMoveToPoint)
+        {
+            previous.x = point.x;
+            previous.y = point.y;
+            return;
+        }
+    }
+    aPath.elements[aPath.count++] = {type: kCGPathElementMoveToPoint, x: point.x, y: point.y};
+}
+var KAPPA = 4.0 * ((SQRT2 - 1.0) / 3.0);
+CGPathWithEllipseInRect = function(aRect)
+{
+    var path = CGPathCreateMutable();
+    if (CGRectGetWidth(aRect) === CGRectGetHeight(aRect))
+        CGPathAddArc(path, nil, CGRectGetMidX(aRect), CGRectGetMidY(aRect), CGRectGetWidth(aRect) / 2.0, 0.0, 2 * PI, YES);
+    else
+    {
+        var axis = CGSizeMake(CGRectGetWidth(aRect) / 2.0, CGRectGetHeight(aRect) / 2.0),
+            center = CGPointMake(CGRectGetMinX(aRect) + axis.width, CGRectGetMinY(aRect) + axis.height);
+        CGPathMoveToPoint(path, nil, center.x, center.y - axis.height);
+        CGPathAddCurveToPoint(path, nil, center.x + KAPPA * axis.width, center.y - axis.height, center.x + axis.width, center.y - KAPPA * axis.height, center.x + axis.width, center.y);
+        CGPathAddCurveToPoint(path, nil, center.x + axis.width, center.y + KAPPA * axis.height, center.x + KAPPA * axis.width, center.y + axis.height, center.x, center.y + axis.height);
+        CGPathAddCurveToPoint(path, nil, center.x - KAPPA * axis.width, center.y + axis.height, center.x - axis.width, center.y + KAPPA * axis.height, center.x - axis.width, center.y);
+        CGPathAddCurveToPoint(path, nil, center.x - axis.width, center.y - KAPPA * axis.height, center.x - KAPPA * axis.width, center.y - axis.height, center.x, center.y - axis.height);
+    }
+    CGPathCloseSubpath(path);
+    return path;
+}
+CGPathWithRoundedRectangleInRect = function(aRect, xRadius, yRadius, ne, se, sw, nw)
+{
+    var path = CGPathCreateMutable(),
+        xMin = CGRectGetMinX(aRect),
+        xMax = CGRectGetMaxX(aRect),
+        yMin = CGRectGetMinY(aRect),
+        yMax = CGRectGetMaxY(aRect);
+    CGPathMoveToPoint(path, nil, xMin + xRadius, yMin);
+    if (ne)
+    {
+        CGPathAddLineToPoint(path, nil, xMax - xRadius, yMin);
+        CGPathAddCurveToPoint(path, nil, xMax - xRadius, yMin, xMax, yMin, xMax, yMin + xRadius);
+    }
+    else
+        CGPathAddLineToPoint(path, nil, xMax, yMin);
+    if (se)
+    {
+        CGPathAddLineToPoint(path, nil, xMax, yMax - xRadius);
+        CGPathAddCurveToPoint(path, nil, xMax, yMax - xRadius, xMax, yMax, xMax - xRadius, yMax);
+    }
+    else
+        CGPathAddLineToPoint(path, nil, xMax, yMax);
+    if (sw)
+    {
+        CGPathAddLineToPoint(path, nil, xMin + xRadius, yMax);
+        CGPathAddCurveToPoint(path, nil, xMin + xRadius, yMax, xMin, yMax, xMin, yMax - xRadius);
+    }
+    else
+        CGPathAddLineToPoint(path, nil, xMin, yMax);
+    if (nw)
+    {
+        CGPathAddLineToPoint(path, nil, xMin, yMin + xRadius);
+        CGPathAddCurveToPoint(path, nil, xMin, yMin + xRadius, xMin, yMin, xMin + xRadius, yMin);
+    }
+    else
+        CGPathAddLineToPoint(path, nil, xMin, yMin);
+    CGPathCloseSubpath(path);
+    return path;
+}
+CGPathCloseSubpath = function(aPath)
+{
+    var count = aPath.count;
+    if (count === 0 || aPath.elements[count - 1].type === kCGPathElementCloseSubpath)
+        return;
+    aPath.current = CGPointCreateCopy(aPath.start);
+    aPath.elements[aPath.count++] = {type: kCGPathElementCloseSubpath, start: aPath.start};
+}
+CGPathEqualToPath = function(aPath, anotherPath)
+{
+    if (aPath === anotherPath)
+        return YES;
+    if (aPath.count !== anotherPath.count || !CGPointEqualToPoint(aPath.start, anotherPath.start) || !CGPointEqualToPoint(aPath.current, anotherPath.current))
+        return NO;
+    var i = 0,
+        count = aPath.count;
+    for (; i < count; ++i)
+    {
+        var element = aPath[i],
+            anotherElement = anotherPath[i];
+        if (element.type !== anotherElement.type)
+            return NO;
+        switch(element.type) {
+        case kCGPathElementAddArc:
+            if (element.x !== anotherElement.x || element.y !== anotherElement.y || element.radius !== anotherElement.radius || element.startAngle !== anotherElement.startAngle || element.endAngle !== anotherElement.endAngle || element.isClockwise !== anotherElement.isClockwise)
+            {
+                return NO;
+            }
+            break;
+        case kCGPathElementAddArcToPoint:
+            if (element.p1x !== anotherElement.p1x || element.p1y !== anotherElement.p1y || element.p2x !== anotherElement.p2x || element.p2y !== anotherElement.p2y || element.radius !== anotherElement.radius)
+            {
+                return NO;
+            }
+            break;
+        case kCGPathElementAddCurveToPoint:
+            if (element.cp1x !== anotherElement.cp1x || element.cp1y !== anotherElement.cp1y || element.cp2x !== anotherElement.cp2x || element.cp2y !== anotherElement.cp2y || element.x !== anotherElement.x || element.y !== anotherElement.y)
+            {
+                return NO;
+            }
+            break;
+        case kCGPathElementAddLineToPoint:
+        case kCGPathElementMoveToPoint:
+            if (element.x !== anotherElement.x || element.y !== anotherElement.y)
+            {
+                return NO;
+            }
+            break;
+        case kCGPathElementAddQuadCurveToPoint:
+            if (element.cpx !== anotherElement.cpx || element.cpy !== anotherElement.cpy || element.x !== anotherElement.x || element.y !== anotherElement.y)
+            {
+                return NO;
+            }
+            break;
+        case kCGPathElementCloseSubpath:
+            if (!CGPointEqualToPoint(element.start, anotherElement.start))
+                return NO;
+            break;
+        }
+    }
+    return YES;
+}
+CGPathGetCurrentPoint = function(aPath)
+{
+    return CGPointCreateCopy(aPath.current);
+}
+CGPathIsEmpty = function(aPath)
+{
+    return !aPath || aPath.count === 0;
+}
+CGPathGetBoundingBox = function(aPath)
+{
+    if (!aPath || !aPath.count)
+        return CGRectMakeZero();
+    var ox = 0,
+        oy = 0,
+        rx = 0,
+        ry = 0,
+        movePoint = nil;
+addPoint = function(x, y)
+    {
+        ox = MIN(ox, x);
+        oy = MIN(oy, y);
+        rx = MAX(rx, x);
+        ry = MAX(ry, y);
+    }
+    for (var i = 0, count = aPath.count; i < count; ++i)
+    {
+        var element = aPath.elements[i];
+        switch(element.type) {
+        case kCGPathElementAddLineToPoint:
+            if (movePoint)
+            {
+                addPoint(movePoint.x, movePoint.y);
+                movePoint = nil;
+            }
+            addPoint(element.x, element.y);
+            break;
+        case kCGPathElementAddCurveToPoint:
+            if (movePoint)
+            {
+                addPoint(movePoint.x, movePoint.y);
+                movePoint = nil;
+            }
+            addPoint(element.cp1x, element.cp1y);
+            addPoint(element.cp2x, element.cp2y);
+            addPoint(element.x, element.y);
+            break;
+        case kCGPathElementAddArc:
+            if (movePoint)
+            {
+                addPoint(movePoint.x, movePoint.y);
+                movePoint = nil;
+            }
+            addPoint(element.x, element.y);
+            break;
+        case kCGPathElementAddArcToPoint:
+            if (movePoint)
+            {
+                addPoint(movePoint.x, movePoint.y);
+                movePoint = nil;
+            }
+            addPoint(element.p1x, element.p1y);
+            addPoint(element.p2x, element.p2y);
+            break;
+        case kCGPathElementAddQuadCurveToPoint:
+            if (movePoint)
+            {
+                addPoint(movePoint.x, movePoint.y);
+                movePoint = nil;
+            }
+            addPoint(element.cpx, element.cpy);
+            addPoint(element.x, element.y);
+            break;
+        case kCGPathElementMoveToPoint:
+            movePoint = CGPointMake(element.x, element.y);
+            break;
+        case kCGPathElementCloseSubpath:
+            if (movePoint)
+            {
+                addPoint(movePoint.x, movePoint.y);
+                movePoint = nil;
+            }
+            break;
+        }
+    }
+    return CGRectMake(ox, oy, rx - ox, ry - oy);
+}
+CGPathContainsPoint = function(aPath, aTransform, point, eoFill)
+{
+    if (!aPath.count)
+        return NO;
+    if (aTransform)
+        point = CGPointApplyAffineTransform(point, aTransform);
+    var context = CGBitmapGraphicsContextCreate();
+    CGContextBeginPath(context);
+    CGContextAddPath(context, aPath);
+    CGContextClosePath(context);
+    return context.isPointInPath(point.x, point.y);
+}
+p;20;_CPCibClassSwapper.jt;2452;@STATIC;1.0;I;21;Foundation/CPObject.jI;21;Foundation/CPString.jt;2381;objj_executeFile("Foundation/CPObject.j", NO);objj_executeFile("Foundation/CPString.j", NO);var _CPCibClassSwapperClassNameKey = "_CPCibClassSwapperClassNameKey",
     _CPCibClassSwapperOriginalClassNameKey = "_CPCibClassSwapperOriginalClassNameKey";
 {var the_class = objj_allocateClassPair(CPObject, "_CPCibClassSwapper"),
 meta_class = the_class.isa;objj_registerClassPair(the_class);
@@ -40045,6 +39603,448 @@ class_addMethods(meta_class, [new objj_method(sel_getUid("sharedMenuManager"), f
     var ___r1;
 }
 ,["_CPMenuManager"])]);
+}p;25;_CPMenuItemStandardView.jt;21246;@STATIC;1.0;i;11;CPControl.ji;13;CPImageView.ji;21;_CPImageAndTextView.jt;21166;objj_executeFile("CPControl.j", YES);objj_executeFile("CPImageView.j", YES);objj_executeFile("_CPImageAndTextView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemStandardView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_menuItem"), new objj_ivar("_font"), new objj_ivar("_minSize"), new objj_ivar("_isDirty"), new objj_ivar("_highlighted"), new objj_ivar("_stateView"), new objj_ivar("_imageAndTextView"), new objj_ivar("_keyEquivalentView"), new objj_ivar("_submenuIndicatorView")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("menuItem"), function $_CPMenuItemStandardView__menuItem(self, _cmd)
+{
+    return self._menuItem;
+}
+,["CPMenuItem"]), new objj_method(sel_getUid("setMenuItem:"), function $_CPMenuItemStandardView__setMenuItem_(self, _cmd, newValue)
+{
+    self._menuItem = newValue;
+}
+,["void","CPMenuItem"]), new objj_method(sel_getUid("minSize"), function $_CPMenuItemStandardView__minSize(self, _cmd)
+{
+    return self._minSize;
+}
+,["CGSize"]), new objj_method(sel_getUid("initWithFrame:"), function $_CPMenuItemStandardView__initWithFrame_(self, _cmd, aFrame)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemStandardView").super_class }, "initWithFrame:", aFrame);
+    if (self)
+    {
+        self._stateView = ((___r1 = CPImageView.isa.objj_msgSend0(CPImageView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 0.0)));
+        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImageScaling:", CPImageScaleNone));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._stateView));
+        self._imageAndTextView = ((___r1 = _CPImageAndTextView.isa.objj_msgSend0(_CPImageAndTextView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 0.0)));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImagePosition:", CPImageLeft));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._imageAndTextView));
+        self._keyEquivalentView = ((___r1 = _CPImageAndTextView.isa.objj_msgSend0(_CPImageAndTextView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 0.0, 0.0)));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImagePosition:", CPNoImage));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinXMargin));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._keyEquivalentView));
+        self._submenuIndicatorView = ((___r1 = (_CPMenuItemSubmenuIndicatorView == null ? null : _CPMenuItemSubmenuIndicatorView.isa.objj_msgSend0(_CPMenuItemSubmenuIndicatorView, "alloc"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake(0.0, 0.0, 8.0, 10.0)));
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", (self == null ? null : self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "submenu-indicator-color"))));
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinXMargin));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._submenuIndicatorView));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CGRect"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemStandardView__textColor(self, _cmd)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return CPColor.isa.objj_msgSend0(CPColor, "lightGrayColor");
+    if (self._highlighted)
+        return CPColor.isa.objj_msgSend0(CPColor, "whiteColor");
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-text-color");
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemStandardView__textShadowColor(self, _cmd)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return nil;
+    if (self._highlighted)
+        return nil;
+    return self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-text-shadow-color");
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("setFont:"), function $_CPMenuItemStandardView__setFont_(self, _cmd, aFont)
+{
+    self._font = aFont;
+}
+,["void","CPFont"]), new objj_method(sel_getUid("update"), function $_CPMenuItemStandardView__update(self, _cmd)
+{
+    var x = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "left-margin") + ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "indentationLevel")) * self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "indentation-width"),
+        height = 0.0,
+        hasStateColumn = ((___r1 = ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "menu"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "showsStateColumn"));
+    if (hasStateColumn)
+    {
+        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
+        switch(((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "state"))) {
+        case CPOnState:
+            ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-on-state-image")));
+            break;
+        case CPOffState:
+            ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-off-state-image")));
+            break;
+        case CPMixedState:
+            ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-mixed-state-image")));
+            break;
+default:
+            break;
+        }
+        x += self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "state-column-width");
+    }
+    else
+        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "font")) || self._font));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setVerticalAlignment:", CPCenterVerticalTextAlignment));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setText:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "title"))));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
+    var imageAndTextViewFrame = ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    imageAndTextViewFrame.origin.x = x;
+    x += CGRectGetWidth(imageAndTextViewFrame);
+    height = MAX(height, CGRectGetHeight(imageAndTextViewFrame));
+    var hasKeyEquivalent = !!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "keyEquivalent")),
+        hasSubmenu = ((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "hasSubmenu"));
+    if (hasKeyEquivalent || hasSubmenu)
+        x += self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "right-columns-margin");
+    if (hasKeyEquivalent)
+    {
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "font")) || self._font));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setVerticalAlignment:", CPCenterVerticalTextAlignment));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setText:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "keyEquivalentStringRepresentation"))));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0, 1)));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameOrigin:", CGPointMake(x, self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "vertical-margin"))));
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
+        var keyEquivalentViewFrame = ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+        keyEquivalentViewFrame.origin.x = x;
+        x += CGRectGetWidth(keyEquivalentViewFrame);
+        height = MAX(height, CGRectGetHeight(keyEquivalentViewFrame));
+        if (hasSubmenu)
+            x += self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "right-columns-margin");
+    }
+    else
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+    if (hasSubmenu)
+    {
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", NO));
+        var submenuViewFrame = ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+        submenuViewFrame.origin.x = x;
+        x += CGRectGetWidth(submenuViewFrame);
+        height = MAX(height, CGRectGetHeight(submenuViewFrame));
+    }
+    else
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setHidden:", YES));
+    height += 2.0 * self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "vertical-margin");
+    imageAndTextViewFrame.origin.y = FLOOR((height - CGRectGetHeight(imageAndTextViewFrame)) / 2.0);
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", imageAndTextViewFrame));
+    if (hasStateColumn)
+        ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrameSize:", CGSizeMake(self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "state-column-width"), height)));
+    if (hasKeyEquivalent)
+    {
+        keyEquivalentViewFrame.origin.y = FLOOR((height - CGRectGetHeight(keyEquivalentViewFrame)) / 2.0);
+        ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", keyEquivalentViewFrame));
+    }
+    if (hasSubmenu)
+    {
+        submenuViewFrame.origin.y = FLOOR((height - CGRectGetHeight(submenuViewFrame)) / 2.0);
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", submenuViewFrame));
+    }
+    self._minSize = CGSizeMake(x + self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "right-margin"), height);
+    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
+    self.isa.objj_msgSend1(self, "setFrameSize:", self._minSize);
+    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
+    var ___r1, ___r2;
+}
+,["void"]), new objj_method(sel_getUid("highlight:"), function $_CPMenuItemStandardView__highlight_(self, _cmd, shouldHighlight)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return;
+    self._highlighted = shouldHighlight;
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
+    ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
+    ((___r1 = self._keyEquivalentView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
+    if (shouldHighlight)
+    {
+        self.isa.objj_msgSend1(self, "setBackgroundColor:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-selection-color"));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "alternateImage")) || ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", self.isa.objj_msgSend0(self, "textColor")));
+    }
+    else
+    {
+        self.isa.objj_msgSend1(self, "setBackgroundColor:", nil);
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+        ((___r1 = self._submenuIndicatorView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setColor:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "submenu-indicator-color")));
+    }
+    if (((___r1 = ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "menu"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "showsStateColumn")))
+    {
+        if (shouldHighlight)
+        {
+            switch(((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "state"))) {
+            case CPOnState:
+                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-on-state-highlighted-image")));
+                break;
+            case CPOffState:
+                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-off-state-highlighted-image")));
+                break;
+            case CPMixedState:
+                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-mixed-state-highlighted-image")));
+                break;
+default:
+                break;
+            }
+        }
+        else
+        {
+            switch(((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "state"))) {
+            case CPOnState:
+                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-on-state-image")));
+                break;
+            case CPOffState:
+                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-off-state-image")));
+                break;
+            case CPMixedState:
+                ((___r1 = self._stateView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "menu-item-default-mixed-state-image")));
+                break;
+default:
+                break;
+            }
+        }
+    }
+    var ___r1, ___r2;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("isHighlighted"), function $_CPMenuItemStandardView__isHighlighted(self, _cmd)
+{
+    return self._highlighted;
+}
+,["BOOL"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuItemStandardView__defaultThemeClass(self, _cmd)
+{
+    return "menu-item-standard-view";
+}
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuItemStandardView__themeAttributes(self, _cmd)
+{
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", CPNull.isa.objj_msgSend0(CPNull, "null"), "submenu-indicator-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-selection-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-text-shadow-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-text-color", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-off-state-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-off-state-highlighted-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-on-state-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-on-state-highlighted-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-mixed-state-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-default-mixed-state-highlighted-image", CPNull.isa.objj_msgSend0(CPNull, "null"), "menu-item-separator-color", 3.0, "left-margin", 17.0, "right-margin", 14.0, "state-column-width", 17.0, "indentation-width", 4.0, "vertical-margin", 30.0, "right-columns-margin");
+}
+,["CPDictionary"]), new objj_method(sel_getUid("view"), function $_CPMenuItemStandardView__view(self, _cmd)
+{
+    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+    var ___r1;
+}
+,["id"]), new objj_method(sel_getUid("_standardLeftMargin"), function $_CPMenuItemStandardView___standardLeftMargin(self, _cmd)
+{
+    return ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "left-margin", self.isa.objj_msgSend0(self, "class"))) + ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "state-column-width", self.isa.objj_msgSend0(self, "class")));
+    var ___r1;
+}
+,["float"])]);
+}{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemSubmenuIndicatorView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_color")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("setColor:"), function $_CPMenuItemSubmenuIndicatorView__setColor_(self, _cmd, aColor)
+{
+    if (self._color === aColor)
+        return;
+    self._color = aColor;
+    self.isa.objj_msgSend1(self, "setNeedsDisplay:", YES);
+}
+,["void","CPColor"]), new objj_method(sel_getUid("drawRect:"), function $_CPMenuItemSubmenuIndicatorView__drawRect_(self, _cmd, aRect)
+{
+    var context = ((___r1 = CPGraphicsContext.isa.objj_msgSend0(CPGraphicsContext, "currentContext")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "graphicsPort")),
+        bounds = self.isa.objj_msgSend0(self, "bounds");
+    CGContextBeginPath(context);
+    CGContextMoveToPoint(context, CGRectGetMinX(bounds), CGRectGetMinY(bounds));
+    CGContextAddLineToPoint(context, CGRectGetMaxX(bounds), CGRectGetMidY(bounds));
+    CGContextAddLineToPoint(context, CGRectGetMinX(bounds), CGRectGetMaxY(bounds));
+    CGContextClosePath(context);
+    CGContextSetFillColor(context, self._color);
+    CGContextFillPath(context);
+    var ___r1;
+}
+,["void","CGRect"])]);
+}p;24;_CPMenuItemMenuBarView.jt;12923;@STATIC;1.0;i;11;CPControl.ji;21;_CPImageAndTextView.jt;12861;objj_executeFile("CPControl.j", YES);objj_executeFile("_CPImageAndTextView.j", YES);{var the_class = objj_allocateClassPair(CPView, "_CPMenuItemMenuBarView"),
+meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_highlightColor"), new objj_ivar("_textColor"), new objj_ivar("_textShadowColor"), new objj_ivar("_highlightTextColor"), new objj_ivar("_highlightTextShadowColor"), new objj_ivar("_menuItem"), new objj_ivar("_font"), new objj_ivar("_isDirty"), new objj_ivar("_shouldHighlight"), new objj_ivar("_imageAndTextView")]);objj_registerClassPair(the_class);
+class_addMethods(the_class, [new objj_method(sel_getUid("highlightColor"), function $_CPMenuItemMenuBarView__highlightColor(self, _cmd)
+{
+    return self._highlightColor;
+}
+,["CPColor"]), new objj_method(sel_getUid("setHighlightColor:"), function $_CPMenuItemMenuBarView__setHighlightColor_(self, _cmd, newValue)
+{
+    self._highlightColor = newValue;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemMenuBarView__textColor(self, _cmd)
+{
+    return self._textColor;
+}
+,["CPColor"]), new objj_method(sel_getUid("setTextColor:"), function $_CPMenuItemMenuBarView__setTextColor_(self, _cmd, newValue)
+{
+    self._textColor = newValue;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemMenuBarView__textShadowColor(self, _cmd)
+{
+    return self._textShadowColor;
+}
+,["CPColor"]), new objj_method(sel_getUid("setTextShadowColor:"), function $_CPMenuItemMenuBarView__setTextShadowColor_(self, _cmd, newValue)
+{
+    self._textShadowColor = newValue;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("highlightTextColor"), function $_CPMenuItemMenuBarView__highlightTextColor(self, _cmd)
+{
+    return self._highlightTextColor;
+}
+,["CPColor"]), new objj_method(sel_getUid("setHighlightTextColor:"), function $_CPMenuItemMenuBarView__setHighlightTextColor_(self, _cmd, newValue)
+{
+    self._highlightTextColor = newValue;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("highlightTextShadowColor"), function $_CPMenuItemMenuBarView__highlightTextShadowColor(self, _cmd)
+{
+    return self._highlightTextShadowColor;
+}
+,["CPColor"]), new objj_method(sel_getUid("setHighlightTextShadowColor:"), function $_CPMenuItemMenuBarView__setHighlightTextShadowColor_(self, _cmd, newValue)
+{
+    self._highlightTextShadowColor = newValue;
+}
+,["void","CPColor"]), new objj_method(sel_getUid("menuItem"), function $_CPMenuItemMenuBarView__menuItem(self, _cmd)
+{
+    return self._menuItem;
+}
+,["CPMenuItem"]), new objj_method(sel_getUid("setMenuItem:"), function $_CPMenuItemMenuBarView__setMenuItem_(self, _cmd, newValue)
+{
+    self._menuItem = newValue;
+}
+,["void","CPMenuItem"]), new objj_method(sel_getUid("initWithFrame:"), function $_CPMenuItemMenuBarView__initWithFrame_(self, _cmd, aFrame)
+{
+    self = objj_msgSendSuper({ receiver:self, super_class:objj_getClass("_CPMenuItemMenuBarView").super_class }, "initWithFrame:", aFrame);
+    if (self)
+    {
+        self._imageAndTextView = ((___r1 = _CPImageAndTextView.isa.objj_msgSend0(_CPImageAndTextView, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "initWithFrame:", CGRectMake((self == null ? null : self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "horizontal-margin")), 0.0, 0.0, 0.0)));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImagePosition:", CPImageLeft));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImageOffset:", 3.0));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setAutoresizingMask:", CPViewMinYMargin | CPViewMaxYMargin));
+        (self == null ? null : self.isa.objj_msgSend1(self, "addSubview:", self._imageAndTextView));
+        (self == null ? null : self.isa.objj_msgSend1(self, "setAutoresizingMask:", CPViewWidthSizable | CPViewHeightSizable));
+    }
+    return self;
+    var ___r1;
+}
+,["id","CGRect"]), new objj_method(sel_getUid("setTextColor:"), function $_CPMenuItemMenuBarView__setTextColor_(self, _cmd, aColor)
+{
+    self._textColor = aColor;
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setTextShadowColor:"), function $_CPMenuItemMenuBarView__setTextShadowColor_(self, _cmd, aColor)
+{
+    self._textShadowColor = aColor;
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setHighlightTextColor:"), function $_CPMenuItemMenuBarView__setHighlightTextColor_(self, _cmd, aColor)
+{
+    self._highlightTextColor = aColor;
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+}
+,["void","CPColor"]), new objj_method(sel_getUid("setHighlightTextShadowColor:"), function $_CPMenuItemMenuBarView__setHighlightTextShadowColor_(self, _cmd, aColor)
+{
+    self._highlightTextShadowColor = aColor;
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+}
+,["void","CPColor"]), new objj_method(sel_getUid("textColor"), function $_CPMenuItemMenuBarView__textColor(self, _cmd)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return CPColor.isa.objj_msgSend0(CPColor, "lightGrayColor");
+    return self._textColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-text-color", _CPMenuView));
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("textShadowColor"), function $_CPMenuItemMenuBarView__textShadowColor(self, _cmd)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return CPColor.isa.objj_msgSend0(CPColor, "clearColor");
+    return self._textShadowColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-text-shadow-color", _CPMenuView));
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("highlightTextColor"), function $_CPMenuItemMenuBarView__highlightTextColor(self, _cmd)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return CPColor.isa.objj_msgSend0(CPColor, "lightGrayColor");
+    return self._highlightTextColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-highlight-text-color", _CPMenuView));
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("highlightTextShadowColor"), function $_CPMenuItemMenuBarView__highlightTextShadowColor(self, _cmd)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        return CPColor.isa.objj_msgSend0(CPColor, "clearColor");
+    return self._highlightTextShadowColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-highlight-text-shadow-color", _CPMenuView));
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("highlightColor"), function $_CPMenuItemMenuBarView__highlightColor(self, _cmd)
+{
+    return self._highlightColor || ((___r1 = CPTheme.isa.objj_msgSend0(CPTheme, "defaultTheme")), ___r1 == null ? null : ___r1.isa.objj_msgSend2(___r1, "valueForAttributeWithName:forClass:", "menu-bar-window-background-selected-color", _CPMenuView));
+    var ___r1;
+}
+,["CPColor"]), new objj_method(sel_getUid("update"), function $_CPMenuItemMenuBarView__update(self, _cmd)
+{
+    var x = self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "horizontal-margin"),
+        height = 0.0;
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setText:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "title"))));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFont:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "font")) || (_CPMenuBarWindow == null ? null : _CPMenuBarWindow.isa.objj_msgSend0(_CPMenuBarWindow, "font"))));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setVerticalAlignment:", CPCenterVerticalTextAlignment));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowOffset:", CGSizeMake(0.0, 1.0)));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "sizeToFit"));
+    var imageAndTextViewFrame = ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "frame"));
+    imageAndTextViewFrame.origin.x = x;
+    x += CGRectGetWidth(imageAndTextViewFrame);
+    height = MAX(height, CGRectGetHeight(imageAndTextViewFrame)) + 2.0 * self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "vertical-margin");
+    imageAndTextViewFrame.origin.y = FLOOR((height - CGRectGetHeight(imageAndTextViewFrame)) / 2.0);
+    ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setFrame:", imageAndTextViewFrame));
+    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", NO);
+    self.isa.objj_msgSend1(self, "setFrameSize:", CGSizeMake(x + self.isa.objj_msgSend1(self, "valueForThemeAttribute:", "horizontal-margin"), height));
+    self.isa.objj_msgSend1(self, "setAutoresizesSubviews:", YES);
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+    var ___r1, ___r2;
+}
+,["void"]), new objj_method(sel_getUid("highlight:"), function $_CPMenuItemMenuBarView__highlight_(self, _cmd, shouldHighlight)
+{
+    if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "isEnabled")))
+        shouldHighlight = NO;
+    self._shouldHighlight = shouldHighlight;
+    self.isa.objj_msgSend0(self, "setNeedsLayout");
+    var ___r1;
+}
+,["void","BOOL"]), new objj_method(sel_getUid("layoutSubviews"), function $_CPMenuItemMenuBarView__layoutSubviews(self, _cmd)
+{
+    if (self._shouldHighlight)
+    {
+        if (!((___r1 = self._menuItem), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "_isMenuBarButton")))
+            self.isa.objj_msgSend1(self, "setBackgroundColor:", self.isa.objj_msgSend0(self, "highlightColor"));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "alternateImage")) || ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "highlightTextColor")));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "highlightTextShadowColor")));
+    }
+    else
+    {
+        self.isa.objj_msgSend1(self, "setBackgroundColor:", nil);
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setImage:", ((___r2 = self._menuItem), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "image"))));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextColor:", self.isa.objj_msgSend0(self, "textColor")));
+        ((___r1 = self._imageAndTextView), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "setTextShadowColor:", self.isa.objj_msgSend0(self, "textShadowColor")));
+    }
+    var ___r1, ___r2;
+}
+,["void"])]);
+class_addMethods(meta_class, [new objj_method(sel_getUid("defaultThemeClass"), function $_CPMenuItemMenuBarView__defaultThemeClass(self, _cmd)
+{
+    return "menu-item-bar-view";
+}
+,["CPString"]), new objj_method(sel_getUid("themeAttributes"), function $_CPMenuItemMenuBarView__themeAttributes(self, _cmd)
+{
+    return objj_msgSend(objj_msgSend(CPDictionary, "alloc"), "initWithObjectsAndKeys:", 9.0, "horizontal-margin", 3.0, "submenu-indicator-margin", 4.0, "vertical-margin");
+}
+,["CPDictionary"]), new objj_method(sel_getUid("view"), function $_CPMenuItemMenuBarView__view(self, _cmd)
+{
+    return ((___r1 = self.isa.objj_msgSend0(self, "alloc")), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "init"));
+    var ___r1;
+}
+,["id"])]);
 }p;18;_CPMenuBarWindow.jt;22617;@STATIC;1.0;i;9;CPPanel.ji;16;_CPMenuManager.jt;22563;objj_executeFile("CPPanel.j", YES);objj_executeFile("_CPMenuManager.j", YES);{var the_class = objj_allocateClassPair(CPPanel, "_CPMenuBarWindow"),
 meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("_highlightView"), new objj_ivar("_menuItemViews"), new objj_ivar("_trackingMenuItem"), new objj_ivar("_iconImageView"), new objj_ivar("_titleField"), new objj_ivar("_textColor"), new objj_ivar("_titleColor"), new objj_ivar("_textShadowColor"), new objj_ivar("_titleShadowColor"), new objj_ivar("_highlightColor"), new objj_ivar("_highlightTextColor"), new objj_ivar("_highlightTextShadowColor")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("init"), function $_CPMenuBarWindow__init(self, _cmd)
