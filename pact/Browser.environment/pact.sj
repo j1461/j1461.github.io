@@ -1,4 +1,4 @@
-@STATIC;1.0;p;15;AppController.jt;9719;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;17;TouchScrollView.jt;9630;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("TouchScrollView.j", YES);{var the_class = objj_allocateClassPair(CPObject, "AppController"),
+@STATIC;1.0;p;15;AppController.jt;10627;@STATIC;1.0;I;23;Foundation/Foundation.jI;15;AppKit/AppKit.ji;17;TouchScrollView.jt;10537;objj_executeFile("Foundation/Foundation.j", NO);objj_executeFile("AppKit/AppKit.j", NO);objj_executeFile("TouchScrollView.j", YES);{var the_class = objj_allocateClassPair(CPObject, "AppController"),
 meta_class = the_class.isa;class_addIvars(the_class, [new objj_ivar("theWindow"), new objj_ivar("myScrollView"), new objj_ivar("myView"), new objj_ivar("imgViewLogo1"), new objj_ivar("imgViewLogo2"), new objj_ivar("imgViewWho"), new objj_ivar("imgViewWho2"), new objj_ivar("imgViewWhoDet"), new objj_ivar("imgViewWhoDet2"), new objj_ivar("btnTest"), new objj_ivar("myLabel"), new objj_ivar("xPosition"), new objj_ivar("xPositionWidth"), new objj_ivar("xPositionImage"), new objj_ivar("xscrollerWidth"), new objj_ivar("xcontentViewWidth"), new objj_ivar("xdocumentViewWidth"), new objj_ivar("xdocumentViewWidthScreenPortion"), new objj_ivar("xdocumentViewOriginX"), new objj_ivar("xdocumentVisibleRectOriginX"), new objj_ivar("xdocumentVisibleRectOriginXVar"), new objj_ivar("lastContentOffset")]);objj_registerClassPair(the_class);
 class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLaunching:"), function $AppController__applicationDidFinishLaunching_(self, _cmd, aNotification)
 {
@@ -18,11 +18,17 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
 ,["void"]), new objj_method(sel_getUid("scrollViewDidScroll:"), function $AppController__scrollViewDidScroll_(self, _cmd, aScrollView)
 {
     CPLog.trace("scrollViewDidScroll");
+    CPLog.info("scrollViewDidScroll - [[aScrollView bounds].size.width] " + [(aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "bounds")).size.width]);
+    var widthContentView = ((___r1 = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "contentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).size.width;
+    CPLog.info("scrollViewDidScroll - [[aScrollView contentView] bounds].size.width: " + widthContentView);
+    var documentVisibleRectWidth = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "documentVisibleRect")).size.width;
+    CPLog.info("scrollViewDidScroll - documentVisibleRectWidth: " + documentVisibleRectWidth);
     self.xPosition = ((___r1 = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "contentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).origin.x;
     self.xdocumentViewWidth = ((___r1 = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).size.width;
+    CPLog.trace("[[aScrollView documentView] bounds].size.width : " + self.xdocumentViewWidth);
     self.xdocumentViewWidthScreenPortion = self.xdocumentViewWidth / 3;
     self.xdocumentViewWidthScreenPortion = self.xdocumentViewWidthScreenPortion - 30;
-    self.xdocumentVisibleRectOriginX = self.xPosition + 900;
+    self.xdocumentVisibleRectOriginX = self.xPosition + self.xdocumentViewWidthScreenPortion / 2;
     if (self.xdocumentVisibleRectOriginX < self.xdocumentViewWidthScreenPortion)
     {
         ((___r1 = (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend1(___r1, "scrollRectToVisible:", CGRectMake(0.0, 0.0, (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "documentVisibleRect")).size.width, (aScrollView == null ? null : aScrollView.isa.objj_msgSend0(aScrollView, "documentVisibleRect")).size.height)));
@@ -47,6 +53,7 @@ class_addMethods(the_class, [new objj_method(sel_getUid("applicationDidFinishLau
 }
 ,["void","CPScrollView"]), new objj_method(sel_getUid("boundsDidChangeNotification:"), function $AppController__boundsDidChangeNotification_(self, _cmd, notification)
 {
+    CPLog.info("boundsDidChangeNotification");
     self.xPosition = ((___r1 = ((___r2 = self.myScrollView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "contentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).origin.x;
     self.xcontentViewWidth = ((___r1 = ((___r2 = self.myScrollView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "contentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).size.width;
     self.xdocumentViewWidth = ((___r1 = ((___r2 = self.myScrollView), ___r2 == null ? null : ___r2.isa.objj_msgSend0(___r2, "documentView"))), ___r1 == null ? null : ___r1.isa.objj_msgSend0(___r1, "bounds")).size.width;
