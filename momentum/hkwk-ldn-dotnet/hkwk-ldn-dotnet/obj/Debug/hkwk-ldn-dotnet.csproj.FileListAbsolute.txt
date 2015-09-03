@@ -1,0 +1,8 @@
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\bin\Debug\hkwk-ldn-dotnet.exe.config
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\bin\Debug\hkwk-ldn-dotnet.exe
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\bin\Debug\hkwk-ldn-dotnet.pdb
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\obj\Debug\hkwk-ldn-dotnet.exe
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\obj\Debug\hkwk-ldn-dotnet.pdb
+C:\Users\Sebastian Hönel\Desktop\hkwk-ldn-dotnet\hkwk-ldn-dotnet\obj\Debug\hkwk-ldn-dotnet.csprojResolveAssemblyReference.cache

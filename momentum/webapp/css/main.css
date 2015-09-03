@@ -1,0 +1,171 @@
+/* main.css file */
+
+@import url("../fonts/alder/stylesheet.css");
+
+* {
+  font-family:'allerregular';
+}
+body {
+  background-color: #000;
+  color: #ccc;
+}
+
+p {
+  color: #ccc;
+}
+
+h1, h2, h3 {
+  color: red;
+/*  text-align: center;
+  text-transform: uppercase; */
+}
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html, body, #map-canvas {
+  height: 300px;
+  width: auto;
+  /*margin: 10px;*/
+  padding: 0;
+}
+
+/* just smth */
+.user, .tile {
+  width: 210px;
+  margin:0 37.49px 60px;
+  /*background: #ccc; */
+  word-wrap: break-word;
+  float:left;
+}
+
+#topResultsForBlock p {
+  font-size:25px;
+  margin:1em 0;
+  font-family:'aller_lightregular';
+}
+
+span#topResultsFor {
+  color: #ff6e6e;
+}
+
+
+/* this is for rounded images */
+/*.avatar-frame{border: 2px solid #c7b89e;}*/
+div.avatar-frame {
+  position:relative;
+  z-index:1;
+}
+div.avatar-frame div.overlay {
+  display:none;
+  position:absolute;
+  height:140px;
+  width:140px;
+  border-radius:70px;
+  top:0;
+  left:50%;
+  margin-left:-70px;
+  z-index:3;
+  background:rgba(0,0,0,.8);
+  text-align:center;
+  cursor:pointer;
+}
+div.avatar-frame div.overlay.designer {
+  color:#fff !important;
+  background:rgba(255,110,110,.9);
+}
+div.overlay span.percentage {
+  position:absolute;
+  bottom:45%;
+  left:50%;
+  width:120px;
+  margin-left:-60px;
+  font-size:75px; /* percentage is 35px, momentum score is 10px */
+  height:75px;
+}
+div.overlay span.momentum-score {
+  position:absolute;
+  top:60%;
+  left:50%;
+  width:120px;
+  margin-left:-60px;
+  font-size:10px;
+}
+div.overlay span.more-details {
+  display:block;
+  position:absolute;
+  bottom:12.5px;
+  width:22px;
+  height:20px;
+  left:50%;
+  margin-left:-11px;
+  background:url("more-details-icon.png");
+}
+div.avatar-frame img {
+  width: 140px;
+  height: 140px;
+  -webkit-border-radius: 75px; /* Saf3+, Chrome */
+  border-radius: 75px; /* Opera 10.5, IE 9 */
+  /*-moz-border-radius: 30px;  Disabled for FF1+ */
+  border:5px solid #ff6e6e;
+  z-index:2;
+  background-color:#fff;
+}
+div.avatar-frame img.hacker {
+  border-color:#888 !important;
+}
+div.line {
+  height:1px;
+  background:#666;
+  margin:.5ex 0;
+  overflow:hidden;
+}
+div.avatar-frame + p {
+  font-size:16px;
+  font-weight:700;
+  margin:1ex 0 0;
+  text-transform:uppercase;
+}
+div.title {
+  font-size:14px;
+}
+div.location {
+  font-size:12px;
+}
+div.location img {
+  vertical-align:baseline;
+  margin-right:.5ex;
+}
+input#searchField {
+  width:490px;
+  height:50px;
+  font-size:16px;
+  font-family:'aller_lightregular';
+}
+input#searchField + button {
+  width:90px;
+  height:50px;
+  background:#ff6e6e;
+  color:#fff;
+  font-weight:700;
+  margin-left:5px;
+  font-size:25px;
+}
+input#searchField + button > span {
+  font-size:16px;
+}
+form#searchForm {
+  margin-top:20em;
+  margin-bottom:4em;
+}
+span#logo {
+  width:291px;
+  height:39px;
+  display:inline-block;
+  vertical-align:middle;
+  margin-right:2em;
+  background:url("momentum-logo-small.png") top left no-repeat;
+}
